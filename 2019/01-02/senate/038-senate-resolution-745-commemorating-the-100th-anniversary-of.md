@@ -1,0 +1,105 @@
+---
+granule: CREC-2019-01-02-pt1-PgS8060
+date: 2019-01-02
+edition: CREC
+section: SENATE
+page: S8060
+citation: 164 Cong. Rec. S8060
+---
+
+# SENATE RESOLUTION 745--COMMEMORATING THE 100TH ANNIVERSARY OF THE ARMISTICE AGREEMENT, THE 100TH ANNIVERSARY OF THE RETURN OF THE UNKNOWN SOLIDER, AND THE 100TH ANNIVERSARY OF THE TOMB OF THE...
+
+**Measures:** S.Res. 745
+
+```
+   SENATE RESOLUTION 745--COMMEMORATING THE 100TH ANNIVERSARY OF THE 
+ARMISTICE AGREEMENT, THE 100TH ANNIVERSARY OF THE RETURN OF THE UNKNOWN 
+ SOLIDER, AND THE 100TH ANNIVERSARY OF THE TOMB OF THE UNKNOWN SOLIDER
+
+  Mr. COTTON submitted the following resolution; which was referred to 
+the Committee on Foreign Relations:
+
+                              S. Res. 745
+
+       Whereas, on April 2, 1917, President Thomas Woodrow Wilson 
+     asked Congress to convene an extraordinary session to 
+     officially declare war on the Imperial German Government;
+       Whereas, on April 4, 1917, the Senate passed a joint 
+     resolution that declared a formal state of war between the 
+     United States and the Imperial German Government;
+       Whereas, on April 6, 1917, the House of Representatives 
+     adopted the same joint resolution that the Senate had passed, 
+     thereby marking the official entry of the United States into 
+     World War I;
+       Whereas more than four million American men and women 
+     served in uniform during World War I;
+       Whereas 116,516 Americans died from combat and disease and 
+     another 200,000 were wounded;
+       Whereas the Armistice Agreement to end World War I was 
+     signed in Paris, France, on November 11, 1918, at 11 a.m.;
+       Whereas, on February 4, 1921, Congress approved the burial 
+     of an unidentified American soldier from World War I in the 
+     plaza of the new Memorial Amphitheater at Arlington National 
+     Cemetery;
+       Whereas, on Memorial Day 1921, four unknown soldiers were 
+     exhumed from four World War I American cemeteries in France 
+     and United States Army Sergeant Edward F. Younger, who was 
+     wounded in combat, highly decorated for valor, and received 
+     the Distinguished Service Medal in ``The Great War, the war 
+     to end all wars'', selected the Unknown Soldier of World War 
+     I from four identical caskets at the city hall in Chalons-
+     sur-Marne, France, on October 24, 1921, by placing a spray of 
+     white roses on the third casket from the left;
+       Whereas, on October 25, 1921, the casket bearing the 
+     unknown soldier was placed on the USS Olympia for transport 
+     back to the United States and the French Minister of Pensions 
+     presented the Ordre National de la Legion d'Honneur, that 
+     country's highest military award, to the Unknown Soldier;
+       Whereas the USS Olympia reached the mouth of the Potomac on 
+     November 7, 1921, and on November 9, 1921, joined by the USS 
+     North Dakota (BB-29) and the USS Bernadou (DD-153), she stood 
+     up the channel to the Nation's Capital, exchanging salutes 
+     from Fort Washington and Mount Vernon during her passage;
+       Whereas the USS Olympia moored at the Washington Navy Yard 
+     on November 9, 1921, and was welcomed by District of Columbia 
+     Brigadier General Harry H. Bandholtz, USA, who commanded the 
+     Military District of Washington, and who led a welcoming 
+     entourage that included Secretary of War John W.
+
+[[Page S8061]]
+
+     Weeks, Secretary of the Navy Edwin Denby, General of the 
+     Armies John J. Pershing, USA, Admiral Robert E. Coontz, CNO, 
+     and Major General John A. Lejeune, USMC, Commandant of the 
+     Marine Corps;
+       Whereas the USS Olympia fired a 21-gun salute, buglers on 
+     board sounded attention, and the boatswain piped the Unknown 
+     Soldier over the side, the ship's band playing the ``Funeral 
+     March'', followed by the national anthem;
+       Whereas the 3rd Cavalry Regiment's band played ``Onward 
+     Christian Soldiers'' as the procession, escorted by cavalry 
+     troopers, made its way toward the United States Capitol and 
+     additional ceremonies, culminating in interring the Unknown 
+     Soldier in Arlington National Cemetery on November 11, 1921; 
+     and
+       Whereas, since 1948, soldiers from 3rd United States 
+     Infantry Regiment headquartered at Fort Myer, Virginia, have 
+     stood guard at the Tomb of the Unknown Soldier: Now 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the 100th anniversary of the signing of the 
+     Armistice Treaty;
+       (2) expresses gratitude and appreciation to the members of 
+     the Armed Forces who participated in World War I operations;
+       (3) honors the memory of the fallen heroes who wore the 
+     uniforms of the Armed Forces during World War I;
+       (4) commends the crew of the USS Olympia for their role in 
+     transporting the unknown soldier home to the United States; 
+     and
+       (5) commends the soldiers from the 3rd United States 
+     Infantry Regiment for standing guard at the Tomb of the 
+     Unknown Soldier every day for 70 years, regardless of weather 
+     conditions be they rain, sleet, or snow.
+
+                          ____________________
+```
