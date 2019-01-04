@@ -1,0 +1,87 @@
+---
+granule: CREC-2019-01-04-pt1-PgS27-2
+date: 2019-01-04
+edition: CREC
+section: SENATE
+page: S27
+citation: 165 Cong. Rec. S27
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 21
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+                            January 3, 2019
+
+      By Mr. THUNE (for himself, Mr. Wicker, Ms. Cantwell, Mr. 
+        Blumenthal, Mr. Jones, Ms. Collins, and Mrs. Hyde-Smith):
+  S. 21. A bill making continuing appropriations for Coast Guard pay in 
+the event an appropriations act expires prior to the enactment of a new 
+appropriations act; read the first time.
+  Mr. THUNE. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 21
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Pay Our Coast Guard Act''.
+
+     SEC. 2. CONTINUING APPROPRIATIONS FOR THE COAST GUARD.
+
+       There are hereby appropriated, out of any money in the 
+     Treasury not otherwise appropriated, for any period during 
+     which interim or full-year appropriations for the Coast Guard 
+     are not in effect--
+       (1) such sums as are necessary to provide pay and 
+     allowances to members of the Coast Guard (as described in 
+     section 1 of title 14, United States Code), including the 
+     reserve component thereof, who perform active service or 
+     inactive-duty training during such period;
+       (2) such sums as are necessary to provide pay and 
+     allowances to civilian employees of the Coast Guard;
+       (3) such sums as are necessary to provide pay and 
+     allowances to contractors of the Coast Guard;
+       (4) such sums as are necessary for--
+       (A) the payment of a death gratuity under sections 1475-
+     1477 and 1489 of title 10, United States Code, with respect 
+     to members of the Coast Guard;
+       (B) the payment or reimbursement of authorized funeral 
+     travel and travel related to the dignified transfer of 
+     remains and unit memorial services under section 481f of 
+     title 37, United States Code, with respect to members of the 
+     Coast Guard; and
+       (C) the temporary continuation of a basic allowance of 
+     housing for dependents of members of the Coast Guard dying on 
+     active duty, as authorized by section 403(l) of title 37, 
+     United States Code; and
+       (5) such sums as are necessary to provide for Coast Guard 
+     retired pay, including such payments as are described in the 
+     provision regarding Coast Guard retired pay in title II of 
+     division F of the Consolidated Appropriations Act 2018 (P.L. 
+     115-141; 132 Stat. 348).
+
+     SEC. 3. TERMINATION.
+
+       Appropriations and funds made available and authority 
+     granted pursuant to this Act shall be available until 
+     whichever of the following first occurs:
+       (1) The enactment into law of an appropriation (including a 
+     continuing appropriation) for any purpose for which amounts 
+     are made available in section 2.
+       (2) The enactment into law of the applicable regular or 
+     continuing appropriations resolution or other Act without any 
+     appropriation for such purpose.
+
+                          ____________________
+```

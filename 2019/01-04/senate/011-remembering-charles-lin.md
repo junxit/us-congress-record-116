@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-01-04-pt1-PgS26-3
+date: 2019-01-04
+edition: CREC
+section: SENATE
+page: S26
+citation: 165 Cong. Rec. S26
+---
+
+# REMEMBERING CHARLES LIN
+
+**Speaking:** Heinrich, Martin (H001046) [D-NM]
+
+```
+                        REMEMBERING CHARLES LIN
+
+● Mr. HEINRICH. Mr. President, it is an honor to remember the 
+selfless and inspirational life of Sifu Charles Lin.
+  A lifetime master, Sifu Lin began studying the martial arts in his 
+homeland of Taiwan.
+  He studied under many masters of the martial arts, earning the title 
+``Master'' or Sifu.
+  Sifu Lin moved to New Mexico in 1974 at the age of 23, with only $200 
+in his pocket.
+  For more than 40 years, Sifu Lin taught New Mexicans meditation and 
+self-defense through the martial arts of Ch'i Kung, Tai Chi, and Chuan 
+Kung Fu at Lin's Martial Arts Academy.
+  He and his wife also ran the Chinese Culture Center in Albuquerque, a 
+place for the city's Chinese population to build community, learn 
+Chinese language, and celebrate their culture.
+  The fireworks, martial arts demonstrations, and dancing dragons in 
+the center's annual Chinese New Year festival put Chinese culture on 
+display.
+  My thoughts are with his family during this time of mourning.
+  The lessons Sifu Lin imparted on all of his students will not be 
+forgotten.●
+
+                          ____________________
+```
