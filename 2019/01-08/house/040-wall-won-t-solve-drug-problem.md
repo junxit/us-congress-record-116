@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-08-pt1-PgH278
+date: 2019-01-08
+edition: CREC
+section: HOUSE
+page: H278
+citation: 165 Cong. Rec. H278
+---
+
+# WALL WON'T SOLVE DRUG PROBLEM
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                     WALL WON'T SOLVE DRUG PROBLEM
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Madam Speaker, the President's demand for $5 billion for 
+a wall won't stop the drug trade, and here is why: The drugs will keep 
+flowing in here, due to NAFTA and CAFTA's exploding continental trade 
+resulting from U.S. jobs being shipped south of our border and the 
+goods they produce down there being transshipped back here with an 
+endless flow of trucks, planes, ships, and railcars. Colombian drug 
+cartels figured this out when NAFTA came along.
+  Madam Speaker, I have a story from last Friday's Wall Street Journal, 
+entitled: `` `El Chapo' Jury Told of Cartel's Tricks, From Submarines 
+to Laundry Carts.'' Two characters among the most significant drug 
+traffickers ever extradited to our country are undergoing trial.
+  They explain how massive amounts of cocaine and methamphetamines were 
+ferried from Colombia through Mexico into major U.S. cities and how the 
+cartel hired families from the United States to drive down through El 
+Paso into Mexico and bring back contraband material hidden in 
+compartments in their cars. This is a shot of Laredo, Texas, just one 
+of hundreds of portals into our country.
+  Madam Speaker, the trucks go for miles from the control point all the 
+way back. This is how the majority of contraband material comes into 
+this country, through those portals of entry. A wall will not solve the 
+major reason these materials end up in this country.
+
+                          ____________________
+```

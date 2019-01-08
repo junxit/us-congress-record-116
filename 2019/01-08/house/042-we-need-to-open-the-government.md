@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-08-pt1-PgH278-3
+date: 2019-01-08
+edition: CREC
+section: HOUSE
+page: H278
+citation: 165 Cong. Rec. H278
+---
+
+# WE NEED TO OPEN THE GOVERNMENT
+
+**Speaking:** Kilmer, Derek (K000381) [D-WA]
+
+```
+                     WE NEED TO OPEN THE GOVERNMENT
+
+  (Mr. KILMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILMER. Madam Speaker, yesterday, I met with a group of Federal 
+workers in Tacoma to discuss the impacts of the government shutdown. 
+One of the folks there was a prison guard. She told me that, without 
+her paycheck, she didn't know if she could pay for childcare or for the 
+prescriptions she needs after successfully fighting cancer just last 
+year.
+  Because of this shutdown, that is the conversation that is unfolding 
+across 800,000 kitchen tables as Federal workers try to figure out how 
+to scrape together mortgage payments and rent payments, trying to make 
+due without a paycheck.
+  This crisis doesn't just impact Federal workers. It hurts entire 
+communities. It hurts the economy around Olympic National Park, such as 
+hotel owners and restaurateurs, when people cancel their visit to the 
+park because of the shutdown. It affects college students, prospective 
+home buyers, and small business owners who won't have access to Federal 
+loans because of this shutdown.
+  Madam Speaker, while we can have a legitimate discussion about 
+immigration reform, America doesn't need a wall. It doesn't need a 5th 
+century answer to a 21st century challenge. America needs an open 
+government. The Senate and the President can and should make this 
+happen right now.
+
+                          ____________________
+```
