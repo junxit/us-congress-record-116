@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-01-09-pt1-PgH349-4
+date: 2019-01-09
+edition: CREC
+section: HOUSE
+page: H349
+citation: 165 Cong. Rec. H349
+---
+
+# SHUTDOWN AFFECTING FEDERAL WORKERS
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                   SHUTDOWN AFFECTING FEDERAL WORKERS
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of Georgia. Madam Speaker, I rise today for our veterans 
+and government employees out of work due to the Trump shutdown. On day 
+one, House Democrats took steps to restore certainty to people's lives 
+by passing a complete funding package to reopen the government.
+  Now we are preparing further action to reopen government, so that we 
+can meet the needs of the American people, protect our borders, and 
+respect our workers.
+  In fact, one of my constituents who works for the IRS and specializes 
+in helping hurricane victims told me that he and his wife, who is also 
+a Federal employee, both are affected by the shutdown, and they cannot 
+pay this month's mortgage and their other bills.
+  Madam Speaker, he worked 12 hours a day in the aftermath of Hurricane 
+Michael. He was there for the people of Georgia. It is past time we 
+reopen the government and be there for our Federal workers.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-01-09-pt1-PgH348-4
+date: 2019-01-09
+edition: CREC
+section: HOUSE
+page: H348
+citation: 165 Cong. Rec. H348
+---
+
+# REFORMERS CAUCUS
+
+**Speaking:** Case, Ed (C001055) [D-HI]
+
+**Measures:** H.R. 1
+
+```
+                            REFORMERS CAUCUS
+
+  (Mr. CASE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CASE. Madam Speaker, I rise today in strong support of H.R. 1, 
+the For the People Act, of which I am a very proud cosponsor.
+  H.R. 1 is a critical step toward reversing the accelerating 
+deterioration in our Nation's most cherished democratic foundation--the 
+consent of the governed--and taking back our government for all 
+citizens. It would fight voter suppression; simplify voting; promote 
+election security; curb special interests and dark money in politics; 
+incentivize smaller, broader donations; and fortify ethics laws.
+  I wish especially to recognize contributions of Issue One and its 
+ReFormers Caucus. These over 200 now-former Members of Congress, 
+Cabinet members, and Governors have dedicated themselves on a 
+nonpartisan basis to ``Fix Democracy First.'' My own motivation to 
+return to Congress arose from my membership in this caucus, and my 
+pledge to my constituents in Hawaii and throughout the country was and 
+is to fight to fully return our government to the governed again.
+  H.R. 1 is first and foremost for the people, and I urge its prompt 
+passage. Everything else depends on that.
+
+                          ____________________
+```

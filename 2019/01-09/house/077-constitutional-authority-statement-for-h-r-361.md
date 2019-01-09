@@ -1,0 +1,20 @@
+---
+granule: CREC-2019-01-09-pt1-PgH359-8
+date: 2019-01-09
+edition: CREC
+section: HOUSE
+page: H359
+citation: 165 Cong. Rec. H359
+---
+
+# Constitutional Authority Statement for H.R. 361
+
+**Measures:** H.R. 361
+
+```
+           By Mr. WILSON of South Carolina:
+       H.R. 361.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clause 1.
+```
