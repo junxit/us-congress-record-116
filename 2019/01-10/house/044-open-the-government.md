@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-01-10-pt1-PgH374-3
+date: 2019-01-10
+edition: CREC
+section: HOUSE
+page: H374
+citation: 165 Cong. Rec. H374
+---
+
+# OPEN THE GOVERNMENT
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                          OPEN THE GOVERNMENT
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, we are entering the longest 
+government shutdown in the Nation's history and, ironically, most of 
+the Federal employees who are affected by the shutdown are the very 
+Federal agents who we depend on to protect our borders.
+  To a national audience 2 days ago, the President repeatedly warned 
+that terrorists are pouring into the United States from Mexico. This is 
+the President's central argument for a 25 to $40 billion border wall. 
+He is now threatening to declare a national emergency to go around 
+Congress to get that wall.
+  The President's own counterterrorism officials and experts said there 
+has never been a case of a known terrorist sneaking into the country 
+through open areas of the southern border. The Department of Homeland 
+Security's threat assessment rates the situation at the southern border 
+as a minimal threat. Who are we to believe?
+  Mr. President, open the government and prove that you can manage the 
+situation at the border as Presidents Obama, Bush, and Clinton did 
+before you.
+
+                          ____________________
+```

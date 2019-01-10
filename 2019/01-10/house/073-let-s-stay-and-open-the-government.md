@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-01-10-pt1-PgH442-2
+date: 2019-01-10
+edition: CREC
+section: HOUSE
+page: H442
+citation: 165 Cong. Rec. H442
+---
+
+# LET'S STAY AND OPEN THE GOVERNMENT
+
+**Speaking:** Meadows, Mark (M001187) [R-NC]
+
+```
+                   LET'S STAY AND OPEN THE GOVERNMENT
+
+  (Mr. MEADOWS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MEADOWS. Mr. Speaker, I find it just fascinating that my 
+Democratic colleagues come down here to the well of the House to talk 
+about opening up the government when, indeed, it is their reluctance to 
+negotiate at all that is keeping the government shut down. On day 1 of 
+the shutdown, it was zero money for new border barriers. On day 20, it 
+is still zero money for new border barriers.
+  And to suggest to this body and to the Nation that, indeed, they are 
+negotiating in good faith, I just find it incomprehensible.
+  I can tell you that we are ready to negotiate. In fact, they have 
+been saying, it is their way or the highway. And do you know what? They 
+are going to hit the highway in just a few hours and get out of here.
+  I think we ought to all stay here, let's negotiate, let's get a 
+result, let's open the government, but, more importantly, let's protect 
+our borders and communities across the country.
+
+                          ____________________
+```

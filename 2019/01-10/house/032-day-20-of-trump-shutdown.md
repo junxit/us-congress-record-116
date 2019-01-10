@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-10-pt1-PgH372-4
+date: 2019-01-10
+edition: CREC
+section: HOUSE
+page: H372
+citation: 165 Cong. Rec. H372
+---
+
+# DAY 20 OF TRUMP SHUTDOWN
+
+**Speaking:** Butterfield, G. K. (B001251) [D-NC]
+
+```
+                        DAY 20 OF TRUMP SHUTDOWN
+
+  (Mr. BUTTERFIELD asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BUTTERFIELD. Madam Speaker, today, we enter day 20 of the Trump 
+shutdown. President Trump has spent years as a reality television host, 
+but, unfortunately, reality is still not his strong suit.
+  This week, President Trump abused the backdrop of the Oval Office to 
+feed the American people divisive and distorted rhetoric, while still 
+ignoring the reality that a wall is wasteful and it is impractical and 
+inconsistent with our values.
+  President Trump has tried to convince the American people that there 
+is a crisis at our border. The crisis, Madam Speaker, here is one of 
+Donald Trump's own making: a government shutdown that has gone on too 
+long.
+  This is affecting real lives. This is a humanitarian crisis. Federal 
+workers and their families, 80 percent of whom live outside of the 
+metropolitan area of D.C., will go without a paycheck this Friday 
+because of this shutdown.
+  Madam Speaker, 7,000 workers in North Carolina are directly affected 
+by the shutdown. Hundreds of thousands of public servants across the 
+country are worried to death.
+  Senate Republicans have a choice. Do your constitutional duty, my 
+fellow Senators. Do your job as a Senate. Pass the House bill that we 
+have sent over to you.
+
+                          ____________________
+```
