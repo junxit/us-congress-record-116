@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-01-11-pt1-PgH468-6
+date: 2019-01-11
+edition: CREC
+section: HOUSE
+page: H468
+citation: 165 Cong. Rec. H468
+---
+
+# FUND THE GOVERNMENT
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+                          FUND THE GOVERNMENT
+
+  (Mr. JOYCE of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. JOYCE of Pennsylvania. Madam Speaker, it is with a great sense of 
+honor that I stand before you to deliver my first address on the floor 
+of the people's House.
+  As legislators, one of our fundamental duties is to fully fund the 
+government and to do it on time. But there are Federal employees, such 
+as the brave corrections officers working at FCI Loretto, people whom, 
+as their doctor, I have treated. These people continue to go without 
+pay.
+  These hardworking men and women do not deserve this shutdown. No 
+American does.
+  We are in this situation because Democrats refuse to compromise and 
+fund the border wall, even though many of them have voted to do so in 
+the past.
+  Today, I offer a question to my colleagues across the aisle: What 
+changed? Are you really willing to reverse a previous position and keep 
+government closed just so you can resist the President's agenda?
+
+[[Page H469]]
+
+  It is time to fund the wall and send the President an appropriations 
+package that he will sign. I urge my Democratic friends to negotiate so 
+we can get back to work for the American people.
+
+                          ____________________
+```

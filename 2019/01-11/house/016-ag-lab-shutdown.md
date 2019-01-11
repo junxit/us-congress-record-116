@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-01-11-pt1-PgH469
+date: 2019-01-11
+edition: CREC
+section: HOUSE
+page: H469
+citation: 165 Cong. Rec. H469
+---
+
+# AG/LAB SHUTDOWN
+
+**Speaking:** Bustos, Cheri (B001286) [D-IL]
+
+```
+                              {time}  0915
+                            AG/LAB SHUTDOWN
+
+  (Mrs. BUSTOS asked and was given permission to address the House for 
+1 minute.)
+  Mrs. BUSTOS. Madam Speaker, I rise today to recognize the outstanding 
+work at the U.S. Department of Agriculture's research lab in Peoria, 
+Illinois.
+  For more than 75 years, the Ag Lab has conducted breakthrough 
+research, impacting lives of people all over the world.
+  Decades after discovering how to mass-produce penicillin, the Ag Lab 
+just found out how to enhance its effectiveness in people who have 
+developed antibiotic resistance. They have also developed an all-
+natural bug repellent that is more effective than DEET.
+  Unfortunately, the 200 employees at the Ag Lab have been sent home 
+due to this government shutdown, putting their groundbreaking research 
+at a dead halt.
+  It is time to stop using workers as pawns in this government 
+shutdown. We must put this shutdown to an end so the Ag Lab can 
+continue its advanced research that drives American agriculture and our 
+economy.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-01-11-pt1-PgH511-4
+date: 2019-01-11
+edition: CREC
+section: HOUSE
+page: H511
+citation: 165 Cong. Rec. H511
+---
+
+# PASSAGE OF THE EQUAL RIGHTS AMENDMENT
+
+**Speaking:** Maloney, Carolyn B. (M000087) [D-NY]
+
+```
+                 PASSAGE OF THE EQUAL RIGHTS AMENDMENT
+
+  (Mrs. CAROLYN B. MALONEY of New York asked and was given permission 
+to address the House for 1 minute.)
+  Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, Democrats in 
+Washington continue to urge the President to reopen the government, end 
+the crisis of his own making, and get Federal employees back to work.
+  Despite this unfortunate situation dragging on, we can celebrate good 
+news out of Richmond, Virginia. Wednesday marked the first day of 
+Virginia's State legislative session. And on day 1, a Senate committee 
+passed a resolution to ratify the Equal Rights Amendment.
+  Thirty-seven States have voted to ratify the ERA since it passed 
+Congress in 1972, two in the last 2 years. Thirty-eight States must 
+ratify a constitutional amendment, and Virginia could get it across the 
+finish line.
+  I am thrilled to witness this energy to enshrine women's equality in 
+the Constitution where it belongs. I hope my colleagues will join me in 
+supporting this incredible State effort, in Virginia and elsewhere, to 
+amend the Constitution to finally ensure equality for all women and men 
+in this country.
+
+                          ____________________
+```
