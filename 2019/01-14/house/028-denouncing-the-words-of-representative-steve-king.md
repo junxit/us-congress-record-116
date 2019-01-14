@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-14-pt1-PgH535-4
+date: 2019-01-14
+edition: CREC
+section: HOUSE
+page: H535
+citation: 165 Cong. Rec. H535
+---
+
+# DENOUNCING THE WORDS OF REPRESENTATIVE STEVE KING
+
+**Speaking:** Clyburn, James E. (C000537) [D-SC]
+
+```
+                              {time}  1915
+           DENOUNCING THE WORDS OF REPRESENTATIVE STEVE KING
+
+  (Mr. CLYBURN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CLYBURN. Madam Speaker, I rise today to address what I call the 
+tale of two Kings, one a Member of this body who wondered out loud to 
+The New York Times why the terms ``white nationalism'' and ``white 
+supremacy'' are offensive.
+  I would say to my colleague that the terms are offensive because the 
+concepts are evil. And we have been counseled by Edmund Burke that all 
+that is required for evil to triumph is for good men to do nothing.
+  I have just introduced a resolution to express this august body's 
+disapproval of Mr. King's comments and condemnation of white 
+nationalism and white supremacy in all forms.
+  Today, I denounce the words of Representative   Steve King, and I do 
+so invoking the words of another King, Dr. Martin Luther King, Jr., 
+who, if he had been allowed to live, would be celebrating his 90th 
+birthday tomorrow.
+  Dr. King counseled that: ``We are going to be made to repent, not 
+just for the hateful words and deeds of bad people, but for the 
+appalling silence of good people.''
+  Madam Speaker, I call on my colleagues on both sides of the aisle to 
+join me in breaking the deafening silence and letting our resounding 
+condemnation be heard.
+
+                          ____________________
+```
