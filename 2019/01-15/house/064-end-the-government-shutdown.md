@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-01-15-pt1-PgH582-6
+date: 2019-01-15
+edition: CREC
+section: HOUSE
+page: H582
+citation: 165 Cong. Rec. H582
+---
+
+# END THE GOVERNMENT SHUTDOWN
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+```
+                      END THE GOVERNMENT SHUTDOWN
+
+  (Ms. GARCIA of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Ms. GARCIA of Texas. Madam Speaker, I rise to object to the 
+administration's threat to issue a national emergency declaration and 
+reprogram money that has been allocated for Hurricane Harvey.
+  I join a bipartisan group of Texas legislators in opposition to this 
+diversion,
+
+[[Page H583]]
+
+including my former colleagues from the Texas Senate. This 
+administration is seeking any funds or any means to go around Congress 
+to build his wall.
+  Congress is a coequal branch of government, Madam Speaker, with a 
+duty to appropriate funds for Hurricane Harvey. Any action to delay or 
+divert those funds puts lives at risk and potentially displaces people 
+from their homes, many in my own district in Houston.
+  We must do more to mitigate the damages caused by flooding. Diverting 
+disaster funds to pay for a wall will not accomplish that goal.
+  I am proud of the bipartisan opposition to this effort, and I hope 
+that we can work together in that same spirit to end this Trump 
+shutdown.
+
+                          ____________________
+```
