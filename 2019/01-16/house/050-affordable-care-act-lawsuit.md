@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-01-16-pt1-PgH617-4
+date: 2019-01-16
+edition: CREC
+section: HOUSE
+page: H617
+citation: 165 Cong. Rec. H617
+---
+
+# AFFORDABLE CARE ACT LAWSUIT
+
+**Speaking:** Levin, Andy (L000592) [D-MI]
+
+**Measures:** H.Res. 14
+
+```
+                      AFFORDABLE CARE ACT LAWSUIT
+
+  (Mr. LEVIN of Michigan asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. LEVIN of Michigan. Madam Speaker, while Republican attempts to 
+repeal the Affordable Care Act went down in flames, their Texas v. 
+United States lawsuit seeks to subvert the will of the American people 
+and take our healthcare away.
+  In December, a judge ruled in favor of Republicans, issuing a 
+decision that would strike down the entire ACA. If that ruling stands, 
+every American will lose vital protections, like those for people with 
+preexisting conditions.
+  I have cosponsored Congressman Colin Allred's H. Res. 14, which 
+authorizes the House to intervene in this case and defend the law of 
+the land, because my family and I, like so many others, are no 
+strangers to the costs of preexisting conditions.
+  Madam Speaker, I am a two-time cancer survivor. Two of my four kids 
+have Crohn's disease, and they have been living with it for 14 years. 
+Bills upward of $10,000 are not unusual in my household.
+  Despite all this, I consider us lucky. Why? Because, thanks to the 
+ACA, my sons and I cannot be turned away or charged more because of our 
+medical histories. All of that will change if Republicans and President 
+Trump got their way.
+  Madam Speaker, I thank my friend from Texas, Congressman Allred, for 
+introducing this important resolution.
+
+                          ____________________
+```

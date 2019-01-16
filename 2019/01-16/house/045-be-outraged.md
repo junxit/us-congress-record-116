@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-01-16-pt1-PgH616-4
+date: 2019-01-16
+edition: CREC
+section: HOUSE
+page: H616
+citation: 165 Cong. Rec. H616
+---
+
+# BE OUTRAGED
+
+**Speaking:** Kirkpatrick, Ann (K000368) [D-AZ]
+
+```
+                              BE OUTRAGED
+
+  (Mrs. KIRKPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. KIRKPATRICK. Madam Speaker, I stand here today on behalf of 
+southern Arizonans and all our Federal employees. I stand here as their 
+public servant because I work for them. They have called, sent letters, 
+and shown up in our offices, pleading for action. They are scared, and 
+not because of immigration. They are scared they can't pay rent, and 
+they are scared they might not be able to feed their children.
+  To our constituents at home, I am sorry, but be outraged.
+  It is outrageous that John from southern Arizona, a Customs and 
+Border Patrol agent, is furloughed and worried about how he is going to 
+keep the lights on.
+  It is outrageous that Cochise County Community College students, many 
+of whom are veterans, are worried they may not receive their financial 
+aid.
+  It is outrageous that over 900,000 Arizona participants in SNAP, 72 
+percent of them with children, are in jeopardy of losing their 
+nutrition assistance.
+  Madam Speaker, the majority in this House has publicly stated our 
+willingness to work with the President. We must reopen government. Be 
+outraged, because I sure am.
+
+                          ____________________
+```
