@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-01-17-pt1-PgH681-7
+date: 2019-01-17
+edition: CREC
+section: HOUSE
+page: H681
+citation: 165 Cong. Rec. H681
+---
+
+# RECOGNIZING RIDGWAY AREA HIGH SCHOOL AS A NATIONAL BLUE RIBBON SCHOOL
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+ RECOGNIZING RIDGWAY AREA HIGH SCHOOL AS A NATIONAL BLUE RIBBON SCHOOL
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+congratulate Ridgway Area High School for being named a National Blue 
+Ribbon School.
+  Since 1982, the U.S. Department of Education has identified and 
+celebrated excellence in education through the Blue Ribbon Award.
+  Ridgway Area High School's tradition of academic excellence is a 
+testament to this rural community's dedication to the importance of 
+education. Like many small communities, the high school serves as a 
+central hub in Ridgway. Faculty and staff work diligently to help each 
+student reach their fullest potential.
+  Ridgway Area High School knows that families and community 
+stakeholders are vital to the educational mission. They strongly value 
+the idea that students who are involved in teams, groups, and community 
+service
+
+[[Page H682]]
+
+initiatives are those who grow habits of engagement that lead to 
+productive citizenship. All graduating seniors are required to have 
+completed 50 hours of community service in local nonprofit 
+organizations in the Ridgway community in an effort to instill in all 
+students a sense of service above self.
+  Madam Speaker, I wholeheartedly congratulate Ridgway Area High School 
+on this outstanding achievement.
+
+                          ____________________
+```

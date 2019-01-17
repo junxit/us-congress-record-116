@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-01-17-pt1-PgH703
+date: 2019-01-17
+edition: CREC
+section: HOUSE
+page: H703
+citation: 165 Cong. Rec. H703
+---
+
+# CELEBRATION OF LIFE
+
+**Speaking:** Norman, Ralph (N000190) [R-SC]
+
+```
+                          CELEBRATION OF LIFE
+
+  (Mr. NORMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NORMAN. Madam Speaker, I rise today in celebration of life. Psalm 
+127:3 reminds us:
+
+       Children are a gift from the Lord; they are a reward from 
+     him.
+
+  With 4 children and 16 grandchildren, I know what a special gift each 
+child is. On the eve of the March for Life, I am proud to gather with 
+my colleagues to recognize the important work being done to protect 
+each life each and every day.
+  I look forward to supporting legislation that recognizes the value of 
+life and provides protection for each life, starting from the very 
+beginning. I will remain a strong advocate for the sanctity of life and 
+continue to be a voice for those who cannot speak for themselves.
+  We should celebrate every life and cherish the potential each child 
+possesses. As we March for Life, we show the world the value we place 
+on life today and every other day of the year.
+
+                          ____________________
+```

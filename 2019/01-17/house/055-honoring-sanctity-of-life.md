@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-01-17-pt1-PgH705
+date: 2019-01-17
+edition: CREC
+section: HOUSE
+page: H705
+citation: 165 Cong. Rec. H705
+---
+
+# HONORING SANCTITY OF LIFE
+
+**Speaking:** Fulcher, Russ (F000469) [R-ID]
+
+```
+                       HONORING SANCTITY OF LIFE
+
+  (Mr. FULCHER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FULCHER. Madam Speaker, I am often asked why I came to Congress, 
+and I have asked myself that very same question. It is certainly not 
+for the money, and it is not for the notoriety or the scrutiny that 
+comes with that.
+  Ultimately, for me, it comes down to the honorable purpose of 
+supporting the divinely inspired principles behind our Nation's 
+founding, being a voice for those unavailable or unable to speak.
+  There is none more vulnerable or unable to speak than the unborn, and 
+there is no more noble cause than protecting or promoting life.
+  Madam Speaker, I stand today, during this week honoring the sanctity 
+of life, to ask every Member of this body to use any and all influence 
+to return to our Nation's legal environment that promotes life and to 
+return to a cultural environment that promotes life as well. Our unborn 
+would ask the same, if they could.
+
+                          ____________________
+```

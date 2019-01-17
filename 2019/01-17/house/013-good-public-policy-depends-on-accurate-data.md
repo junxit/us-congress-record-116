@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-01-17-pt1-PgH682-5
+date: 2019-01-17
+edition: CREC
+section: HOUSE
+page: H682
+citation: 165 Cong. Rec. H682
+---
+
+# GOOD PUBLIC POLICY DEPENDS ON ACCURATE DATA
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+```
+              GOOD PUBLIC POLICY DEPENDS ON ACCURATE DATA
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Madam Speaker, good public policy depends on thorough 
+and accurate data. That is why this week's ruling by District Judge 
+Jesse Furman to block the administration from adding a citizenship 
+question to the 2020 Census is so important to my district on the 
+central coast and to our country.
+  The 2020 Census is more than just about where people live. It 
+dictates how our many, many boundaries are drawn.
+  The Census is enshrined in our Constitution, and it is a bedrock 
+responsibility of our government. But adding a citizenship question to 
+the Census with this administration in charge may scare people from 
+actually answering the questions, and that could result in inaccuracies 
+that jeopardize the disbursement of over $700 billion in funding for 
+essential services in our communities like roads, schools, and even 
+nutrition assistance programs.
+  This decision by the Federal judge is very good news, but we must 
+continue to work to live up to our responsibilities under the American 
+Constitution, and we can do that with a 2020 Census that depicts a 
+precise population count through accurate data, adequate area offices, 
+and appropriate and acceptable questions that everybody in all 
+communities can answer.
+
+                          ____________________
+```
