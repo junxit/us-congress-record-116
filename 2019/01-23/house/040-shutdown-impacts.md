@@ -1,0 +1,46 @@
+---
+granule: CREC-2019-01-23-pt1-PgH1012-2
+date: 2019-01-23
+edition: CREC
+section: HOUSE
+page: H1012
+citation: 165 Cong. Rec. H1012
+---
+
+# SHUTDOWN IMPACTS
+
+**Speaking:** Underwood, Lauren (U000040) [D-IL]
+
+```
+                            SHUTDOWN IMPACTS
+
+  (Ms. UNDERWOOD asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. UNDERWOOD. Mr. Speaker, this week, we will vote for the tenth 
+time to end the shutdown. I sincerely hope that this is the last time.
+  For the people in the 14th Congressional District of Illinois, the 
+effects of this shutdown are real and they are painful.
+  This weekend, I visited a family shelter for survivors of domestic 
+violence that does incredible work serving my community. This shelter 
+would like to expand to serve more people, but funding uncertainty 
+around reauthorization of the Violence Against Women Act makes that 
+impossible for them. Domestic violence survivors are a casualty of this 
+senseless shutdown.
+  This weekend, I met an entrepreneur who is working to open a pet care 
+company with her husband. He even left his job so they could realize 
+their dream. They are currently waiting on a Small Business 
+Administration loan they need to open their business. It is sitting on 
+a furloughed worker's desk. Entrepreneurs are a casualty of this 
+shutdown.
+  This week, I met with air traffic controllers in my district, people 
+who keep passengers and freight moving safely through the skies. They 
+are working 6 days a week and about to miss a second paycheck. They 
+told me they look after their colleagues by asking: How long do you 
+have left?
+  How long do they have left before they miss a mortgage payment, a 
+healthcare bill, or max out their credit cards?
+  Mr. Speaker, I sincerely hope the Senate will take up one of these 
+bills and reopen the government.
+
+                          ____________________
+```
