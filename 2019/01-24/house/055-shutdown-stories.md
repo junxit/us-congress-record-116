@@ -1,0 +1,50 @@
+---
+granule: CREC-2019-01-24-pt1-PgH1194-6
+date: 2019-01-24
+edition: CREC
+section: HOUSE
+page: H1194
+citation: 165 Cong. Rec. H1194
+---
+
+# SHUTDOWN STORIES
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+```
+                            SHUTDOWN STORIES
+
+  (Ms. LEE of California asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. LEE of California. Madam Speaker, I rise to echo the pain and 
+suffering experienced by Federal workers and their families in my 
+district during this reckless McConnell-Trump shutdown and also the 
+important work that they do as public employees.
+  One is a constituent who is a proud African American TSA agent out of 
+the Oakland airport, who has been working without pay for more than a 
+month. He must pay to get to work, though, buy his own lunch and gas, 
+but has no paycheck coming in. He can't borrow from his family because 
+eight of his relatives also work for the Federal Government.
+  His story resonates with so many African Americans who work for the 
+Federal Government. But now with this shutdown, the Black community has 
+been deeply affected, like everyone else.
+  While African Americans account for 12 percent of the population, 18 
+percent
+
+[[Page H1195]]
+
+of the Federal workforce is African American. This is, of course, due 
+to discrimination against African Americans in the private sector. The 
+Federal Government has provided good-paying jobs and a path into the 
+middle class.
+  My grandfather worked for the Postal Service. He was a letter 
+carrier. My mother worked for Social Security.
+  Another constituent has been furloughed from the Food and Drug 
+Administration. He told me that he and his husband both rely on their 
+incomes to afford rent on their one-bedroom apartment.
+  I urge President Trump and Senator McConnell to stop playing games 
+with people's lives. Let's reopen the government and get workers the 
+paychecks that they deserve.
+
+                          ____________________
+```

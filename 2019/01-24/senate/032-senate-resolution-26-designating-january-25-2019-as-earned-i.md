@@ -1,0 +1,54 @@
+---
+granule: CREC-2019-01-24-pt1-PgS590
+date: 2019-01-24
+edition: CREC
+section: SENATE
+page: S590
+citation: 165 Cong. Rec. S590
+---
+
+# SENATE RESOLUTION 26--DESIGNATING JANUARY 25, 2019, AS "EARNED INCOME TAX CREDIT AWARENESS DAY"
+
+**Measures:** S.Res. 26
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 26--DESIGNATING JANUARY 25, 2019, AS ``EARNED INCOME 
+                       TAX CREDIT AWARENESS DAY''
+
+  Ms. BALDWIN (for herself, Mr. Booker, Mr. Brown, Mr. Coons, Ms. 
+Cortez Masto, Mr. Durbin, Ms. Klobuchar, Mrs. Murray, Mr. Reed, Ms. 
+Smith, Mr. Van Hollen, Mr. Whitehouse, Ms. Harris, Ms. Duckworth, and 
+Ms. Hirono) submitted the following resolution; which was referred to 
+the Committee on the Judiciary:
+
+                               S. Res. 26
+
+       Whereas the earned income tax credit is a refundable 
+     Federal tax credit available to low- and moderate-income 
+     working families and individuals;
+       Whereas the earned income tax credit strengthens the 
+     rewards of work;
+       Whereas, in 2016, the earned income tax credit lifted 
+     approximately 5,800,000 people out of poverty, including 
+     approximately 3,000,000 children;
+       Whereas the earned income tax credit provides substantial 
+     economic benefit to local economies; and
+       Whereas an estimated 20 percent of eligible workers do not 
+     claim the earned income tax credit: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates Friday, January 25, 2019, as ``Earned Income 
+     Tax Credit Awareness Day''; and
+       (2) calls on Federal, State, and local agencies, community 
+     organizations, nonprofit organizations, employers, and other 
+     partners to help increase awareness about the earned income 
+     tax credit, other refundable tax credits, and free tax filing 
+     assistance to ensure that all eligible workers have access to 
+     the full benefits of the credits.
+
+                          ____________________
+```

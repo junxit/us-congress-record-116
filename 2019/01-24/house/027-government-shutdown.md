@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-01-24-pt1-PgH1188-4
+date: 2019-01-24
+edition: CREC
+section: HOUSE
+page: H1188
+citation: 165 Cong. Rec. H1188
+---
+
+# GOVERNMENT SHUTDOWN
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+                          GOVERNMENT SHUTDOWN
+
+  (Ms. FRANKEL asked and was given permission to address the House for 
+1 minute.)
+  Ms. FRANKEL. Madam Speaker, this week I met with south Floridians to 
+talk about the impact of the cruel Trump shutdown, so many sad stories.
+  I learned about a TSA agent who just came back from maternity leave 
+who had to send her baby to her mother in Massachusetts because she 
+didn't have the money for daycare or Pampers.
+  The air traffic controllers told me that their stress level is so 
+high now, it is a danger to all of us. And I heard from the service 
+providers of victims of domestic violence who are worried that their 
+shelters are about to close.
+  Now, Democrats, we support smart border security, not an ineffective, 
+wasteful wall. But, listen, we can debate that at another time.
+  Right now, we have to open our government so that we can get back to 
+the business for the people.
+
+[[Page H1189]]
+
+  
+
+                          ____________________
+```

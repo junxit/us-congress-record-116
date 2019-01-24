@@ -1,0 +1,48 @@
+---
+granule: CREC-2019-01-24-pt1-PgH1190
+date: 2019-01-24
+edition: CREC
+section: HOUSE
+page: H1190
+citation: 165 Cong. Rec. H1190
+---
+
+# GOVERNMENT SHUTDOWN
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+                          GOVERNMENT SHUTDOWN
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Madam Speaker, I rise to call on President Trump and the 
+Senate to reopen the Federal Government immediately.
+  A legion of Federal workers went to work again this morning with no 
+idea how or when they will be able to pay their bills or support their 
+families, workers like Tracy from my hometown of Amsterdam, New York.
+  Tracy has worked for the USDA for more than three decades helping 
+upstate New York farmers, with nowhere else to turn, find the funds 
+they need to stay afloat for another season.
+  She says: ``When you start to lose farms, equipment dealers go out of 
+business. Everybody suffers--the charities, the churches. If you can't 
+pay your bills, you can't go to the local pancake breakfast on Sunday'' 
+to help a not-for-profit.
+  This weekend, bitter cold hit New York's capital region. Tracy tells 
+me she hasn't gone down to the basement because she is afraid to see 
+the level of heating oil left in her tank.
+  Just as tough is the mental toll this shutdown is taking. Until 
+recently, Tracy was furloughed. Now she is working, working without 
+pay. She worries about the farmers who rely on USDA loans to get seed 
+and fertilizer for the coming season.
+  When asked what she would say if she were standing here in this spot 
+today, she said: ``We need to take care of one another. It doesn't 
+matter what party you are. We need to help and uplift each other.''
+  Madam Speaker, I urge the United States Senate to heed Tracy's call, 
+move forward with any one of the many bills that we have passed here in 
+the House to reopen this government, restore paychecks to our dedicated 
+Federal workers and the critical services they provide to our neighbors 
+who need it, who need it most.
+
+                          ____________________
+```

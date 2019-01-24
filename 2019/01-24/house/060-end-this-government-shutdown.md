@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-01-24-pt1-PgH1195-5
+date: 2019-01-24
+edition: CREC
+section: HOUSE
+page: H1195
+citation: 165 Cong. Rec. H1195
+---
+
+# END THIS GOVERNMENT SHUTDOWN
+
+**Speaking:** Brown, Anthony G. (B001304) [D-MD]
+
+```
+                      END THIS GOVERNMENT SHUTDOWN
+
+  (Mr. BROWN of Maryland asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BROWN of Maryland. Madam Speaker, I rise to demand, insist, and 
+beseech President Trump to end this shutdown now and open the Federal 
+Government.
+  I represent the fifth largest number of Federal Government employees. 
+Every day I see, I hear, and I feel the pain and suffering of the 
+Federal Government employees and contractors in my neighborhoods and my 
+communities. One out of every ten residents in my Maryland district 
+live in a household headed by a Federal Government employee or 
+contractor.
+  This Monday at a community event supporting our Federal employees, I 
+met a woman with her 2-month-old infant child. She is an essential 
+employee at the Food and Drug Administration. She needs to be and wants 
+to be on the job, but she simply can't. She can't because she can't 
+afford to pay for childcare for her infant daughter.
+  She is having difficulty paying for groceries, providing lunch money 
+for her two elementary school-aged boys, and is on the verge of not 
+being able to pay either her rent or her car note.
+  She was sobbing uncontrollably. She was weeping painfully, and 
+pleading for you, Mr. President, to open the government, to let her 
+work with dignity, to support her children, and to do her job.
+
+[[Page H1196]]
+
+  President Trump, end this shutdown now.
+  The SPEAKER pro tempore. Members are reminded to address their 
+remarks to the Chair.
+
+                          ____________________
+```

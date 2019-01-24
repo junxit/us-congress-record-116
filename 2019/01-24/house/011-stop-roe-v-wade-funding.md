@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-24-pt1-PgH1176-2
+date: 2019-01-24
+edition: CREC
+section: HOUSE
+page: H1176
+citation: 165 Cong. Rec. H1176
+---
+
+# STOP ROE V. WADE FUNDING
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                        STOP ROE V. WADE FUNDING
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, this week marks the 46th anniversary of Roe 
+v. Wade, bringing us close to 50 years since unborn children have not 
+had legal protection.
+  Since then, there have been an estimated 60.9 million abortions in 
+America. In 2018, an unborn child was aborted every 34 seconds, on 
+average.
+  These aren't new statistics, but they are still shocking and 
+horrifying to those of us who believe that all life is sacred.
+  The country is split nearly in half when it comes to being pro-life 
+or pro-choice, but a majority of Americans don't believe their tax 
+dollars should be used to fund abortions.
+  The largest provider of abortions in the United States, Planned 
+Parenthood, is taxpayer subsidized, despite reporting over $1.4 billion 
+in revenue for 2016-2017.
+  It is big business. Planned Parenthood makes millions each year 
+providing over one-third of the Nation's abortions.
+  It is unconscionable that millions of Americans are forced to 
+contribute tax dollars to create profit for an industry they are 
+fundamentally or morally opposed to.
+  If only they understood the whole truth on the abortion industry and 
+how much it hurts women and the unborn.
+
+                          ____________________
+```
