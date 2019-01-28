@@ -1,0 +1,24 @@
+---
+granule: CREC-2019-01-28-pt1-PgH1243-20
+date: 2019-01-28
+edition: CREC
+section: HOUSE
+page: H1243
+citation: 165 Cong. Rec. H1243
+---
+
+# Constitutional Authority Statement for H.R. 822
+
+**Measures:** H.R. 822
+
+```
+           By Mrs. CAROLYN B. MALONEY of New York:
+       H.R. 822.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 of the Constitution, Congress has the 
+     power ``to make all Laws which shall be necessary and proper 
+     for carrying into Execution the foregoing Powers, and all 
+     other Powers vested by this Constitution in the Government of 
+     the United States, or any Department or Officer thereof''.
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-28-pt1-PgH1236
+date: 2019-01-28
+edition: CREC
+section: HOUSE
+page: H1236
+citation: 165 Cong. Rec. H1236
+---
+
+# HONORING THE LIFE OF DICK SHELLENBERGER
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+                HONORING THE LIFE OF DICK SHELLENBERGER
+
+  (Mr. SMUCKER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. SMUCKER. Mr. Speaker, today I rise to honor Dick Shellenberger, a 
+wonderful man who dedicated his life to serving Lancaster County.
+  Dick recently passed away and left an enormous legacy in our 
+community. I attended a memorial in his honor on Friday, and you could 
+tell how well-loved he was in the community by so many people who 
+showed up to pay their respects.
+  Dick first ran a dairy farm with his father. He was a graduate of 
+Lancaster Mennonite High School. He worked for Kreider Farms and 
+established the farm's ice cream business, operating its four family 
+restaurants, two dairy stores, and wholesale milk business. He then was 
+a restaurateur, but he eventually became Lancaster County Commissioner.
+  He was a strong proponent of farmland preservation because he knew 
+the importance of agriculture and farming in our community. He served 
+on many community boards and on his church boards and was always 
+looking for ways to give back.
+  He is survived by his wife, Pam; a son, Richie; a daughter, Missy; 
+and his six grandchildren.
+  Dick's legacy will undoubtedly live on in our community. We are 
+grateful for his service to Lancaster County. We also know that he is 
+in a better place, but we will certainly miss him here. It is humbling 
+to be able to honor his life.
+
+                          ____________________
+```
