@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-29-pt1-PgH1253-4
+date: 2019-01-29
+edition: CREC
+section: HOUSE
+page: H1253
+citation: 165 Cong. Rec. H1253
+---
+
+# A PATH FOR PROGRESS IN WAR ON POVERTY
+
+**Speaking:** Davidson, Warren (D000626) [R-OH]
+
+```
+                 A PATH FOR PROGRESS IN WAR ON POVERTY
+
+  (Mr. DAVIDSON of Ohio asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIDSON of Ohio. Mr. Speaker, since LBJ launched the War on 
+Poverty, the percentage of Americans living below the poverty line has 
+remained persistently static.
+  As reform efforts in Congress continue to falter, American's poverty 
+reduction efforts continue to fall short of their objectives. We need a 
+different approach to help millions of Americans escape poverty.
+  Today, I am introducing the People Centered Assistance Reform Effort 
+Act, or the People CARE Act. This legislation creates a bipartisan 
+commission in order to empower caseworkers to treat each person 
+holistically, rather than simply administer programs; realign the 90-
+plus, often duplicative, poverty programs; remove benefit cliffs; and 
+more.
+  It encourages employment, marriage, and education, activities 
+identified by the Brookings Institution and others as effective means 
+to end poverty.
+  The commission cannot launch new programs, nor directly cut spending. 
+Upon receiving the commission's recommendation, Congress would have to 
+vote to approve or disapprove.
+  People CARE offers a path for progress in the War on Poverty. Mr. 
+Speaker, I encourage all of my colleagues to cosponsor the People CARE 
+Act.
+
+                          ____________________
+```

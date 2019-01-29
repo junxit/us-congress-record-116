@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-01-29-pt1-PgH1253-5
+date: 2019-01-29
+edition: CREC
+section: HOUSE
+page: H1253
+citation: 165 Cong. Rec. H1253
+---
+
+# GOOD LEADERSHIP
+
+**Speaking:** Golden, Jared F. (G000592) [D-ME]
+
+```
+                              {time}  1215
+                            GOOD LEADERSHIP
+
+  (Mr. GOLDEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. GOLDEN. Mr. Speaker, today I am introducing a commonsense, 
+bipartisan bill with Congressman Crenshaw and Congressman Rose. It is 
+called the Solidarity in Salary Act. It is a simple bill that says if 
+Federal employees aren't getting paychecks because of a shutdown, 
+Members of Congress and the President shouldn't get their paychecks.
+  People back in Maine have heard me talk about when I was a young 
+private first class joining my unit in the Marines at mealtime out in 
+the field when they brought a hot meal out, we had a simple rule that 
+we followed. What we would do is the private first class and lance 
+corporal would go first to eat followed by the NCOs and staff NCOs, 
+after that, the officers.
+  The idea was that good leaders should take care of other people 
+before stopping and thinking about themselves. That is the principle 
+behind this bill.
+  Mr. Speaker, I would urge my colleagues to join Congressmen Crenshaw 
+and Rose and me in supporting this legislation.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-01-29-pt1-PgH1253
+date: 2019-01-29
+edition: CREC
+section: HOUSE
+page: H1253
+citation: 165 Cong. Rec. H1253
+---
+
+# FIND BALANCE BETWEEN LEGITIMATE TRADE AND TOURISM AT BORDER
+
+**Speaking:** Cuellar, Henry (C001063) [D-TX]
+
+```
+      FIND BALANCE BETWEEN LEGITIMATE TRADE AND TOURISM AT BORDER
+
+  (Mr. CUELLAR asked and was given permission to address the House for 
+1 minute.)
+  Mr. CUELLAR. Mr. Speaker, I live on the border, and we have to 
+understand that, every day, there is about $1.3 billion of trade 
+between the U.S. and Mexico. That is a lot of jobs that are being 
+created on this side.
+  When you look at the Mexicans who come over and shop, one out of 
+every four international tourists will be people from across the river. 
+That is over $20 billion that is spent on the U.S. side in hotels, 
+restaurants, and many other places. Those are jobs over here.
+  We want to see strong border security, but, again, we have to make 
+sure that we find the balance between legitimate trade and tourism. The 
+way to do that is to look at technology that has worked for the 
+military that can work for us on the border and hire the right number 
+of Border Patrol and CBP officers. If we do that, we can find a way to 
+find the balance between legitimate trade and tourism, and I ask you to 
+please consider that as we debate border security.
+
+                          ____________________
+```
