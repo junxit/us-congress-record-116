@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-01-30-pt1-PgH1320-5
+date: 2019-01-30
+edition: CREC
+section: HOUSE
+page: H1320
+citation: 165 Cong. Rec. H1320
+---
+
+# THE SHUTDOWN TO END ALL SHUTDOWNS
+
+**Speaking:** Slotkin, Elissa (S001208) [D-MI]
+
+```
+                   THE SHUTDOWN TO END ALL SHUTDOWNS
+
+  (Ms. SLOTKIN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SLOTKIN. Madam Speaker, I rise today to speak about the bill that 
+I introduced called the Shutdown to End All Shutdowns, or SEAS, Act, 
+along with 21 of my fellow freshmen.
+  This bill will stop the use of government shutdowns as a tool in 
+political debate and ensure that our Federal workers are never again 
+held hostage when Congress and the President's office cannot agree.
+  Under this act, if a deal cannot be reached, Members of the House, 
+the Senate, the Executive Office of the President, and his political 
+appointees will have their pay suspended and their travel from D.C. 
+curtailed.
+  To my fellow Michiganders: This bill was because of you. You asked me 
+why the average TSA workers, Customs and Border Patrol employees, FAA 
+employees, and FDA employees were punished
+
+[[Page H1321]]
+
+because of something they had nothing to do with. And I heard you.
+  To my fellow Members of Congress who may be reticent to support a 
+bill that penalizes ourselves: This is a moment of leadership. This is 
+a moment to acknowledge that we may not have started this shutdown, but 
+it is our responsibility to prevent them from happening in the future.
+  Madam Speaker, I implore my colleagues to do the right thing and 
+support this bill.
+
+                          ____________________
+```

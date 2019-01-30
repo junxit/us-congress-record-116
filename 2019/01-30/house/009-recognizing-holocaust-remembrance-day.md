@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-01-30-pt1-PgH1287-8
+date: 2019-01-30
+edition: CREC
+section: HOUSE
+page: H1287
+citation: 165 Cong. Rec. H1287
+---
+
+# RECOGNIZING HOLOCAUST REMEMBRANCE DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                 RECOGNIZING HOLOCAUST REMEMBRANCE DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, this past Sunday, the 
+world joined together in honoring the memory of those who were murdered 
+during the Holocaust.
+  In 2005, the United Nations designated January 27 as International 
+Holocaust Remembrance Day.
+  The systematic, government-sponsored persecution and murder of 6 
+million Jews by the Nazi regime and its collaborators will always be a 
+scar on humanity.
+  We promise to always remember those who lost their lives, those who 
+survived, and those who saved them, those who stood in the face of such 
+evil and refused to turn a blind eye. We make this promise to ensure 
+such blight on humanity will never happen again.
+
+[[Page H1288]]
+
+  By remembering the events of the Holocaust, we can understand how 
+important it is to defend those who are defenseless. We must eradicate 
+hatred and never become indifferent to the suffering of others.
+  Mr. Speaker, on the international day of remembrance, the most 
+important thing to reflect upon is the humanity that exists in all of 
+us.
+
+                          ____________________
+```
