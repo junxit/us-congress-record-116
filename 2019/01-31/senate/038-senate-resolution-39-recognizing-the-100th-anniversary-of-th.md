@@ -1,0 +1,79 @@
+---
+granule: CREC-2019-01-31-pt1-PgS812
+date: 2019-01-31
+edition: CREC
+section: SENATE
+page: S812
+citation: 165 Cong. Rec. S812
+---
+
+# SENATE RESOLUTION 39--RECOGNIZING THE 100TH ANNIVERSARY OF THE AMERICAN FARM BUREAU FEDERATION AND CELEBRATING THE LONG HISTORY OF THE AMERICAN FARM BUREAU FEDERATION REPRESENTING THE FARMERS OF...
+
+**Measures:** S.Res. 39
+
+```
+SENATE RESOLUTION 39--RECOGNIZING THE 100TH ANNIVERSARY OF THE AMERICAN 
+FARM BUREAU FEDERATION AND CELEBRATING THE LONG HISTORY OF THE AMERICAN 
+  FARM BUREAU FEDERATION REPRESENTING THE FARMERS OF THE UNITED STATES
+
+  Mr. MORAN (for himself, Mr. Durbin, Mr. Alexander, Ms. Baldwin, Mr. 
+Barrasso, Mr. Bennet, Mr. Blunt, Mr. Boozman, Mrs. Capito, Mr. Carper, 
+Mr. Cassidy, Ms. Collins, Mr. Coons, Mr. Cornyn, Mr. Cotton, Mr. Cruz, 
+Mr. Daines, Ms. Duckworth, Mr. Enzi, Ms. Ernst, Mrs. Fischer, Mr. 
+Gardner, Mr. Graham, Mr. Hoeven, Mrs. Hyde-Smith, Mr. Inhofe, Mr. 
+Isakson, Mr. Johnson, Mr. Jones, Mr. Kennedy, Mr. King, Ms. Klobuchar, 
+Mr. Lankford, Mr. Merkley, Mrs. Murray, Mr. Paul, Mr. Perdue, Mr. 
+Portman, Mr. Risch, Mr. Roberts, Mr. Schumer, Ms. Smith, Mr. Scott of 
+South Carolina, Mr. Thune, Mr. Tillis, Mr. Van Hollen, Mr. Warner, Mr. 
+Wicker, and Ms. Stabenow) submitted the following resolution; which was 
+considered and agreed to:
+
+                               S. Res. 39
+
+       Whereas, on November 12, 1919, a group of farmers met in 
+     Chicago, Illinois, to found the American Farm Bureau 
+     Federation, with the goal of ``making the business of farming 
+     more profitable and the community a better place to live'';
+       Whereas James Howard, the first president of the American 
+     Farm Bureau Federation, said in 1920, ``What's good for the 
+     farmers is good for America'';
+       Whereas, with State farm bureaus in all 50 States and 
+     Puerto Rico, 2,800 county farm bureaus, and 6,000,000 member 
+     families, the American Farm Bureau Federation is one of the 
+     largest farmer organizations in the United States;
+       Whereas the mission of the American Farm Bureau Federation 
+     is to ``enhance and strengthen the lives of rural Americans 
+     and to build strong, prosperous agricultural communities'';
+       Whereas the American Farm Bureau Federation fulfills its 
+     mission--
+       (1) by representing farm and ranch families united for the 
+     purpose of formulating action to improve the rural United 
+     States;
+       (2) by supporting educational improvement, economic 
+     opportunity, and social advancement; and
+       (3) by promoting the well-being of the people of the United 
+     States;
+       Whereas the American Farm Bureau Federation has represented 
+     the interests of farmers with respect to the consideration 
+     and enactment of all major legislation impacting farmers 
+     since the founding of the American Farm Bureau Federation; 
+     and
+       Whereas the American Farm Bureau Federation plays a vital 
+     role in promoting the well-being of the people of the United 
+     States--
+       (1) by analyzing the problems faced by farm and ranch 
+     families; and
+       (2) by formulating action to achieve the goals of farm and 
+     ranch families: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commemorates the 100th anniversary of the American Farm 
+     Bureau Federation;
+       (2) recognizes the American Farm Bureau Federation for 100 
+     years of promoting farm and ranch interests for the benefit 
+     of the people of the United States; and
+       (3) applauds the American Farm Bureau Federation for its 
+     past, present, and future efforts to advocate for farm 
+     interests that are critical to the United States.
+
+                          ____________________
+```
