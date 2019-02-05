@@ -1,0 +1,91 @@
+---
+granule: CREC-2019-02-05-pt1-PgS872-5
+date: 2019-02-05
+edition: CREC
+section: SENATE
+page: S872
+citation: 165 Cong. Rec. S872
+---
+
+# Text of Senate Amendment 109
+
+**Speaking:** Hoeven, John (H001061) [R-ND]
+
+```
+  SA 109. Mr. HOEVEN (for himself and Mr. Cramer) submitted an 
+amendment intended to be proposed by him to the bill S. 47, to provide 
+for the management of the natural resources of the United States, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle D of title VIII, insert the 
+     following:
+
+     SEC. 83__. CONVEYANCE OF THE OAKES TEST AREA OF THE GARRISON 
+                   DIVERSION UNIT PROJECT, NORTH DAKOTA.
+
+       (a) Definitions.--In this section:
+       (1) Agreement.--The term ``Agreement'' means a title 
+     transfer agreement between the United States and the 
+     District--
+       (A) to determine the legal, operational, institutional, and 
+     financial terms related to the conveyance of the Oakes Test 
+     Area as required under subsection (b); and
+       (B) to be entered into pursuant to the memorandum of 
+     agreement entitled ``Memorandum of Agreement Between United 
+     States of America Department of the Interior Bureau of 
+     Reclamation and Dickey-Sargent Irrigation District for the 
+     Purpose of Defining Roles and Responsibilities for Actions 
+     Required to Prepare for Title Transfer of Certain Facilities, 
+     Land, and Appurtenances at the Garrison Diversion Unit 
+     Project Oakes Test Area'', dated December 18, 2018, and 
+     numbered 19AG620033.
+       (2) District.--The term ``District'' means the Dickey-
+     Sargent Irrigation District.
+       (3) Oakes test area.--The term ``Oakes Test Area'' means 
+     the facilities, land, and appurtenances of the approximately 
+     5,000-acre prototype irrigation test area authorized as part 
+     of the Garrison Diversion Unit Project in the James River 
+     Basin, as described in the Agreement.
+       (b) Conveyance to District.--As soon as practicable after 
+     the date of enactment of this Act, the Secretary shall convey 
+     to the District all right, title, and interest of the United 
+     States in and to the Oakes Test Area, consistent with the 
+     terms and conditions of the Agreement.
+       (c) Liability.--
+       (1) In general.--Effective on the date of conveyance to the 
+     District of the Oakes Test Area under this section, the 
+     United States shall not be held liable by any court for 
+     damages of any kind arising out of any act, omission, or 
+     occurrence relating to the Oakes Test Area, except for 
+     damages caused by acts of negligence committed by the United 
+     States or by an employee or agent of the United States prior 
+     to the date of conveyance.
+       (2) Applicable law.--Nothing in this section increases the 
+     liability of the United States beyond the liability provided 
+     in chapter 171 of title 28, United States Code (commonly 
+     known as the ``Federal Tort Claims Act''), on the date of 
+     enactment of this Act.
+       (d) Benefits.--After the conveyance of the Oakes Test Area 
+     to the District under this section--
+       (1) the Oakes Test Area shall not be considered to be a 
+     part of a Federal reclamation project; and
+
+[[Page S873]]
+
+       (2) the District shall not be eligible to receive any 
+     benefits with respect to any facility comprising that Oakes 
+     Test Area, other than benefits that would be available to a 
+     similarly situated person with respect to a facility that is 
+     not part of a Federal reclamation project.
+       (e) Communication.--If the Secretary has not completed the 
+     conveyance required under subsection (b) by the date that is 
+     1 year after the date of enactment of this Act, the Secretary 
+     shall submit to Congress a letter with sufficient detail 
+     that--
+       (1) explains the reasons the conveyance has not been 
+     completed; and
+       (2) specifies the date by which the conveyance will be 
+     completed.
+
+                          ____________________
+```
