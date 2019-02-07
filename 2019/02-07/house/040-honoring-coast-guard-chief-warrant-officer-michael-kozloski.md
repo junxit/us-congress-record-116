@@ -1,0 +1,50 @@
+---
+granule: CREC-2019-02-07-pt1-PgH1431-2
+date: 2019-02-07
+edition: CREC
+section: HOUSE
+page: H1431
+citation: 165 Cong. Rec. H1431
+---
+
+# HONORING COAST GUARD CHIEF WARRANT OFFICER MICHAEL KOZLOSKI
+
+**Speaking:** Maloney, Sean Patrick (M001185) [D-NY]
+
+```
+      HONORING COAST GUARD CHIEF WARRANT OFFICER MICHAEL KOZLOSKI
+
+  (Mr. SEAN PATRICK MALONEY of New York asked and was given permission 
+to address the House for 1 minute and to revise and extend his 
+remarks.)
+  Mr. SEAN PATRICK MALONEY of New York. Mr. Speaker, I rise to honor a 
+young man from my district in New York's Hudson Valley who passed away 
+last week while serving his country.
+  Coast Guard Chief Warrant Officer Michael Kozloski, originally from 
+Mahopac, New York, was only 35 years old.
+  Michael died as a result of injuries sustained during a crane 
+accident while serving in Alaska.
+  Mike leaves behind his wife of 13 years, Brie, and four young 
+children.
+  He dedicated his entire adult life, 17 years, to protecting our 
+country as a member of the Coast Guard.
+  We all owe Mike and his family an enormous debt of gratitude for his 
+service and for making the ultimate sacrifice in defense of our 
+country.
+  I spoke to Mike's wife earlier today, and she told me that the 
+community of Homer, Alaska, has rallied to her side, even as a dozen 
+family members have flown in.
+  At a time when we ask so much of our Coast Guard families, how 
+fitting to be reminded that as Americans, we still rally to our heroes 
+and their families at these difficult times.
+  Mr. Speaker, I ask all of us to join in prayer for Michael and his 
+family.
+  We will be closely monitoring the ongoing investigation in this 
+incident and offering our assistance as needed.
+  Our hearts go out to Michael's family, his friends at Mahopac, and 
+the entire Coast Guard community. We thank them for their service. We 
+remember Michael for his sacrifice, and we pledge that he will not be 
+forgotten.
+
+                          ____________________
+```
