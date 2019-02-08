@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-02-08-pt1-PgH1486
+date: 2019-02-08
+edition: CREC
+section: HOUSE
+page: H1486
+citation: 165 Cong. Rec. H1486
+---
+
+# THE SAUCE BOSS
+
+**Speaking:** Olson, Pete (O000168) [R-TX]
+
+```
+                             THE SAUCE BOSS
+
+  (Mr. OLSON asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. OLSON. Madam Speaker, back home in Texas 22, a new source of 
+economic growth is exploding in Sienna Plantation and Missouri City. 
+This force of prosperity is the Sauce Boss. The Sauce Boss is a 
+walking, talking, sauce-making American Dream. Her name is Tyla-Simone 
+Crayton.
+  Tyla is 15 years young, a sophomore Panther at Ridge Point High 
+School. Tyla started Sienna Wings because Tyla just loves eating. One 
+sauce has now become three: Tangy, Spicy, and Lemon Pepper.
+  Tyla has just one employee, her mom, Monique. She also has 22 
+distributors and a box packer who is packing more boxes now than they 
+have packed before.
+  Tyla, Monique, Panther Nation, and all of Texas 22 have a common 
+dream: We can't wait until Sienna Wings are on the shelves of HEB.
+  And that's just the way it is.
+
+                          ____________________
+```
