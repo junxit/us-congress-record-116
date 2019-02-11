@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-02-11-pt1-PgH1506-3
+date: 2019-02-11
+edition: CREC
+section: HOUSE
+page: H1506
+citation: 165 Cong. Rec. H1506
+---
+
+# NATIONAL CAREER AND TECHNICAL EDUCATION MONTH
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                              {time}  1915
+             NATIONAL CAREER AND TECHNICAL EDUCATION MONTH
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute.)
+  Mr. LANGEVIN. Mr. Speaker, I rise as co-chair of the bipartisan 
+Congressional Career and Technical Education Caucus to recognize 
+February as National CTE Month. Today, my good friend and caucus co-
+chair, Representative Thompson, and I introduced a resolution 
+supporting the goals and ideals of CTE Month.
+  This resolution is particularly important because many Americans 
+still hold an outdated view of CTE as a plan B. In fact, today it is 
+quite the opposite. The CTE programs are academic pathways that allow 
+students to explore careers in high demand, high-paying industries that 
+are relevant in today's society from healthcare to advanced 
+manufacturing to IT.
+  CTE Month is a time not only to celebrate the achievements of CTE 
+students, like the bright and motivated SkillsUSA students from Rhode 
+Island who visit my office each year, but to spread awareness of 
+today's CTE and its potential to help students and businesses succeed.
+  Mr. Speaker, society needs workers with these skills that are in 
+demand today, and I want to thank Representative Thompson for his 
+partnership and urge my colleagues to join us in supporting CTE 
+programs across the country.
+
+[[Page H1507]]
+
+  
+
+                          ____________________
+```

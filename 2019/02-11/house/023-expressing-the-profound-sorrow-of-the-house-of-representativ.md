@@ -1,0 +1,63 @@
+---
+granule: CREC-2019-02-11-pt1-PgH1504-3
+date: 2019-02-11
+edition: CREC
+section: HOUSE
+page: H1504
+citation: 165 Cong. Rec. H1504
+---
+
+# EXPRESSING THE PROFOUND SORROW OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF THE HONORABLE WALTER B. JONES
+
+**Speaking:** Price, David E. (P000523) [D-NC]
+
+**Measures:** H.Res. 121
+
+```
+ EXPRESSING THE PROFOUND SORROW OF THE HOUSE OF REPRESENTATIVES ON THE 
+                 DEATH OF THE HONORABLE WALTER B. JONES
+
+  Mr. PRICE of North Carolina. Mr. Speaker, I send to the desk a 
+privileged resolution and ask for its immediate consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 121
+
+       Resolved, That the House has heard with profound sorrow of 
+     the death of the Honorable Walter B. Jones, a Representative 
+     from the State of North Carolina.
+       Resolved, That a committee of such Members of the House as 
+     the Speaker may designate, together with such Members of the 
+     Senate as may be joined, be appointed to attend the funeral.
+       Resolved, That the Sergeant-at-Arms of the House be 
+     authorized and directed to take such steps as may be 
+     necessary for carrying out the provisions of these 
+     resolutions and that the necessary expenses in connection 
+     therewith be paid out of applicable accounts of the House.
+
+
+ =========================== NOTE =========================== 
+
+  
+  February 11, 2019 on Page H1504 the following appeared: and that 
+the necessary expenses in connection therewith be paid out of 
+applicable accounts of the Rouse.
+  
+  The online version has been corrected to read: and that the 
+necessary expenses in connection therewith be paid out of 
+applicable accounts of the House.
+
+
+ ========================= END NOTE ========================= 
+
+       Resolved, That the Clerk communicate these resolutions to 
+     the Senate and transmit a copy thereof to the family of the 
+     deceased.
+       Resolved, That when the House adjourns today, it adjourn as 
+     a further mark of respect to the memory of the deceased.
+
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
