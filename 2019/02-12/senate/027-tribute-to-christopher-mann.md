@@ -1,0 +1,32 @@
+---
+granule: CREC-2019-02-12-pt1-PgS1272-2
+date: 2019-02-12
+edition: CREC
+section: SENATE
+page: S1272
+citation: 165 Cong. Rec. S1272
+---
+
+# TRIBUTE TO CHRISTOPHER MANN
+
+**Speaking:** Inhofe, James M. (I000024) [R-OK]
+
+```
+                      TRIBUTE TO CHRISTOPHER MANN
+
+  Mr. INHOFE. Madam President, as chairman of the Senate Committee on 
+Armed Services, it is my privilege to pay tribute to Christopher Mann 
+as he prepares to leave his position as a detailee for the Senate 
+Committee on Armed Services and return to his position as an analyst in 
+defense policy and trade for the Congressional Research Service.
+  For the past 3 months, Mr. Mann has assisted the committee and its 
+members with high-priority work on the fiscal year 2020 National 
+Defense Authorization Act, with a particular focus on issues relating 
+to defense spending and the budget. His contributions to our 
+committee's work have been significant and highly valued by our staff
+  On behalf of the Senate Committee on Armed Services, I thank Mr. Mann 
+and wish him future success as he continues to support the U.S. 
+Congress and its staff.
+
+                          ____________________
+```

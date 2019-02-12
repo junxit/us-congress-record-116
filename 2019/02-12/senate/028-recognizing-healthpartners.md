@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-02-12-pt1-PgS1272-3
+date: 2019-02-12
+edition: CREC
+section: SENATE
+page: S1272
+citation: 165 Cong. Rec. S1272
+---
+
+# RECOGNIZING HEALTHPARTNERS
+
+**Speaking:** Klobuchar, Amy (K000367) [D-MN]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       RECOGNIZING HEALTHPARTNERS
+
+● Ms. KLOBUCHAR. Madam President, today I wish to recognize the 
+achievement of HealthPartners, a healthcare provider based in 
+Bloomington, MN, which was selected by the Centers for Medicare and 
+Medicaid Services to receive a Health Equity Award for its efforts to 
+improve healthcare quality, access, and outcomes among underserved and 
+minority populations.
+  Founded in 1957, HealthPartners is the largest consumer-governed 
+nonprofit healthcare organization in the United States. HealthPartners 
+serves more than 1.8 million consumers with its medical and dental 
+plans and operates a multispecialty group practice of more than 1,800 
+physicians. To accomplish its mission of improving the health and well-
+being of its patients and broader community, HealthPartners has brought 
+together more than 26,000 employees. As demonstrated HealthPartners' 
+receipt of the Health Equity Award, their hard work has paid off.
+  As recognized by the award, in just 3 years, HealthPartners was able 
+to significantly reduce disparities in colorectal screening and 
+antidepression medication compliance. In just 1 year, HealthPartners 
+nearly eliminated the gap in mental health length of stay for patients 
+with a limited ability to speak English.
+  Minnesota has long been recognized as a leader in healthcare 
+innovation, and I am proud to recognize HealthPartners' contributions 
+to that work.
+  Thank you.●
+
+                          ____________________
+```
