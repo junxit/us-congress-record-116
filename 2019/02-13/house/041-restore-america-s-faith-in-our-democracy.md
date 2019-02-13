@@ -1,0 +1,48 @@
+---
+granule: CREC-2019-02-13-pt1-PgH1558-8
+date: 2019-02-13
+edition: CREC
+section: HOUSE
+page: H1558
+citation: 165 Cong. Rec. H1558
+---
+
+# RESTORE AMERICA'S FAITH IN OUR DEMOCRACY
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                RESTORE AMERICA'S FAITH IN OUR DEMOCRACY
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, last week I received a peculiar invitation 
+from
+
+[[Page H1559]]
+
+the Kuwaiti Government to celebrate Kuwait's independence at the Trump 
+Hotel.
+  While Kuwait is a close ally of the United States, I feel compelled 
+to decline the invitation. We must reject the culture of corruption 
+that surrounds President Trump and his family.
+  President Trump promised he would drain the swamp. He promised to put 
+the interests of the American people before his own. Yet he has used 
+his office to enrich himself further.
+  According to USA Today, the President earned--get ready for this--$40 
+million from his Washington hotel just in 2017. This includes $350,000 
+in campaign funds and events hosted by the Republican National 
+Committee.
+  As we press foreign nations to better their own governments, it is 
+clear that President Trump has reduced America's moral authority.
+  I remind the President of Article II, Section 1 of the Constitution, 
+which prohibits the President from receiving gifts from a foreign power 
+without the consent of Congress.
+  We must restore America's faith in our democracy. That is why I look 
+forward to working with my colleagues to hold the Trump administration 
+fully accountable for their misdeeds.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```
