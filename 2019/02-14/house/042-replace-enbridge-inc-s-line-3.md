@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-02-14-pt1-PgH2007
+date: 2019-02-14
+edition: CREC
+section: HOUSE
+page: H2007
+citation: 165 Cong. Rec. H2007
+---
+
+# REPLACE ENBRIDGE INC.'S LINE 3
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+                              {time}  1230
+                     REPLACE ENBRIDGE INC.'S LINE 3
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STAUBER. Mr. Speaker, I rise today to highlight the critical need 
+to replace Enbridge's Line 3, an aging pipeline dangerously corroding 
+and operating at only 51 percent.
+  Line 3 pipeline replacement project is on its fourth year of review 
+and has met or exceeded every single required environmental standard. 
+The Minnesota Public Utilities Commission unanimously voted to issue 
+its certificate of need last year.
+  The project will create more than 4,000 construction jobs and enjoys 
+the support of construction trade unions throughout the State of 
+Minnesota. The project is supported by dozens of elected officials and 
+thousands of Minnesotans. It will also generate an additional $19 
+million in property tax revenue, providing a significant funding 
+increase to rural schools.
+  With all this benefit, it was greatly disappointing to hear we would 
+have further delays. Unfortunately, certain State officials in 
+Minnesota feel beholden to, in the words of our operating engineers, 
+``environmental extremism.'' These environmental extremists are the 
+same folks who vandalized the current pipeline just last week, 
+ironically creating a dangerous situation for themselves and the 
+environment.
+
+                          ____________________
+```

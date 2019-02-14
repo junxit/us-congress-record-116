@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-02-14-pt1-PgH2005-6
+date: 2019-02-14
+edition: CREC
+section: HOUSE
+page: H2005
+citation: 165 Cong. Rec. H2005
+---
+
+# HONORING THE LIFE OF ROBERT MARTIN
+
+**Speaking:** Westerman, Bruce (W000821) [R-AR]
+
+```
+                   HONORING THE LIFE OF ROBERT MARTIN
+
+  (Mr. WESTERMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WESTERMAN. Mr. Speaker, at the age of 93, on February 5, America 
+lost another hero from our Greatest Generation. I rise today to honor 
+the life of Robert Martin of Spring Hill, Arkansas, for his heroic 
+actions in World War II and his life of service.
+  Mr. Martin enrolled in the Army on June 6, 1944, a day we know as D-
+day. We think of it as the beginning of the end of the war; although, 
+it was just the beginning of his service. But he had a lot of service 
+to give.
+  During his time overseas in the war, he served in England, France, 
+Belgium, Holland, and Germany. Mr. Martin fought in the Battle of the 
+Bulge, was wounded in December of 1944 and January and February of 
+1945, and spent several months in the hospital recovering from serious 
+injuries.
+  Upon his return to the U.S., he was awarded three Purple Hearts, a 
+Bronze Star Medal, Combat Infantryman Badge, Prisoner of War Medal, a 
+World War II Victory Medal, and several others.
+  Mr. Martin was a proud resident of Arkansas and became known as the 
+community historian to everyone who lived in Spring Hill, sharing his 
+stories with anyone who would listen.
+  Mr. Martin was a true American hero. He spent his life serving his 
+fellow man, and, for this, we remember his legacy.
+  It is with great pride that I honor Mr. Robert Martin.
+
+[[Page H2006]]
+
+  
+
+                          ____________________
+```

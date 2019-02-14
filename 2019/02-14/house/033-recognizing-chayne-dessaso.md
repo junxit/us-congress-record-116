@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-02-14-pt1-PgH2005-4
+date: 2019-02-14
+edition: CREC
+section: HOUSE
+page: H2005
+citation: 165 Cong. Rec. H2005
+---
+
+# RECOGNIZING CHAYNE DESSASO
+
+**Speaking:** Watkins, Steve (W000824) [R-KS]
+
+```
+                       RECOGNIZING CHAYNE DESSASO
+
+  (Mr. WATKINS asked and was given permission to address the House for 
+1 minute.)
+  Mr. WATKINS. Mr. Speaker, duty, honor, country--these three hallowed 
+words reverently dictate what you ought to be, what you can be, and 
+what you will be. These words were Douglas MacArthur's in a speech to 
+West Point's Corps of Cadets in 1962.
+  Memorizing it will be one of the many challenges faced by a young man 
+from my district, Chayne Dessaso of Leavenworth, Kansas. You see, 
+Chayne has recently been appointed to be a cadet of the United States 
+Military Academy at West Point, my alma mater.
+  West Point will teach Chayne rifle marksmanship, military tactics, 
+math, chemistry, a foreign language, boxing, engineering, swimming, 
+gymnastics, orienteering, history, poetry, first aid, and philosophy. 
+He will also learn about camaraderie, sacrifice, leadership, and the 
+human spirit. And the world will be a better place for it.
+  Well done, Chayne. Welcome to The Long Gray Line.
+
+                          ____________________
+```

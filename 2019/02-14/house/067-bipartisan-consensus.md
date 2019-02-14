@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-02-14-pt1-PgH2025-2
+date: 2019-02-14
+edition: CREC
+section: HOUSE
+page: H2025
+citation: 165 Cong. Rec. H2025
+---
+
+# BIPARTISAN CONSENSUS
+
+**Speaking:** Kilmer, Derek (K000381) [D-WA]
+
+```
+                          BIPARTISAN CONSENSUS
+
+  (Mr. KILMER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILMER. Madam Speaker, I rise today to express my relief that the 
+House of Representatives has passed a bipartisan compromise that keeps 
+our government open, secures our border, and upholds our values.
+  Now, this is not an agreement that either party would have written on 
+its own, but rather than funding for an ineffective border wall, this 
+bill, instead, prioritizes border security funding for methods and 
+technologies that have proven effective.
+  This bill also rejects irresponsible budget cuts and, instead, 
+invests additional dollars in important priorities like funding for 
+economic development assistance programs, environmental protection, and 
+transportation infrastructure.
+  I want to thank all of the conferees for working together to forge a 
+bipartisan consensus to fund government, invest in our priorities, and 
+keep our country safe.
+  It is about time that Congress gets to work on more legislative 
+priorities that will strengthen our families, strengthen our 
+communities, and strengthen our economy. That is what the American 
+people elected us to do, and I hope my colleagues will join me in these 
+efforts going forward.
+
+                          ____________________
+```
