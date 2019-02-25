@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-02-25-pt1-PgH2088
+date: 2019-02-25
+edition: CREC
+section: HOUSE
+page: H2088
+citation: 165 Cong. Rec. H2088
+---
+
+# BLACK HISTORY MONTH AND MEDICINE
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                    BLACK HISTORY MONTH AND MEDICINE
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, some of the greatest contributions to 
+medicine have been made by African Americans in this country.
+  The first open-heart surgery in the United States was successfully 
+completed by Dr. Daniel Hale Williams, a Black man. Not only was he a 
+pioneer of this lifesaving surgery, but also, in the late 1800s, he 
+opened the country's first hospital with an interracial staff, 
+Provident Hospital in Chicago.
+  Then, in the 1930s, Dr. Helen Dickens did her internship at Provident 
+Hospital before becoming the first Black woman admitted to the American 
+College of Surgeons.
+  And then, while Dr. Dickens was doing her internship at Provident, a 
+young Black girl growing up in segregated Arkansas dreamed of becoming 
+a doctor. Sixty years later, in 1993, Dr. Joycelyn Elders became 
+America's first African American Surgeon General.
+  Mr. Speaker, Black history is not something that is in the past. It 
+is constantly unfolding. It is American history.
+  Our stories are being written and expanded upon all the time. That is 
+why Black History Month is so important--not just to honor our past, 
+but to celebrate our present and prepare for our future.
+
+                          ____________________
+```
