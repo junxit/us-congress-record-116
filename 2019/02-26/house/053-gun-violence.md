@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-02-26-pt1-PgH2220-2
+date: 2019-02-26
+edition: CREC
+section: HOUSE
+page: H2220
+citation: 165 Cong. Rec. H2220
+---
+
+# GUN VIOLENCE
+
+**Speaking:** Norcross, Donald (N000188) [D-NJ]
+
+```
+                              GUN VIOLENCE
+
+  (Mr. NORCROSS asked and was given permission to address the House for 
+1 minute.)
+  Mr. NORCROSS. Madam Speaker, I am here to tell a story about gun 
+violence that spans multiple generations, and it started in my hometown 
+of Camden, a city in New Jersey.
+  A tragic event happened in Camden in 1949. Howard Unruh shot and 
+killed 13 people. This event is now considered the first modern mass 
+shooting in our country's history.
+  During those horrific events that unfolded, a 12-year-old boy hid in 
+the closet as his mother and father were slaughtered. His name was 
+Charles Cohen, and nearly 70 years later in a school in Parkland, 
+Florida, his own granddaughter, Carly Novell, hid in a closet, just 
+like her grandfather did. Carly is with us today to see how true 
+democracy works.
+  I will end with Carly's words. She said: ``This pain shouldn't be 
+generational.''
+  She is right. It shouldn't have happened, and we must do more for our 
+children, for our grandchildren, and for everyone in our communities.
+
+                          ____________________
+```

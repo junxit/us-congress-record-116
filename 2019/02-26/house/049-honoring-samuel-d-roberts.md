@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-02-26-pt1-PgH2219-4
+date: 2019-02-26
+edition: CREC
+section: HOUSE
+page: H2219
+citation: 165 Cong. Rec. H2219
+---
+
+# HONORING SAMUEL D. ROBERTS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                       HONORING SAMUEL D. ROBERTS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to honor Samuel D. Roberts for 
+his lifetime of service to the people of New York.
+  Sam's career began with General Motors, where he was a union worker 
+who served as chairman of the UAW Local 465 Education and Civil Rights 
+Committees. While at GM, Sam served five terms as an Onondaga County 
+legislator. Then the people of New York State's 128th Assembly District 
+sent him to represent them in Albany.
+  After 5 years in the State assembly, Governor Andrew Cuomo tapped Sam 
+to serve as commissioner of New York's Office of Temporary and 
+Disability Assistance, a $5.4 billion office that oversees more than 
+2,000 workers.
+  Sam recently retired from government to serve as a special advisor to 
+SUNY Oswego's president.
+  Throughout it all, Sam has kept community first. He has created 
+positive change that will last for generations both in Onondaga County 
+and throughout the State of New York.
+  Mr. Speaker, I ask that my colleagues join me in celebrating Samuel 
+D. Roberts, a pioneering community leader.
+
+                          ____________________
+```

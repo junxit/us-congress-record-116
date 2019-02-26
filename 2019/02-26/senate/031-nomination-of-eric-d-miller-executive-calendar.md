@@ -1,0 +1,204 @@
+---
+granule: CREC-2019-02-26-pt1-PgS1463
+date: 2019-02-26
+edition: CREC
+section: SENATE
+page: S1463
+citation: 165 Cong. Rec. S1463
+---
+
+# Nomination of Eric D. Miller (Executive Calendar)
+
+**Speaking:** Klobuchar, Amy (K000367) [D-MN], Udall, Tom (U000039) [D-NM], Tester, Jon (T000464) [D-MT], Tillis, Thomas (T000476) [R-NC]
+
+```
+                      Nomination of Eric D. Miller
+
+  Ms. KLOBUCHAR. Madam President, I rise today to join many of my 
+colleagues who have come to the floor and to express my opposition to 
+the nomination of Eric Miller to be U.S. circuit judge for the Ninth 
+Circuit. I have already expressed that opposition in my vote in the 
+Judiciary Committee, but I would like to explain this in more detail.
+  There are several troubling aspects of Mr. Miller's background, 
+particularly his consistent opposition to Tribal interests and women's 
+reproductive rights.
+  My State of Minnesota has a large and diverse Tribal population. I 
+have always believed that our State history has been drawn from the 
+culture and traditions of our Native Americans.
+  As a member of the Judiciary Committee, I know that Tribal 
+sovereignty is a fundamental tenet of our laws. The Ninth Circuit is 
+home to more federally recognized Tribes than any other circuit--more 
+than 425. So many of the cases that come before the court involve 
+Tribal issues. I am concerned that Mr. Miller has a history of 
+representing interests that have sought to undermine Tribal 
+sovereignty. For example, in a brief he filed before the Supreme Court, 
+he urged the Court to adopt a standard that would have undermined the 
+legitimacy of many federally recognized Tribal governments.
+
+  The National Congress of American Indians and the Native American 
+Rights Fund have come out against his confirmation. I know the Senator 
+from New Mexico, Mr. Udall, is here and understands the major concerns, 
+since he is the ranking member of the Indian Affairs Committee, and how 
+important that concern is. It is only the third time in the history of 
+these two organizations--the National Congress of American Indians and 
+the Native American Rights Fund--that they have opposed a judicial 
+nominee.
+  In their letter to the Senate Judiciary Committee, they wrote that 
+Eric
+
+[[Page S1464]]
+
+Miller ``chose to build a law practice on mounting repeated challenges 
+to tribal sovereignty, lands, religious freedom, and the core attribute 
+of Federal recognition of Tribal existence.''
+  I believe we need judges, particularly on the Ninth Circuit, who 
+respect the history and contribution of Tribal nations, not one who 
+seeks to undermine their sovereign status.
+  Mr. Miller's record on women's reproductive rights is no less 
+troubling. During his time at the Justice Department, he used 
+ideological language in cases in which he advocated for restrictions on 
+a woman's personal healthcare decisions. I am concerned about what this 
+says about how Mr. Miller will approach these types of cases.
+  Finally, it pains me to say that this is a historic moment for this 
+body--for the Senate--because of how we came to be here today. It is 
+not historic in a good sense of the word. It is historic in a bad sense 
+of the word. We are voting on this nomination today because of an 
+unprecedented disregard for the Senate's traditions when it comes to 
+judicial nominations. According to the Congressional Research Service, 
+no judge has ever been confirmed without having both blue slips 
+returned by both home State Senators until now. We have had instances 
+where one blue slip was returned, and the judge went on to be 
+confirmed, but what we have here is not one blue slip from either of 
+the home State Senators from the State of Washington was returned.
+  Senator Cantwell, who also, by the way, has been a major leader when 
+it comes to Tribal matters, did not return a blue slip for Mr. Miller. 
+Senator Murray, a major leader when it comes to women's rights, did not 
+return a blue slip for Mr. Miller.
+  In the rush to confirm judges like Mr. Miller, the Judiciary 
+Committee has chipped away at the traditions and rules that allow us to 
+properly advise and consent on nominations, which is our responsibility 
+specifically enumerated in the Constitution.
+  This goes beyond disregarding the voices of home State Senators on 
+judicial nominations. This nominee's hearing was held during a 
+monthlong recess with no Democratic members of the Judiciary Committee. 
+Since this was an established work period at home, only two Republican 
+Members were in attendance. Mr. Miller's questioning lasted for less 
+than 5 minutes for a lifetime appointment. Why would you have this 
+hearing at a time when we were scheduled to be working in our home 
+States? That is what happened because it was rammed through the Senate 
+without the support of either of the home State Senators.
+  At a time when the American people see this body shirking its 
+responsibilities to act as a check and balance on the executive branch, 
+and when they see us divided on the basic question of whether Congress 
+has the power of the purse, I am concerned about what message we are 
+sending to the country and the world about the health of this Senate.
+  This is a lifetime appointment. It should at least have had a normal 
+hearing. We should have at least respected the views of the home State 
+Senators as we have so many times in the past. There are no winners in 
+a race to the bottom when it comes to process in the Senate--a 
+democratic process, a process of advice and consent, a process of 
+checks and balances set up by our Founders so no one branch of 
+government would have all the power.
+  What do we see happening now? We see judges being put forward without 
+blue slips. What that simply means is, the home State Senators are OK 
+with that nominee. We have had blue slips over the years in many 
+administrations for judges who perhaps were not the first choice of the 
+home State Senators, but they were someone they felt could be a judge 
+out of their State who would have the right experience as well as be 
+fair and impartial in the administrative law.
+  What else do we have going on? We have a President who, after an 
+agreement was reached in the Senate, which is run by his own political 
+party, on how to do border security--and it was a widespread vote in 
+both the Senate and the House--he then decided to declare an emergency 
+to do something which I consider unconstitutional and has no respect 
+for the balance of powers. He decided he would declare an emergency, 
+when, in fact, those kinds of emergencies are things like Hurricane 
+Sandy and the weather we saw, and the damage down in Florida, or the 
+wildfires we saw in Colorado and in California. Those are emergencies. 
+In addition to that, it raises eminent domain issues at the border.
+  It also makes us question where the money is coming from. That is why 
+you see these lawsuits. The money is coming from the military budget, 
+military construction for our troops, and the like.
+  While this may seem like a very different issue, it is not a 
+different issue. It is the same issue. The Senate should be sticking up 
+for the individual States we represent and the power of those States 
+and the power of that balance that is so important to running this 
+government and to the very Constitution that guides us.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from New Mexico.
+  Mr. UDALL. Madam President, I rise to oppose the nomination of Eric 
+Miller to be circuit judge for the U.S. Court of Appeals for the Ninth 
+Circuit.
+  Senate traditions command respect, and if we are going to change 
+them, we should do so in a bipartisan way. Changing rules midstream and 
+changing traditions well into the Congress causes bitterness, acrimony, 
+and it hurts our ability to work with each other. Such Senate 
+traditions as the blue slip, where the nominee's home State Senators 
+are given an opportunity to object--this courtesy has been in place for 
+more than 100 years as part of the Senate's advice and consent 
+responsibility.
+  If confirmed, Mr. Miller would be the first circuit court nominee in 
+history to be confirmed without having a blue slip returned from either 
+of his home State Senators. The lack of respect shown for this Senate 
+tradition by the Republican leadership of the Judiciary Committee is as 
+saddening as it is alarming.
+  Another Senate tradition again flouted by the majority was holding 
+Mr. Miller's confirmation hearing during a Senate recess. The recess 
+hearing--lasting only 30 minutes, with only two Republican Members in 
+attendance--was objected to by Democratic Members who sought to 
+question Mr. Miller on a number of legal issues, including Indian law. 
+Instead, the questioning lasted less than 5 minutes.
+  Bringing Mr. Miller's nomination to the floor without an adequate 
+hearing is an abuse of the confirmation process by the Republican 
+leadership of the Judiciary Committee.
+  Putting aside these abuses of the process, as significant as they 
+are, Mr. Miller's repeated willingness to side against Native American 
+Tribes in court and the likelihood that such willingness will follow 
+him to the bench where he would have an outsized influence on the 
+development of Indian law for decades, concerns me deeply.
+  As vice chair of the Senate Committee on Indian Affairs, I pay 
+special attention to a nominee's record on Tribal issues, especially if 
+a nominee will preside in a jurisdiction that has 427 Tribal nations, 
+as is the case with Mr. Miller. I am concerned that Mr. Miller's record 
+has not shown and does not have the proper respect for Tribal 
+sovereignty.
+  As an attorney in private practice, Mr. Miller consistently advocated 
+against Tribal interests and Tribal sovereignty. In fact, Mr. Miller 
+has donated over 675 hours of pro bono work against Tribal sovereignty, 
+against Native American religious practices, Federal recognition, and 
+numerous other respected Tribal doctrines.
+  For example, in the case of Upper Skagit v. Lundgren, Mr. Miller 
+argued that Tribal governments are not entitled to sovereign immunity 
+because it interferes with the ``State's sovereign interest in 
+adjudicating disputes over title to land within their territory and 
+frustrate[s] the ordinary adjudication of competing [ownership] 
+claims.'' His arguments in this case demonstrate he does not understand 
+the inherent sovereignty of Tribal nations.
+  Mr. Miller has shown a lack of respect for Native American religious 
+practitioners when he argued for a narrow application of the Religious 
+Freedom Restoration Act when these practitioners argued that the 
+construction of a solar farm would substantially burden their ability 
+to conduct their religious practices.
+
+[[Page S1465]]
+
+  Mr. Miller has argued for an extremely narrow reading of the Indian 
+Reorganization Act when considering the Federal recognition status of 
+Tribes. He asserts that only Tribes that possessed federally managed 
+lands when the act was passed in 1934 should be federally recognized. 
+This narrow view does not acknowledge the well-established principles 
+of Indian law and can lead to the termination of Tribal nations that do 
+not meet his narrow and arbitrary standard.
+  Mr. Miller's record on Tribal issues is one-sided and extreme. His 
+history of advocating against Tribal interests does not give me 
+confidence that he would be a fair and impartial jurist on the Ninth 
+Circuit Court of Appeals when Tribes come before him.
+  I will vote no on Eric Miller's confirmation. I urge my colleagues to 
+do so as well.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Montana.
+  Mr. TESTER. Madam President, before I start with my comments, I want 
+to associate my thoughts and views on Mr. Miller with Ranking Member 
+Udall's points on Native American sovereignty and Mr. Miller's current 
+job and what he has done in that.
+```

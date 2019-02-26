@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-02-26-pt1-PgH2219-6
+date: 2019-02-26
+edition: CREC
+section: HOUSE
+page: H2219
+citation: 165 Cong. Rec. H2219
+---
+
+# GUN VIOLENCE
+
+**Speaking:** Morelle, Joseph D. (M001206) [D-NY]
+
+**Measures:** H.R. 8
+
+```
+                              GUN VIOLENCE
+
+  (Mr. MORELLE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MORELLE. Madam Speaker, I rise today to urge my colleagues to 
+vote ``yes'' on an historic piece of legislation that will make its way 
+to the floor tomorrow, H.R. 8, which will require background checks on 
+all gun sales in the United States.
+  In 2017, almost 40,000 Americans died from gun violence--the highest 
+total on record since the Centers for Disease Control began tracking 
+the statistics 50 years ago. This is an epidemic that for far too long 
+has gone unaddressed at the Federal level. But that stops now.
+  Thoughts and prayers cannot stop the never-ending string of gun 
+violence that terrorizes communities across the Nation, but commonsense 
+legislation can. That is why I am so proud to cosponsor H.R. 8, which 
+marks a significant step forward in our efforts to keep guns out of the 
+wrong hands.
+
+[[Page H2220]]
+
+  I urge my colleagues to vote in favor of this legislation tomorrow 
+and to continue our work to ensure safer neighborhoods across America.
+
+                          ____________________
+```
