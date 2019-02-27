@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-02-27-pt1-PgH2265-6
+date: 2019-02-27
+edition: CREC
+section: HOUSE
+page: H2265
+citation: 165 Cong. Rec. H2265
+---
+
+# TOLL OF GUN VIOLENCE
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+**Measures:** H.R. 8
+
+```
+                          TOLL OF GUN VIOLENCE
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GARCIA of Illinois. Madam Speaker, as a Member of the House 
+representing a district disproportionately affected by gun violence, I 
+know firsthand the toll that it takes on our community. That is why, 
+earlier today, I voted on H.R. 8.
+  Just a year ago last October, a 27-year-old man was killed in a 
+senseless
+
+[[Page H2266]]
+
+act right in front of my house in Little Village in Chicago. As of 
+Sunday, our city had witnessed 241 shootings in 2019 so far, including 
+two in my neighborhood in the last week.
+  In fact, in Chicago, five of six homicides remain unsolved, but 
+Chicago has some of the most stringent gun laws in the U.S. What we 
+need is Federal legislation that makes it harder to access guns.
+  It is our responsibility to stand up for the safety of our 
+communities we serve. I am proud to have voted for the passage of the 
+Bipartisan Background Checks Act moments ago. Tomorrow, we will vote to 
+close the Charleston loophole, and I urge my Senate colleagues to 
+advance these efforts immediately.
+
+                          ____________________
+```

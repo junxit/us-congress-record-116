@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-02-27-pt1-PgH2241-3
+date: 2019-02-27
+edition: CREC
+section: HOUSE
+page: H2241
+citation: 165 Cong. Rec. H2241
+---
+
+# GUN VIOLENCE
+
+**Speaking:** Wexton, Jennifer (W000825) [D-VA]
+
+**Measures:** H.R. 8
+
+```
+                              GUN VIOLENCE
+
+  (Ms. WEXTON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. WEXTON. Mr. Speaker, several years ago, I had a conversation with 
+one of my constituents that I think about often.
+  She told me about when she sent her 5-year-old son off to his first 
+week of kindergarten in the Loudoun County Public Schools. He came home 
+from school one day, and he told her: Mommy, we had an emergency drill 
+today. My place to hide is behind the backpacks.
+  Like a backpack is going to stop a round from an AR-15.
+  And she decided right then and there that we need to do better for 
+our kids and that she needed to do something. Her way of doing 
+something was to start the Loudoun chapter of Moms Demand Action.
+  Now she and millions more like her have sent us here to do something 
+about gun violence.
+  We may not be able to stop every school shooting, every act of gun 
+violence, but shouldn't we at least try to stop some? Because if we 
+won't do that we shouldn't be here.
+  Today, for the first time in decades, the United States Congress will 
+vote on meaningful gun violence prevention legislation. We will vote on 
+and pass H.R. 8, the Bipartisan Background Checks Act of 2019, and I 
+will proudly vote ``yes'' because these checks will save lives.
+
+                          ____________________
+```
