@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-02-28-pt1-PgH2294-7
+date: 2019-02-28
+edition: CREC
+section: HOUSE
+page: H2294
+citation: 165 Cong. Rec. H2294
+---
+
+# THE RIGHT TO KEEP AND BEAR ARMS
+
+**Speaking:** Banks, Jim (B001299) [R-IN]
+
+```
+                    THE RIGHT TO KEEP AND BEAR ARMS
+
+  (Mr. BANKS asked and was given permission to address the House for 1 
+minute.)
+  Mr. BANKS. Madam Speaker, I rise in strong opposition to the majority 
+party's attempts to take away Americans' Second Amendment rights.
+  The legislation before the House this week is a constitutional 
+overreach that would limit the rights of law-abiding citizens and does 
+not address the serious issue of illegal gun transfers.
+  Madam Speaker, criminals do not follow the law. According to the 
+Department of Justice, 77 percent of State prison inmates convicted of 
+a firearm crime either obtain their firearm through theft, off the 
+black market, from a drug dealer, or on the street.
+
+[[Page H2295]]
+
+  This legislation would make criminals out of law-abiding citizens, 
+instead, and infringe upon Second Amendment gun rights. I urge my 
+colleagues to protect the constitutional right of the American people 
+to keep and bear arms.
+
+                          ____________________
+```

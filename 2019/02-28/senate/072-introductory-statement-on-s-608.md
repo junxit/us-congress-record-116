@@ -1,0 +1,73 @@
+---
+granule: CREC-2019-02-28-pt1-PgS1597
+date: 2019-02-28
+edition: CREC
+section: SENATE
+page: S1597
+citation: 165 Cong. Rec. S1597
+---
+
+# Introductory Statement on S. 608
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 608
+
+```
+      By Mr. DURBIN (for himself, Mr. Whitehouse, Ms. Warren, Mr. Reed, 
+        Mr. Brown, Mr. Blumenthal, Ms. Hirono, and Mr. Markey):
+  S. 608. A bill to provide that chapter 1 of title 9 of the United 
+States Code, relating to the enforcement of arbitration agreements, 
+shall not apply to enrollment agreements made between students and 
+certain institutions of higher education, and to prohibit limitations 
+on the ability of students to pursue claims against certain 
+institutions of higher education; to the Committee on Health, 
+Education, Labor, and Pensions.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 608
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Court Legal Access and 
+     Student Support (CLASS) Act of 2019''.
+
+     SEC. 2. INAPPLICABILITY OF CHAPTER 1 OF TITLE 9, UNITED 
+                   STATES CODE, TO ENROLLMENT AGREEMENTS MADE 
+                   BETWEEN STUDENTS AND CERTAIN INSTITUTIONS OF 
+                   HIGHER EDUCATION.
+
+       (a) In General.--Chapter 1 of title 9 of the United States 
+     Code (relating to the enforcement of arbitration agreements) 
+     shall not apply to an enrollment agreement made between a 
+     student and an institution of higher education.
+       (b) Definition.--In this section, the term ``institution of 
+     higher education'' has the meaning given such term in section 
+     102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
+
+     SEC. 3. PROHIBITION ON LIMITATIONS ON ABILITY OF STUDENTS TO 
+                   PURSUE CLAIMS AGAINST CERTAIN INSTITUTIONS OF 
+                   HIGHER EDUCATION.
+
+       Section 487(a) of the Higher Education Act of 1965 (20 
+     U.S.C. 1094(a)) is amended by adding at the end the 
+     following:
+       ``(30) The institution will not require any student to 
+     agree to, and will not enforce, any limitation or restriction 
+     (including a limitation or restriction on any available 
+     choice of applicable law, a jury trial, or venue) on the 
+     ability of a student to pursue a claim, individually or with 
+     others, against an institution in court.''.
+
+     SEC. 4. EFFECTIVE DATE.
+
+       This Act and the amendments made by this Act shall take 
+     effect 1 year after the date of enactment of this Act.
+                                 ______
+```
