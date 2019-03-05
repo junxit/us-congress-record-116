@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-03-05-pt1-PgS1645-4
+date: 2019-03-05
+edition: CREC
+section: SENATE
+page: S1645
+citation: 165 Cong. Rec. S1645
+---
+
+# Tribute to Richard C. Shelby (Executive Calendar)
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+                      Tribute to Richard C. Shelby
+
+  Mr. CORNYN. Madam President, I want to start my remarks this 
+afternoon by saying congratulations to our friend Senator Richard 
+Shelby, Alabama's longest serving U.S. Senator as of this Sunday.
+  Here in Washington, we know him as chairman of the all-powerful 
+Senate Appropriations Committee, which holds the congressional purse 
+strings, but Alabamians, from Huntsville to Gulf Shores, know him as a 
+devoted public servant working for the good of all of his constituents 
+and an invaluable Member of the U.S. Senate.
+  Senator Shelby is a man of principles. He believes in smaller 
+government, supports the Second Amendment, and works tirelessly for the 
+military men and women from Alabama.
+
+[[Page S1646]]
+
+  There is only one thing he is more proud of than his home State, and 
+that may be the Crimson Tide football team and the number of their 
+national championships.
+  I just wanted to start my comments this afternoon by saying 
+congratulations to our friend Senator Richard Shelby for 32 years of 
+serving the people of Alabama.
+```
