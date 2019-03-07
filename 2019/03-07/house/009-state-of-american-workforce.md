@@ -1,0 +1,89 @@
+---
+granule: CREC-2019-03-07-pt1-PgH2508-3
+date: 2019-03-07
+edition: CREC
+section: HOUSE
+page: H2508
+citation: 165 Cong. Rec. H2508
+---
+
+# STATE OF AMERICAN WORKFORCE
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+                      STATE OF AMERICAN WORKFORCE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Smucker) for 5 minutes.
+  Mr. SMUCKER. Mr. Speaker, I rise today to talk about our economy and 
+the state of the American workforce.
+  With reforms enacted by the Tax Cuts and Jobs Act, as well as needed 
+regulatory relief, nearly every economic indicator is pointing up. The 
+latest U.S. jobs report shows our economy is at its strongest rate in 
+13 years. Unemployment is at a record low across the board. Wages are 
+growing at the fastest level in over a decade. Business investment is 
+strong. Best of all, American families are keeping more money in their 
+pockets. But new success brings a new set of challenges.
+  The number of job openings in the U.S. hit a record high last month 
+of 7.3 million. We have gone from, ``Where are the jobs?'' to, ``Where 
+are the workers?'' While it may seem positive that there are more jobs 
+open than workers to fill them, I fear that, without addressing the 
+needs of our workforce, we will stifle our incredible economic growth.
+  According to a study conducted by the National Federation of 
+Independent Business, 22 percent of business owners cite the difficulty 
+in finding workers as their single most important business problem. I 
+hear this from every employer I meet with in my district. The number of 
+job openings is staggering and must be addressed.
+
+[[Page H2509]]
+
+  
+
+
+                              {time}  1015
+
+  In fact, every few months I meet with a group of staffing companies. 
+These individuals operate companies that fill positions ranging from 
+temporary to permanent work in various industries. Between these 
+staffing companies, they would be able to fill thousands of jobs today 
+if they could find the necessary workers. Every day, these positions go 
+unfilled and opportunities are lost.
+  To help alleviate this situation, I plan on introducing legislation 
+to help build a workforce pipeline.
+  One bill, the USA Workforce Tax Credit Act, which I will be 
+introducing next week, encourages charitable donations for community-
+based apprenticeship initiatives, career and technical education, 
+workforce development, and K-12 educational preparedness.
+  Enacting this proposed legislation will help meet the urgent need to 
+ensure the preparation of current and future workers for the changing 
+needs of the U.S. economy. Job creation and job preparation must go 
+hand in hand.
+  Another area we must evaluate to help fill out workforce shortages is 
+our Nation's visa system. Our current system spans the spectrum of 
+foreign work visas, but does not address a main driver of illegal 
+immigration.
+  My bill, the Workforce for an Expanding Economy Act, would help 
+address the gap in the spectrum. This legislation will create a market-
+driven immigration visa program targeted to workers in occupations that 
+do not require a college degree, otherwise defined as ``less skilled'' 
+to do year-round, non-farm work, creating a new ``H-2D visa.'' This H-
+2D visa would only go into effect if the unemployment rate is 5 percent 
+or lower in the metropolitan area where an employer is seeking 
+employees.
+  Moreover, this bill would implement a two-track system in which 
+employers and potential immigrant laborers are both required to receive 
+a permit to work in the U.S.
+  Much like our other visa programs, employers will have to prove they 
+are unable to hire a U.S. worker after undergoing the required market 
+tests. Employees are only allowed to work for an approved employer, at 
+the approved location, in the specific job that was approved, and all 
+employers will be required to use E-Verify.
+  While just a start, Mr. Speaker, I believe these bills will help 
+strengthen our workforce and help meet the needs of employers to 
+continue supporting our economic growth. I urge my colleagues to 
+support them and to help continue our country's track record of success 
+and keep us on the right economic path.
+
+                          ____________________
+```
