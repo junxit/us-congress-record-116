@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-03-08-pt1-PgH2590-5
+date: 2019-03-08
+edition: CREC
+section: HOUSE
+page: H2590
+citation: 165 Cong. Rec. H2590
+---
+
+# HONORING VETERAN OF THE MONTH PETER LUITWIELER
+
+**Speaking:** Hern, Kevin (H001082) [R-OK]
+
+```
+             HONORING VETERAN OF THE MONTH PETER LUITWIELER
+
+  (Mr. KEVIN HERN of Oklahoma asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. KEVIN HERN of Oklahoma. Madam Speaker, I rise today to honor 
+Peter E. Luitwieler, an American hero and a true friend to our 
+country's veterans.
+  Mr. Luitwieler served in military intelligence during the Vietnam 
+war, and in January of 1968, when his compound was surrounded by enemy 
+troops and the machine gunners abandoned their posts, Mr. Luitwieler 
+and a brave marine manned the machine guns for hours, keeping the 
+enemies at bay and protecting the lives of their team. For this act of 
+bravery, he was awarded the Vietnamese equivalent of the Bronze Star.
+  After he retired, Mr. Luitwieler dedicated his time to fellow 
+veterans. He now serves as a program manager for Warrior Partnerships 
+of Eastern Oklahoma and the Oklahoma Veterans Connections, and he is a 
+mentor to veterans going through the Tulsa Veterans Treatment Court, 
+going above and beyond to enrich the lives of Oklahoma's veterans.
+  Mr. Luitwieler is an incredible example of the great men and women 
+who have served our country every day. He is the First District's March 
+2019 Veteran of the Month, and I am honored to recognize him with this 
+award.
+
+                          ____________________
+```

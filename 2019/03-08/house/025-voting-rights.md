@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-03-08-pt1-PgH2608
+date: 2019-03-08
+edition: CREC
+section: HOUSE
+page: H2608
+citation: 165 Cong. Rec. H2608
+---
+
+# VOTING RIGHTS
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+**Measures:** H.R. 1, H.R. 4
+
+```
+                             VOTING RIGHTS
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute.)
+  Ms. DEAN. Mr. Speaker, last weekend Members of Congress traveled to 
+Alabama for a civil rights pilgrimage. In Selma we marched across the 
+Edmund Pettus Bridge alongside Congressman   John Lewis.
+  Mr. Speaker, 54 years ago yesterday, Congressman Lewis was on that 
+same bridge with hundreds of other brave Americans young and old. They 
+were marching for the right to vote, and they were met with a wave of 
+teargas and billy clubs. Representative Lewis was beaten unconscious.
+  The trip for me was a powerful and terrible history lesson.
+  Today States no longer use terror to prevent citizens from voting, 
+but they do use other means. Since the Supreme Court's 2013 Shelby 
+decision, nearly two dozen States have implemented restrictive voter ID 
+laws, closed polling places, and used other means to suppress minority 
+voting.
+  H.R. 4, the Voting Rights Advancement Act, will erase these trends, 
+and H.R. 1, which we passed today, strengthens democracy by ensuring 
+clean, fair elections, prohibiting voter roll purges, and ending 
+gerrymandering. Democracy means government by the people for the 
+people. It lives up to the legacy of those marchers 54 years ago. 
+Ultimately, it means making voting easier, not harder.
+
+  Let's keep our eye on the prize.
+
+                          ____________________
+```

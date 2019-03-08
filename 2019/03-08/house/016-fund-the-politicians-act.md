@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-03-08-pt1-PgH2591-3
+date: 2019-03-08
+edition: CREC
+section: HOUSE
+page: H2591
+citation: 165 Cong. Rec. H2591
+---
+
+# FUND THE POLITICIANS ACT
+
+**Speaking:** Hartzler, Vicky (H001053) [R-MO]
+
+**Measures:** H.R. 1
+
+```
+                        FUND THE POLITICIANS ACT
+
+  (Mrs. HARTZLER asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. HARTZLER. Madam Speaker, today I raise my objection to H.R. 1, 
+the so-called For the People Act. This act should really be called the 
+Fund the Politicians Act. It is a Federal takeover of our election 
+system. It opens up our precious election system to fraud, and it 
+violates free speech rights.
+  This bill would allow for the funding of politicians' campaigns. They 
+would be given a 6-to-1 match with government money for their 
+campaigns. I don't believe Americans want their money going to help pay 
+for more robocalls from politicians that they don't even support.
+  It also will give $25 to citizens to give to a campaign of their 
+choice. What a terrible use of our tax dollars.
+  It also opens up our system to fraud by requiring that they have to 
+allow for online registration, same-day registration, and it nullifies 
+all the State protections. No Secretary of State was even consulted 
+about this bill.
+  And finally, it violates our free speech rights by requiring the 
+publishing of the names and addresses of donors to organizations who 
+may speak about a candidate.
+  This bill is terrible. Every vote should count, and no government 
+money should go to line politicians' campaigns.
+
+                          ____________________
+```
