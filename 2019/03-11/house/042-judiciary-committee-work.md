@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-03-11-pt1-PgH2630
+date: 2019-03-11
+edition: CREC
+section: HOUSE
+page: H2630
+citation: 165 Cong. Rec. H2630
+---
+
+# JUDICIARY COMMITTEE WORK
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+**Measures:** H.R. 1, H.R. 8
+
+```
+                              {time}  1930
+                        JUDICIARY COMMITTEE WORK
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, I am proud to serve on the Judiciary 
+Committee in the House and be the chairman of the Constitution, Civil 
+Rights and Civil Liberties Subcommittee.
+  I want to report to the American people that we passed out H.R. 1 
+that helps clean up corruption in our government, makes our government 
+more transparent, makes voting easier and open to more people, and does 
+other improvements the American people want.
+  We also passed out H.R. 8, the first gun reform bill in over 20 years 
+that says you have to have background checks on all sales.
+  This week, we will be marking up the Violence Against Women Act. 
+Hopefully, we will have bipartisan support for that.
+  We will also have a hearing on renewing the Voting Rights Act that 
+never should have been discarded by the Supreme Court. We will be 
+having hearings to get the Voting Rights Act back on the law books in 
+the United States.
+  And our subcommittee had a hearing last week on the President's 
+powers on emergency actions. We have bipartisan agreement that we need 
+to reform that bill and will work together in a bipartisan fashion.
+
+                          ____________________
+```

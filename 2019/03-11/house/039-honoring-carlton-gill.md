@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-03-11-pt1-PgH2629-4
+date: 2019-03-11
+edition: CREC
+section: HOUSE
+page: H2629
+citation: 165 Cong. Rec. H2629
+---
+
+# HONORING CARLTON GILL
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                         HONORING CARLTON GILL
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to remember the life 
+of Mr. Carlton Gill, who passed away on February 18 at the age of 78.
+  His friends remember Mr. Gill as a man of many talents and an 
+institution in his hometown of Richmond Hill. Both of these statements 
+help to sum up Mr. Gill but only serve to remind us of a portion of his 
+character.
+  A formidable figure who played basketball at both Georgia Southern 
+University and the University of Georgia, his many talents included 
+working as a procurement forester at S.A. Allen for nearly 40 years, 
+serving as a Bryan County commissioner for five terms, worshipping at 
+Compassion Christian Church as a deacon, and much more.
+  For his work in guiding Richmond Hill through periods of significant 
+growth, a nearby section of I-95 is named in his honor.
+  Others, though, will remember his imposing stature and the respect he 
+commanded when entering the room. But he never wavered in his ability 
+to be fair and honest, and to treat everyone with that same level of 
+respect. A great leader of his community, Mr. Gill will be missed.
+  His family and friends are in my thoughts and prayers during this 
+difficult time.
+
+                          ____________________
+```
