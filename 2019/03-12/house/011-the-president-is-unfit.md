@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-03-12-pt1-PgH2652-2
+date: 2019-03-12
+edition: CREC
+section: HOUSE
+page: H2652
+citation: 165 Cong. Rec. H2652
+---
+
+# THE PRESIDENT IS UNFIT
+
+**Speaking:** Green, Al (G000553) [D-TX]
+
+```
+                         THE PRESIDENT IS UNFIT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Texas (Mr. Green) for 5 minutes.
+  Mr. GREEN of Texas. Mr. Speaker, and still I rise. I do so today 
+because I love my country and I believe in what it stands for.
+  Because I love it and believe in what it stands for, I believe that 
+my country is worth liberty and justice for all. I believe it is worth 
+government of the people, by the people, for the people. I believe that 
+it is worth the belief that all persons are created equal and endowed 
+by their creator with certain inalienable rights, among them, life, 
+liberty, and the pursuit of happiness.
+  Our country is worth it. And because our country is worth making real 
+these great and noble American ideals, I do not believe that an unfit 
+President should be allowed to stay in office.
+  If we acknowledge that the President is unfit, if we say that he is 
+causing harm to society, then we have to honor Article II, section 4 of 
+the Constitution of the United States of America, which calls for the 
+impeachment of an unfit President who is causing harm to society.
+  This is where I stood some many, many weeks ago, this is where I 
+stand now, and I stand here because I love my country.
+
+                          ____________________
+```

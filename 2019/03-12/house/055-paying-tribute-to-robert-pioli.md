@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-03-12-pt1-PgH2676-4
+date: 2019-03-12
+edition: CREC
+section: HOUSE
+page: H2676
+citation: 165 Cong. Rec. H2676
+---
+
+# PAYING TRIBUTE TO ROBERT PIOLI
+
+**Speaking:** Johnson, Bill (J000292) [R-OH]
+
+```
+                     PAYING TRIBUTE TO ROBERT PIOLI
+
+  (Mr. JOHNSON of Ohio asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of Ohio. Madam Speaker, I rise to pay tribute to an 
+American hero, Robert Pioli, of Marietta, Ohio.
+  Only 19 years old when Pearl Harbor was attacked, he stepped up to 
+fight for his country. Robert requested to be a bombardier because it 
+had the shortest training, and he was ready to fight.
+  In April of 1944, his B-17 was hit over Hungary. He was captured by 
+the Nazis and became a POW, first sent to Poland and then eventually to 
+Moosburg, Germany.
+  It was in Moosburg, in April 1945, that tanks under General Patton 
+rolled over the gates and liberated the camp. Then came what Lieutenant 
+Pioli said was the most memorable and dramatic
+
+[[Page H2677]]
+
+moment of his life: The American flag was slowly raised over the town 
+of Moosburg. There wasn't a dry eye in the camp.
+  Robert recently passed away, peacefully, with his family at his side.
+  I am honored to have gotten to know this brave American and his 
+family. He didn't like to be called a hero, but that doesn't change the 
+fact that he certainly was one.
+  God rest in peace, Robert Pioli.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-03-12-pt1-PgH2654-7
+date: 2019-03-12
+edition: CREC
+section: HOUSE
+page: H2654
+citation: 165 Cong. Rec. H2654
+---
+
+# WELCOMING RABBI CLAUDIO J. KOGAN
+
+**Speaking:** Gonzalez, Vicente (G000581) [D-TX]
+
+```
+                    WELCOMING RABBI CLAUDIO J. KOGAN
+
+  The SPEAKER. Without objection, the gentleman from Texas (Mr. 
+Gonzalez) is recognized for 1 minute.
+  There was no objection.
+  Mr. GONZALEZ of Texas. Madam Speaker, I rise today to honor my good 
+friend, Rabbi Claudio J. Kogan.
+  Rabbi Kogan has devoted his life to being a spiritual leader in the 
+Jewish faith and a leader in our community.
+  Rabbi Kogan is currently the director of the University of Texas Rio 
+Grande Valley School of Medicine's new Institute for Bioethics and 
+Social Justice. Since June 2018, Rabbi Kogan has led the School of 
+Medicine's efforts on ethical and social issues that affect south Texas 
+and the Nation.
+  Rabbi Kogan is a physician and an ordained rabbi. He earned his 
+medical degree from the University of Buenos Aires School of Medicine 
+and a master's of bioethics from the University of Pennsylvania.
+  Rabbi Kogan has also spent time as a member of the Institutional 
+Review Board at the Yale University School of Medicine.
+  Previously, he served as rabbi at Temple Emanuel in my district in 
+McAllen, Texas, and continues to serve as a chaplain for various law 
+enforcement agencies and hospital systems in the area.
+  Madam Speaker, it is my honor to have Rabbi Kogan and his family join 
+us here today in the people's House.
+
+                          ____________________
+```
