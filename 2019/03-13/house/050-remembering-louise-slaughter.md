@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-03-13-pt1-PgH2705
+date: 2019-03-13
+edition: CREC
+section: HOUSE
+page: H2705
+citation: 165 Cong. Rec. H2705
+---
+
+# REMEMBERING LOUISE SLAUGHTER
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+```
+                      REMEMBERING LOUISE SLAUGHTER
+
+  (Mr. McGOVERN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGOVERN. Madam Speaker, it is fitting that we are honoring 
+Congresswoman Slaughter during Women's History Month because her legacy 
+is planted firmly in the history books.
+  She wasn't the daughter of wealth or privilege, but she traveled from 
+the coalfields of Kentucky to become the first woman ever to chair the 
+House Rules Committee.
+  Louise's 30 years of service here embodied what it means to be a 
+public servant: writing the STOCK Act and the Genetic Information 
+Nondiscrimination Act, shepherding through the Affordable Care Act. I 
+could go on and on.
+  There was no special interest too influential for her to take on, no 
+politician too powerful.
+  Many of us saw her determination firsthand, whether we were with her 
+on an issue or especially if we were on the opposite side. We are all 
+better for it. This Chamber and this country are better for it.
+  I am proud to have worked alongside her. I am glad that she will be 
+joining so many pioneering women in the National Women's Hall of Fame 
+this year.
+  Madam Speaker, and on behalf of all the Members of this Chamber and 
+on behalf of her staff, especially in the Rules Committee, let me just 
+say we loved her, and we miss her a lot.
+
+                          ____________________
+```

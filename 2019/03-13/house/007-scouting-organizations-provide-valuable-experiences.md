@@ -1,0 +1,68 @@
+---
+granule: CREC-2019-03-13-pt1-PgH2684
+date: 2019-03-13
+edition: CREC
+section: HOUSE
+page: H2684
+citation: 165 Cong. Rec. H2684
+---
+
+# SCOUTING ORGANIZATIONS PROVIDE VALUABLE EXPERIENCES
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          SCOUTING ORGANIZATIONS PROVIDE VALUABLE EXPERIENCES
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, Scouting organizations are 
+pivotal in the lives of so many American youth, and this week there has 
+been much to celebrate. Yesterday, the Girl Scouts of the USA marked 
+its 107th birthday, and tonight the Boy Scouts of America will conclude 
+its annual report to the Nation.
+  Girl Scouts help girls develop into the future leaders of our 
+economy, our communities, our country, and the world by encouraging 
+them to dream big and work hard to achieve their goals. In fact, many 
+Congresswomen have been Girl Scouts, and we saw some Congresswomen 
+deliver speeches on this floor yesterday in honor of the Girl Scouts 
+building girls of courage, confidence, and character for 107 years.
+  Mr. Speaker, I know firsthand the positive impact that Scouting can 
+have on the life of a young person. I have been actively involved with 
+the Boy Scouts of America since I was 11 years old.
+  On May 17, 1977, I became an Eagle Scout myself, as a member of Boy 
+Scout Troop 52 in Walker Township, Pennsylvania. Over the years, I have 
+proudly held various leadership roles with Boy Scout troops in 
+Pennsylvania, including two separate stints as Scoutmaster for Troop 
+353 and president of the Juniata Valley Boy Scout Council. One of my 
+greatest honors was to witness 29 young men achieve the rank of Eagle 
+Scout during my tenure as Scoutmaster.
+  Many Eagle Scouts will gather tonight in the Capitol to conclude the 
+annual Report to the Nation delegation trip. I am proud to be a part of 
+the Eagles on the Hill reception, and I look forward to hearing from 
+the Scouts.
+  Members of Congress and I will speak about how Scouting positively 
+impacted our lives. And after the speeches, the Scouts will have a 
+chance to discuss their experience in Scouting as a whole, as well as 
+their time in the Report to the Nation delegation.
+  Report to the Nation is an annual event meant to connect some of 
+Scouting's best and brightest with government officials and elected 
+representatives. Each year, 6 to 10 representatives of the Boy Scouts 
+meet with senior government officials, including the President and key 
+congressional leaders, with the goal of providing an update of what 
+Scouts have achieved over the past year. This also allows members of 
+the Federal Government an opportunity to meet some of the Nation's 
+brightest young Scouts. The delegation spends between a week and 10 
+days in Washington, D.C., conducting meetings and touring the city.
+  The Report to the Nation delegation stems from the congressional 
+charter of the Boy Scouts of America, dating back to June 15, 1916, and 
+represents millions of Boy Scouts.
+  Mr. Speaker, I know that the Boy Scouts of America and the Girl 
+Scouts of the USA both contribute to the spirit of this Nation and play 
+an essential role in educating our youth. These organizations build 
+character; they help young people become actively engaged in their 
+communities; and they promote serving others in ways big and small. And 
+that is something we can all respect and admire.
+
+                          ____________________
+```

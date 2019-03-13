@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-03-13-pt1-PgH2689-11
+date: 2019-03-13
+edition: CREC
+section: HOUSE
+page: H2689
+citation: 165 Cong. Rec. H2689
+---
+
+# TRUMP'S BUDGET
+
+**Speaking:** Kirkpatrick, Ann (K000368) [D-AZ]
+
+```
+                             TRUMP'S BUDGET
+
+  (Mrs. KIRKPATRICK asked and was given permission to address the House
+
+[[Page H2690]]
+
+for 1 minute and to revise and extend her remarks.)
+  Mrs. KIRKPATRICK. Mr. Speaker, I am here to represent the residents 
+of Arizona's Second Congressional District. I work for them.
+  Our constituents sent us here to practice good government and to 
+fight for their values and interests, so I am upset with the 
+President's recent budget request.
+  A budget is an expression of our values, and this budget further 
+proves how out of touch Donald Trump is with real American families.
+  This budget ransacks Medicaid, Medicare, and affordable healthcare. 
+It makes it harder for Americans to have access to quality healthcare.
+  This budget abandons hungry families who are struggling to make ends 
+meet. It fails farmers and rural communities. It pushes affordable 
+college further out of reach, making it harder for students to attend 
+college. And this budget demands billions for a wasteful, ineffective 
+wall.
+  We need to have a budget that prioritizes working families and not 
+large corporations.
+  We need to invest more in our education system and invest more in our 
+young people, not less.
+  What the President has laid out does not accomplish the goals or 
+values of American families, and I reject this budget.
+
+                          ____________________
+```

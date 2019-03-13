@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-03-13-pt1-PgH2704-4
+date: 2019-03-13
+edition: CREC
+section: HOUSE
+page: H2704
+citation: 165 Cong. Rec. H2704
+---
+
+# REMEMBERING LOUISE SLAUGHTER
+
+**Speaking:** Matsui, Doris O. (M001163) [D-CA]
+
+```
+                      REMEMBERING LOUISE SLAUGHTER
+
+  (Ms. MATSUI asked and was given permission to address the House for 1 
+minute.)
+  Ms. MATSUI. Madam Speaker, a year ago we said good-bye to Louise 
+Slaughter, our dear, dear, friend.
+  Louise Slaughter was a titan of Congress. She was unforgettable.
+  When I first joined the Rules Committee after getting elected, I was 
+immediately drawn to Louise. Louise took me under her wing. She even 
+made fun of people that I thought were really wonderful, and she 
+laughed because she knew we shared a joke.
+  Honestly, Louise was somebody who even made the late hours in the 
+Rules Committee fun, too, with her wittiness and her intellect and the 
+fact that, beneath it all, she absolutely loved serving in this 
+wonderful House.
+  Louise lived in perfect balance. She was charming, yet intense; 
+witty, yet resolute.
+  After spending time with Louise, you knew her heart was with the 
+people of western New York, and you knew she wasn't going to back down 
+from her beliefs.
+  She loved her family. She loved her district as if they were her 
+family, also. And we loved Louise because she loved everyone and gave 
+support.
+  We miss you, Louise.
+
+                          ____________________
+```
