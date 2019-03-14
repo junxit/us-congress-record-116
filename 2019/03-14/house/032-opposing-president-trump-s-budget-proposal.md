@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-03-14-pt1-PgH2734-4
+date: 2019-03-14
+edition: CREC
+section: HOUSE
+page: H2734
+citation: 165 Cong. Rec. H2734
+---
+
+# OPPOSING PRESIDENT TRUMP'S BUDGET PROPOSAL
+
+**Speaking:** McAdams, Ben (M001209) [D-UT]
+
+```
+               OPPOSING PRESIDENT TRUMP'S BUDGET PROPOSAL
+
+  (Mr. McADAMS asked and was given permission to address the House for 
+1 minute.)
+  Mr. McADAMS. Mr. Speaker, I rise in opposition to the President's 
+budget proposal, which would increase the Federal deficit from $779 
+billion in 2018 to $1.1 trillion in 2020. If the goal is to rein in 
+deficits and debt, this budget represents epic failure.
+  I am a public servant who takes seriously the responsibility of 
+spending other people's money. As a freshman Member of the Congress, 
+the current deficit hole we have dug for ourselves wasn't my doing, but 
+I was elected to solve problems, not make them worse.
+  America's $22 trillion debt is a bipartisan problem. Democrats and 
+Republicans have acted in a way that suggests that debt doesn't matter. 
+But Utahns know that if it was their small business with books so badly 
+out of balance, they would soon be out of business.
+  Our government has been living beyond its means for years, and I 
+believe it is wrong for one generation to forever burden generations 
+yet to come.
+  As a former mayor who had to balance, in bipartisan fashion, a budget 
+every year, I know these choices aren't easy. But it is our job to roll 
+up our sleeves, come together, and work out a budget that takes serious 
+steps toward reducing the dangerous, unsustainable levels of debt in 
+our country. Those steps are not in the President's budget.
+
+                          ____________________
+```

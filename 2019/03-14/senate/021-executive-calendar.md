@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-03-14-pt1-PgS1891-5
+date: 2019-03-14
+edition: CREC
+section: SENATE
+page: S1891
+citation: 165 Cong. Rec. S1891
+---
+
+# EXECUTIVE CALENDAR
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                           EXECUTIVE CALENDAR
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the en bloc consideration of the following nominations: 
+Executive Calendar Nos. 63, 64 and 66.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the nominations en bloc.
+  The legislative clerk read the nominations of Janice Miriam 
+Hellreich, of Hawaii, to be a Member of the Board of Directors of the 
+Corporation for Public Broadcasting for a term expiring January 31, 
+2024; Robert A. Mandell, of Florida, to be a Member of the Board of 
+Directors of the Corporation for Public Broadcasting for a term 
+expiring January 31, 2022; and Bruce M. Ramer, of California, to be a 
+Member of the Board of Directors of the Corporation for Public 
+Broadcasting for a term expiring January 31, 2024.
+  Thereupon, the Senate proceeded to consider the nominations en bloc.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+vote on the nominations en bloc with no intervening action or debate; 
+that if confirmed, the motions to reconsider be considered made and 
+laid upon the table en bloc; that the President be immediately notified 
+of the Senate's action; that no further motions be in order; and that 
+any statements relating to the nominations be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The question is, Will the Senate advise and consent to the Hellreich, 
+Mandell, and Ramer nominations en bloc?
+  The nominations were confirmed en bloc.
+
+                          ____________________
+```

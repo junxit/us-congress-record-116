@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-03-14-pt1-PgH2722-5
+date: 2019-03-14
+edition: CREC
+section: HOUSE
+page: H2722
+citation: 165 Cong. Rec. H2722
+---
+
+# SUPPORTING THE DREAM AND PROMISE ACT
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+**Measures:** H.R. 5
+
+```
+                  SUPPORTING THE DREAM AND PROMISE ACT
+
+  (Ms. GARCIA of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Ms. GARCIA of Texas. Mr. Speaker, I rise today to express my strong 
+and unwavering support for H.R. 5, the Dream and Promise Act.
+  I am proud to represent the 29th Congressional District of Texas. One 
+of the things I am most proud of is the strong and vibrant immigration 
+communities that reside in our district, where thousands of DACA, TPS, 
+and DED recipients live, work, and play beside us as neighbors and 
+colleagues. If Dreamers were forced to leave our district tomorrow, we 
+would lose over $400 million of GDP.
+  Our immigration policies put politics over people, which often hurt 
+our children who are in constant fear of being separated and uprooted 
+from the country they call their own. This is wrong for our economy. 
+This is wrong for our communities. This is wrong for our country.
+  It is time that we pass a permanent solution for these vital members 
+of our society, which is why I urge all my colleagues to support H.R. 
+5.
+
+                          ____________________
+```
