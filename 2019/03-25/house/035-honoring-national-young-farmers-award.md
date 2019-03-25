@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-03-25-pt1-PgH2785-4
+date: 2019-03-25
+edition: CREC
+section: HOUSE
+page: H2785
+citation: 165 Cong. Rec. H2785
+---
+
+# HONORING NATIONAL YOUNG FARMERS AWARD
+
+**Speaking:** Rouzer, David (R000603) [R-NC]
+
+```
+                 HONORING NATIONAL YOUNG FARMERS AWARD
+
+  (Mr. ROUZER asked and was given permission to address the House for 1 
+minute.)
+  Mr. ROUZER. Mr. Speaker, Jessica and Brandon Batten of Johnston 
+County, North Carolina, have received the distinct honor of being 
+selected as the 2019 National Outstanding Young Farmers of the Year. No 
+couple is more deserving of this award than Jessica and Brandon.
+  Brandon has been farming his entire life. He is a sixth-generation 
+farmer and the third generation of his family's operation Triple B 
+Farms, Incorporated, where he and his family produce tobacco, wheat, 
+rye, soybeans, corn, and hay, along with beef cattle. His wife, 
+Jessica, is an environmental engineer, providing innovative 
+conservation plans to help increase farm productivity.
+  Not only are the Battens helping to produce our food supply, they are 
+also very active members of their community. Brandon is a first 
+responder for Strickland's Crossroads Volunteer Fire Department, and 
+both are active in their church.
+  During a time when North Carolina's farm families have been facing a 
+great deal of uncertainty, Brandon has been a strong advocate for his 
+occupation through various farm organizations as well as the promotion 
+of research and technological advancements in agriculture to help the 
+industry remain strong.
+
+  Mr. Speaker, these are two great young Americans who deserve to have 
+their hard work and efforts rewarded, and I congratulate them on being 
+selected for this very distinguished recognition.
+
+                          ____________________
+```
