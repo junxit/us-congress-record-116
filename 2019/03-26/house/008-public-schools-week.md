@@ -1,0 +1,80 @@
+---
+granule: CREC-2019-03-26-pt1-PgH2800-2
+date: 2019-03-26
+edition: CREC
+section: HOUSE
+page: H2800
+citation: 165 Cong. Rec. H2800
+---
+
+# PUBLIC SCHOOLS WEEK
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                              {time}  1015
+                          PUBLIC SCHOOLS WEEK
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Thompson) for 5 minutes.
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, this week, our Nation 
+celebrates Public Schools Week. It is a time when we acknowledge the 
+diversity and success of our public schools and the sound education 
+that they provide. Strengthening America's public schools is the best 
+way to ensure our children's future success and our country's 
+prosperity.
+  Ninety percent of American children attend public schools. This week, 
+supporters across the country will share stories of the many schools, 
+students, and professionals who make public schools such vital 
+components of our communities. This includes parents who are working 
+hard to improve educational outcomes for children. Advocates nationwide 
+will share scores of stories about public school students and their 
+successes.
+  Mr. Speaker, public school teachers truly make a difference in the 
+lives of our students. They prepare them for bright and successful 
+futures. It is
+
+[[Page H2801]]
+
+their dedication to our students that builds strong public schools and, 
+therefore, strong communities.
+  As a senior member of the Education and Labor Committee and a product 
+of public schools, I know the incredible role our schools play in 
+communities across the Nation.
+  Public schools today have much good news to share, from increasing 
+graduation rates and reduced dropout rates, to improved ratings given 
+by communities on school performance.
+  Public schools welcome every child, regardless of ability, race, 
+wealth, language, country of origin, or needs. By strengthening the 
+public school system, we strengthen the democracy of our country.
+  Supporting public schools today will build a stronger workforce for 
+tomorrow. The future of our Nation to produce in the manufacturing 
+industry, the farm, and the information age will be based on the 
+investment we make today in supporting public schools. Schools today 
+are integrating the new ideas that are being explored by businesses and 
+industry.
+  Strong public schools are vital to our national security. Our 
+military's success is dependent on members who can apply their 
+knowledge and skills to navigate the increasingly complex tools that 
+keep our country safe.
+  In many communities, the school district is the largest employer. 
+Teachers, bus drivers, administrators, cafeteria workers, coaches, and 
+facilities management all depend on the school district, and all these 
+jobs contribute to the fabric of a community. Communities are stronger 
+and schools are better when we all work together to support public 
+education.
+  Public schools also make sure kids receive at least one nutritious 
+meal a day. More than 30 million school lunches are served each day, 
+including 20 million free and 2 million reduced priced lunches. For 
+some students, the only meal that they receive will be the one that 
+they get at school.
+  Mr. Speaker, a child's opportunity for success should not be left to 
+chance. Every child needs a quality, well-equipped school right in 
+their neighborhood, where they can learn, be inspired, and thrive.
+  Public education has always been the great equalizer in the United 
+States. I am grateful for the contribution of our public schools, and I 
+know that, together, we will continue to work to strengthen them for 
+our most precious resource: our children.
+
+                          ____________________
+```

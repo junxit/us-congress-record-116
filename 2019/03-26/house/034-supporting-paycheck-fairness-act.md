@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-03-26-pt1-PgH2805-5
+date: 2019-03-26
+edition: CREC
+section: HOUSE
+page: H2805
+citation: 165 Cong. Rec. H2805
+---
+
+# SUPPORTING PAYCHECK FAIRNESS ACT
+
+**Speaking:** Carson, Andre (C001072) [D-IN]
+
+```
+                    SUPPORTING PAYCHECK FAIRNESS ACT
+
+  (Mr. CARSON of Indiana asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARSON of Indiana. Madam Speaker, on April 2, just a few days 
+from now, we will observe Equal Pay Day in the United States. This 
+commemoration represents the amount of time into this new year a woman 
+must work to earn as much as a man earned in 2018 alone.
+  As long as this continues, we are effectively telling our wives, our 
+daughters, our mothers, and every woman in our life that they are 
+inherently worth less.
+  I don't believe this. I don't believe my colleagues do either, which 
+is why I encourage everyone to support the Paycheck Fairness Act when 
+it comes to a vote tomorrow.
+  This bill represents a major step toward closing the pay gap, 
+ensuring employers pay women what they are due, and the process will 
+grow our economy by putting more money in Americans' paychecks and 
+helping families thrive.
+  I am honored to support this legislation for my daughter, for the 
+hardworking families in our district, and for women across America who 
+deserve a fair wage for honest work.
+
+                          ____________________
+```

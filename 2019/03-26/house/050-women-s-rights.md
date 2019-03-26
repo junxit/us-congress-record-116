@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-03-26-pt1-PgH2818-2
+date: 2019-03-26
+edition: CREC
+section: HOUSE
+page: H2818
+citation: 165 Cong. Rec. H2818
+---
+
+# WOMEN'S RIGHTS
+
+**Speaking:** Watson Coleman, Bonnie (W000822) [D-NJ]
+
+```
+                             WOMEN'S RIGHTS
+
+  (Mrs. WATSON COLEMAN asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. WATSON COLEMAN. Mr. Speaker, I rise today to call out a growing 
+insidious threat to women.
+  There are bills in at least eight State legislatures that would 
+outlaw abortions if a heartbeat can be detected. Typically, this is at 
+about 6 weeks of a pregnancy, though it can be earlier.
+  Six weeks is before many women even know that they are pregnant, 
+effectively taking away their right to choose whether or not to begin 
+or expand their family.
+  These laws are cruel. They are also in direct violation of the 
+Supreme Court's decision in Roe v. Wade, a precedent that has stood for 
+over 45 years.
+  That is the point. Mississippi Governor Phil Bryant recently signed 
+into law one of these bills, and he did so knowing it was 
+unconstitutional. He even admitted he was signing this bill for his own 
+religious reasons knowing that it was likely to be challenged. He wants 
+to see it go to the Supreme Court because he wants credit for trying to 
+overturn Roe v. Wade.
+  But the women of this country will not go back. We have fought tooth 
+and nail to obtain our rights in this country. Those who believe women 
+will give up their right to control their own bodies will quickly learn 
+that that are sorely mistaken.
+
+                          ____________________
+```
