@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-03-27-pt1-PgH2839-7
+date: 2019-03-27
+edition: CREC
+section: HOUSE
+page: H2839
+citation: 165 Cong. Rec. H2839
+---
+
+# ASSYRIAN NEW YEAR
+
+**Speaking:** Harder, Josh (H001090) [D-CA]
+
+```
+                           ASSYRIAN NEW YEAR
+
+  (Mr. HARDER of California asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. HARDER of California. Madam Speaker, I rise today to wish the 
+Assyrian community in the Central Valley and across the world a Happy 
+New Year.
+  One of my fondest memories growing up in Turlock was spending 
+afternoons with my Assyrian neighbor, who was like a grandmother to me. 
+Her name was Nana Bitpera.
+  Every day, she would pick grape leaves in her backyard while she made 
+rice, so my brother and I could enjoy fresh, homemade dolmas after 
+school.
+  She would tell me stories about the incredible contributions of the 
+Assyrian culture to art and literature: how Assyrians built the first 
+human cities, were the first to domesticate crops, and how they 
+literally invented the wheel.
+  She also told me about the centuries of persecution that Assyrians 
+faced that caused so many to come for a new future in America.
+  Madam Speaker, as we celebrate the year 6769, I want to tell the 
+Assyrian community how grateful I am to be their neighbor, and may this 
+new year bring their families joy and happiness.
+
+                          ____________________
+```

@@ -1,0 +1,32 @@
+---
+granule: CREC-2019-03-27-pt1-PgS2035-4
+date: 2019-03-27
+edition: CREC
+section: SENATE
+page: S2035
+citation: 165 Cong. Rec. S2035
+---
+
+# REMEMBERING SAMYA STUMO
+
+**Speaking:** Markey, Edward J. (M000133) [D-MA]
+
+```
+                        REMEMBERING SAMYA STUMO
+
+● Mr. MARKEY. Mr. President, Samya Stumo, a University of 
+Massachusetts Amherst graduate and resident of Sheffield, MA, was 
+tragically killed aboard Ethiopian Airlines flight 302. Samya, just 24 
+years old, was a champion of social justice, with a goal of 
+revolutionizing global health. Her undergraduate fieldwork in Peru 
+challenged unjust social services; her master's work in Europe gave a 
+voice to marginalized patient groups living with viral hepatitis; and, 
+most recently, she was working to disrupt the status quo in global 
+health systems to help countries achieve universal healthcare coverage. 
+She strove for all people and patients to be treated as human beings, 
+particularly in context of their culture, family, and individuality. 
+She was a beacon of hope for Massachusetts, the Nation, and all of the 
+lives she has touched.●
+
+                          ____________________
+```
