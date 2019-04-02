@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-04-02-pt1-PgH2974-3
+date: 2019-04-02
+edition: CREC
+section: HOUSE
+page: H2974
+citation: 165 Cong. Rec. H2974
+---
+
+# HONORING CORPORAL HERMAN JENKINS TURNING 100 YEARS OLD
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+         HONORING CORPORAL HERMAN JENKINS TURNING 100 YEARS OLD
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SPANO. Mr. Speaker, I rise today to honor Herman Jenkins, a 
+native Floridian, African American, and World War II veteran who, 
+today, turns 100 years old.
+  Mr. Jenkins enlisted in the United States Army in 1943 when he was 24 
+years old, was stationed in northern France, and fought to defend 
+Western civilization against the Nazi regime.
+  He rose to the rank of corporal and received numerous recognitions, 
+including the Conduct Medal, the American Theater Ribbon, and a World 
+War II Victory Ribbon.
+  After being honorably discharged in 1946, he returned to Lakeland, 
+Florida, where he married his wife, Essie Mae Bryant, and together gave 
+birth to their daughter, Sheila.
+  Upon returning to Lakeland, Mr. Jenkins entered the retail industry 
+and enjoyed a successful career as a manager of several stores in our 
+community. He also owned his own photography business and continues to 
+be a skilled photographer, chef, and musician. However, his greatest 
+passion is being a loving husband to his wife, Essie, daughter, Sheila, 
+four grandchildren, and 11 great-grandchildren.
+  Mr. Jenkins has made a permanent and positive impact in defending our 
+Nation and building our community, and for that, sir, I thank you. I 
+wish you a very happy birthday and hope that your next 100 years are 
+better than your last.
+
+                          ____________________
+```

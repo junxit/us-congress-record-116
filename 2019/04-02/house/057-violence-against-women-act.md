@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-04-02-pt1-PgH2975-4
+date: 2019-04-02
+edition: CREC
+section: HOUSE
+page: H2975
+citation: 165 Cong. Rec. H2975
+---
+
+# VIOLENCE AGAINST WOMEN ACT
+
+**Speaking:** Lipinski, Daniel (L000563) [D-IL]
+
+```
+                       VIOLENCE AGAINST WOMEN ACT
+
+  (Mr. LIPINSKI asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LIPINSKI. Mr. Speaker, I rise today in support of reauthorizing 
+the Violence Against Women Act.
+  Congress first enacted this bipartisan law 25 years ago to unite our 
+Nation in the fight against domestic violence. It ushered in a new era 
+of protection for all Americans and continues to provide essential 
+support so that victims have the legal tools and resources to seek 
+justice and receive care.
+  Domestic violence is a horrific crime experienced by one out of three 
+women and one out of four men. We must do all we can to stop it.
+  Recently, I visited the WINGS domestic violence shelter on the 
+southwest side of Chicago, and I was joined by Chicago Police Officer 
+Gino Garcia. Gino was only six when his mother, a Chicago police 
+officer, was killed by her boyfriend. Gino was inspired to become an 
+officer and now works with shelters and other domestic violence 
+organizations.
+  By reauthorizing the Violence Against Women Act, we help 
+organizations like WINGS, and we empower victims and save lives. Mr. 
+Speaker, I urge my colleagues to support the reauthorization of the 
+Violence Against Women Act.
+
+                          ____________________
+```
