@@ -1,0 +1,26 @@
+---
+granule: CREC-2019-04-03-pt1-PgS2244-3
+date: 2019-04-03
+edition: CREC
+section: SENATE
+page: S2244
+citation: 165 Cong. Rec. S2244
+---
+
+# Text of Senate Amendment 247
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+  SA 247. Mr. GRASSLEY (for himself, Ms. Ernst, Mrs. Fischer, and Mr. 
+Blunt) submitted an amendment intended to be proposed to amendment SA 
+201 proposed by Mr. Shelby to the bill H.R. 268, making supplemental 
+appropriations for the fiscal year ending September 30, 2019, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       On page 3, line 16, strike ``milk'' and insert ``milk, on-
+     farm stored commodities, crops prevented from being planted 
+     in 2019,''.
+
+                          ____________________
+```
