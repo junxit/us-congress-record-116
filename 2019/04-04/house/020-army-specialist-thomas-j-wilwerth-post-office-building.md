@@ -1,0 +1,491 @@
+---
+granule: CREC-2019-04-04-pt1-PgH3080-3
+date: 2019-04-04
+edition: CREC
+section: HOUSE
+page: H3080
+citation: 165 Cong. Rec. H3080
+---
+
+# ARMY SPECIALIST THOMAS J. WILWERTH POST OFFICE BUILDING
+
+**Speaking:** Hill, Katie (H001087) [D-CA]
+
+**Measures:** H.R. 829
+
+```
+        ARMY SPECIALIST THOMAS J. WILWERTH POST OFFICE BUILDING
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, the 
+unfinished business is the question on suspending the rules and passing 
+the bill (H.R. 829) to designate the facility of the United States 
+Postal Service located at 1450 Montauk Highway in Mastic, New York, as 
+the ``Army Specialist Thomas J. Wilwerth Post Office Building''.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Virginia (Mr. Connolly) that the House suspend the rules 
+and pass the bill.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Ms. HILL of California. Madam Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The vote was taken by electronic device, and there were--yeas 423, 
+nays 0, not voting 8, as follows:
+
+                             [Roll No. 151]
+
+                               YEAS--423
+
+     Abraham
+     Adams
+     Aderholt
+     Aguilar
+     Allen
+     Allred
+     Amash
+     Amodei
+     Armstrong
+     Arrington
+     Axne
+     Babin
+     Bacon
+     Baird
+     Balderson
+     Banks
+     Barr
+     Barragan
+     Bass
+     Beatty
+     Bera
+     Bergman
+     Beyer
+     Biggs
+     Bilirakis
+     Bishop (GA)
+     Bishop (UT)
+     Blumenauer
+     Blunt Rochester
+     Bonamici
+     Bost
+     Boyle, Brendan F.
+     Brady
+     Brindisi
+     Brooks (AL)
+     Brooks (IN)
+     Brown (MD)
+     Brownley (CA)
+     Buchanan
+     Buck
+     Bucshon
+     Budd
+     Burchett
+     Burgess
+     Bustos
+     Butterfield
+     Byrne
+     Calvert
+     Carbajal
+     Cardenas
+     Carson (IN)
+     Carter (GA)
+     Carter (TX)
+     Cartwright
+     Case
+     Casten (IL)
+     Castor (FL)
+     Castro (TX)
+     Chabot
+     Cheney
+     Chu, Judy
+     Cicilline
+     Cisneros
+     Clarke (NY)
+     Clay
+     Cleaver
+     Cline
+     Cloud
+     Clyburn
+     Cohen
+     Cole
+     Collins (GA)
+     Collins (NY)
+     Comer
+     Conaway
+     Connolly
+     Cooper
+     Correa
+     Costa
+     Courtney
+     Cox (CA)
+     Craig
+     Crawford
+     Crenshaw
+     Crist
+     Crow
+     Cuellar
+     Cummings
+     Cunningham
+     Curtis
+     Davids (KS)
+     Davidson (OH)
+     Davis (CA)
+     Davis, Danny K.
+     Davis, Rodney
+     Dean
+     DeFazio
+     DeGette
+     DeLauro
+     DelBene
+     Delgado
+     Demings
+     DeSaulnier
+     DesJarlais
+     Deutch
+     Diaz-Balart
+     Dingell
+     Doggett
+     Doyle, Michael F.
+     Duffy
+     Duncan
+     Dunn
+     Emmer
+     Engel
+     Escobar
+     Eshoo
+     Espaillat
+     Estes
+     Evans
+     Ferguson
+     Finkenauer
+     Fitzpatrick
+     Fleischmann
+     Fletcher
+     Flores
+     Fortenberry
+     Foster
+     Foxx (NC)
+     Frankel
+     Fudge
+     Fulcher
+     Gabbard
+     Gaetz
+     Gallagher
+     Gallego
+     Garamendi
+     Garcia (IL)
+     Garcia (TX)
+     Gianforte
+     Gibbs
+     Gohmert
+     Golden
+     Gomez
+     Gonzalez (OH)
+     Gonzalez (TX)
+     Gooden
+     Gosar
+     Gottheimer
+     Graves (GA)
+     Graves (LA)
+     Graves (MO)
+     Green (TN)
+     Green (TX)
+     Griffith
+     Grijalva
+     Grothman
+     Guest
+     Guthrie
+     Haaland
+     Hagedorn
+     Harder (CA)
+     Harris
+     Hartzler
+     Hastings
+     Hayes
+     Heck
+     Hern, Kevin
+     Herrera Beutler
+     Hice (GA)
+     Higgins (LA)
+     Higgins (NY)
+     Hill (AR)
+     Hill (CA)
+     Himes
+     Holding
+     Hollingsworth
+     Horn, Kendra S.
+     Horsford
+     Houlahan
+     Hoyer
+     Hudson
+     Huffman
+     Huizenga
+     Hunter
+     Hurd (TX)
+     Jackson Lee
+     Jayapal
+     Jeffries
+     Johnson (GA)
+     Johnson (LA)
+     Johnson (OH)
+     Johnson (SD)
+     Johnson (TX)
+     Jordan
+     Joyce (OH)
+     Joyce (PA)
+     Kaptur
+     Katko
+     Keating
+     Kelly (IL)
+     Kelly (MS)
+     Kelly (PA)
+     Kennedy
+     Khanna
+     Kildee
+     Kilmer
+     Kim
+     Kind
+     King (IA)
+     King (NY)
+     Kinzinger
+     Kirkpatrick
+     Krishnamoorthi
+     Kuster (NH)
+     LaHood
+     LaMalfa
+     Lamb
+     Lamborn
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Latta
+     Lawrence
+     Lawson (FL)
+     Lee (CA)
+     Lee (NV)
+     Lesko
+     Levin (CA)
+     Levin (MI)
+     Lewis
+     Lieu, Ted
+     Lipinski
+     Loebsack
+     Lofgren
+     Long
+     Loudermilk
+     Lowenthal
+     Lowey
+     Lucas
+     Luetkemeyer
+     Lujan
+     Luria
+     Lynch
+     Malinowski
+     Maloney, Carolyn B.
+     Maloney, Sean
+     Marchant
+     Marshall
+     Massie
+     Mast
+     Matsui
+     McAdams
+     McBath
+     McCarthy
+     McCaul
+     McClintock
+     McCollum
+     McGovern
+     McHenry
+     McKinley
+     McNerney
+     Meadows
+     Meeks
+     Meng
+     Meuser
+     Miller
+     Mitchell
+     Moolenaar
+     Mooney (WV)
+     Moore
+     Morelle
+     Moulton
+     Mucarsel-Powell
+     Mullin
+     Murphy
+     Nadler
+     Napolitano
+     Neal
+     Neguse
+     Newhouse
+     Norcross
+     Norman
+     Nunes
+     O'Halleran
+     Ocasio-Cortez
+     Olson
+     Omar
+     Palazzo
+     Pallone
+     Palmer
+     Panetta
+     Pappas
+     Pascrell
+     Payne
+     Pence
+     Perlmutter
+     Perry
+     Peters
+     Peterson
+     Phillips
+     Pingree
+     Pocan
+     Porter
+     Posey
+     Pressley
+     Price (NC)
+     Quigley
+     Raskin
+     Ratcliffe
+     Reed
+     Reschenthaler
+     Rice (NY)
+     Rice (SC)
+     Richmond
+     Riggleman
+     Roby
+     Rodgers (WA)
+     Roe, David P.
+     Rogers (AL)
+     Rogers (KY)
+     Rose (NY)
+     Rose, John W.
+     Rouda
+     Rouzer
+     Roy
+     Roybal-Allard
+     Ruiz
+     Ruppersberger
+     Rush
+     Sanchez
+     Sarbanes
+     Scalise
+     Scanlon
+     Schakowsky
+     Schiff
+     Schneider
+     Schrader
+     Schrier
+     Schweikert
+     Scott (VA)
+     Scott, Austin
+     Scott, David
+     Sensenbrenner
+     Serrano
+     Sewell (AL)
+     Shalala
+     Sherman
+     Sherrill
+     Shimkus
+     Simpson
+     Sires
+     Slotkin
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (WA)
+     Smucker
+     Soto
+     Spanberger
+     Spano
+     Speier
+     Stanton
+     Stauber
+     Stefanik
+     Steil
+     Steube
+     Stevens
+     Stewart
+     Stivers
+     Suozzi
+     Swalwell (CA)
+     Takano
+     Taylor
+     Thompson (CA)
+     Thompson (MS)
+     Thompson (PA)
+     Thornberry
+     Timmons
+     Tipton
+     Titus
+     Tlaib
+     Tonko
+     Torres (CA)
+     Torres Small (NM)
+     Trahan
+     Trone
+     Turner
+     Underwood
+     Upton
+     Van Drew
+     Vargas
+     Veasey
+     Vela
+     Velazquez
+     Visclosky
+     Wagner
+     Walberg
+     Walden
+     Walker
+     Walorski
+     Waltz
+     Wasserman Schultz
+     Waters
+     Watkins
+     Watson Coleman
+     Weber (TX)
+     Webster (FL)
+     Welch
+     Wenstrup
+     Westerman
+     Wexton
+     Wild
+     Williams
+     Wilson (FL)
+     Wilson (SC)
+     Wittman
+     Womack
+     Woodall
+     Wright
+     Yarmuth
+     Yoho
+     Young
+     Zeldin
+
+[[Page H3081]]
+
+
+  
+
+
+                             NOT VOTING--8
+
+     Clark (MA)
+     Cook
+     Granger
+     Kustoff (TN)
+     McEachin
+     Rooney (FL)
+     Rutherford
+     Ryan
+
+                              {time}  1113
+
+  Mr. RUSH changed his vote from ``nay'' to ``yea.''
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

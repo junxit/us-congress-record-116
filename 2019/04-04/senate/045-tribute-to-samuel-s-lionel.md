@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-04-04-pt1-PgS2268-2
+date: 2019-04-04
+edition: CREC
+section: SENATE
+page: S2268
+citation: 165 Cong. Rec. S2268
+---
+
+# TRIBUTE TO SAMUEL S. LIONEL
+
+**Speaking:** Rosen, Jacky (R000608) [D-NV]
+
+```
+                      TRIBUTE TO SAMUEL S. LIONEL
+
+● Ms. ROSEN. Mr. President, it is my distinct honor to recognize 
+Samuel S. Lionel, who is celebrating his 100th birthday. Considered the 
+``Dean'' of the Nevada Bar, Sam's defense of Nevada values stands as a 
+strong reminder of the tremendous work he has done for our State.
+  For decades, Sam has represented one of the largest law firms in 
+Nevada, fighting for critically important issues such as our thriving 
+tourism industry and defending Nevada's unique western heritage. The 
+dedication he has placed into his practice has strengthened our State's 
+economy and helped shape the Las Vegas Valley that we know and love 
+today. In fact, it was Sam who played a key role in the conception and 
+development of many of the hotels and casinos on the Las Vegas Strip, 
+setting the stage for Nevada's unprecedented growth and its booming 
+entertainment scene.
+  Sam is known for his philanthropic heart. He remains particularly 
+active in Jewish philanthropy, and we share a long history of working 
+together in our synagogue, Congregation Ner Tamid. Sam has also been a 
+central benefactor of the University of Nevada, Las Vegas, endowing the 
+namesake Samuel S. Lionel Professor of Intellectual Property Law 
+position at the William S. Boyd School of Law in 2016. I know firsthand 
+the wonderful leader Sam is, and his philanthropic work has 
+distinguished him in the Jewish and legal communities not only in 
+Nevada but also throughout the United States. Sam's name is and will 
+always remain synonymous with his professional and philanthropic 
+dedication to the Silver State.
+  Happy birthday to Sam, a loving husband, father, grandfather, great-
+grandfather, servant leader, and loyal friend.●
+
+                          ____________________
+```

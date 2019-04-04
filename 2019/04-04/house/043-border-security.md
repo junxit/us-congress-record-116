@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-04-04-pt1-PgH3092-4
+date: 2019-04-04
+edition: CREC
+section: HOUSE
+page: H3092
+citation: 165 Cong. Rec. H3092
+---
+
+# BORDER SECURITY
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                            BORDER SECURITY
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, I rise today to highlight some pretty 
+disturbing numbers released by Customs and Border Protection that help 
+put our border crisis into perspective.
+  In 2018, Customs and Border Patrol agents and officers seized more 
+than 1.7 million pounds of narcotics, including 1 million pounds of 
+marijuana; 280,000 pounds of cocaine; 248,000 pounds of 
+methamphetamine; 6,500 pounds of heroin; 2,400 pounds of fentanyl, 
+which is enough doses to kill everyone in the United States; and 
+139,000 pounds of other illicit drugs.
+  It is also a humanitarian crisis. Border Patrol agents rescued from 
+trafficking 4,300 men and women near the border last year. There is no 
+telling how many more have been caught up in human trafficking that 
+slipped through the cracks.
+  Border Patrol says nearly every sector across the Southwest border 
+has exceeded their capacity. Each day, nearly half the agents on the 
+Southwest border are diverted away from border security missions to 
+instead care for, transport, and process family units and unaccompanied 
+children.
+  Even former Secretary of the Department of Homeland Security Jeh 
+Johnson of the Obama administration said that we have a crisis with 
+these huge numbers.
+  Madam Speaker, we need to do our job and get this border crisis 
+solved.
+
+                          ____________________
+```
