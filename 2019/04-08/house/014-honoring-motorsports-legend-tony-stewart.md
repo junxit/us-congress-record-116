@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-04-08-pt1-PgH3106-5
+date: 2019-04-08
+edition: CREC
+section: HOUSE
+page: H3106
+citation: 165 Cong. Rec. H3106
+---
+
+# HONORING MOTORSPORTS LEGEND TONY STEWART
+
+**Speaking:** Pence, Greg (P000615) [R-IN]
+
+```
+                HONORING MOTORSPORTS LEGEND TONY STEWART
+
+  (Mr. PENCE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PENCE. Mr. Speaker, today I rise to honor a motorsports legend 
+and perhaps the most famous son of my hometown, Columbus, Indiana.
+  From the dirt tracks to the high banks, to the Brickyard, Tony 
+Stewart amassed a racing career that includes nearly 50 NASCAR wins, 
+three NASCAR Cup titles, a USAC Triple Crown, and an IndyCar Series 
+championship.
+  Tony won his first championship at the Columbus Fairgrounds when he 
+was just 8 years old. He is synonymous with racing, and we are proud to 
+call him a Hoosier.
+  On behalf of the people of Columbus, the Sixth Congressional 
+District, and race fans across Indiana, I want to congratulate Tony 
+Stewart on his recent nomination to the NASCAR Hall of Fame.
+  I also want to thank Tony for his work in our community as part of 
+the Tony Stewart Foundation. Through December 2017, the foundation has 
+awarded over $7 million to outstanding charities serving children with 
+special needs, endangered animals, and injured drivers.
+  We honor his achievements on and off the track, and we look forward 
+to cheering him on in years to come.
+
+                          ____________________
+```
