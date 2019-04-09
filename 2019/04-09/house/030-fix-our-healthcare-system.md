@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-04-09-pt1-PgH3140-3
+date: 2019-04-09
+edition: CREC
+section: HOUSE
+page: H3140
+citation: 165 Cong. Rec. H3140
+---
+
+# FIX OUR HEALTHCARE SYSTEM
+
+**Speaking:** Gottheimer, Josh (G000583) [D-NJ]
+
+```
+                       FIX OUR HEALTHCARE SYSTEM
+
+  (Mr. GOTTHEIMER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. GOTTHEIMER. Mr. Speaker, I rise today because there is a lot we 
+need to do to fix healthcare here in the United States.
+  I will work with anyone, regardless of political party, who has ideas 
+to improve healthcare and get costs down, but I find it unacceptable 
+that the Department of Justice wants to gut the Affordable Care Act 
+with no plan.
+  We need to stabilize the volatile healthcare marketplace, increase 
+competition so that affordable prescription drugs are within reach for 
+everyone, cover preexisting conditions, and make sure that we always 
+protect the Social Security and Medicare that our seniors rely on.
+  Last Congress, the bipartisan Problem Solvers Caucus introduced such 
+a proposal, and we need to get it done now.
+  In New Jersey, we are very lucky to have some of the best healthcare 
+providers, innovators, and hospitals in the world. We are America's 
+medicine cabinet.
+  Our people deserve a bipartisan approach to fix our healthcare system 
+so that we can look out for everyone in New Jersey and everyone across 
+the country.
+
+                          ____________________
+```

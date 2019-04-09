@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-04-09-pt1-PgS2313
+date: 2019-04-09
+edition: CREC
+section: SENATE
+page: S2313
+citation: 165 Cong. Rec. S2313
+---
+
+# Remembering Lieutenant Colonel Richard Cole (Executive Calendar)
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH], Jones, Doug (J000300) [D-AL]
+
+```
+              Remembering Lieutenant Colonel Richard Cole
+
+  Mr. BROWN. Madam President, we lost an American hero today--the last 
+in the line of heroes that will I explain in a moment. He was Ohio 
+native Lt. Col. Richard Cole, and he was the last of the fabled 
+Doolittle Raiders.
+  In the spring of 1942, the Nation was reeling from Pearl Harbor, and 
+80 Americans embarked on a mission that many thought to be impossible. 
+They knew the dangers. They knew many of them would not come home. The 
+Raiders showed America and the world that the United States and the 
+Allied Forces could win the war. It was considered a turning point in 
+the news coverage and in people's minds.
+  Like my dad, the Doolittle Raiders came from a generation that spoke 
+proudly of their service to their country. They rarely drew attention 
+or talked much about their own courage. They sought no recognition but, 
+oh, how they earned it.
+  It was an honor to help award the Congressional Gold Medal to the 
+Doolittle Raiders in Washington 4 years ago--a long time in coming and 
+so deserved. I believe, at that time, there were five Doolittle Raiders 
+left, and after the death of Mr. Cole, there are none today.
+  I am so glad that Dick Cole was able to live to receive that medal, 
+as were a handful of others. These men are no longer with us, so it is 
+all the more important that we continue to tell their story. My heart 
+goes out to the families and friends of Lieutenant Colonel Cole and to 
+those of all the Raiders. I thank the Doolittle Tokyo Raiders 
+Association for keeping that memory alive.
+```

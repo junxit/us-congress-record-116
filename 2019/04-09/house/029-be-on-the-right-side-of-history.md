@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-04-09-pt1-PgH3140-2
+date: 2019-04-09
+edition: CREC
+section: HOUSE
+page: H3140
+citation: 165 Cong. Rec. H3140
+---
+
+# BE ON THE RIGHT SIDE OF HISTORY
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+                    BE ON THE RIGHT SIDE OF HISTORY
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. PLASKETT. Mr. Speaker, basic healthcare coverage for 23 million 
+everyday Americans and thousands of people in my district of the Virgin 
+Islands is at risk of being undermined because our friends across the 
+aisle fail to have the same urgency about these impending calamities.
+  Virgin Islanders are at a critical junction. We face a daunting and 
+devastating Medicaid cliff on September 30, 2019, an absolute collapse 
+in Medicaid.
+  Our Republican colleagues continue the work to dismantle healthcare 
+for millions of Americans right now. They voted to eliminate protection 
+for preexisting conditions and to strip their healthcare coverage.
+  Last weekend, the Trump administration escalated its attack on 
+Americans' healthcare by supporting a Federal judge's ruling that the 
+entire Affordable Care Act should be thrown out.
+  Today, I ask my Republican colleagues: What side will history find 
+you on, protecting American families or the need to protect partisan 
+interests?
+  A demonstration of this was the Republican-controlled Senate's 
+failure last week to advance a disaster aid package that includes 
+billions for American families still recovering from 2017 natural 
+disasters.
+  Be on the right side of history.
+
+                          ____________________
+```
