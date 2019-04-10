@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-04-10-pt1-PgS2398-3
+date: 2019-04-10
+edition: CREC
+section: SENATE
+page: S2398
+citation: 165 Cong. Rec. S2398
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 10, 2019:
+
+
+                             THE JUDICIARY
+
+       DAVID STEVEN MORALES, OF TEXAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF TEXAS.
+       HOLLY A. BRADY, OF INDIANA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF INDIANA.
+
+
+                          DEPARTMENT OF LABOR
+
+       CHERYL MARIE STANTON, OF SOUTH CAROLINA, TO BE 
+     ADMINISTRATOR OF THE WAGE AND HOUR DIVISION, DEPARTMENT OF 
+     LABOR.
+
+
+                          DEPARTMENT OF STATE
+
+       JOHN P. ABIZAID, OF NEVADA, TO BE AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY OF THE UNITED STATES OF AMERICA TO THE 
+     KINGDOM OF SAUDI ARABIA.
+
+                          ____________________
+```

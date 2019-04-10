@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-04-10-pt1-PgH3241-5
+date: 2019-04-10
+edition: CREC
+section: HOUSE
+page: H3241
+citation: 165 Cong. Rec. H3241
+---
+
+# CONGRESS' SUPPORT FOR ISRAEL
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+                      CONGRESS' SUPPORT FOR ISRAEL
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SPANO. Mr. Speaker, I rise today to recognize and congratulate 
+the nation of Israel for holding its national elections yesterday.
+  As the sole democracy in the Middle East, it not only sets an example 
+to its neighbors, but it is a key ally in spreading peace, democracy, 
+and prosperity throughout the world.
+  I also want to recognize the thousands of people who traveled to 
+Washington recently for this year's AIPAC conference.
+  It has been an honor to work with so many of my colleagues on 
+legislation that will not only help secure Israel militarily but also 
+allow it to thrive economically. Countries in the region should take 
+note of what is possible when they work in good faith and, most 
+importantly, seek peace.
+  As NATO's Secretary General Jens Stoltenberg said in this Chamber 
+last week, it is good to have friends. I am honored to count Israel as 
+one of our closest and greatest friends.
+  I look forward to working with a united Congress to support the 
+Jewish state and to spread democracy wherever tyranny exists.
+
+                          ____________________
+```
