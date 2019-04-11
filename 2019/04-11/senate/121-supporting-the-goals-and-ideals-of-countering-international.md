@@ -1,0 +1,424 @@
+---
+granule: CREC-2019-04-11-pt1-PgS2456-3
+date: 2019-04-11
+edition: CREC
+section: SENATE
+page: S2456
+citation: 165 Cong. Rec. S2456
+---
+
+# SUPPORTING THE GOALS AND IDEALS OF COUNTERING INTERNATIONAL PARENTAL CHILD ABDUCTION MONTH
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S.Res. 23, S.Res. 431, S.Res. 543
+
+```
+ SUPPORTING THE GOALS AND IDEALS OF COUNTERING INTERNATIONAL PARENTAL 
+                         CHILD ABDUCTION MONTH
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 56, S. Res. 23.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 23) supporting the goals and ideals 
+     of Countering International Parental Child Abduction Month 
+     and expressing the sense of the Senate that Congress should 
+     raise awareness of the harm caused by international parental 
+     child abduction.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, without amendment, and with an amendment to strike the 
+preamble and insert the part printed in italic, as follows:
+
+                               S. Res. 23
+
+       [Whereas thousands of children in the United States have 
+     been abducted from the United States by parents, separating 
+     those children from their parents who remain in the United 
+     States;
+       [Whereas it is illegal under section 1204 of title 18, 
+     United States Code, to remove, or attempt to remove, a child 
+     from the United States or retain a child (who has been in the 
+     United States) outside of the United States with the intent 
+     to obstruct the lawful exercise of parental rights;
+       [Whereas more than 9,127 children experienced international 
+     parental child abduction between 2008 and 2015;
+       [Whereas, during 2017, one or more cases of international 
+     parental child abduction involving children who are citizens 
+     of the United States were identified in 105 countries around 
+     the world;
+       [Whereas the United States is a party to the Convention on 
+     the Civil Aspects of International Child Abduction, done at 
+     the Hague, October 25, 1980 (TIAS 11670) (referred to in this 
+     preamble as the ``Hague Convention on Abduction''), which--
+       [(1) supports the prompt return of wrongly removed or 
+     retained children; and
+       [(2) calls for all participating parties to respect 
+     parental custody rights;
+       [Whereas the majority of children who were abducted from 
+     the United States have yet to be reunited with their 
+     custodial parents;
+       [Whereas, during 2017, Argentina, the Bahamas, Brazil, 
+     China, the Dominican Republic, Ecuador, India, Japan, Jordan, 
+     Morocco, Peru, and the United Arab Emirates were identified 
+     under the Sean and David Goldman International Child 
+     Abduction Prevention and Return Act of 2014 (22 U.S.C. 9101 
+     et seq.) as engaging in a pattern of noncompliance;
+       [Whereas the Supreme Court of the United States has 
+     recognized that family abduction--
+       [(1) is a form of child abuse with potentially 
+     ``devastating consequences for a child'', which may include 
+     negative impacts on the physical and mental well-being of the 
+     child; and
+       [(2) can cause a child to ``experience a loss of community 
+     and stability, leading to loneliness, anger, and fear of 
+     abandonment'';
+       [Whereas, according to the 2010 Report on Compliance with 
+     the Hague Convention on the Civil Aspects of International 
+     Child Abduction by the Department of State, research shows 
+     that an abducted child is at risk of significant short- and 
+     long-term problems, including ``anxiety, eating problems, 
+     nightmares, mood swings, sleep disturbances, [and] aggressive 
+     behavior'';
+       [Whereas international parental child abduction has 
+     devastating emotional consequences for the child and for the 
+     parent from whom the child is separated;
+       [Whereas the United States has a history of promoting child 
+     welfare through institutions including--
+       [(1) in the Department of Health and Human Services, the 
+     Children's Bureau of the Administration for Children and 
+     Families; and
+       [(2) in the Department of State, the Office of Children's 
+     Issues of the Bureau of Consular Affairs;
+       [Whereas Congress has signaled a commitment to ending 
+     international parental child abduction by enacting the 
+     International Child Abduction Remedies Act (22 U.S.C. 9001 et 
+     seq.), the International Parental Kidnapping Crime Act of 
+     1993 (Public Law 103-173), which enacted section 1204 of 
+     title 18, United States Code, and the Sean and David Goldman 
+     International Child Abduction Prevention and Return Act of 
+     2014 (22 U.S.C. 9101 et seq.);
+       [Whereas the Senate adopted Senate Resolution 543, 112th 
+     Congress, on December 4, 2012, which--
+       [(1) condemns international parental child abduction;
+       [(2) urges countries identified by the Department of State 
+     as noncompliant with the Hague Convention on Abduction to 
+     fulfill the commitment those countries made to implement such 
+     treaty; and
+       [(3) expresses the sense of the Senate that the United 
+     States should--
+       [(A) pursue the return, by all appropriate means, of each 
+     child abducted by a parent to another country;
+       [(B) if a child is abducted by a parent and not returned to 
+     the United States, facilitate access to the abducted child 
+     for the parent remaining in the United States; and
+       [(C) ``where appropriate, seek the extradition of the 
+     parent that abducted the child'';
+       [Whereas the Senate adopted Senate Resolution 431, 115th 
+     Congress, on April 19, 2018, which--
+       [(1) raises awareness and promotes education about 
+     international parental child abduction;
+       [(2) recognizes the impacts on children who are victims of 
+     international parental abductions; and
+       [(3) expresses the sense of the Senate that the United 
+     States should--
+       [(A) continue to raise awareness and opposition on 
+     international parental child abduction;
+       [(B) facilitate access to the abducted child for the parent 
+     remaining in the United States; and
+       [(C) urge countries to comply with the request to bring 
+     children home to the United States;
+       [Whereas all 50 States and the District of Columbia have 
+     enacted laws criminalizing parental kidnapping;
+       [Whereas, in 2017, the Prevention Branch of the Office of 
+     Children's Issues of the Department of State--
+       [(1) fielded more than 3,500 inquiries from the general 
+     public relating to preventing a child from being removed from 
+     the United States; and
+       [(2) enrolled more than 4,404 children in the Children's 
+     Passport Issuance Alert Program, which--
+       [(A) is one of the most important tools of the Department 
+     of State for preventing
+
+[[Page S2457]]
+
+     international parental child abductions; and
+       [(B) allows the Office of Children's Issues to contact the 
+     enrolling parent or legal guardian to verify whether the 
+     parental consent requirement has been met when a passport 
+     application has been submitted for an enrolled child;
+       [Whereas, the Department of State cannot track the ultimate 
+     destination of a child through the use of the passport of the 
+     child issued by the Department of State if the child is 
+     transported to a third country after departing from the 
+     United States;
+       [Whereas a child who is a citizen of the United States may 
+     have another nationality and may travel using a passport 
+     issued by another country, which--
+       [(1) increases the difficulty in determining the 
+     whereabouts of the child; and
+       [(2) makes efforts to prevent abductions more critical; and
+       [Whereas, in 2017, the Department of Homeland Security, in 
+     coordination with the Prevention Branch of the Office of 
+     Children's Issues of the Department of State, enrolled 210 
+     children in a program aimed at preventing international 
+     parental child abduction:
+       [Now, therefore, be it]
+       Whereas thousands of children in the United States have 
+     been abducted from the United States by parents, separating 
+     those children from their parents who remain in the United 
+     States;
+       Whereas it is illegal under section 1204 of title 18, 
+     United States Code, to remove, or attempt to remove, a child 
+     from the United States or retain a child (who has been in the 
+     United States) outside of the United States with the intent 
+     to obstruct the lawful exercise of parental rights;
+       Whereas more than 9,000 children experienced international 
+     parental child abduction between 2008 and 2015;
+       Whereas, during 2017, one or more cases of international 
+     parental child abduction involving children who are citizens 
+     of the United States were identified in 105 countries around 
+     the world;
+       Whereas the United States is a party to the Convention on 
+     the Civil Aspects of International Child Abduction, done at 
+     the Hague, October 25, 1980 (TIAS 11670) (referred to in this 
+     preamble as the ``Hague Convention on Abduction''), which--
+       (1) supports the prompt return of wrongly removed or 
+     retained children; and
+       (2) calls for all participating parties to respect parental 
+     custody rights;
+       Whereas the majority of children who were abducted from the 
+     United States have yet to be reunited with their custodial 
+     parents;
+       Whereas, during 2017, Argentina, the Bahamas, Brazil, 
+     China, the Dominican Republic, Ecuador, India, Japan, Jordan, 
+     Morocco, Peru, and the United Arab Emirates were identified 
+     under the Sean and David Goldman International Child 
+     Abduction Prevention and Return Act of 2014 (22 U.S.C. 9101 
+     et seq.) as engaging in a pattern of noncompliance;
+       Whereas the Supreme Court of the United States has 
+     recognized that family abduction--
+       (1) is a form of child abuse with potentially ``devastating 
+     consequences for a child'', which may include negative 
+     impacts on the physical and mental well-being of the child; 
+     and
+       (2) can cause a child to ``experience a loss of community 
+     and stability, leading to loneliness, anger, and fear of 
+     abandonment'';
+       Whereas, according to the 2010 Report on Compliance with 
+     the Hague Convention on the Civil Aspects of International 
+     Child Abduction by the Department of State, research shows 
+     that an abducted child is at risk of significant short- and 
+     long-term problems, including ``anxiety, eating problems, 
+     nightmares, mood swings, sleep disturbances, [and] aggressive 
+     behavior'';
+       Whereas international parental child abduction has 
+     devastating emotional consequences for the child and for the 
+     parent from whom the child is separated;
+       Whereas the United States has a history of promoting child 
+     welfare through institutions including--
+       (1) in the Department of Health and Human Services, the 
+     Children's Bureau of the Administration for Children and 
+     Families; and
+       (2) in the Department of State, the Office of Children's 
+     Issues of the Bureau of Consular Affairs;
+       Whereas Congress has signaled a commitment to ending 
+     international parental child abduction by enacting the 
+     International Child Abduction Remedies Act (22 U.S.C. 9001 et 
+     seq.), the International Parental Kidnapping Crime Act of 
+     1993 (Public Law 103-173), which enacted section 1204 of 
+     title 18, United States Code, and the Sean and David Goldman 
+     International Child Abduction Prevention and Return Act of 
+     2014 (22 U.S.C. 9101 et seq.);
+       Whereas the Senate adopted Senate Resolution 543, 112th 
+     Congress, on December 4, 2012, condemning the international 
+     abduction of children;
+       Whereas the Senate adopted Senate Resolution 431, 115th 
+     Congress, on April 19, 2018, to raise awareness of, and 
+     opposition to, international parental child abduction;
+       Whereas all 50 States and the District of Columbia have 
+     enacted laws criminalizing parental kidnapping;
+       Whereas, in 2017, the Prevention Branch of the Office of 
+     Children's Issues of the Department of State--
+       (1) fielded more than 3,500 inquiries from the general 
+     public relating to preventing a child from being removed from 
+     the United States; and
+       (2) enrolled more than 4,400 children in the Children's 
+     Passport Issuance Alert Program, which--
+       (A) is one of the most important tools of the Department of 
+     State for preventing international parental child abductions; 
+     and
+       (B) allows the Office of Children's Issues to contact the 
+     enrolling parent or legal guardian to verify whether the 
+     parental consent requirement has been met when a passport 
+     application has been submitted for an enrolled child;
+       Whereas, the Department of State cannot track the ultimate 
+     destination of a child through the use of the passport of the 
+     child issued by the Department of State if the child is 
+     transported to a third country after departing from the 
+     United States;
+       Whereas a child who is a citizen of the United States may 
+     have another nationality and may travel using a passport 
+     issued by another country, which--
+       (1) increases the difficulty in determining the whereabouts 
+     of the child; and
+       (2) makes efforts to prevent abductions more critical; and
+       Whereas, in 2017, the Department of Homeland Security, in 
+     coordination with the Prevention Branch of the Office of 
+     Children's Issues of the Department of State, enrolled 210 
+     children in a program aimed at preventing international 
+     parental child abduction:
+       Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes and observes ``Countering International 
+     Parental Child Abduction Month'' during the period beginning 
+     on April 1, 2019, and ending on April 30, 2019, to raise 
+     awareness of, and opposition to, international parental child 
+     abduction; and
+       (2) urges the United States to continue playing a 
+     leadership role in raising awareness about the devastating 
+     impacts of international parental child abduction by 
+     educating the public about the negative emotional, 
+     psychological, and physical consequences to children and 
+     parents victimized by international parental child abduction.
+
+  Mr. McCONNELL. I know of no further debate on the resolution.
+  The PRESIDING OFFICER. Is there further debate?
+  If not, the question is on adoption of the resolution.
+  The resolution (S. Res. 23) was agreed to.
+  Mr. McCONNELL. I ask unanimous consent that the committee-reported 
+amendment to the preamble be agreed to; that the preamble, as amended, 
+be agreed to; and that the motions to reconsider be considered made and 
+laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment to the preamble was agreed to.
+  The preamble, as amended, was agreed to.
+  The resolution, with its preamble, as amended, reads as follows:
+
+                               S. Res. 23
+
+       Whereas thousands of children in the United States have 
+     been abducted from the United States by parents, separating 
+     those children from their parents who remain in the United 
+     States;
+       Whereas it is illegal under section 1204 of title 18, 
+     United States Code, to remove, or attempt to remove, a child 
+     from the United States or retain a child (who has been in the 
+     United States) outside of the United States with the intent 
+     to obstruct the lawful exercise of parental rights;
+       Whereas more than 9,000 children experienced international 
+     parental child abduction between 2008 and 2015;
+       Whereas, during 2017, one or more cases of international 
+     parental child abduction involving children who are citizens 
+     of the United States were identified in 105 countries around 
+     the world;
+       Whereas the United States is a party to the Convention on 
+     the Civil Aspects of International Child Abduction, done at 
+     the Hague, October 25, 1980 (TIAS 11670) (referred to in this 
+     preamble as the ``Hague Convention on Abduction''), which--
+       (1) supports the prompt return of wrongly removed or 
+     retained children; and
+       (2) calls for all participating parties to respect parental 
+     custody rights;
+       Whereas the majority of children who were abducted from the 
+     United States have yet to be reunited with their custodial 
+     parents;
+       Whereas, during 2017, Argentina, the Bahamas, Brazil, 
+     China, the Dominican Republic, Ecuador, India, Japan, Jordan, 
+     Morocco, Peru, and the United Arab Emirates were identified 
+     under the Sean and David Goldman International Child 
+     Abduction Prevention and Return Act of 2014 (22 U.S.C. 9101 
+     et seq.) as engaging in a pattern of noncompliance;
+       Whereas the Supreme Court of the United States has 
+     recognized that family abduction--
+       (1) is a form of child abuse with potentially ``devastating 
+     consequences for a child'', which may include negative 
+     impacts on the physical and mental well-being of the child; 
+     and
+       (2) can cause a child to ``experience a loss of community 
+     and stability, leading to loneliness, anger, and fear of 
+     abandonment'';
+       Whereas, according to the 2010 Report on Compliance with 
+     the Hague Convention on the Civil Aspects of International 
+     Child Abduction by the Department of State, research shows 
+     that an abducted child is at risk of significant short- and 
+     long-term problems, including ``anxiety, eating problems, 
+     nightmares, mood swings, sleep disturbances, [and] aggressive 
+     behavior'';
+
+[[Page S2458]]
+
+       Whereas international parental child abduction has 
+     devastating emotional consequences for the child and for the 
+     parent from whom the child is separated;
+       Whereas the United States has a history of promoting child 
+     welfare through institutions including--
+       (1) in the Department of Health and Human Services, the 
+     Children's Bureau of the Administration for Children and 
+     Families; and
+       (2) in the Department of State, the Office of Children's 
+     Issues of the Bureau of Consular Affairs;
+       Whereas Congress has signaled a commitment to ending 
+     international parental child abduction by enacting the 
+     International Child Abduction Remedies Act (22 U.S.C. 9001 et 
+     seq.), the International Parental Kidnapping Crime Act of 
+     1993 (Public Law 103-173), which enacted section 1204 of 
+     title 18, United States Code, and the Sean and David Goldman 
+     International Child Abduction Prevention and Return Act of 
+     2014 (22 U.S.C. 9101 et seq.);
+       Whereas the Senate adopted Senate Resolution 543, 112th 
+     Congress, on December 4, 2012, condemning the international 
+     abduction of children;
+       Whereas the Senate adopted Senate Resolution 431, 115th 
+     Congress, on April 19, 2018, to raise awareness of, and 
+     opposition to, international parental child abduction;
+       Whereas all 50 States and the District of Columbia have 
+     enacted laws criminalizing parental kidnapping;
+       Whereas, in 2017, the Prevention Branch of the Office of 
+     Children's Issues of the Department of State--
+       (1) fielded more than 3,500 inquiries from the general 
+     public relating to preventing a child from being removed from 
+     the United States; and
+       (2) enrolled more than 4,400 children in the Children's 
+     Passport Issuance Alert Program, which--
+       (A) is one of the most important tools of the Department of 
+     State for preventing international parental child abductions; 
+     and
+       (B) allows the Office of Children's Issues to contact the 
+     enrolling parent or legal guardian to verify whether the 
+     parental consent requirement has been met when a passport 
+     application has been submitted for an enrolled child;
+       Whereas, the Department of State cannot track the ultimate 
+     destination of a child through the use of the passport of the 
+     child issued by the Department of State if the child is 
+     transported to a third country after departing from the 
+     United States;
+       Whereas a child who is a citizen of the United States may 
+     have another nationality and may travel using a passport 
+     issued by another country, which--
+       (1) increases the difficulty in determining the whereabouts 
+     of the child; and
+       (2) makes efforts to prevent abductions more critical; and
+       Whereas, in 2017, the Department of Homeland Security, in 
+     coordination with the Prevention Branch of the Office of 
+     Children's Issues of the Department of State, enrolled 210 
+     children in a program aimed at preventing international 
+     parental child abduction: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes and observes ``Countering International 
+     Parental Child Abduction Month'' during the period beginning 
+     on April 1, 2019, and ending on April 30, 2019, to raise 
+     awareness of, and opposition to, international parental child 
+     abduction; and
+       (2) urges the United States to continue playing a 
+     leadership role in raising awareness about the devastating 
+     impacts of international parental child abduction by 
+     educating the public about the negative emotional, 
+     psychological, and physical consequences to children and 
+     parents victimized by international parental child abduction.
+
+                          ____________________
+```
