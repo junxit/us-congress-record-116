@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-04-29-pt1-PgH3287-7
+date: 2019-04-29
+edition: CREC
+section: HOUSE
+page: H3287
+citation: 165 Cong. Rec. H3287
+---
+
+# CONDEMNING ATTACKS IN SRI LANKA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                    CONDEMNING ATTACKS IN SRI LANKA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, on Easter Sunday, at least 
+253 innocents were brutally murdered in Sri Lanka as a result of 
+coordinated attacks targeting hotels and Christian churches. There were 
+four American fatalities.
+  The tragic Easter Sunday bombings are one of the worst terrorist 
+attacks since September 11, 2001. At least seven suicide bombers hit 
+multiple targets, including St. Anthony's Shrine, within a short period 
+of time of each other.
+  The attack was clearly planned in advance, as at least nine sites 
+were targeted. ISIS has claimed responsibility for the attacks, and a 
+safe house of ISIS was raided by authorities on Friday.
+  The American people stand steadfast beside the people of Sri Lanka in
+
+[[Page H3288]]
+
+mourning and solidarity. We send our heartfelt condolences to the 
+families of the victims, and we vow to never let the people of Sri 
+Lanka or any country stand alone before the scourge of terrorism.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```

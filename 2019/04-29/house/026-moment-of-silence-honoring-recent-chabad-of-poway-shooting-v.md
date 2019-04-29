@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-04-29-pt1-PgH3295-5
+date: 2019-04-29
+edition: CREC
+section: HOUSE
+page: H3295
+citation: 165 Cong. Rec. H3295
+---
+
+# MOMENT OF SILENCE HONORING RECENT CHABAD OF POWAY SHOOTING VICTIMS
+
+**Speaking:** Peters, Scott H. (P000608) [D-CA]
+
+```
+                              {time}  1915
+   MOMENT OF SILENCE HONORING RECENT CHABAD OF POWAY SHOOTING VICTIMS
+
+  (Mr. PETERS asked and was given permission to address the House for 1 
+minute.)
+  Mr. PETERS. Mr. Speaker, it is with great sadness that I rise today 
+to speak of the tragic shooting that took place at the Chabad of Poway 
+on Saturday. As the synagogue celebrated the last day of Passover, a 
+19-year-old terrorist walked in and opened fire with an assault rifle.
+  One woman was killed, and three others were badly hurt. Lori Gilbert-
+Kaye died while selflessly trying to protect her rabbi from the gunman. 
+She is recalled as a faith-filled, generous caregiver who put others 
+before herself. Lori died as she lived.
+  Yesterday I attended an event to honor local Holocaust survivors. As 
+I watched these brave men and women who survived Nazi Germany, I was 
+confronted with the tragic realization that
+
+[[Page H3296]]
+
+today in 2019, Jews are still being threatened by murderous white 
+supremacists.
+  Mr. Speaker, I ask for a moment of silence, but we must follow it 
+with action. We must act against gun violence and come together to stop 
+the rising tide of white supremacy that plagues our Nation today.
+  Please join me in a moment of silence.
+
+                          ____________________
+```
