@@ -1,0 +1,21 @@
+---
+granule: CREC-2019-04-30-pt1-PgS2502-3
+date: 2019-04-30
+edition: CREC
+section: SENATE
+page: S2502
+citation: 165 Cong. Rec. S2502
+---
+
+# RECESS
+
+```
+                                 RECESS
+
+  The PRESIDING OFFICER. Under the previous order, the Senate stands in 
+recess until 2:15 p.m.
+  Thereupon, the Senate at 12:58 p.m., recessed until 2:15 p.m. when 
+called to order by the Presiding Officer (Mrs. Capito).
+
+                          ____________________
+```

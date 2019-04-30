@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-04-30-pt1-PgH3310-3
+date: 2019-04-30
+edition: CREC
+section: HOUSE
+page: H3310
+citation: 165 Cong. Rec. H3310
+---
+
+# HONORING THE LIFE AND LEGACY OF SENATOR RICHARD LUGAR
+
+**Speaking:** Brooks, Susan W. (B001284) [R-IN]
+
+```
+         HONORING THE LIFE AND LEGACY OF SENATOR RICHARD LUGAR
+
+  (Mrs. BROOKS of Indiana asked and was given permission to address the 
+House for 1 minute.)
+  Mrs. BROOKS of Indiana. Madam Speaker, today, I rise to honor the 
+life and legacy of a truly great Hoosier who dedicated his life to 
+making the world a better and safer place for generations to come. 
+Senator Richard Lugar passed away over the weekend, with his dear 
+family by his side, at the age of 78.
+  The Richard G. Lugar Plaza in Indianapolis is just one tribute to the 
+truly great statesman and public servant role model he was to so many 
+people, including to myself. He served our Navy proudly. He was the 
+mayor of Indianapolis and the longest tenured Member of Congress from 
+Indiana.
+  He worked brilliantly and in a bipartisan fashion not only on 
+security issues but also compassionately on those issues that impacted 
+Americans every day, including food security both at home and around 
+the globe, education for young people, energy independence, and free 
+trade. He skillfully navigated foreign policy matters and earned a 
+Medal of Freedom for successfully convincing the former Soviet Union to 
+dismantle their weapons at the end of the Cold War.
+  No matter the topic at hand, he always made time for the next 
+generation, to teach and inspire young Hoosiers to serve their country 
+and to remind all of us that we have more in common as Americans than 
+we do differences.
+  We will miss his wisdom and his gentle smile dearly, but his legacy 
+will endure for generations to come.
+
+                          ____________________
+```

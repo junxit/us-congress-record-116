@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-04-30-pt1-PgS2531
+date: 2019-04-30
+edition: CREC
+section: SENATE
+page: S2531
+citation: 165 Cong. Rec. S2531
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 30, 2019:
+
+
+                          DEPARTMENT OF ENERGY
+
+       WILLIAM COOPER, OF MARYLAND, TO BE GENERAL COUNSEL OF THE 
+     DEPARTMENT OF ENERGY.
+
+
+                          DEPARTMENT OF STATE
+
+       R. CLARKE COOPER, OF FLORIDA, TO BE AN ASSISTANT SECRETARY 
+     OF STATE (POLITICAL-MILITARY AFFAIRS).
+
+
+                  PENSION BENEFIT GUARANTY CORPORATION
+
+       GORDON HARTOGENSIS, OF CONNECTICUT, TO BE DIRECTOR OF THE 
+     PENSION BENEFIT GUARANTY CORPORATION FOR A TERM OF FIVE 
+     YEARS.
+```

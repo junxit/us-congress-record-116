@@ -1,0 +1,70 @@
+---
+granule: CREC-2019-04-30-pt1-PgS2523-2
+date: 2019-04-30
+edition: CREC
+section: SENATE
+page: S2523
+citation: 165 Cong. Rec. S2523
+---
+
+# SENATE RESOLUTION 175--SUPPORTING INCREASED AWARENESS OF SEPSIS AND THE IMPORTANCE OF EARLY DIAGNOSIS AND APPROPRIATE INTERVENTION
+
+**Measures:** S.Res. 175
+
+```
+SENATE RESOLUTION 175--SUPPORTING INCREASED AWARENESS OF SEPSIS AND THE 
+       IMPORTANCE OF EARLY DIAGNOSIS AND APPROPRIATE INTERVENTION
+
+  Ms. BALDWIN (for herself and Mr. Blunt) submitted the following 
+resolution; which was referred to the Committee on Health, Education, 
+Labor, and Pensions:
+
+                              S. Res. 175
+
+       Whereas sepsis is a medical condition resulting from an 
+     immune system response to an infection;
+       Whereas the overwhelming response of the immune system to 
+     an infection can rapidly lead to tissue damage, organ 
+     failure, and death;
+       Whereas more than 1,700,000 individuals in the United 
+     States develop sepsis each year;
+       Whereas more than 270,000 individuals in the United States 
+     die from sepsis each year, which is more than the number of 
+     individuals who die from prostate cancer, breast cancer, and 
+     HIV/AIDS combined;
+       Whereas the Centers for Disease Control and Prevention 
+     estimates that 1 in 3 patients who die in a hospital have 
+     sepsis;
+       Whereas, according to the Agency for Healthcare Research 
+     and Quality, sepsis is the most common diagnosis for 
+     inpatient hospital stays in the United States;
+       Whereas sepsis is the most expensive condition treated in 
+     hospitals in the United States, costing more than 
+     $24,000,000,000 each year;
+       Whereas sepsis is the number 1 cause of hospital 
+     readmissions, generating more than $2,000,000,000 in costs 
+     annually;
+       Whereas more than 80 percent of septic patients are septic 
+     upon admission to the hospital;
+       Whereas mortality rates from septic shock increase by up to 
+     8 percent for every hour that treatment is delayed;
+       Whereas rapid diagnosis and treatment can prevent up to 80 
+     percent of fatalities from sepsis; and
+       Whereas the combination of early detection of sepsis and 
+     appropriate interventions can significantly improve the 
+     chances of survival for patients with all types of sepsis: 
+     Now, therefore, be it
+       Resolved, That the Senate--
+       (1) is committed to increasing awareness of sepsis and 
+     encouraging the education of patients, families, health care 
+     professionals, and government agencies on the critical 
+     importance of early diagnosis as the key for patients to 
+     survive sepsis; and
+       (2) supports innovative public-private partnerships and the 
+     pursuit of innovative financing tools, incentives, and other 
+     mechanisms to accelerate the pursuit of improved early 
+     detection and appropriate intervention for patients with 
+     sepsis.
+
+                          ____________________
+```
