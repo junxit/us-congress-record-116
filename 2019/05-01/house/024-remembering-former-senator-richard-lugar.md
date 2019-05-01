@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-05-01-pt1-PgH3348-9
+date: 2019-05-01
+edition: CREC
+section: HOUSE
+page: H3348
+citation: 165 Cong. Rec. H3348
+---
+
+# REMEMBERING FORMER SENATOR RICHARD LUGAR
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                REMEMBERING FORMER SENATOR RICHARD LUGAR
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+former Senator Richard Lugar, who passed away Sunday at the age of 87.
+  Senator Lugar served the State of Indiana for 36 years in Congress 
+and was a leading voice on issues at home and abroad.
+  Senator Lugar was a man of strong integrity who stood by what he 
+believed in, and Senator Lugar always was willing to work with 
+colleagues on both sides of the aisle to reach a shared goal: 
+bipartisanship.
+  In 2003, the State Department established a Kennedy-Lugar YES Abroad 
+program, named for Senator Lugar and Senator Ted Kennedy. The program 
+provides scholarships for students from the United States and countries 
+with significant Muslim populations to spend 1 year in the other's 
+country. It fosters the same goals that Senator Lugar dedicated his 
+life to achieving: understanding, collaboration, and friendship with 
+the rest of the world.
+  Mr. Speaker, I thank Senator Lugar for his legendary service. Senator 
+Lugar leaves a long record of legislative accomplishments. I offer my 
+condolences to his family.
+  May Senator Lugar rest in peace, and may we learn from the example 
+that he set.
+
+[[Page H3349]]
+
+  
+
+                          ____________________
+```

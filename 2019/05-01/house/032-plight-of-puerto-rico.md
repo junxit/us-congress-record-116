@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-05-01-pt1-PgH3350
+date: 2019-05-01
+edition: CREC
+section: HOUSE
+page: H3350
+citation: 165 Cong. Rec. H3350
+---
+
+# PLIGHT OF PUERTO RICO
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+                         PLIGHT OF PUERTO RICO
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GARCIA of Illinois. Mr. Speaker, tomorrow, at a hearing examining 
+Puerto Rico's Financial Oversight Board, I plan to stand strong with 
+the Puerto Rican families I represent and demand to hear the board's 
+plan for reversing Puerto Rico's plight.
+  At a time that families are leaving the island, schools are closing, 
+and homes and communities destroyed by Hurricane Maria still have not 
+been rebuilt, the fiscal board is forcing Puerto Ricans to sacrifice 
+pensions, wages, and crucial government services.
+  People are hungry, using plastic tarps as roofs, and living without 
+electricity or heat.
+  I toured the devastated areas earlier this year and met with families 
+in my district whose relatives are still suffering last week.
+  Well over a year after Maria, less than 20 percent of the aid that 
+the fiscal board anticipated has been delivered.
+  How can Puerto Rico recover while its oversight board continues to 
+squeeze the island and President Trump continues to block disaster aid 
+and food stamps?
+  Tomorrow, I will stand with our brothers and sisters in Puerto Rico 
+and demand answers to these questions.
+
+                          ____________________
+```

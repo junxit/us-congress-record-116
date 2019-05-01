@@ -1,0 +1,52 @@
+---
+granule: CREC-2019-05-01-pt1-PgH3363
+date: 2019-05-01
+edition: CREC
+section: HOUSE
+page: H3363
+citation: 165 Cong. Rec. H3363
+---
+
+# MOMENT OF SILENCE HONORING THE LIFE OF CONGRESSWOMAN ELLEN TAUSCHER
+
+**Speaking:** Pelosi, Nancy (P000197) [D-CA]
+
+```
+  MOMENT OF SILENCE HONORING THE LIFE OF CONGRESSWOMAN ELLEN TAUSCHER
+
+  (Ms. PELOSI asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. PELOSI. Mr. Speaker, I rise with great sadness to mark the 
+passing of a leader of exceptional courage and firm principles, our 
+colleague and dear friend, Congresswoman Ellen Tauscher.
+  The presence of so many members from our California delegation is a 
+beautiful tribute to her beautiful life. Thank you all for being here.
+  Ellen's passing is a great official loss to the people of California 
+and to the Nation and a deep personal loss for all of us who are 
+blessed to call her friend.
+  Our hearts break for her daughter, Katherine. Personally, it was a 
+joy for many of us to see her expect Katherine. Katherine came. 
+Katherine is growing up. She took such delight in being Katherine's 
+mother.
+  Ellen was an extraordinary force for progress who made a difference. 
+Her smart, strategic leadership strengthened our democratic 
+institutions and kept America safe, and her relentless commitment to 
+nuclear nonproliferation beautifully honored the oath we take to 
+support and defend the Constitution and protect the American people.
+  Ellen was a pioneer who made history when she became the youngest 
+ever and one of the very earliest women members of the New York Stock 
+Exchange, where she was a powerful voice for technology, science, and 
+innovation.
+  Ellen's friendship was a gift, and her legacy was one of outstanding 
+leadership marked by deep patriotism and tireless commitment to 
+progress.
+  May it be a comfort to Ellen's beloved daughter, Katherine, and her 
+many, many loved ones that so many share their loss and pray for them 
+at this sad time.
+  Mr. Speaker, I now ask that Members and guests in the gallery rise to 
+observe a moment of silence.
+  The SPEAKER pro tempore (Mr. Swalwell of California). All present 
+will rise to observe a moment of silence.
+
+                          ____________________
+```
