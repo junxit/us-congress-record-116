@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-05-02-pt1-PgH3410-5
+date: 2019-05-02
+edition: CREC
+section: HOUSE
+page: H3410
+citation: 165 Cong. Rec. H3410
+---
+
+# LEAD ON THE CRISIS OF CLIMATE CHANGE
+
+**Speaking:** Himes, James A. (H001047) [D-CT]
+
+**Measures:** H.R. 9
+
+```
+                  LEAD ON THE CRISIS OF CLIMATE CHANGE
+
+  (Mr. HIMES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HIMES. Mr. Speaker, I rise today to address the opportunity we 
+have today to lead on the crisis of climate change.
+  The climate change crisis is unlike any other that we have faced. It 
+cannot be defeated on the battlefield; it cannot be cured; it cannot be 
+wished away; and it, certainly, can no longer be denied.
+  What we can do is what we have always done and lead the community of 
+nations to address a problem that would leave our children and their 
+grandchildren with an unbelievable crisis and possibly a planet that 
+they can no longer inhabit.
+  The Paris climate agreement was a set of targets that we developed 
+that are not mandatory. The Paris climate agreement is about making a 
+statement that this is a problem and a crisis, and that America will 
+lead.
+  Today, this Chamber has an opportunity to say, yes, we will lead. We 
+will not hide from the problem. We will not let this crisis distract 
+us. We will lead.
+  Mr. Speaker, I urge my colleagues to support H.R. 9 today and to send 
+a statement to the world that, as we have always done, we will lead on 
+this global crisis.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-05-02-pt1-PgH3411-2
+date: 2019-05-02
+edition: CREC
+section: HOUSE
+page: H3411
+citation: 165 Cong. Rec. H3411
+---
+
+# CELEBRATING OUR NATIONAL LIBRARIES
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+                   CELEBRATING OUR NATIONAL LIBRARIES
+
+  (Mr. MARSHALL asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARSHALL. Mr. Speaker, recently we celebrated our national 
+libraries. I rise today to discuss the important role they play across 
+many Kansas communities.
+  I have visited libraries throughout The Big First, stopping in 
+Manhattan, Salina, Dodge City, Quinter, Great Bend, and Scott City. I 
+recently visited the Marion City Library that was awarded the 2019 
+five-star honor for its welcoming facility with well-targeted programs.
+  Communities from Colby to Abilene have partnered with organizations 
+such as the Library of Congress, National Archives, and Smithsonian 
+Institution to shine a spotlight on the great qualities and rich 
+history that is unique to Kansas. These programs, run by our local 
+libraries, are vitally important to our small communities and reached 
+more than 27,000 Kansans in 2018.
+  I am so proud of our Kansas libraries that are constantly going above 
+and beyond.
+
+                          ____________________
+```
