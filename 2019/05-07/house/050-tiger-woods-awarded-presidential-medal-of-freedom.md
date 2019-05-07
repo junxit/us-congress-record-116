@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-05-07-pt1-PgH3465-3
+date: 2019-05-07
+edition: CREC
+section: HOUSE
+page: H3465
+citation: 165 Cong. Rec. H3465
+---
+
+# TIGER WOODS AWARDED PRESIDENTIAL MEDAL OF FREEDOM
+
+**Speaking:** Allen, Rick W. (A000372) [R-GA]
+
+```
+           TIGER WOODS AWARDED PRESIDENTIAL MEDAL OF FREEDOM
+
+  (Mr. ALLEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALLEN. Mr. Speaker, yesterday, I had the great privilege of 
+joining President Trump and many others at the White House Rose Garden 
+as Tiger Woods was awarded the Presidential Medal of Freedom.
+  I want to take this opportunity to congratulate Tiger, not only for 
+winning our Nation's highest civilian honor, but also for his standout 
+victory at the 2019 Masters Tournament in my hometown of Augusta, 
+Georgia.
+  In 1997, Woods became the youngest man and first African Asian 
+American to win the Masters at the young age of 21. After being tested 
+by possible career-ending injuries and adversity, Tiger's comeback to 
+win his 81st PGA tour event, 15th major championship, and fifth green 
+jacket 22 years later is nothing short of remarkable.
+  Now Tiger adds the Presidential Medal of Freedom to his already 
+stellar resume, becoming only the fourth golfer to do so, joining the 
+likes of Arnold Palmer, Jack Nicklaus, and Charlie Sifford.
+  Congratulations to Tiger and his family for receiving such a well-
+deserved distinction. As the President said, Tiger, you are a ``true 
+legend.''
+
+                          ____________________
+```

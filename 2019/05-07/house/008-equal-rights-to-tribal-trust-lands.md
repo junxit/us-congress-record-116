@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-05-07-pt1-PgH3452-2
+date: 2019-05-07
+edition: CREC
+section: HOUSE
+page: H3452
+citation: 165 Cong. Rec. H3452
+---
+
+# EQUAL RIGHTS TO TRIBAL TRUST LANDS
+
+**Speaking:** McCollum, Betty (M001143) [D-MN]
+
+**Measures:** H.R. 375
+
+```
+                   EQUAL RIGHTS TO TRIBAL TRUST LANDS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Minnesota (Ms. McCollum) for 5 minutes.
+  Ms. McCOLLUM. Mr. Speaker, the Federal Government has an obligation 
+to equally protect the rights of all 573 federally recognized Tribal 
+nations.
+  Since the passage of the Indian Reorganization Act of 1934, those 
+rights have included the ability to have lands placed into trust. The 
+intent of the original Indian Reorganization Act was clear: to restore 
+and to protect Tribal homelands for all sovereign Tribal nations.
+  Congress clearly did not intend to limit this right based on the date 
+of a Tribe's recognition. After all, Tribal nations did not get to 
+decide when the Federal Government would give them the recognition they 
+were due. But in 2009, the Supreme Court ruling in a case of Carcieri 
+v. Salazar called into question whether Tribes recognized after 1934 
+should have equal rights to trust land.
+  Tribal leaders united to ask Congress for legislation to fix this 
+problem, to right this wrong, and I am honored to have worked hand in 
+hand in a nonpartisan fashion with my good friend, Congressman   Tom 
+Cole, to lead that effort.
+  Tomorrow the House will vote on H.R. 375, a clean legislative fix 
+that is necessary to ensure that we are fulfilling one of our country's 
+most sacred obligations. I urge my colleagues on both sides of the 
+aisle to support a clean Carcieri fix.
+
+                          ____________________
+```

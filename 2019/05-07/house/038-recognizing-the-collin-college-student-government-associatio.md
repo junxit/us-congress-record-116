@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-05-07-pt1-PgH3463
+date: 2019-05-07
+edition: CREC
+section: HOUSE
+page: H3463
+citation: 165 Cong. Rec. H3463
+---
+
+# RECOGNIZING THE COLLIN COLLEGE STUDENT GOVERNMENT ASSOCIATION
+
+**Speaking:** Taylor, Van (T000479) [R-TX]
+
+```
+     RECOGNIZING THE COLLIN COLLEGE STUDENT GOVERNMENT ASSOCIATION
+
+  (Mr. TAYLOR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAYLOR. Mr. Speaker, I rise today to recognize the Collin College 
+Student Government Association for winning the 2019 Event of the Year 
+award at the Texas Junior College Student Government Association 
+convention.
+  The event which earned the organization this prestigious recognition, 
+``Love Does Not Hurt: An Oath Against Domestic Violence,'' provided 
+resources for victims of domestic violence and featured speakers who 
+inspired all in attendance.
+  I was honored to attend the event and witness firsthand the 
+incredible difference these student leaders are making, both on and off 
+campus.
+  I ask my colleagues in the House of Representatives to join me today 
+in thanking the Student Government Association of Collin College for 
+their dedication and commitment to our community.
+
+                          ____________________
+```

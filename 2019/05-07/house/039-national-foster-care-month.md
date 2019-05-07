@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-05-07-pt1-PgH3463-2
+date: 2019-05-07
+edition: CREC
+section: HOUSE
+page: H3463
+citation: 165 Cong. Rec. H3463
+---
+
+# NATIONAL FOSTER CARE MONTH
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                       NATIONAL FOSTER CARE MONTH
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, as co-chair of the bipartisan 
+Congressional Caucus on Foster Youth, I rise to recognize May as 
+National Foster Care Month.
+  Mr. Speaker, it is time to bring front and center the more than 
+400,000 youth in our foster care system across the country. These young 
+people are courageous, and they face and overcome many challenges.
+  Let's raise up their voices because they deserve to be heard, and 
+they deserve a seat at the policymaking table.
+  May is also a time to recognize the foster care professionals, 
+advocates, and families who devote themselves to supporting foster 
+youth every day. These individuals deserve our utmost respect and our 
+gratitude.
+  I am proud to cosponsor Representative Karen Bass' resolution 
+recognizing Foster Care Month.
+  To the foster youth and those who support them in Rhode Island and 
+across the country, you matter, and I am here to be your advocate in 
+Congress. I urge my colleagues on both sides of the aisle to join me.
+
+                          ____________________
+```
