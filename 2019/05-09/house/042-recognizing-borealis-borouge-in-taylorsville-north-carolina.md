@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-05-09-pt1-PgH3552
+date: 2019-05-09
+edition: CREC
+section: HOUSE
+page: H3552
+citation: 165 Cong. Rec. H3552
+---
+
+# RECOGNIZING BOREALIS, BOROUGE IN TAYLORSVILLE, NORTH CAROLINA
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+     RECOGNIZING BOREALIS, BOROUGE IN TAYLORSVILLE, NORTH CAROLINA
+
+  (Ms. FOXX of North Carolina asked and was given permission to address 
+the House for 1 minute.)
+  Ms. FOXX of North Carolina. Madam Speaker, I rise to recognize the 
+inauguration of the Borealis, Borouge plant in Taylorsville, North 
+Carolina. It is the first of the company's North American facilities 
+dedicated to automotive materials production and is well positioned to 
+source suppliers and original equipment manufacturers in the Southeast 
+United States.
+  It is exciting to see another way that progrowth policies adopted by 
+the North Carolina State Legislature and this body last Congress are 
+attracting capital and creating new jobs.
+  The investment by Borealis also says much about the high caliber of 
+people in Taylorsville. They are entrepreneurial-minded and working 
+hard to grow their business community. Beginning with 30 new full-time 
+jobs, Borealis aims to expand in the region through local relationships 
+and by developing a new generation of talent.
+  I am very proud to represent the Taylorsville community and to see 
+new opportunities taking off in its economy.
+
+                          ____________________
+```

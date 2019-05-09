@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-05-09-pt1-PgH3550-3
+date: 2019-05-09
+edition: CREC
+section: HOUSE
+page: H3550
+citation: 165 Cong. Rec. H3550
+---
+
+# MATERNAL MENTAL HEALTH AWARENESS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                    MATERNAL MENTAL HEALTH AWARENESS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, May is Mental Health Awareness Month.
+  Madam Speaker, I rise today to honor America's mothers and to raise 
+awareness about maternal mental health.
+  Each year in the United States, an estimated 1.3 million women suffer 
+from perinatal mood and anxiety disorders, such as maternal depression.
+  To all the mothers or potential mothers out there, know that maternal 
+depression is nothing to be ashamed of. It is the number one 
+complication of pregnancy in the United States, and it can affect women 
+regardless of the outcome of the pregnancy. Do not be afraid to reach 
+out to healthcare professionals to get treatment.
+  Madam Speaker, I urge my colleagues to join me in honoring the 
+mothers, the survivors of maternal depression, and the great 
+organizations
+
+[[Page H3551]]
+
+across the country that are supporting women's mental health.
+  By raising awareness, we can help protect the mental health of women 
+and mothers in our communities.
+
+                          ____________________
+```

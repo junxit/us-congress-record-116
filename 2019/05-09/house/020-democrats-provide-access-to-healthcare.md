@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-05-09-pt1-PgH3508-2
+date: 2019-05-09
+edition: CREC
+section: HOUSE
+page: H3508
+citation: 165 Cong. Rec. H3508
+---
+
+# DEMOCRATS PROVIDE ACCESS TO HEALTHCARE
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+**Measures:** H.R. 986
+
+```
+                 DEMOCRATS PROVIDE ACCESS TO HEALTHCARE
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Madam Speaker, 2 years ago, our Republican friends 
+voted to repeal the Affordable Care Act. They brought in cases of beer 
+to celebrate. They piled into luxury buses that ferried them to the 
+White House, where they had a second party with the President to 
+celebrate their attempt to kick millions of Americans off their health 
+insurance.
+  Fortunately, we stopped them. That bill never became law.
+  But 2 years later, they are up to the same old tricks. The President 
+is asking a Federal court to strike down not just protections for more 
+than 130 million Americans with preexisting conditions, but the entire 
+Affordable Care Act.
+  Talk about not getting the memo. The American people sent a message 
+to President Trump in November and to my Republican colleagues on the 
+other side of the aisle. They want government to stop working for 
+special interests and start working for the people again. That is why 
+House Democrats are about to pass legislation to strengthen protections 
+for folks with preexisting conditions, H.R. 986.
+  While President Trump continues his assault on the Affordable Care 
+Act, Democrats are going to continue our work for the people by passing 
+legislation to make sure every American has access to the quality, 
+affordable healthcare they deserve.
+
+                          ____________________
+```

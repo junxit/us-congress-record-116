@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-05-09-pt1-PgH3508-5
+date: 2019-05-09
+edition: CREC
+section: HOUSE
+page: H3508
+citation: 165 Cong. Rec. H3508
+---
+
+# BILLY JOEL'S 70TH BIRTHDAY
+
+**Speaking:** Zeldin, Lee M. (Z000017) [R-NY]
+
+```
+                       BILLY JOEL'S 70TH BIRTHDAY
+
+  (Mr. ZELDIN asked and was given permission to address the House for 1 
+minute.)
+  Mr. ZELDIN. Madam Speaker, I rise today to wish a very happy 70th 
+birthday to Billy Joel, a resident of the greatest congressional 
+district in America, the First Congressional District of New York.
+  He has sung about Allentown; he has sung about Vienna; but he never 
+forgot where he came from. It is important, whether you are in 
+politics, music, or business, to never forget where you come from.
+  He would sing songs about our bays, our beaches, our boaters, our 
+fishermen, our restaurants, our media. He is someone who, to this very 
+day, looks at Long Island as his home.
+  He has a concert tonight celebrating his 70th birthday with so many 
+fans.
+  From everyone who lives in the First Congressional District, for all 
+of Long Island, a very happy 70th birthday to a very special person.
+  Happy birthday to Billy Joel.
+
+[[Page H3509]]
+
+  
+
+                          ____________________
+```

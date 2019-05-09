@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-05-09-pt1-PgH3551-3
+date: 2019-05-09
+edition: CREC
+section: HOUSE
+page: H3551
+citation: 165 Cong. Rec. H3551
+---
+
+# MOMENT OF SILENCE HONORING OFFICER ROBERT McKEITHEN
+
+**Speaking:** Palazzo, Steven M. (P000601) [R-MS]
+
+```
+                              {time}  1845
+          MOMENT OF SILENCE HONORING OFFICER ROBERT McKEITHEN
+
+  (Mr. PALAZZO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PALAZZO. Madam Speaker, I rise today along with my fellow members 
+of the Mississippi delegation to express the sorrow and grief within 
+our hearts. This week, the city of Biloxi lost one of our law 
+enforcement officers at the hands of senseless violence.
+  Officer Robert McKeithen's end of watch was on May 5, 2019, when he 
+was killed in the line of duty less than an hour after helping a Biloxi 
+man out of his wrecked car.
+  McKeithen was an Air Force veteran who served our Biloxi Police 
+Department for nearly 24 years. He was a family man who leaves behind a 
+wife and children.
+  During his time as an officer, McKeithen became known for his 
+selfless acts to put those in our community first. Particularly, he was 
+awarded the Medal of Honor for his heroic actions during Hurricane 
+Katrina, where he went out of his way to save the lives of a family 
+trapped in their home while the floodwaters were rising.
+  We have come to expect our law enforcement officers to run to the 
+dangers we civilians run from. They choose to keep our families and 
+neighborhoods safe, never knowing if they will return home to their own 
+families when their shift ends.
+  Our community now comes together in a time of grief mourning the loss 
+of our fallen hero.
+  Madam Speaker, at this time, I ask the House to join me in a moment 
+of silence to honor the life and service of Officer Robert McKeithen.
+
+                          ____________________
+```
