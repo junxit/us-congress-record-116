@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-05-14-pt1-PgH3775
+date: 2019-05-14
+edition: CREC
+section: HOUSE
+page: H3775
+citation: 165 Cong. Rec. H3775
+---
+
+# HONORING SERGEANT KELVIN ANSARI
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                    HONORING SERGEANT KELVIN ANSARI
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize 
+Sergeant Kelvin Ansari, who passed away in the line of duty on Saturday 
+night at the age of 50.
+  On Saturday night, Sergeant Ansari and Officer Douglas Thomas arrived 
+to investigate a robbery in downtown Savannah. Both officers returned 
+to the scene later that night after receiving a description of the 
+suspect's car, who they thought had left the scene. However, the 
+individual was still inside the car and opened fire. Both police 
+officers were struck, but Sergeant Ansari later succumbed to his 
+injuries.
+  Joining the police department in Savannah in 2008, Sergeant Ansari 
+had previously served in the United States Army for 21 years. He was a 
+father of four, a husband, and a leader who dedicated so much of his 
+life to protecting our country and our community.
+  It is unfortunate in times like these that we are reminded of the 
+danger that our police officers face each day in keeping our 
+communities safe.
+  Sergeant Ansari's family and friends, as well as the entire Savannah 
+Police Department, are in our thoughts and prayers during this most 
+difficult time.
+
+                          ____________________
+```

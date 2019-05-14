@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-05-14-pt1-PgH3774-3
+date: 2019-05-14
+edition: CREC
+section: HOUSE
+page: H3774
+citation: 165 Cong. Rec. H3774
+---
+
+# SUPPORTING E-2 VISA HOLDERS
+
+**Speaking:** Rutherford, John H. (R000609) [R-FL]
+
+```
+                      SUPPORTING E-2 VISA HOLDERS
+
+  (Mr. RUTHERFORD asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. RUTHERFORD. Mr. Speaker, I rise today in support of the E-2 visa 
+holders and their families who have been ignored by our Nation's 
+immigration laws.
+  E-2 visa holders are required to be business owners, job creators, 
+and risk takers. They are filled with the American spirit that makes 
+this country great. And yet, their children are unfairly forced to 
+leave this country on their 21st birthday.
+  The E-2 children have no protection, no leniency, and unlike DACA 
+recipients, they receive no attention from the mainstream media.
+  We cannot continue to put the children of illegal aliens before the 
+children of legal aliens. That is why I introduced the E-2 Visa 
+Improvement Act, which will do two things: create a path to legal 
+permanent residency after 10 years in the U.S., and allow children of 
+E-2 visa holders to stay in the country until 26 years of age and to 
+apply for work authorization.
+  I urge my colleagues to support these simple, commonsense reforms 
+that will make a huge difference in the lives of law-abiding immigrants 
+who are hiring and helping carry our economy forward.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-05-14-pt1-PgH3772-4
+date: 2019-05-14
+edition: CREC
+section: HOUSE
+page: H3772
+citation: 165 Cong. Rec. H3772
+---
+
+# TRIBUTE TO REVEREND DR. RONNIE FLOYD
+
+**Speaking:** Womack, Steve (W000809) [R-AR]
+
+```
+                  TRIBUTE TO REVEREND DR. RONNIE FLOYD
+
+  (Mr. WOMACK asked and was given permission to address the House for 1 
+minute.)
+  Mr. WOMACK. Mr. Speaker, this Sunday, the Reverend Dr. Ronnie Floyd, 
+senior pastor of Cross Church in northwest Arkansas, will deliver his 
+final sermon in a joint service of the many campuses at Bud Walton 
+Arena in Fayetteville, Arkansas.
+  Dr. Floyd has served as senior pastor at Cross Church for almost 33 
+years. He has presided over an unprecedented expansion of the church 
+over four campuses in Arkansas and Missouri, with a combined membership 
+of nearly 28,000.
+  Under his vision and leadership, just under 23,000 have come to know 
+Christ as their personal savior, and Cross Church has an enviable 
+reputation of bringing the gospel of Jesus Christ to the Nation and the 
+world.
+  Average weekly attendance has grown from 1,800 people in 1986 to 
+nearly 10,000 today.
+  Dr. Floyd will become the president and CEO of the Southern Baptist 
+Convention's executive committee on May 20 in Nashville, Tennessee.
+  I speak for the entire congregation of Cross Church in wishing Dr. 
+Floyd and his wife, Jeana, the Lord's blessings during this transition 
+to a new and exciting ministry and thank him for 33 terrific years at 
+Cross Church.
+
+                          ____________________
+```
