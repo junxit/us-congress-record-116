@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-05-15-pt1-PgH3799-8
+date: 2019-05-15
+edition: CREC
+section: HOUSE
+page: H3799
+citation: 165 Cong. Rec. H3799
+---
+
+# WORK IN A BIPARTISAN WAY TO DEFEAT RUSSIAN ELECTION INTERFERENCE
+
+**Speaking:** Gaetz, Matt (G000578) [R-FL]
+
+```
+    WORK IN A BIPARTISAN WAY TO DEFEAT RUSSIAN ELECTION INTERFERENCE
+
+  (Mr. GAETZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. GAETZ. Madam Speaker, by expanding American energy, expelling 
+diplomats, and ensuring that the United States takes its position in 
+the world, President Trump has been tougher on Russia than any 
+President in a generation.
+  But the fact remains that the Russian military attacked the U.S. 
+election. And so it would seem reasonable that, along with the 
+Department of Homeland Security, the FBI, and the CIA, we would want 
+the United States military offering the full suite of capabilities, 
+both offensive and defensive, to combat Russian election interference.
+  Today, the House Armed Services Committee held a classified briefing 
+on the U.S. military and their participation in this critical mission. 
+I was deeply disappointed in what I learned.
+  The U.S. military is not sufficiently engaged or informed on critical 
+aspects of the Russian election interference campaign. They don't even 
+know which two Florida counties were hacked.
+  And when DOD sent 11 people to go work with the Department of 
+Homeland Security to have the full suite of
+
+[[Page H3800]]
+
+authorities available to respond to Russia, they were told they weren't 
+needed.
+  Russia has a whole-of-government approach to this problem, and I 
+would urge us to work in a bipartisan way in the Defense Authorization 
+Act to ensure that we are ready with our full authorities to defeat 
+Russia and their efforts to interfere with our election.
+
+                          ____________________
+```

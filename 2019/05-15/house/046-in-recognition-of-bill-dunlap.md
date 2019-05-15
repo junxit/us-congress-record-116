@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-05-15-pt1-PgH3827-2
+date: 2019-05-15
+edition: CREC
+section: HOUSE
+page: H3827
+citation: 165 Cong. Rec. H3827
+---
+
+# IN RECOGNITION OF BILL DUNLAP
+
+**Speaking:** Stivers, Steve (S001187) [R-OH]
+
+```
+                     IN RECOGNITION OF BILL DUNLAP
+
+  (Mr. STIVERS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STIVERS. Madam Speaker, I rise today to honor an outstanding 
+constituent of the 15th Congressional District, Mr. Bill Dunlap, as he 
+retires from his role as deputy director of the Athens-Hocking-Vinton 
+317 Board.
+  Madam Speaker, it is not news that we are facing a drug epidemic in 
+this country. Families from Ohio to Oregon are torn apart by addiction, 
+and we can't hope to overcome this crisis without outstanding 
+individuals on the ground in each of those communities, without people 
+who are compassionate and dedicated to their neighbors, without people 
+like Bill Dunlap.
+  I have had a chance to see Mr. Dunlap's work firsthand over the 
+years. We have collaborated on drug task forces, and other community 
+initiatives, and I can't say enough about his dedication and commitment 
+to combating the drug crisis.
+  I can say without a doubt, Athens, Hocking and Vinton Counties--and 
+truly, all of southeastern Ohio--are better and healthier places as a 
+result of his efforts.
+  Madam Speaker, I am incredibly grateful for Bill's service and his 
+leadership. I wish him the best in his next chapter.
+
+                          ____________________
+```

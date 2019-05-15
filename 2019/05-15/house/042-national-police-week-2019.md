@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-05-15-pt1-PgH3826-4
+date: 2019-05-15
+edition: CREC
+section: HOUSE
+page: H3826
+citation: 165 Cong. Rec. H3826
+---
+
+# NATIONAL POLICE WEEK 2019
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                       NATIONAL POLICE WEEK 2019
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize this 
+week, May 12 through 18, as National Police Week 2019.
+  It is a privilege to take time this week to remember and honor our 
+Federal, State, and local law enforcement officers who courageously 
+defend American citizens and protect our communities.
+  They selflessly put their lives on the line to ensure that this 
+Nation is one of safety and order.
+  Just this past week, in the First Congressional District of Georgia, 
+this reality hit home when Sergeant Kelvin Ansari passed away in the 
+line of duty while investigating a robbery.
+  Overall last year, 158 police officers died in the line of duty 
+across the country.
+  As tens of thousands of police officers gather this week in 
+Washington, D.C., and other cities throughout America, I hope that 
+everyone will take some time to thank these individuals who work to 
+keep us all safe.
+  To all of our police officers, thank you for your service to our 
+communities. God bless you.
+
+                          ____________________
+```
