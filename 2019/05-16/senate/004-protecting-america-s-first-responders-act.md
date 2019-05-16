@@ -1,0 +1,439 @@
+---
+granule: CREC-2019-05-16-pt1-PgS2893-4
+date: 2019-05-16
+edition: CREC
+section: SENATE
+page: S2893
+citation: 165 Cong. Rec. S2893
+---
+
+# PROTECTING AMERICA'S FIRST RESPONDERS ACT
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+**Measures:** S. 1208
+
+```
+               PROTECTING AMERICA'S FIRST RESPONDERS ACT
+
+  Mr. GRASSLEY. Madam President, I ask unanimous consent that the 
+Senate proceed to the immediate consideration of Calendar No. 83, S. 
+1208.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 1208) to amend the Omnibus Crime Control and 
+     Safe Streets Act of 1968 with respect to payments to certain 
+     public safety officers who have become permanently and 
+     totally disabled as a result of personal injuries sustained 
+     in the line of duty, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on the Judiciary, with an 
+amendment to strike all after the enacting clause and insert in lieu 
+thereof the following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Protecting America's First 
+     Responders Act''.
+
+     SEC. 2. PAYMENT OF DEATH AND DISABILITY BENEFITS UNDER THE 
+                   PUBLIC SAFETY OFFICERS' DEATH BENEFITS PROGRAM.
+
+       Section 1201 of title I of the Omnibus Crime Control and 
+     Safe Streets Act of 1968 (34 U.S.C. 10281) is amended--
+       (1) in subsection (b), by striking the period at the end 
+     and inserting the following: ``, unless the claim under this 
+     subsection has been pending for more than 1 year, in which 
+     case the amount payable shall be the amount that would be 
+     payable if the catastrophic injury occurred on the date on 
+     which the Bureau makes a final determination that the public 
+     safety officer is entitled to a benefit payment under this 
+     subsection.'';
+       (2) in subsection (c), by striking ``$3,000'' and inserting 
+     ``$6,000, adjusted in accordance with subsection (h),'';
+       (3) in subsection (h), by inserting ``and the level of the 
+     interim benefit payable immediately before such October 1 
+     under subsection (c)'' after ``subsection (a)'';
+       (4) by striking subsection (i) and inserting the following:
+       ``(i) The amount payable under subsection (a), with respect 
+     to the death of a public safety officer, shall be the greater 
+     of--
+       ``(1) the amount payable under that subsection as of the 
+     date of death of the public safety officer; or
+       ``(2) the amount that would be payable under that 
+     subsection if the death of the public safety officer occurred 
+     on the date on which the Bureau makes a final determination 
+     that the public safety officer is entitled to a benefit 
+     payment under that subsection.''; and
+       (5) in subsection (m), by inserting ``, (b),'' after 
+     ``subsection (a)''.
+
+     SEC. 3. DEFINITIONS FOR THE PURPOSES OF THE PUBLIC SAFETY 
+                   OFFICERS' DEATH BENEFITS PROGRAM.
+
+       Section 1204 of title I of the Omnibus Crime Control and 
+     Safe Streets Act of 1968 (34 U.S.C. 10284) is amended--
+       (1) by striking paragraph (1) and inserting the following:
+       ``(1) `catastrophic injury' means an injury, the direct and 
+     proximate consequences of which--
+       ``(A) permanently prevent an individual from performing any 
+     gainful work; or
+       ``(B) cause an individual to become--
+       ``(i) paraplegic;
+       ``(ii) quadriplegic; or
+       ``(iii) blind;'';
+       (2) in paragraph (3), in the matter preceding subparagraph 
+     (A), by striking ``at the time of the public safety officer's 
+     fatal or catastrophic injury'' and inserting ``as of the date 
+     of the public safety officer's death from a fatal injury or 
+     the date of determination of the public safety officer's 
+     disability from a catastrophic injury'';
+       (3) in paragraph (4), by inserting ``, including an 
+     individual who, in the capacity of the individual as such a 
+     member, engages in scene security or traffic management as 
+     the primary or only duty of the individual during emergency 
+     response'' before the semicolon;
+       (4) by redesignating paragraphs (5) through (9) as 
+     paragraphs (6) through (10), respectively; and
+       (5) by inserting after paragraph (4) the following:
+       ``(5) `gainful work'--
+       ``(A) means any activity usually performed for pay or 
+     profit, regardless of whether a profit is realized; and
+       ``(B) does not include work performed in a situation in 
+     which, after an individual sustains an injury--
+       ``(i) the individual--
+
+       ``(I) re-enters the workforce; and
+       ``(II) leaves the workforce after less than 90 days because 
+     of the inability of the individual to overcome the injury;
+
+       ``(ii) because of the injury--
+
+       ``(I) the individual is permitted, in carrying out work, 
+     to--
+
+       ``(aa) perform at a lower standard of productivity or 
+     efficiency than other similarly situated employees;
+       ``(bb) work irregular hours; or
+       ``(cc) take frequent rest periods; or
+
+       ``(II) the individual is only able to work within a 
+     framework of specially arranged circumstances, such as a 
+     circumstance in which 1 or more other individuals are 
+     required to assist
+
+[[Page S2894]]
+
+     the individual in preparing for work or traveling to and from 
+     work;
+
+       ``(iii)(I) the individual practices a hobby usually 
+     performed for pay or profit, regardless of whether a profit 
+     is realized; and
+       ``(II) the primary intent of the individual in practicing 
+     the hobby described in subclause (I)--
+
+       ``(aa) is physical, mental, or emotional rehabilitation of 
+     the individual from the injury; and
+       ``(bb) is not realization of profit; or
+
+       ``(iv) the individual is given the opportunity to work--
+
+       ``(I) despite the injury of the individual; and
+       ``(II) on the basis of--
+
+       ``(aa) a family relationship of the individual;
+       ``(bb) a past association of the individual with the 
+     employer giving the individual the opportunity to work; or
+       ``(cc) any other altruistic reason;''.
+
+     SEC. 4. RETROACTIVE APPLICABILITY.
+
+       (a) Definitions.--For the purposes of this section--
+       (1) the term ``covered beneficiary'' means an individual 
+     who--
+       (A) is, or was, a child or spouse of a covered individual 
+     described in paragraph (3)(B); and
+       (B) would have been eligible for educational assistance 
+     under subpart 2 of part L of title I of the Omnibus Crime 
+     Control and Safe Streets Act of 1968 (34 U.S.C. 10301 et 
+     seq.) if the amendments made by section 3 of this Act had 
+     been in effect on the date on which the determination 
+     described in paragraph (3)(B)(i) of this subsection was made;
+       (2) the term ``covered claimant'' means an individual who 
+     is a claimant on the estate of a deceased covered 
+     individual--
+       (A) described in paragraph (3)(B); and
+       (B) who died on or before the date of enactment of this 
+     Act;
+       (3) the term ``covered individual'' means--
+       (A) a beneficiary of a benefit under the Public Safety 
+     Officers' Death Benefit Program that was paid--
+       (i) with respect to a death or disability of a public 
+     safety officer sustained as the direct or proximate result of 
+     a personal injury sustained in the line of duty; and
+       (ii) during the covered period; or
+       (B) a public safety officer who--
+       (i) was determined during the covered period to be 
+     ineligible for a benefit payment under section 1201(b) of 
+     title I of the Omnibus Crime Control and Safe Streets Act of 
+     1968 (34 U.S.C. 10281(b)); and
+       (ii) would have been eligible for a benefit payment under 
+     subpart L of that title due to the disability of the public 
+     safety officer if the amendments made by section 3 had been 
+     in effect on the date on which the determination described in 
+     clause (i) was made;
+       (4) the term ``covered period'' means the period--
+       (A) beginning on the date of enactment of title XIII of the 
+     Crime Control Act of 1990 (Public Law 101-647; 104 Stat. 
+     4834); and
+       (B) ending on the day before the date of enactment of the 
+     Protecting America's First Responders Act;
+       (5) the term ``public safety officer'' has the meaning 
+     given the term in section 1204 of title I of the Omnibus 
+     Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284); 
+     and
+       (6) the term ``Public Safety Officers' Death Benefit 
+     Program'' means the program established under part L of title 
+     I of the Omnibus Crime Control and Safe Streets Act of 1968 
+     (34 U.S.C. 10281 et seq.).
+       (b) Applicability.--The amendments made by sections 2 and 3 
+     shall apply to a death or disability of a public safety 
+     officer sustained as the direct or proximate result of a 
+     personal injury sustained in the line of duty--
+       (1) subject to subsection (c), during the covered period; 
+     or
+       (2) on or after the date of enactment of this Act.
+       (c) Payment.--
+       (1) In general.--Subject to paragraph (2), upon application 
+     of a covered individual, covered beneficiary, or covered 
+     claimant, the Bureau of Justice Assistance shall make a lump 
+     sum payment to the covered individual, covered beneficiary, 
+     or covered claimant in the amount equal to the difference, if 
+     any, between--
+       (A) in the case of a covered individual--
+       (i) the amount of the total benefit payment the covered 
+     individual would have received under the Public Safety 
+     Officers' Death Benefit Program as of the date of the lump 
+     sum payment, if the amendments made by sections 2 and 3 had 
+     been in effect on the date on which the covered individual--
+
+       (I) received the final benefit payment under the Public 
+     Safety Officers' Death Benefit Program; or
+       (II) was determined to be ineligible for a benefit payment 
+     under section 1201(b) of title I of the Omnibus Crime Control 
+     and Safe Streets Act of 1968 (34 U.S.C. 10281(b)); and
+
+       (ii) the amount of the total benefit payment the covered 
+     individual received under the Public Safety Officers' Death 
+     Benefit Program before the date of enactment of this Act;
+       (B) in the case of a covered beneficiary, the amount of the 
+     total benefit payment the covered beneficiary would have 
+     received under subpart 2 of part L of title I of the Omnibus 
+     Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10301 
+     et seq.) if the amendments made by section 3 of this Act had 
+     been in effect on the date on which the determination 
+     described in subsection (a)(3)(B)(i) of this section was 
+     made; and
+       (C) in the case of a covered claimant, the amount of the 
+     total benefit payment the covered individual on whose estate 
+     the covered claimant is a claimant would have received under 
+     the Public Safety Officers' Death Benefit Program as of the 
+     date of the lump sum payment, if the amendments made by 
+     sections 2 and 3 had been in effect on the date on which the 
+     determination described in subsection (a)(3)(B)(i) of this 
+     section was made.
+       (2) Application.--A covered individual, covered 
+     beneficiary, or covered claimant desiring a lump sum payment 
+     under paragraph (1) shall apply to the Bureau of Justice 
+     Assistance for such lump sum payment not later than 3 years 
+     after the date of enactment of this Act.
+
+     SEC. 5. DUE DILIGENCE IN PAYING BENEFIT CLAIMS UNDER THE 
+                   PUBLIC SAFETY OFFICERS' DEATH BENEFITS PROGRAM.
+
+       Section 1206(b) of title I of the Omnibus Crime Control and 
+     Safe Streets Act of 1968 (34 U.S.C. 10288(b)) is amended by 
+     striking ``the Bureau may not'' and all that follows and 
+     inserting the following: ``the Bureau--
+       ``(1) shall use all available investigative tools, 
+     including subpoenas, to--
+       ``(A) expedite the processing of the benefit claim; and
+       ``(B) obtain necessary information or documentation from 
+     third parties, including public agencies; and
+       ``(2) may not abandon the benefit claim unless the Bureau 
+     has used the investigative tools available to the Bureau to 
+     obtain the necessary information or documentation, including 
+     subpoenas.''.
+
+     SEC. 6. EDUCATIONAL ASSISTANCE TO DEPENDENTS OF PUBLIC SAFETY 
+                   OFFICERS KILLED OR DISABLED IN THE LINE OF 
+                   DUTY.
+
+       Section 1216(b) of title I of the Omnibus Crime Control and 
+     Safe Streets Act of 1968 (34 U.S.C. 10306(b)) is amended, in 
+     the first sentence, by striking ``may'' and inserting 
+     ``shall''.
+
+     SEC. 7. COLLECTION OF DATA ON KILLED OR DISABLED LAW 
+                   ENFORCEMENT OFFICERS.
+
+       Section 534(a) of title 28, United States Code, is 
+     amended--
+       (1) in paragraph (3), by striking ``and'' at the end;
+       (2) in paragraph (4), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(5) operate a central clearinghouse for statistics on law 
+     enforcement officers under the Uniform Crime Reporting 
+     Program, including data on law enforcement officers who, 
+     while performing their duties, were--
+       ``(A) feloniously killed;
+       ``(B) accidentally killed;
+       ``(C) feloniously assaulted; or
+       ``(D) severely and permanently disabled.''.
+
+     SEC. 8. GAO REPORT ON MEDICAL COSTS.
+
+       (a) Definition.--In this section, the term ``disabled 
+     officer'' means a public safety officer to whom a benefit is 
+     payable under subpart 1 of part L of title I of the Omnibus 
+     Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 
+     et seq.) based on the permanent and total disability of the 
+     officer, as described in section 1201(b) of that subpart (34 
+     U.S.C. 10281(b)).
+       (b) Report.--Not later than 180 days after the date of 
+     enactment of this Act, the Comptroller General of the United 
+     States shall submit to the Committee on the Judiciary of the 
+     Senate and the Committee on the Judiciary of the House of 
+     Representatives a report that estimates the average medical 
+     costs incurred by a disabled officer over the lifetime of the 
+     officer after sustaining the injury that caused the 
+     disability.
+
+
+[[Page S2895]]
+
+  Mr. GRASSLEY. Madam President, I ask unanimous consent that the 
+committee-reported amendment be agreed to and the bill, as amended, be 
+considered read a third time.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The committee-reported amendment was agreed to.
+  The bill was ordered to be engrossed for a third reading and was read 
+the third time.
+  Mr. GRASSLEY. Madam President, I know of no further debate on the 
+bill, as amended.
+  The PRESIDING OFFICER. Is there further debate?
+  Hearing none, the bill having been read the third time, the question 
+is, Shall the bill pass?
+  The bill (S. 1208), as amended, was passed as follows:
+  (The bill (S. 1208) is printed in the Record of Monday, May 20, 
+2019.)
+  Mr. GRASSLEY. Madam President, I ask unanimous consent that the 
+motion to reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. GRASSLEY. I yield the floor.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On pages S2894-S2895, May 16, 2019, the following appears: The 
+bill (S. 1208), as amended, was passed as follows:S. 1208Be it 
+enacted by the Senate and House of Representativesof the United 
+States of America in Congress assembled,SECTION 1. SHORT 
+TITLE.This Act may be cited as the ``Strengthening the Department 
+of Homeland Security Secure Mail Initiative Act''.SEC. 2. 
+DEFINITIONS.In this Act-- (1) the terms ``Hold for Pickup 
+service'' and ``Signature Confirmation service'' mean the services 
+described in sections 507.3.0 and 503.8.1.1.a, respectively, of 
+the Domestic Mail Manual (or any successor services); (2) the term 
+``Immigration Examinations Fee Account'' means the account 
+established under section 286(m) of the Immigration and 
+Nationality Act (8 U.S.C. 1356(m));(3) the term ``Postal Service'' 
+means the United States Postal Service; and (4) the term 
+``Secretary'' means the Secretary of Homeland Security.SEC. 3. 
+OFFERING HOLD FOR PICKUP AND SIGNATURE CONFIRMATION SERVICESUNDER 
+THE SECURE MAIL INITIATIVE.(a) IN GENERAL.--Beginning not later 
+than 1 year after the date of enactment of this Act, the Secretary 
+shall provide for an option under the Secure Mail Initiative (or 
+any successor program) under which a person to whom a document is 
+sent under that initiative may elect, except as provided in 
+subsection (e), to have the Postal Service use the Hold for Pickup 
+service or the Signature Confirmation service in delivering the 
+document.(b) FEE.--(1) IN GENERAL.--The Secretary, in accordance 
+with section 286(m) of the Immigration and Nationality Act (8 
+U.S.C. 1356(m)), shall require the payment of a fee from a person 
+electing a service under subsection (a), which shall be set at a 
+level that ensures recovery of-- (A) the full costs of providing 
+all such services;And (B) any additional costs associated with the 
+administration of the fees collected. (2) ALLOCATION OF FUNDS.--Of 
+the fees collected under paragraph (1), the Secretary shall--(A) 
+deposit as offsetting receipts into the Immigration Examinations 
+Fee Account the portion representing--(i) the cost to the 
+Secretary of providing the services under subsection (a); and (ii) 
+any additional costs associated with the administration of the 
+fees collected; and(B) transfer to the Postal Service the portion 
+representing the cost to the Postal Service of providing the 
+services under subsection (a).(c) REGULATIONS.--The Postal Service 
+may promulgate regulations that-- (1) subject to paragraph (2), 
+minimize the cost of providing the services under subsection(a); 
+and (2) do not require the Postal Service to incur additional 
+expenses that are not recoverable under subsection (b).(d) NOTICE 
+OF CHANGES.--The Postal Service shall notify the Secretary of any 
+changes to the Hold for Pickup service or the Signature 
+Confirmation service.(e) USE OF PRIVATE CARRIER.--(1) IN 
+GENERAL.--If the Secretary determines that a private carrier that 
+offers substantially similar services to the Hold for Pickup and 
+Signature Confirmation services would provide better service and 
+value than the Postal Service provides under subsection (a), the 
+Secretary may, in accordance with paragraph (2) of this 
+subsection-- (A) discontinue use of the services of the Postal 
+Service under subsection (a); and (B) enter into a contract with 
+the private carrier under which a person to whom a document is 
+sent under the Secure Mail Initiative (or any successor program) 
+may elect to have the private carrier use one of the substantially 
+similar services in delivering the document.(2) REQUIREMENTS.--The 
+Secretary may not exercise the authority under paragraph (1) 
+unless the Secretary-- (A) determines, and notifies the Postal 
+Service, that the private carrier offers services that are 
+substantially similar to the Hold for Pickup and Signature 
+Confirmation services; (B) provides for an option under the Secure 
+Mail Initiative (or any successor program) under which a person to 
+whom a document is sent under that initiative may elect a service 
+under paragraph (1)(B); (C) requires the payment of a fee from a 
+person electing a service under paragraph (1)(B), which shall be 
+set at a level that ensures recovery of-- (i) the full cost of 
+contracting with the private carrier to provide all such services; 
+and (ii) any additional costs associated with the administration 
+of the fees collected; and(D) deposits the fees collected under 
+subparagraph (C) as offsetting receipts into the Immigration 
+Examinations Fees Account.SEC. 4. REPORT.Not later than 2 years 
+after the date of enactment of this Act, the Secretary shall 
+submit to Congress a report that describes-- (1) the 
+implementation of the requirements under section 3; (2) the fee 
+imposed under subsection (b) or (e)(2)(C), as applicable, of 
+section 3; and(3) the number of times during the previous year 
+that a person used a service under subsection (a) or (e)(1)(B) of 
+section 3.Mr. GRASSLEY. Madam President, I ask unanimous consent 
+that the motionto reconsider be considered made and laid upon the 
+table.The PRESIDING OFFICER. Without objection, it is so 
+ordered.Mr. GRASSLEY. I yield the floor.
+  
+  The online Record has been corrected to read:The bill (S. 1208), 
+as amended, was passed as follows:(The bill (S. 1208) is printed 
+in the Record of Monday, May 20, 2019.) Mr. GRASSLEY. Madam 
+President, I ask unanimous consent that the motionto reconsider be 
+considered made and laid upon the table.The PRESIDING OFFICER. 
+Without objection, it is so ordered.Mr. GRASSLEY. I yield the 
+floor.
+
+
+ ========================= END NOTE ========================= 
+
+
+                          ____________________
+```

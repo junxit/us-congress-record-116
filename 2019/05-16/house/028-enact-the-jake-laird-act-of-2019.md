@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-05-16-pt1-PgH3851-5
+date: 2019-05-16
+edition: CREC
+section: HOUSE
+page: H3851
+citation: 165 Cong. Rec. H3851
+---
+
+# ENACT THE JAKE LAIRD ACT OF 2019
+
+**Speaking:** Brooks, Susan W. (B001284) [R-IN]
+
+```
+                    ENACT THE JAKE LAIRD ACT OF 2019
+
+  (Mrs. BROOKS of Indiana asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. BROOKS of Indiana. Mr. Speaker, as we recognize National Police 
+Week, let's provide our law enforcement every tool possible to prevent 
+senseless acts of gun violence from harming or claiming the lives of 
+innocent people, including our law enforcement officers.
+  That is why, today, I am reintroducing a gun violence reduction bill, 
+categorized as a red-flag bill, with my colleague Ted Deutch, who 
+represents Parkland, Florida, and our colleagues from Michigan, Fred 
+Upton and Debbie Dingell.
+  Our bill, the Jake Laird Act of 2019, is named after an IMPD officer 
+who paid the ultimate sacrifice serving and protecting his community of 
+Indianapolis, Officer Jake Laird.
+  Our bill provides grants to States to enact laws substantially 
+similar to Indiana's red-flag law because we know that, since 2005, 
+this Hoosier commonsense bill has been working.
+  Specifically, the Jake Laird Act will enable law enforcement to 
+remove and retain firearms from individuals who are determined to be a 
+danger to themselves or others, while ensuring due process under the 
+law.
+
+  According to a USA Today article recently published, more than 30 
+States across the country are either considering similar measures or 
+have passed red-flag laws.
+  It is past time for our Nation to adopt laws like Indiana's red-flag 
+law that will keep our law enforcement and citizens safer.
+
+                          ____________________
+```

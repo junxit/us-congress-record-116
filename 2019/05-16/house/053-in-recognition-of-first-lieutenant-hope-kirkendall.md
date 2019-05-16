@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-05-16-pt1-PgH3912-5
+date: 2019-05-16
+edition: CREC
+section: HOUSE
+page: H3912
+citation: 165 Cong. Rec. H3912
+---
+
+# IN RECOGNITION OF FIRST LIEUTENANT HOPE KIRKENDALL
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+           IN RECOGNITION OF FIRST LIEUTENANT HOPE KIRKENDALL
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SPANO. Madam Speaker, I rise today to honor First Lieutenant Hope 
+Kirkendall, a distinguished veteran from Lakeland, Florida, who served 
+in World War II.
+  Lieutenant Kirkendall heard the call to serve after seeing the 
+bombing of Pearl Harbor when she was only 18 years old.
+  She joined the Army as a nurse, where she was one of the first women 
+deployed to Normandy after D-Day. During her deployment, she routinely 
+worked 12- to 16-hour days near the front lines of many major battles, 
+including the Battle of the Bulge.
+  She treated both wounded American and German soldiers. In 2004, she 
+received the French Legion of Honor award for her service in saving 
+France from German occupiers.
+  Lieutenant Kirkendall provided hope to many on the battlefield, and 
+her legacy continues to provide hope to us at home.
+  Lieutenant Kirkendall represents our very best, and I thank her for 
+all that she has done to defend and serve our great Nation.
+
+                          ____________________
+```

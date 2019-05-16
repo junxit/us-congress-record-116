@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-16-pt1-PgH3853-2
+date: 2019-05-16
+edition: CREC
+section: HOUSE
+page: H3853
+citation: 165 Cong. Rec. H3853
+---
+
+# URGENT NEED FOR INFRASTRUCTURE INVESTMENT
+
+**Speaking:** Delgado, Antonio (D000630) [D-NY]
+
+```
+               URGENT NEED FOR INFRASTRUCTURE INVESTMENT
+
+  (Mr. DELGADO asked and was given permission to address the House for 
+1 minute.)
+  Mr. DELGADO. Mr. Speaker, I rise today to recognize Infrastructure 
+Week and call attention to the urgent need for investment in rural 
+areas like mine in upstate New York.
+  As an example, every time I am home in my district, I hear from folks 
+about the need to invest in infrastructure to help our family farmers 
+succeed.
+  When farmers drive their livestock or dairy products down to New York 
+City or the immediately surrounding areas, they need bridges and roads 
+they can rely on, structures that can carry product without potholes or 
+fear of collapse.
+  But infrastructure does not just mean bridges, roads, and seaports. 
+It means access to markets through high-speed internet.
+  Astoundingly, 25 million Americans lack rural broadband. This means 
+25 million Americans who own small businesses, operate small farms, 
+want to apply for college online, or do homework, or access lifesaving 
+medicine cannot, because they lack internet access.
+  This week, I was proud to launch, with the leadership of Whip 
+Clyburn, a task force on rural broadband.
+  I am ready to partner with folks on both sides of the aisle to 
+address the need to rebuild our infrastructure and access broadband 
+both in upstate New York and across the country.
+  Let's get this done.
+
+                          ____________________
+```
