@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-17-pt1-PgH3956-3
+date: 2019-05-17
+edition: CREC
+section: HOUSE
+page: H3956
+citation: 165 Cong. Rec. H3956
+---
+
+# HONORING THE SERVICE OF JASON DOMBKOWSKI
+
+**Speaking:** Baird, James R. (B001307) [R-IN]
+
+```
+                              {time}  1245
+                HONORING THE SERVICE OF JASON DOMBKOWSKI
+
+  (Mr. BAIRD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BAIRD. Mr. Speaker, I rise today to recognize Jason Dombkowski, 
+who is retiring after 25 years of faithful public service with the West 
+Lafayette Police Department. Jason has been the Chief of Police at the 
+department for 11 years, serving his fellow officers and community with 
+integrity and professionalism.
+  He received his master's degree in Technology, Leadership, and 
+Innovation from Purdue University, and has completed the Indiana Law 
+Enforcement Academy, the FBI National Academy at Quantico, and the U.S. 
+Secret Service Dignitary Protection Programs, among others.
+  In addition to his remarkable career, Jason remains a steadfast 
+pillar in the community, known for his commitment, leadership, and 
+service. He serves on the YWCA board, and has been a board member for 
+the Red Cross, Lafayette Crisis Center, the Lafayette Catholic Diocese 
+Bishop's Review Board.
+  He also volunteers with the ``Shop With a Cop'' program and coaches a 
+youth flag football team.
+  He and his wife, Cristie, have four children, and reside in West 
+Lafayette.
+  Congratulations on your retirement, Jason. I know you will continue 
+to serve our community well in your new capacity, and I wish you the 
+very best.
+
+                          ____________________
+```

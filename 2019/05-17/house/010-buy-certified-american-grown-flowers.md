@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-17-pt1-PgH3930-3
+date: 2019-05-17
+edition: CREC
+section: HOUSE
+page: H3930
+citation: 165 Cong. Rec. H3930
+---
+
+# BUY CERTIFIED AMERICAN-GROWN FLOWERS
+
+**Speaking:** Carbajal, Salud O. (C001112) [D-CA]
+
+**Measures:** H.R. 379
+
+```
+                  BUY CERTIFIED AMERICAN-GROWN FLOWERS
+
+  (Mr. CARBAJAL asked and was given permission to address the House for 
+1 minute.)
+  Mr. CARBAJAL. Madam Speaker, I rise today to recognize the importance 
+of buying American-grown flowers.
+  Whether it is celebrating a wedding or graduation, or sending 
+condolences, flowers have been used to mark significant occasions for 
+thousands of years.
+  I have seen the value this industry adds to our economy and 
+communities during my visits with our hardworking central coast farmers 
+and workers. The cut flower industry generates thousands of jobs and 
+produces $1.2 billion in economic activity each year through flower 
+farmers, distributors, and florists.
+  California grows an astonishing 75 percent of American-grown flowers, 
+yet only a fraction of the flowers sold across the country were grown 
+here. That must change.
+  This week, Senator Feinstein and I introduced a resolution to 
+designate July as American Grown Flower Month and to encourage 
+consumers to buy flowers with the ``Certified American Grown'' label.
+  By passing H.R. 379, we will honor the beauty this industry brings to 
+our homes year-round and help keep our American-grown flower industry 
+prosperous.
+  I urge my colleagues to join us in this effort.
+
+                          ____________________
+```
