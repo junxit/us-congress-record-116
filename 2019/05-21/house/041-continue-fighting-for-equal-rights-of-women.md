@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4022-2
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4022
+citation: 165 Cong. Rec. H4022
+---
+
+# CONTINUE FIGHTING FOR EQUAL RIGHTS OF WOMEN
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+```
+              CONTINUE FIGHTING FOR EQUAL RIGHTS OF WOMEN
+
+  (Ms. ESCOBAR asked and was given permission to address the House for 
+1 minute.)
+  Ms. ESCOBAR. Madam Speaker, today, we recognize a historic day in our 
+Nation, the 100th anniversary of the House passage of the 19th 
+Amendment, which, once ratified, granted most women the right to vote, 
+bringing them one step closer to equality with their male peers.
+  That ratification was 10 years in the making. Sadly, this pace of 
+progress, this slow pace, is still all too common. Throughout history, 
+women have had to fight for the same rights automatically afforded to 
+men. Today, that fight continues.
+  As we stand on the shoulders of all the women who challenged 
+convention, who fought and refused to quit so that we could be here in 
+a moment where some 68 million women vote in America and the first two 
+Latina women represent Texas in the people's House, our responsibility 
+is to continue that fight against the erosion of women's rights that we 
+are witnessing today and to fight for equal treatment and opportunity 
+for all.
+
+                          ____________________
+```

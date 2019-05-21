@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4023-3
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4023
+citation: 165 Cong. Rec. H4023
+---
+
+# 100TH ANNIVERSARY OF THE 19TH AMENDMENT
+
+**Speaking:** Demings, Val Butler (D000627) [D-FL]
+
+```
+                100TH ANNIVERSARY OF THE 19TH AMENDMENT
+
+  (Mrs. DEMINGS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. DEMINGS. Madam Speaker, America has always been a work in 
+progress, and, therefore, we always have the opportunity to make our 
+democracy better, stronger, when we simply do the right thing.
+  The Declaration of Independence may have said that ``all men are 
+created equal,'' but it took a brave group of Americans to say that it 
+should really be ``all people.'' If the law applies to each of us 
+equally, then the right to vote must always be equal.
+  The women who fought for their right to vote weren't in it to make 
+friends. They were mocked and beaten, called extremists, told to slow 
+down, told that good things would come if they simply waited. But, 
+nevertheless, they persisted.
+  Today, on the 100th anniversary of the 19th Amendment passed in the 
+House, let's be inspired by this group of women who took the hard fight 
+and did the right thing, because they knew our democracy would be 
+stronger and better for it.
+
+                          ____________________
+```

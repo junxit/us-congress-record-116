@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4023
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4023
+citation: 165 Cong. Rec. H4023
+---
+
+# HONORING SUFFRAGIST MARY ANN SHADD CARY
+
+**Speaking:** Blunt Rochester, Lisa (B001303) [D-DE]
+
+```
+                              {time}  1230
+                HONORING SUFFRAGIST MARY ANN SHADD CARY
+
+  (Ms. BLUNT ROCHESTER asked and was given permission to address the 
+House for 1 minute.)
+  Ms. BLUNT ROCHESTER. Madam Speaker, I rise today, standing on the 
+achievements of brave women who came before me, to commemorate the 
+centennial anniversary of the 19th Amendment House passage, expanding 
+the right for women to vote.
+  As we celebrate this historic day, I want to pay tribute to an 
+overlooked but trailblazing woman who helped make it possible, Delaware 
+pioneer and suffragist, Mary Ann Shadd Cary. In her prophetic words: 
+``We should do more and talk less.''
+  Using the power of the pen, Shadd Cary was the first woman to edit 
+and publish a newspaper in North America, using that role to combat 
+systemic racism and slavery.
+  After the Civil War, she set her sights on a new cause: voting. She 
+became one of the first Black female lawyers in the United States to 
+testify before the House Judiciary Committee, in 1874, advocating for 
+women's suffrage in these very Halls.
+  Described by W.E.B. Du Bois as ``well-educated, vivacious, with 
+determination shining from her sharp eyes,'' Mary Ann Shadd Cary blazed 
+trails for women everywhere, and throughout her life, always fought in 
+the name of justice and equality.
+  We owe it to her and we owe it to all to continue to fight for our 
+rights.
+
+                          ____________________
+```

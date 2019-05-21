@@ -1,0 +1,52 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4016-2
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4016
+citation: 165 Cong. Rec. H4016
+---
+
+# COMMEMORATING 100 YEARS OF WOMEN'S RIGHT TO VOTE
+
+**Speaking:** Brooks, Susan W. (B001284) [R-IN]
+
+```
+            COMMEMORATING 100 YEARS OF WOMEN'S RIGHT TO VOTE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Indiana (Mrs. Brooks) for 5 minutes.
+  Mrs. BROOKS of Indiana. Madam Speaker, one century ago today, the 
+United States House of Representatives passed a constitutional 
+amendment granting women the right to vote. Just 1 year later, the 19th 
+Amendment was ratified.
+  Even before women had the right to vote, women from Indiana were on 
+their feet, rallying their voices to be heard. Hoosier suffragettes 
+such as Amanda Way, Zerelda Wallace, May Wright Sewall, Helen Gougar, 
+Dr. Amelia Keller, and Grace Julian Clarke led the push for suffrage in 
+Indiana and inspired Hoosier women to stand up and speak out about 
+their rights.
+  Each of these women and so many more across the country paved the way 
+so that other women can now vote and hold local, State, and Federal 
+Government positions.
+  It is an honor to be one of seven Congresswomen elected thus far to 
+represent the Hoosier State in our Nation's Capital, but it began with 
+Representative Virginia Ellis Jenckes, who began her service in 1933; 
+then Cecil Murray Harden, who began her service in 1949; Katie Hall in 
+1982; Jill Long Thompson in 1989; Julia Carson in 2003; and my good 
+friend Jackie Walorski and I in 2013.
+
+                              {time}  1030
+
+  Hoosier women have certainly left their marks in America's history 
+book. But, as I stand here today, I am struck at how much work, yes, we 
+still have to do.
+  Exercising our right to vote is the most powerful tool we have to 
+share our voice. Today, I join many colleagues here in the House 
+wearing a yellow rose commemorating the suffragettes fight for our 
+rights to vote. So much has been accomplished by women and for women in 
+the past 100 years. Today, I want to encourage all Americans to 
+consider how much farther we can go in the next 100 years.
+
+                          ____________________
+```

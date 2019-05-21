@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4021-2
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4021
+citation: 165 Cong. Rec. H4021
+---
+
+# WOMEN'S SUFFRAGE
+
+**Speaking:** Delgado, Antonio (D000630) [D-NY]
+
+```
+                            WOMEN'S SUFFRAGE
+
+  (Mr. DELGADO asked and was given permission to address the House for 
+1 minute.)
+  Mr. DELGADO. Madam Speaker, I rise today to join in celebrating the 
+66th Congress.
+  100 years ago today, in 1919, this House voted to pass the 19th 
+Amendment to grant women the right to vote. I rise today to celebrate 
+the women's suffrage movement and the women who, at the time, were seen 
+as revolutionary for demanding a voice, a representation in our 
+democracy.
+  Today, we applaud the women who organized in upstate New York, in 
+Seneca Falls, who marched down Pennsylvania Avenue, and who lifted 
+their voices across this country to demand ``votes for women.''
+  As we prepare to celebrate a century of women's suffrage, let us 
+acknowledge the tireless work of women to demand the right to vote and 
+the women, including Ulster County's own Sojourner Truth, who 
+recognized that suffrage still denied treatment under the law for all.
+  Today, I am proud to celebrate the tireless work of women to demand 
+the right to vote and the men who stood on the right side of history by 
+voting to pass the 19th Amendment.
+  Their work set the stage for the historic 116th Congress, full of 
+trailblazing women, and firsts in their own right.
+
+                          ____________________
+```

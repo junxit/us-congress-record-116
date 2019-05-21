@@ -1,0 +1,48 @@
+---
+granule: CREC-2019-05-21-pt1-PgH4015-3
+date: 2019-05-21
+edition: CREC
+section: HOUSE
+page: H4015
+citation: 165 Cong. Rec. H4015
+---
+
+# MARKING THE CENTENNIAL OF PASSAGE OF 19TH AMENDMENT IN THE U.S. HOUSE OF REPRESENTATIVES
+
+**Speaking:** Rouda, Harley (R000616) [D-CA]
+
+```
+ MARKING THE CENTENNIAL OF PASSAGE OF 19TH AMENDMENT IN THE U.S. HOUSE 
+                           OF REPRESENTATIVES
+
+  The SPEAKER pro tempore (Mrs. Trahan). The Chair recognizes the 
+gentleman from California (Mr. Rouda) for 5 minutes.
+  Mr. ROUDA. Madam Speaker, I rise today to mark the 100th anniversary 
+of this Chamber's passage of the 19th Amendment guaranteeing women the 
+right to vote.
+  The battle for the 19th Amendment was long and hard-fought. It was 72 
+years from the Seneca Falls Convention in 1848 to the affirmation in 
+our Constitution that women were owed the right to vote.
+  But the ultimate goal was not just the vote. It was what the vote 
+means: that American women, all women, could enjoy the same rights and 
+freedoms as American men.
+  In the last 100 years, we remain well short of that goal. In fact, 
+this past week's latest assault on women's bodily autonomy is proof of 
+that. The fact that women make 80 cents on the dollar compared to men, 
+and much less for women of color, shows that we have a long way to go.
+  When there is so much work left to do to realize full equality for 
+all American citizens, we cannot afford to move backward.
+
+[[Page H4016]]
+
+  It is clear we need women's voices now more than ever. I am very 
+proud of the fact that 40 percent of the Democrats in Congress are 
+women, but we need more.
+  I am proud to serve with the largest group of women in Congress in 
+U.S. history and to call these incredible Congresswomen my friends, 
+colleagues, and Speaker of the House. I look forward to working with 
+them toward full gender equality.
+  We will not wait another 100 years.
+
+                          ____________________
+```
