@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-05-22-pt1-PgH4112-2
+date: 2019-05-22
+edition: CREC
+section: HOUSE
+page: H4112
+citation: 165 Cong. Rec. H4112
+---
+
+# RECOGNIZING ARIZONA PUBLIC SERVICE
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                   RECOGNIZING ARIZONA PUBLIC SERVICE
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Madam Speaker, today highlights another success story from 
+the Tax Cuts and Jobs Act.
+  Arizona Public Service, the largest electric utility in Arizona, 
+recently announced that it will again be lowering electricity rates to 
+customers. Arizonans can now expect to save more than $100 a year on 
+their electricity bill thanks to the Republican-led tax reform package 
+signed by President Trump.
+  These savings are not crumbs. They are real, and they will benefit 
+millions of people across our State. APS services about 2.7 million 
+people and operates the Palo Verde Generating Station, which is the 
+largest source of clean-air energy in the United States. The Palo Verde 
+nuclear power plant has 2,500 full-time employees and generates an 
+economic impact of more than $2 billion to our State.
+  Madam Speaker, the 100-degree temperature days are upon us, and I 
+know firsthand how expensive summertime bills can be. This announcement 
+by APS is yet another example of Arizonans winning because of the Tax 
+Cuts and Jobs Act.
+
+                          ____________________
+```

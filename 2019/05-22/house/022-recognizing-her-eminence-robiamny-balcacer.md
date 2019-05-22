@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-22-pt1-PgH4074-2
+date: 2019-05-22
+edition: CREC
+section: HOUSE
+page: H4074
+citation: 165 Cong. Rec. H4074
+---
+
+# RECOGNIZING HER EMINENCE ROBIAMNY BALCACER
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+               RECOGNIZING HER EMINENCE ROBIAMNY BALCACER
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Mr. Speaker, I rise today to recognize Her Eminence 
+Robiamny Balcacer, the Dominican Republic's first female Minister of 
+Youth in the nation's history.
+  Since a young age, Minister Balcacer has been critical in youth 
+political and social welfare activities within her community of Las 
+Guaranas.
+  After graduating college with a bachelor's degree in business 
+administration and a master's degree in public management and modern 
+public administration techniques, she was elected councilwoman in 2006 
+and, eventually, elected president of the Councilmembers Board, 
+becoming the youngest woman in history to lead it.
+  As Minister of Youth, she has quickly garnered praise for her work in 
+low-income communities throughout the Dominican Republic. She has 
+invested in social and workforce development programs intended to 
+reduce crime and strengthen community relationships, including 
+constructing brand-new community computing centers and playgrounds.
+  Her work has attracted the attention of Dominican American community 
+leaders in my district and all across the country, and I had the honor 
+of meeting Minister Balcacer this morning. I am glad that she is 
+joining us today in the gallery as her work is being recognized here on 
+the House floor.
+  Mr. Speaker, I welcome Minister Balcacer.
+
+                          ____________________
+```
