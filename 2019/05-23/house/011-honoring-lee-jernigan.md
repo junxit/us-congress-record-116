@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-05-23-pt1-PgH4124-2
+date: 2019-05-23
+edition: CREC
+section: HOUSE
+page: H4124
+citation: 165 Cong. Rec. H4124
+---
+
+# HONORING LEE JERNIGAN
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                         HONORING LEE JERNIGAN
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, I rise today to recognize the life and 
+honor the passage of one of my great constituents, Lee Jernigan of 
+Oroville, California.
+  During Lee's lifetime, he had joined the U.S. Army Air Corps in 1943 
+and served as an aerial gunner and airplane mechanic on a B-17 during 
+World War II, where he flew 23 missions in the Asian Pacific.
+  Lee graduated from Chico State in 1950 and received his master's 
+degree in 1959 in education. Lee was known specifically for his passion 
+and commitment to God, his family, and for educating the young people 
+of our community.
+  It should come as no surprise that Lee was a beloved elementary and 
+middle school teacher and then went on to be my principal at Central 
+Middle School in Oroville, California, for 54 years of career. Lee was 
+known to be kind, with a sense of humor, and this was one principal I 
+was never really in trouble with.
+  Lee was devoted to teaching, but also devoted to his loving wife, 
+Hazel, whom he married in 1948 and remained with for 72 years until his 
+passing.
+  Lee was a man of extreme dedication and commitment to his wife, to 
+his country, and to learning for the children of his community. Of 
+course, we can all learn from that, as well.
+  Madam Speaker, God bless Lee Jernigan and his family.
+
+                          ____________________
+```
