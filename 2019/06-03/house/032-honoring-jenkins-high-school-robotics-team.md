@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-06-03-pt1-PgH4207-4
+date: 2019-06-03
+edition: CREC
+section: HOUSE
+page: H4207
+citation: 165 Cong. Rec. H4207
+---
+
+# HONORING JENKINS HIGH SCHOOL ROBOTICS TEAM
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+               HONORING JENKINS HIGH SCHOOL ROBOTICS TEAM
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize the 
+Jenkins High School robotics team for all of their accomplishments 
+during the 2019 season.
+  The Jenkins High School team, also called Team WIRE, built from 
+scratch a robot that can pick up a large bouncy ball, carry it across a 
+room, and place it in a specific location.
+  This year's theme was space, and the team had to design a robot that 
+could bring fuel to a spacecraft. In this case, the fuel was the large 
+bouncy ball.
+  Ranking 20th in the State of Georgia, Team WIRE won the judge's award 
+at a competition in Gainesville and advanced to a number of prestigious 
+tournaments. I am proud that we have this level of talent in the First 
+Congressional District of Georgia and thankful that we have Jenkins 
+High School, which is doing so much to give their students a STEM 
+education and teaching their students the value of teamwork.
+  I would like to congratulate Team WIRE on its accomplishments this 
+year and wish good luck to Team WIRE in the future.
+
+                          ____________________
+```

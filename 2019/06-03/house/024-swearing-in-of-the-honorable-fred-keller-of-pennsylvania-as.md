@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-06-03-pt1-PgH4205-2
+date: 2019-06-03
+edition: CREC
+section: HOUSE
+page: H4205
+citation: 165 Cong. Rec. H4205
+---
+
+# SWEARING IN OF THE HONORABLE FRED KELLER, OF PENNSYLVANIA, AS A MEMBER OF THE HOUSE
+
+**Speaking:** Doyle, Michael F. (D000482) [D-PA]
+
+```
+SWEARING IN OF THE HONORABLE FRED KELLER, OF PENNSYLVANIA, AS A MEMBER 
+                              OF THE HOUSE
+
+  Mr. MICHAEL F. DOYLE of Pennsylvania. Madam Speaker, I ask unanimous 
+consent that the gentleman from Pennsylvania, the Honorable Fred 
+Keller, be permitted to take the oath of office today.
+  His certificate of election has not arrived, but there is no contest 
+and no question has been raised with regard to his election.
+  The SPEAKER. Is there objection to the request of the gentleman from 
+Pennsylvania?
+  There was no objection.
+  The SPEAKER. Will Representative-elect Keller and the members of the 
+Pennsylvania delegation present themselves in the well.
+  All Members will rise and the Representative-elect will please raise 
+his right hand.
+  Mr. KELLER appeared at the bar of the House and took the oath of 
+office, as follows:
+
+       Do you solemnly swear or affirm that you will support and 
+     defend the Constitution of the United States against all 
+     enemies, foreign and domestic; that you will bear true faith 
+     and allegiance to the same; that you take this obligation 
+     freely, without any mental reservation or purpose of evasion; 
+     and that you will well and faithfully discharge the duties of 
+     the office on which you are about to enter, so help you God.
+
+  The SPEAKER. Congratulations, you are now a Member of the 116th 
+Congress.
+
+                          ____________________
+```

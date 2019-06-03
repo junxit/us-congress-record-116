@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-06-03-pt1-PgH4207-6
+date: 2019-06-03
+edition: CREC
+section: HOUSE
+page: H4207
+citation: 165 Cong. Rec. H4207
+---
+
+# RECOGNIZING PINE GROVE JROTC
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+                      RECOGNIZING PINE GROVE JROTC
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute.)
+  Mr. MEUSER. Madam Speaker, it is with great respect that I rise today 
+to recognize the JROTC cadets from Pine Grove High School in Schuylkill 
+County, Pennsylvania, and their commanding officer, Lieutenant Colonel 
+Michael Stefanchik.
+  These cadets are traveling overseas to Normandy, France, to help mark 
+the 75th anniversary of D-day and to honor the beginning of the march 
+to victory in World War II.
+  In addition to participating in the D-day memorial parade in 
+Normandy, they are taking part in the ceremonies in Brittany and the 
+American cemetery at Omaha Beach. These hallowed grounds are the 
+resting place for thousands of American heroes who gave the ultimate 
+sacrifice in defense of freedom and liberty and to save the world from 
+tyranny.
+  2,014 Pennsylvanians stormed the beaches of Normandy. It is a great 
+privilege to have these cadets from the Ninth District present to honor 
+and remember the bravery of countless ordinary Americans who faced 
+extraordinary times.
+  I ask that my colleagues join me in recognizing these cadets' 
+achievement and remembering the great and lasting sacrifices made at 
+Normandy 75 years ago.
+
+                          ____________________
+```
