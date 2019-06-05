@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-06-05-pt1-PgH4339-3
+date: 2019-06-05
+edition: CREC
+section: HOUSE
+page: H4339
+citation: 165 Cong. Rec. H4339
+---
+
+# OPPOSING TARIFFS ON MEXICO
+
+**Speaking:** Allred, Colin Z. (A000376) [D-TX]
+
+```
+                       OPPOSING TARIFFS ON MEXICO
+
+  (Mr. ALLRED asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALLRED. Madam Speaker, I rise today to oppose the newly announced 
+tariffs on Mexico by this administration.
+  Hardworking Texans cannot be asked to bear the brunt of a costly and 
+unnecessary trade war that would not solve our problems or address our 
+broken immigration system.
+  Our economy in Texas is powered by trade with Mexico. Texas is the 
+number one State in the Nation for trade with Mexico.
+  Last year alone, we imported $107 billion in goods from Mexico; and 
+these tariffs, if taken to their natural end, could cost us $27 billion 
+in Texas alone.
+  I have met with Lennox, a heating and air-conditioning company, 
+headquartered in my district in Richardson, Texas. They employ 8,000 
+Americans, and they rely on subcomponents made in Mexico to manufacture 
+products here in the U.S. Their business is put at risk by these 
+tariffs.
+  Toyota, another great company that is headquartered in north Texas, 
+has said that these tariffs will cost them and their suppliers as much 
+as $1 billion.
+  I have heard from countless constituents about their concerns about 
+what this will do to the Texas economy. This is unacceptable.
+  I commend my colleagues in the Senate for contemplating action to 
+stop these tariffs and plan to join them and support them in the House.
+
+                          ____________________
+```

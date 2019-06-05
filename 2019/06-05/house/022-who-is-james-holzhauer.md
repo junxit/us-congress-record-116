@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-06-05-pt1-PgH4337-4
+date: 2019-06-05
+edition: CREC
+section: HOUSE
+page: H4337
+citation: 165 Cong. Rec. H4337
+---
+
+# WHO IS JAMES HOLZHAUER
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+                         WHO IS JAMES HOLZHAUER
+
+  (Mrs. LEE of Nevada asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. LEE of Nevada. Madam Speaker, on behalf of the people of 
+Nevada's Third District, I rise today to recognize, ``Who is James 
+Holzhauer?''
+  James, a local Las Vegas resident, shocked the world with an 
+unrivaled run on ``Jeopardy!'' and he did it in a very Vegas fashion: 
+betting big, making some noise, and laying it all on the line.
+  Madam Speaker, with 32 straight wins and just over $58,000 shy of the 
+all-time record, James' ``Jeopardy!'' skills weren't the only thing on 
+display. His charitable heart was as well. He donated his time and some 
+of his winnings to noble local causes to improve the lives of our 
+southern Nevada kids, students, families, and community as a whole.
+  He even paid tribute to the victims of the tragic October 1 shooting 
+with the wager, as he put it, ``Vegas Strong, 10,117,'' as in 10-1-17.
+  James may have just missed the record, but he is a legend in our 
+eyes, and he did southern Nevada proud.
+  Congratulations, again, to James. And if I ever see him out at a 
+trivia night in Vegas, I will make sure to get him on my team. I will 
+buy the beer. He can handle the questions.
+
+                          ____________________
+```
