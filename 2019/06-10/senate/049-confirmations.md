@@ -1,0 +1,27 @@
+---
+granule: CREC-2019-06-10-pt1-PgS3297-5
+date: 2019-06-10
+edition: CREC
+section: SENATE
+page: S3297
+citation: 165 Cong. Rec. S3297
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 10, 2019:
+
+
+                             THE JUDICIARY
+
+       RYAN T. HOLTE, OF OHIO, TO BE A JUDGE OF THE UNITED STATES 
+     COURT OF FEDERAL CLAIMS FOR A TERM OF FIFTEEN YEARS.
+       ROSSIE DAVID ALSTON, JR., OF VIRGINIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF VIRGINIA.
+       RICHARD A. HERTLING, OF MARYLAND, TO BE A JUDGE OF THE 
+     UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF FIFTEEN 
+     YEARS.
+```
