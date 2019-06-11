@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-06-11-pt1-PgH4400
+date: 2019-06-11
+edition: CREC
+section: HOUSE
+page: H4400
+citation: 165 Cong. Rec. H4400
+---
+
+# CONDITIONS OF MIGRANT DETENTION FACILITIES ARE INHUMANE
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+        CONDITIONS OF MIGRANT DETENTION FACILITIES ARE INHUMANE
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GARCIA of Illinois. Mr. Speaker, I am joined today by my 
+colleagues to show our country the inhumane conditions of migrant 
+detention facilities.
+  As a grandfather and an immigrant, my heart breaks every time another 
+child dies in U.S. custody.
+  Migrants are escaping some of the harshest political and economic 
+turmoil in Central America, only to have their children die once they 
+arrive here. Like 1-year-old Mariee Juarez and her mother who fled 
+domestic abuse in Guatemala, then she died in a U.S. hospital after 
+receiving inadequate care.
+  We don't allow prisoners to die. How are we allowing children to die 
+in Federal custody?
+  Last week, the inspector general of DHS confirmed what we already 
+knew: Conditions are dangerous and unsanitary.
+  This is cruel and un-American. This cannot be the new normal. What 
+the President is doing is anything but normal.
+  When Attorney General Sessions initiated this, it was a bad way to 
+move forward.
+  Is this the message that President Trump wants to send the world, 
+that the U.S. is where children come to die?
+  How many children must die before this administration acts?
+
+                          ____________________
+```

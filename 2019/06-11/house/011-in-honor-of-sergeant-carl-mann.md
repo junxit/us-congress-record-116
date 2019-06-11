@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-06-11-pt1-PgH4396-2
+date: 2019-06-11
+edition: CREC
+section: HOUSE
+page: H4396
+citation: 165 Cong. Rec. H4396
+---
+
+# IN HONOR OF SERGEANT CARL MANN
+
+**Speaking:** Bucshon, Larry (B001275) [R-IN]
+
+```
+                              {time}  1030
+                     IN HONOR OF SERGEANT CARL MANN
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Indiana (Mr. Bucshon) for 5 minutes.
+  Mr. BUCSHON. Mr. Speaker, I rise today to honor the incredible life 
+and heroic service of Sergeant Carl Mann.
+
+[[Page H4397]]
+
+  This past week, on the 75th anniversary of D-day, I visited Normandy, 
+France, where Sergeant Mann and more than 150,000 American troops 
+stormed the beaches to gain a foothold in mainland Europe.
+  For his heroic service, Sergeant Mann, a native of Mount Vernon, 
+Indiana, received three Purple Hearts and seven Bronze Stars while 
+serving in the 5th Infantry Division of General George S. Patton's 3rd 
+Army.
+  In fitting fashion of a true hero, Sergeant Mann was laid to rest in 
+Arlington National Cemetery on June 6, this year, the 75th anniversary 
+of D-day. Today, I take a moment to honor the selflessness that he and 
+the Greatest Generation made so that we and future generations of 
+Americans may enjoy boundless freedoms.
+  My prayers are with his children and grandchildren that carry on his 
+legacy. His memory will forever be a reminder of a day of great 
+tragedy, but also of triumph.
+  Rest in peace and God bless.
+
+                          ____________________
+```

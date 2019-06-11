@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-06-11-pt1-PgH4425-3
+date: 2019-06-11
+edition: CREC
+section: HOUSE
+page: H4425
+citation: 165 Cong. Rec. H4425
+---
+
+# CELEBRATING 50TH ANNIVERSARY OF "APOLLO 11"
+
+**Speaking:** Horn, Kendra S. (H001083) [D-OK]
+
+```
+             CELEBRATING 50TH ANNIVERSARY OF ``APOLLO 11''
+
+  (Ms. KENDRA S. HORN of Oklahoma asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. KENDRA S. HORN of Oklahoma. Madam Speaker, I rise today to talk 
+about an important achievement that changed the world as we know it.
+  In just over a month, we will celebrate the 50th anniversary of the
+Apollo 11 mission. On July 20th, 1969, for the first time ever, human 
+beings walked on the Moon.
+  Apollo 11 was indeed a giant leap. It inspired and continues to 
+inspire generations to explore. The discoveries and technology that 
+come out of America's investment in space not only help us better 
+understand the universe but fundamentally change our modern life.
+  Apollo 11 is one of America's greatest achievements, and I am proud 
+to work with my colleagues on both sides of the aisle, as well as in 
+both the House and the Senate, on resolutions that commemorate and 
+celebrate this achievement.
+  Celebrating the Apollo 11 mission ensures that future generations 
+will not just remember, but also take us further into space 
+exploration.
+  As a lifelong Oklahoman, I also want to acknowledge the unique 
+contributions of Oklahoma astronauts. In each week leading up to the 
+Apollo 11 mission celebration, I will highlight Oklahomans who shaped 
+our knowledge and discovery within space.
+
+                          ____________________
+```

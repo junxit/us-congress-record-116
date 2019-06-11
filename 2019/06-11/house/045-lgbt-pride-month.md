@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-06-11-pt1-PgH4424
+date: 2019-06-11
+edition: CREC
+section: HOUSE
+page: H4424
+citation: 165 Cong. Rec. H4424
+---
+
+# LGBT PRIDE MONTH
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                            LGBT PRIDE MONTH
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to celebrate LGBT Pride Month, 
+which occurs every June.
+  Pride Month is the time when the LGBT community comes together to 
+celebrate their ability to live freely. For many people across the 
+country, Pride events held in this month of June are the occasion where 
+they can express themselves freely in their community.
+  This year's LGBT Pride Month marks an important turning point in LGBT 
+history, the 50th anniversary of the Stonewall uprising. While LGBT 
+Pride events today center on celebration of good times, they are rooted 
+in the LGBT community's fight for survival.
+  Mr. Speaker, 50 years ago this month, police raided the Stonewall 
+Inn, a gay bar in New York City. Raids weren't uncommon at the time, 
+but this time, the gay community rose up in protest. They set off a 
+national movement of LGBT rights, which still is going on today.
+  Mr. Speaker, it is my honor to celebrate these great strides in LGBT 
+rights in this country. I ask that my colleagues join me in celebrating 
+LGBT Month and commit to protecting the rights and safety of LGBT 
+people.
+
+                          ____________________
+```
