@@ -1,0 +1,186 @@
+---
+granule: CREC-2019-06-12-pt1-PgS3443-2
+date: 2019-06-12
+edition: CREC
+section: SENATE
+page: S3443
+citation: 165 Cong. Rec. S3443
+---
+
+# Text of Senate Amendment 380
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+```
+  SA 380. Mr. REED (for himself and Ms. Smith) submitted an amendment 
+intended to be proposed by him to the bill S. 1790, to authorize 
+appropriations for fiscal year 2020 for military activities of the 
+Department of Defense, for military construction, and for defense 
+activities of the Department of Energy, to prescribe military personnel 
+strengths for such fiscal year, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. ____. LIBERIAN REFUGEE IMMIGRATION FAIRNESS.
+
+       (a) Definitions.--In this section:
+       (1) In general.--Except as otherwise specifically provided, 
+     any term used in this Act that is used in the immigration 
+     laws shall have the meaning given the term in the immigration 
+     laws.
+       (2) Immigration laws.--The term ``immigration laws'' has 
+     the meaning given the term in section 101(a)(17) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(a)(17)).
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Homeland Security.
+       (b) Adjustment of Status.--
+       (1) In general.--Except as provided in paragraph (3), the 
+     Secretary shall adjust the status of an alien described in 
+     subsection (c) to that of an alien lawfully admitted for 
+     permanent residence if the alien--
+       (A) applies for adjustment not later than 1 year after the 
+     date of the enactment of this Act;
+
+[[Page S3444]]
+
+       (B) is otherwise eligible to receive an immigrant visa; and
+       (C) subject to paragraph (2), is admissible to the United 
+     States for permanent residence.
+       (2) Applicability of grounds of inadmissibility.--In 
+     determining the admissibility of an alien under paragraph 
+     (1)(C), the grounds of inadmissibility specified in 
+     paragraphs (4), (5), (6)(A), and (7)(A) of section 212(a) of 
+     the Immigration and Nationality Act (8 U.S.C. 1182(a)) shall 
+     not apply.
+       (3) Exceptions.--An alien shall not be eligible for 
+     adjustment of status under this subsection if the Secretary 
+     determines that the alien--
+       (A) has been convicted of any aggravated felony;
+       (B) has been convicted of 2 or more crimes involving moral 
+     turpitude (other than a purely political offense); or
+       (C) has ordered, incited, assisted, or otherwise 
+     participated in the persecution of any person on account of 
+     race, religion, nationality, membership in a particular 
+     social group, or political opinion.
+       (4) Relationship of application to certain orders.--
+       (A) In general.--An alien present in the United States who 
+     has been subject to an order of exclusion, deportation, 
+     removal, or voluntary departure under any provision of the 
+     Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may, 
+     notwithstanding such order, submit an application for 
+     adjustment of status under this subsection if the alien is 
+     otherwise eligible for adjustment of status under paragraph 
+     (1).
+       (B) Separate motion not required.--An alien described in 
+     subparagraph (A) shall not be required, as a condition of 
+     submitting or granting an application under this subsection, 
+     to file a separate motion to reopen, reconsider, or vacate an 
+     order described in subparagraph (A).
+       (C) Effect of decision by secretary.--
+       (i) Grant.--If the Secretary adjusts the status of an alien 
+     pursuant to an application under this subsection, the 
+     Secretary shall cancel any order described in subparagraph 
+     (A) to which the alien has been subject.
+       (ii) Denial.--If the Secretary makes a final decision to 
+     deny such application, any such order shall be effective and 
+     enforceable to the same extent that such order would be 
+     effective and enforceable if the application had not been 
+     made.
+       (c) Aliens Eligible for Adjustment of Status.--
+       (1) In general.--The benefits provided under subsection (b) 
+     shall apply to any alien who--
+       (A)(i) is a national of Liberia; and
+       (ii) has been continuously present in the United States 
+     during the period beginning on November 20, 2014, and ending 
+     on the date on which the alien submits an application under 
+     subsection (b); or
+       (B) is the spouse, child, or unmarried son or daughter of 
+     an alien described in subparagraph (A).
+       (2) Determination of continuous physical presence.--For 
+     purposes of establishing the period of continuous physical 
+     presence referred to in paragraph (1)(A)(ii), an alien shall 
+     not be considered to have failed to maintain continuous 
+     physical presence based on 1 or more absences from the United 
+     States for 1 or more periods amounting, in the aggregate, to 
+     not more than 180 days.
+       (d) Stay of Removal.--
+       (1) In general.--The Secretary shall promulgate regulations 
+     establishing procedures by which an alien who is subject to a 
+     final order of deportation, removal, or exclusion, may seek a 
+     stay of such order based on the filing of an application 
+     under subsection (b).
+       (2) During certain proceedings.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     notwithstanding any provision of the Immigration and 
+     Nationality Act (8 U.S.C. 1101 et seq.), the Secretary may 
+     not order an alien to be removed from the United States if 
+     the alien--
+       (i) is in exclusion, deportation, or removal proceedings 
+     under any provision of such Act; and
+       (ii) has submitted an application for adjustment of status 
+     under subsection (b).
+       (B) Exception.--The Secretary may order an alien described 
+     in subparagraph (A) to be removed from the United States if 
+     the Secretary has made a final determination to deny the 
+     application for adjustment of status under subsection (b) of 
+     the alien.
+       (3) Work authorization.--
+       (A) In general.--The Secretary may--
+       (i) authorize an alien who has applied for adjustment of 
+     status under subsection (b) to engage in employment in the 
+     United States during the period in which a determination on 
+     such application is pending; and
+       (ii) provide such alien with an ``employment authorized'' 
+     endorsement or other appropriate document signifying 
+     authorization of employment.
+       (B) Pending applications.--If an application for adjustment 
+     of status under subsection (b) is pending for a period 
+     exceeding 180 days and has not been denied, the Secretary 
+     shall authorize employment for the applicable alien.
+       (e) Record of Permanent Residence.--On the approval of an 
+     application for adjustment of status under subsection (b) of 
+     an alien, the Secretary shall establish a record of admission 
+     for permanent residence for the alien as of the date of the 
+     arrival of the alien in the United States.
+       (f) Availability of Administrative Review.--The Secretary 
+     shall provide applicants for adjustment of status under 
+     subsection (b) with the same right to, and procedures for, 
+     administrative review as are provided to--
+       (1) applicants for adjustment of status under section 245 
+     of the Immigration and Nationality Act (8 U.S.C. 1255); and
+       (2) aliens subject to removal proceedings under section 240 
+     of such Act (8 U.S.C. 1229a).
+       (g) Limitation on Judicial Review.--
+       (1) In general.--A determination by the Secretary with 
+     respect to the adjustment of status of any alien under this 
+     section is final and shall not be subject to review by any 
+     court.
+       (2) Rule of construction.--Nothing in paragraph (1) shall 
+     be construed to preclude the review of a constitutional claim 
+     or a question of law under section 704 of title 5, United 
+     States Code, with respect to a denial of adjustment of status 
+     under this section.
+       (h) No Offset in Number of Visas Available.--The Secretary 
+     of State shall not be required to reduce the number of 
+     immigrant visas authorized to be issued under any provision 
+     of the Immigration and Nationality Act (8 U.S.C. 1101 et 
+     seq.) to offset the adjustment of status of an alien who has 
+     been lawfully admitted for permanent residence pursuant to 
+     this section.
+       (i) Application of Immigration and Nationality Act 
+     Provisions.--
+       (1) Savings provision.--Nothing in this Act may be 
+     construed to repeal, amend, alter, modify, effect, or 
+     restrict the powers, duties, function, or authority of the 
+     Secretary in the administration and enforcement of the 
+     Immigration and Nationality Act (8 U.S.C. 1101 et seq.) or 
+     any other law relating to immigration, nationality, or 
+     naturalization.
+       (2) Effect of eligibility for adjustment of status.--The 
+     eligibility of an alien to be lawfully admitted for permanent 
+     residence under this section shall not preclude the alien 
+     from seeking any status under any other provision of law for 
+     which the alien may otherwise be eligible.
+                                 ______
+```

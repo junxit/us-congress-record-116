@@ -1,0 +1,20 @@
+---
+granule: CREC-2019-06-12-pt1-PgH4441-5
+date: 2019-06-12
+edition: CREC
+section: HOUSE
+page: H4441
+citation: 165 Cong. Rec. H4441
+---
+
+# THE JOURNAL
+
+```
+                              THE JOURNAL
+
+  The SPEAKER pro tempore. The Chair has examined the Journal of the 
+last day's proceedings and announces to the House his approval thereof.
+  Pursuant to clause 1, rule I, the Journal stands approved.
+
+                          ____________________
+```
