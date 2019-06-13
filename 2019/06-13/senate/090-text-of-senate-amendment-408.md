@@ -1,0 +1,88 @@
+---
+granule: CREC-2019-06-13-pt1-PgS3491-2
+date: 2019-06-13
+edition: CREC
+section: SENATE
+page: S3491
+citation: 165 Cong. Rec. S3491
+---
+
+# Text of Senate Amendment 408
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+```
+  SA 408. Mr. BENNET submitted an amendment intended to be proposed by 
+him to the bill S. 1790, to authorize appropriations for fiscal year 
+2020 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle B of title III, add the following:
+
+     SEC. 324. PAYMENTS TO STATES FOR THE TREATMENT OF 
+                   PERFLUOROOCTANE SULFONIC ACID AND 
+                   PERFLUOROOCTANOIC ACID IN DRINKING WATER.
+
+       (a) In General.--The Secretary of the Air Force shall pay a 
+     local water authority located in the vicinity of an 
+     installation of the Air Force, or a State in which the local 
+     water authority is located, for the treatment of 
+     perfluorooctane sulfonic acid and perfluorooctanoic acid in 
+     drinking water from the wells owned and operated by the local 
+     water authority to attain the lifetime health advisory level 
+     for such acids established by the Environmental Protection 
+     Agency and in effect on October 1, 2017.
+       (b) Eligibility for Payment.--To be eligible to receive 
+     payment under subsection (a)--
+       (1) a local water authority or State, as the case may be, 
+     must--
+       (A) have requested such a payment from the Secretary of the 
+     Air Force before the earlier of the date on which--
+       (i) cooperative agreements relating to treatment of 
+     perfluorooctane sulfonic acid and perfluorooctanoic acid 
+     contamination were entered into by the Secretary; or
+       (ii) funding was made available to the Secretary for 
+     payments relating to such treatment; and
+       (B) waive all claims for expenses for treatment of 
+     perfluorooctane sulfonic acid and perfluorooctanoic acid 
+     incurred before the date of the enactment of this Act;
+       (2) the elevated levels of perfluorooctane sulfonic acid 
+     and perfluorooctanoic acid in the water must be the result of 
+     activities conducted by or paid for by the Department of the 
+     Air Force; and
+       (3) treatment or mitigation of such acids must have taken 
+     place during the period beginning on January 1, 2016, and 
+     ending on the day before the date of the enactment of this 
+     Act.
+
+[[Page S3492]]
+
+       (c) Agreements.--
+       (1) In general.--The Secretary of the Air Force may enter 
+     into such agreements with a local water authority or State as 
+     the Secretary considers necessary to implement this section.
+       (2) Use of memorandum of agreement.--The Secretary of the 
+     Air Force may use the applicable Defense State Memorandum of 
+     Agreement to pay amounts under subsection (a) that would 
+     otherwise be eligible for payment under that agreement were 
+     those costs paid using amounts appropriated to the 
+     Environmental Restoration Account, Air Force, established 
+     under section 2703(a)(4) of title 10, United States Code.
+       (3) Payment without regard to existing agreements.--Payment 
+     may be made under subsection (a) to a State or a local water 
+     authority in that State without regard to existing agreements 
+     relating to environmental response actions or indemnification 
+     between the Department of the Air Force and that State.
+       (d) Limitation.--Any payment made under subsection (a) may 
+     not exceed the actual cost of treatment of perfluorooctane 
+     sulfonic acid and perfluorooctanoic acid resulting from the 
+     activities conducted by or paid for by the Department of the 
+     Air Force.
+       (e) Availability of Amounts.--Of the amounts appropriated 
+     to the Department of Defense for Operation and Maintenance, 
+     Air Force, $10,000,000 shall be available to carry out this 
+     section.
+                                 ______
+```

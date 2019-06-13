@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-06-13-pt1-PgH4632-3
+date: 2019-06-13
+edition: CREC
+section: HOUSE
+page: H4632
+citation: 165 Cong. Rec. H4632
+---
+
+# RECOGNIZING WOMEN VETERANS
+
+**Speaking:** Brownley, Julia (B001285) [D-CA]
+
+```
+                       RECOGNIZING WOMEN VETERANS
+
+  (Ms. BROWNLEY of California asked and was given permission to address 
+the House for 1 minute.)
+  Ms. BROWNLEY of California. Madam Speaker, yesterday was Women 
+Veterans Day in my home State of California, also home to 145,000 women 
+veterans.
+  Seventy-one years ago, President Truman signed the Women's Armed 
+Services Integration Act of 1948. This law recognized women's enduring 
+and critical service to the Nation and made them permanent members of 
+the United States Armed Forces.
+  As chairwoman of the Women's Veterans Task Force, I am working with 
+66 of my colleagues in the House, as well as in the Senate, to increase 
+visibility of women veterans. We are promoting inclusivity and 
+equitable access to healthcare, benefits, education, and economic 
+opportunity, particularly in the Department of Veterans Affairs.
+  I ask all Americans to join me in recognizing the 2 million women who 
+have served our country in uniform. To these women veterans I say: 
+Thank you for your service to our great Nation.
+
+                          ____________________
+```
