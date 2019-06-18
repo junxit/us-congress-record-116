@@ -1,0 +1,32 @@
+---
+granule: CREC-2019-06-18-pt1-PgS3631-5
+date: 2019-06-18
+edition: CREC
+section: SENATE
+page: S3631
+citation: 165 Cong. Rec. S3631
+---
+
+# PROTECTING OLDER WORKERS AGAINST DISCRIMINATION ACT
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+          PROTECTING OLDER WORKERS AGAINST DISCRIMINATION ACT
+
+  Mr. GRASSLEY. Madam President, today is the 10th anniversary of the 
+Supreme Court decision in Gross v. FBL Financial Services.
+  The Court ruled that employees who face age discrimination have to 
+meet a higher standard of proof than workers who face discrimination 
+based on any other factor. This case involving Iowan Jack Gross 
+affected employment discrimination litigation across the entire 
+country, and sent the message to employers that age discrimination is 
+OK.
+  I hope the Senate acts on the Protecting Older Workers Against 
+Discrimination Act to correct this injustice and restore fairness to 
+our Nation's senior workforce. I happen to be the sponsor of that 
+legislation.
+  I yield the floor.
+
+                          ____________________
+```

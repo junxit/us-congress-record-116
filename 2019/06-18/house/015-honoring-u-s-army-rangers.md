@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-06-18-pt1-PgH4704-9
+date: 2019-06-18
+edition: CREC
+section: HOUSE
+page: H4704
+citation: 165 Cong. Rec. H4704
+---
+
+# HONORING U.S. ARMY RANGERS
+
+**Speaking:** Davidson, Warren (D000626) [R-OH]
+
+```
+                       HONORING U.S. ARMY RANGERS
+
+  (Mr. DAVIDSON of Ohio asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIDSON of Ohio. Mr. Speaker, United States Ranger history 
+predates the Revolutionary War. However, June 19 marks the 77th 
+anniversary of Major William Darby formally organizing and activating 
+the 1st Ranger Battalion.
+  I rise today to honor the exceptional Americans who have volunteered 
+as Army Rangers, fully knowing the hazards of their chosen profession. 
+One of the greatest and most humbling honors of my life has been 
+serving our Nation in uniform, and particularly, serving in the Army 
+Ranger regiment.
+  The Army Ranger legacy is as old as the Republic, going back to 
+Francis Marion, to Daniel Boone, to great Americans like Command 
+Sergeant Major Douglas Greenway, and on to current Active Duty members.
+  It wasn't until after the Civil War--more than half a century without 
+military Ranger units--that the U.S. Army Rangers were officially born. 
+Seventy-five years ago, fighting on the bitter and bloody beaches of 
+Normandy, Rangers gained their motto: ``Rangers lead the way.''
+  Since Pointe du Hoc, Rangers have led the way, from the Japanese POW 
+camps, to theaters of war, including: Korea, Vietnam, Panama, Operation 
+Desert Storm, Somalia, Operation Enduring Freedom, Operation Iraqi 
+Freedom, and the great war on terror.
+  Today, I honor the elite soldiers serving our country as U.S. Army 
+Rangers.
+
+[[Page H4705]]
+
+  
+
+                          ____________________
+```
