@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-06-19-pt1-PgH4775-4
+date: 2019-06-19
+edition: CREC
+section: HOUSE
+page: H4775
+citation: 165 Cong. Rec. H4775
+---
+
+# INTRODUCING THE FEED EMERGENCY ENHANCEMENT DURING DISASTERS ACT
+
+**Speaking:** Johnson, Dusty (J000301) [R-SD]
+
+```
+    INTRODUCING THE FEED EMERGENCY ENHANCEMENT DURING DISASTERS ACT
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+South Dakota (Mr. Johnson) for 5 minutes.
+  Mr. JOHNSON of South Dakota. Mr. Speaker, it is wet in farm country. 
+In fact, our corn planting is so far behind that many South Dakota 
+producers aren't quite sure how they are going to feed the 5 million 
+cattle that are in our State.
+  Now, these producers don't want a new government program. They cannot 
+feed their cattle dollar bills. What they want, what they need, is the 
+flexibility to help themselves.
+  That is why Congresswoman Angie Craig and I introduced the FEEDD Act. 
+It would provide the USDA the flexibility needed so that producers can 
+go in and hay, graze, or chop cover crops that are on prevent plant 
+acres and do that before November 1. Moving that date from November 1 
+to September 1 could make a real impact. The forage we need will come 
+from those acres. It will come from that flexibility.
+  Already this bill has received 27 co-sponsors and has been endorsed 
+by 17
+
+[[Page H4776]]
+
+national ag groups. I look forward to working with them, to working 
+with the Agriculture Committee, to working with House leadership to 
+move this concept forward.
+  We also have another option. USDA could do this administratively, and 
+we continue to discuss with them the opportunity to get this success in 
+that way.
+
+                          ____________________
+```

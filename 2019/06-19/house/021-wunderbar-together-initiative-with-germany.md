@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-06-19-pt1-PgH4778-10
+date: 2019-06-19
+edition: CREC
+section: HOUSE
+page: H4778
+citation: 165 Cong. Rec. H4778
+---
+
+# WUNDERBAR TOGETHER INITIATIVE WITH GERMANY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+               WUNDERBAR TOGETHER INITIATIVE WITH GERMANY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+recognize and reaffirm the friendship between the United States and 
+Germany.
+  I am proud to co-chair the German-American Caucus with Congressman 
+Bill Keating, and today we introduced a resolution to reaffirm the 
+history of the United States and Germany under the Wunderbar Together 
+initiative.
+  Our countries are linked by heritage, common values, and shared 
+interests.
+
+[[Page H4779]]
+
+More than 50 million Americans of German origin live in the United 
+States, many of whom still have strong ties to their heritage.
+  Madam Speaker, our resolution highlights the alliance between our 
+nations and our shared commitment to free and democratic societies.
+  The Wunderbar Together initiative brings together more than 250 
+partners across all 50 States, with more than 1,500 events and projects 
+in local communities covering every aspect of German-American 
+relations, including science, the arts, culture, language, business, 
+sports, and more.
+  Germany is an important trading partner of the United States, with 
+the European Union and German companies creating more than 690,000 
+American jobs.
+  Madam Speaker, I urge my colleagues to support this resolution and 
+reaffirm our deep and historical friendship with Germany.
+
+                          ____________________
+```
