@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-06-20-pt1-PgH5004
+date: 2019-06-20
+edition: CREC
+section: HOUSE
+page: H5004
+citation: 165 Cong. Rec. H5004
+---
+
+# HONORING HIS EMINENCE ARCHBISHOP ELPIDOPHOROS
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+             HONORING HIS EMINENCE ARCHBISHOP ELPIDOPHOROS
+
+  (Mr. BILIRAKIS asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. BILIRAKIS. Madam Speaker, I rise today in honor of His Eminence 
+Archbishop Elpidophoros, who was recently elected the new Greek 
+Orthodox Archbishop of America.
+  Archbishop Elpidophoros was born in Constantinople, Istanbul, Turkey, 
+in 1967. Since August 2011, he has served as the abbot of the 
+Patriarchal Monastery of Holy Trinity in Halki, where I had an 
+opportunity to meet him this past April. What a wonderful, wonderful 
+person.
+  Madam Speaker, our beloved seminary is located there as well.
+  He is an expert theologian. I was so blessed to have a conversation 
+with him. He is kind and honorable. We could hope for no better 
+qualities in our new archbishop.
+  He replaces Archbishop Demetrios, who has retired after 20 years at 
+his post.
+  Archbishop Elpidophoros leads a church of more than 1\1/2\ million 
+Greek Orthodox Christians in the United States, promoting the values of 
+orthodoxy at every opportunity.
+  I wish Archbishop Elpidophoros the best in all of his endeavors and 
+congratulate him on this great achievement. May God's grace be upon him 
+in his new role.
+
+                          ____________________
+```

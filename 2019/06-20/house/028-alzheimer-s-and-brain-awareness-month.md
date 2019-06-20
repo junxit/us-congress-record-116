@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-06-20-pt1-PgH4928-2
+date: 2019-06-20
+edition: CREC
+section: HOUSE
+page: H4928
+citation: 165 Cong. Rec. H4928
+---
+
+# ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+**Speaking:** Katko, John (K000386) [R-NY]
+
+```
+                 ALZHEIMER'S AND BRAIN AWARENESS MONTH
+
+  (Mr. KATKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KATKO. Mr. Speaker, June is Alzheimer's and Brain Awareness 
+Month, and I rise today to share with this Chamber the impact that 
+Alzheimer's disease has had on this country and my family.
+  Today, 5.8 million Americans live with brain disease. I have 
+witnessed firsthand the burdens of these illnesses because my father, 
+Andrew Katko, lived with Alzheimer's for nearly a decade before 
+succumbing to the disease a few months ago.
+  My family was faced with the difficult decision on how to care for 
+our father during this time in his life. This is not uncommon among 
+families across our great Nation.
+  Often, family and friends are primary caretakers for those suffering 
+with Alzheimer's and dementia. My mother, Mary Lou, served as my 
+father's primary caregiver, joining 16 million Americans who provide 
+unpaid care. This year, unpaid caregivers will provide 18.5 billion 
+hours of care valued at $234 billion.
+  The BOLD Infrastructure for Alzheimer's Act was signed into law last 
+Congress proudly and is now being implemented. This legislation 
+authorizes the Centers for Disease Control and Prevention to research 
+prevention methods for dementias and establish local treatment 
+facilities.
+
+  I am committed to passing additional policies that improve the lives 
+of those living with dementias.
+
+                          ____________________
+```
