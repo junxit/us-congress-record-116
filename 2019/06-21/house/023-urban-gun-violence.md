@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-06-21-pt1-PgH5026-5
+date: 2019-06-21
+edition: CREC
+section: HOUSE
+page: H5026
+citation: 165 Cong. Rec. H5026
+---
+
+# URBAN GUN VIOLENCE
+
+**Speaking:** Scanlon, Mary Gay (S001205) [D-PA]
+
+```
+                           URBAN GUN VIOLENCE
+
+  (Ms. SCANLON asked and was given permission to address the House for 
+1 minute.)
+  Ms. SCANLON. Madam Speaker, while I would love to rise in celebration 
+of the first day of summer, the cold, hard fact is that, as 
+temperatures soar, so does urban gun violence.
+  During a graduation party last weekend in my district in southwest 
+Philadelphia, a gunman opened fire, claiming one life and injuring five 
+other people.
+  Last weekend, 23 separate shootings claimed 32 victims and caused 
+five deaths in just 2 days in Philadelphia--23 shootings and five 
+deaths in one weekend.
+  What is infuriating is that there are proven, commonsense measures 
+that will reduce gun violence in our cities, and the number one 
+strategy is background checks.
+  115 days have passed since the House sent two bipartisan, commonsense 
+gun safety bills to the Senate. They would have strengthened our 
+background checks. And what has the Senate done? Nothing.
+  During those 115 days, 11,400 people have died from gun violence in 
+the United States.
+  Senator McConnell likes to joke about his legislative graveyard, but 
+countless families are actually burying their loved ones while he does 
+nothing.
+  The American people deserve better. Our children deserve better.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-06-21-pt1-PgH5011
+date: 2019-06-21
+edition: CREC
+section: HOUSE
+page: H5011
+citation: 165 Cong. Rec. H5011
+---
+
+# IN RECOGNITION OF IMMIGRANT HERITAGE MONTH
+
+**Speaking:** Vargas, Juan (V000130) [D-CA]
+
+```
+               IN RECOGNITION OF IMMIGRANT HERITAGE MONTH
+
+  (Mr. VARGAS asked and was given permission to address the House for 1 
+minute.)
+  Mr. VARGAS. Madam Speaker, I rise today in recognition of Immigrant 
+Heritage Month and the millions of immigrant families living, working, 
+and thriving within the United States.
+  For centuries, our country has welcomed those in search of a better 
+life and has benefited from their meaningful contributions.
+  As a proud Mexican American, it is a special honor to celebrate my 
+family's immigrant heritage and our Nation's entire immigrant 
+community. Like countless others, my parents came to the United States 
+looking for hope and opportunity for themselves and for the generations 
+to follow.
+  Thanks to their courage and sacrifice, my siblings and I were able to 
+pursue our American Dreams, an opportunity that is currently, 
+unfortunately, slipping away for far too many.
+  Today, we are witnessing the devastating effect of President Trump's 
+cruel anti-immigrant agenda, where immigrants are demonized and treated 
+as outsiders; migrants are denied their legal rights to asylum and 
+safety; children are ripped apart from their parents; and adults and 
+children are dying while in U.S. custody.
+  This is not who we are.
+  Immigrants from far and wide help build and better our Nation. They 
+have and will continue to be a source of strength to inspire us.
+  I stand with immigrants today, and I think we all should.
+  The SPEAKER pro tempore (Ms. Wild). Members are reminded to refrain 
+from engaging in personalities toward the President.
+
+                          ____________________
+```

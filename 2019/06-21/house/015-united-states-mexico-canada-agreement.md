@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-06-21-pt1-PgH5011-2
+date: 2019-06-21
+edition: CREC
+section: HOUSE
+page: H5011
+citation: 165 Cong. Rec. H5011
+---
+
+# UNITED STATES-MEXICO-CANADA AGREEMENT
+
+**Speaking:** Hagedorn, Jim (H001088) [R-MN]
+
+```
+                              {time}  0915
+                 UNITED STATES-MEXICO-CANADA AGREEMENT
+
+  (Mr. HAGEDORN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HAGEDORN. Madam Speaker, today I rise to encourage the Speaker of 
+the House to give expeditious consideration of the United States-
+Mexico-Canada Agreement. There is progress on this agreement being 
+made. The country of Mexico, their senate just ratified it. Canada is 
+looking to move very quickly, and it is critically important that we do 
+the same.
+  Along those lines, 1,000 groups in this country: manufacturing, 
+agriculture, transportation, and processing groups have written us and 
+said: We need to get this deal done now.
+  In Minnesota, it is not just agriculture. It is machinery. It is 
+manufacturing. It is medicine, and people like my friends at the Farm 
+Bureau, AgriGrowth, poultry, dairy, pork; you name it, everybody wants 
+it done.
+  If we can get this Mexico-Canada Free Trade Agreement with the United 
+States done, we are going to build momentum for our deals with China, 
+Japan, South Korea, Colombia, and the European Union.
+  We should be dropping down the barriers, expanding our trade, 
+creating economic growth, creating high-wage jobs, and helping the 
+American people and our consumers.
+
+                          ____________________
+```
