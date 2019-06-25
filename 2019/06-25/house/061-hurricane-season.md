@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-06-25-pt1-PgH5163-2
+date: 2019-06-25
+edition: CREC
+section: HOUSE
+page: H5163
+citation: 165 Cong. Rec. H5163
+---
+
+# HURRICANE SEASON
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                            HURRICANE SEASON
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to discuss the importance of 
+hurricane and disaster preparedness.
+  This month of June marks the start of hurricane season. Each year, 
+there are around 12 named storms; 6 of them are hurricanes, 3 of those 
+are major hurricanes.
+  Even as far as my district in New Jersey, hurricanes and other 
+tropical weather events can be destructive. Superstorm Sandy hit New 
+Jersey in 2012, and we are still feeling the effects.
+  With the hurricane season upon us, it is important to remind our 
+constituents to be prepared. Every family should know whether they are 
+in an area that has the potential to be affected by a hurricane.
+  Every family should have an evacuation plan as well as a plan for 
+sheltering in place. Every family should keep a list of important phone 
+numbers, and keep vital records and documents safe and with them. And 
+most importantly, every family should listen closely to their local 
+officials and follow their instructions.
+  Mr. Speaker, we can help educate constituents about hurricane 
+preparedness, and in the process, save lives.
+
+                          ____________________
+```
