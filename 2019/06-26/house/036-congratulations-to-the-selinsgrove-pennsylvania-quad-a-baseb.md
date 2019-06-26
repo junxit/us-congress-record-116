@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-06-26-pt1-PgH5197-3
+date: 2019-06-26
+edition: CREC
+section: HOUSE
+page: H5197
+citation: 165 Cong. Rec. H5197
+---
+
+# CONGRATULATIONS TO THE SELINSGROVE, PENNSYLVANIA, QUAD A BASEBALL STATE CHAMPIONS
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+CONGRATULATIONS TO THE SELINSGROVE, PENNSYLVANIA, QUAD A BASEBALL STATE 
+                               CHAMPIONS
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KELLER. Madam Speaker, today I rise on the day that Congress will 
+compete in the 110th Congressional Baseball Game for charity.
+  I rise to recognize a local sports team from a high school in 
+Selinsgrove, Pennsylvania, in the heart of Pennsylvania's 12th 
+Congressional District.
+  These young men overcame adversity, injury, and people who just 
+didn't think they were going to win, but they did what we do in the 
+heart of PA-12 and across our great Nation: they rose to the challenge, 
+they overcame the adversity, they worked together as a team, and they 
+won the Pennsylvania Quad A State Championship for baseball, a 
+remarkable group of young men that came together to make their 
+community proud.
+  Madam Speaker, I wish best wishes for this crew of young boys, men, 
+their coach, and the community as we celebrate the hard work and 
+success they have achieved.
+
+                          ____________________
+```

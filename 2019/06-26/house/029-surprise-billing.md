@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-06-26-pt1-PgH5176-3
+date: 2019-06-26
+edition: CREC
+section: HOUSE
+page: H5176
+citation: 165 Cong. Rec. H5176
+---
+
+# SURPRISE BILLING
+
+**Speaking:** Ruiz, Raul (R000599) [D-CA]
+
+```
+                            SURPRISE BILLING
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. RUIZ. Mr. Speaker, I rise to announce the introduction of my 
+bill, the Protecting People from Surprise Medical Bills Act, 
+legislation to protect patients from unfair and expensive surprise 
+medical bills. By working together as a bipartisan team of 30 original 
+cosponsors--and growing--we are gaining momentum because we agree that 
+patients must come first.
+  For too many middle-class families, receiving an unexpected and very 
+expensive bill from an out-of-network provider is devastating and can 
+lead to severe anxiety, depression, and financial ruin.
+  Our bill creates the most fair and transparent system to end surprise 
+bills without picking winners or losers. This bill is the best solution 
+to protect middle-class families from receiving an unexpected and very 
+expensive bill from an out-of-network provider.
+  As an emergency room physician, I know patients come first and must 
+be protected. That is why this bill includes the strongest patient 
+protections of any surprise billing legislation proposed in this House 
+or Senate.
+  Mr. Speaker, I am grateful to Dr. Roe and the 30 Members who agree 
+that the Protecting People from Surprise Medical Bills Act is the most 
+effective legislation in Congress to end surprise billing once and for 
+all.
+
+                          ____________________
+```
