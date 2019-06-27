@@ -1,0 +1,25 @@
+---
+granule: CREC-2019-06-27-pt1-PgH5258-5
+date: 2019-06-27
+edition: CREC
+section: HOUSE
+page: H5258
+citation: 165 Cong. Rec. H5258
+---
+
+# Constitutional Authority Statement for H.R. 3527
+
+**Measures:** H.R. 3527
+
+```
+           By Mr. WALBERG:
+       H.R. 3527.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clauses 12, 14, and 18 of the 
+     Constitution of the United States; the authority to raise and 
+     support an army, to make rules for the government and 
+     regulation of the land and naval forces and to make all laws 
+     which shall be necessary and proper carrying into execution 
+     the foregoing powers.
+```
