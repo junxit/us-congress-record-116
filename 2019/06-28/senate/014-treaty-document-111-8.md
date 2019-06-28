@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-06-28-pt1-PgS4674
+date: 2019-06-28
+edition: CREC
+section: SENATE
+page: S4674
+citation: 165 Cong. Rec. S4674
+---
+
+# TREATY DOCUMENT 111-8
+
+**Speaking:** Paul, Rand (P000603) [R-KY]
+
+```
+                         TREATY DOCUMENT 111-8
+
+  Mr. PAUL. Mr. President, due to my concerns related to violations of 
+the Fourth Amendment, I will object to any unanimous consent request, 
+motion, or waiver of any rule in relation to Treaty Doc. 111-8.
+  I cannot support action that provides for the bulk collection of the 
+financial records of U.S. citizens. The benefits of the treaty 
+agreement should not come at the grave expense of endangering regular 
+foreign investment and violating the constitutionally protected right 
+of every American to be free from unreasonable suspicionless searches.
+
+[[Page S4675]]
+
+  Previous tax treaties were more focused on information specific to 
+suspicions of fraud and required serious allegations of tax wrongdoing 
+to be supported by evidence. The new bulk collection provisions, 
+however, demand Americans' records under a vague standard that allows 
+the government to access personal financial information that may be 
+``relevant'' through information exchanges between the U.S. and foreign 
+governments. This new, lower, and ambiguous threshold would allow 
+government access to bank records for hardly any reason at all. I do 
+not condone tax cheats, but I cannot support an effort that punishes 
+every American in pursuit of those that have actually broken the law.
+  Accordingly, I will object to any unanimous consent request, motion, 
+or waiver or any rule in relation to Treaty Doc. 111-8.
+
+                          ____________________
+```
