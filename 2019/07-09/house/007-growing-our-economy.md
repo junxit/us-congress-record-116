@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-07-09-pt1-PgH5273-6
+date: 2019-07-09
+edition: CREC
+section: HOUSE
+page: H5273
+citation: 165 Cong. Rec. H5273
+---
+
+# GROWING OUR ECONOMY
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+                          GROWING OUR ECONOMY
+
+  (Mr. JOYCE of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. JOYCE of Pennsylvania. Mr. Speaker, Congress has exactly 3 weeks 
+to pass the USMCA before we break for our August work period, and we 
+owe it to our constituents to get the job done.
+  The USMCA will benefit every district in America, as it will lead to 
+176,000 new jobs and grow the U.S. economy by an additional $68 
+billion.
+  This agreement will also be a huge benefit to my constituents. 
+Pennsylvania's 13th District is made up of so many hardworking dairy 
+farmers who have struggled in recent years. This deal will unleash new 
+markets and bring our industry back to life.
+  Instead of hauling Robert Mueller before a committee to rehash a case 
+that is already closed, Congress should be putting all of our efforts 
+into making the USMCA agreement law.
+  During July, my focus will be on passing the USMCA and growing our 
+economy for years to come. I urge all of my colleagues to join me in 
+this mission.
+
+                          ____________________
+```
