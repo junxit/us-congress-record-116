@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-07-10-pt1-PgH5312-5
+date: 2019-07-10
+edition: CREC
+section: HOUSE
+page: H5312
+citation: 165 Cong. Rec. H5312
+---
+
+# RECOGNIZING SECOND ANNUAL ABSECON KIDS' ALL-DOGS DOG SHOW
+
+**Speaking:** Van Drew, Jefferson (V000133) [D-NJ]
+
+```
+       RECOGNIZING SECOND ANNUAL ABSECON KIDS' ALL-DOGS DOG SHOW
+
+  (Mr. VAN DREW asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VAN DREW. Madam Speaker, a group of impressive young south Jersey 
+people, aged 8 to 11, hosted their second annual dog show at a local 
+park in Absecon, New Jersey. The event began in 2018 when Grace Marczyk 
+watched a dog show and felt bad for the mixed breeds. They weren't 
+allowed to compete.
+  Grace talked to her friend Zoey. Together, they formed a committee of 
+animal lovers, and they hosted a dog show that was inclusive to all 
+members of the species.
+  The competition is comprised of multiple categories, judged 
+exclusively by the kids, and concludes with different prizes being 
+awarded for the Best in Show.
+  At their first show, the kids raised $650, all of which was donated 
+to the Humane Society of Atlantic County. Their second show raised over 
+$2,000 for the Humane Society and nearly doubled its participants and 
+its sponsors.
+  These innovative, enthusiastic young people and their inclusivity and 
+love for animals is a truly great thing to see. We are lucky to have 
+them as part of our community in south Jersey.
+  It is said that a nation is judged by the way it treats its pets. If 
+it is, Madam Speaker, these are going to be fine young Americans.
+
+                          ____________________
+```

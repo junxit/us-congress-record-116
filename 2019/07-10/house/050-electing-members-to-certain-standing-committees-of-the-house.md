@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-07-10-pt1-PgH5337
+date: 2019-07-10
+edition: CREC
+section: HOUSE
+page: H5337
+citation: 165 Cong. Rec. H5337
+---
+
+# ELECTING MEMBERS TO CERTAIN STANDING COMMITTEES OF THE HOUSE OF REPRESENTATIVES
+
+**Speaking:** Cheney, Liz (C001109) [R-WY]
+
+**Measures:** H.Res. 481
+
+```
+    ELECTING MEMBERS TO CERTAIN STANDING COMMITTEES OF THE HOUSE OF 
+                            REPRESENTATIVES
+
+  Ms. CHENEY. Madam Speaker, by direction of the Republican Conference, 
+I offer a privileged resolution and ask for its immediate 
+consideration.
+  The Clerk read the resolution, as follows:
+
+                              H. Res. 481
+
+       Resolved, That the following named Members be, and are 
+     hereby, elected to the following committees of the House of 
+     Representatives:
+       (1) Committee on the Budget.--Mr. Kevin Hern of Oklahoma, 
+     to rank immediately after Mr. Norman.
+       (2) Committee on Education and Labor.--Mr. Keller.
+       (3) Committee on Oversight and Reform.--Mr. Keller.
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
