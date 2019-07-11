@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-07-11-pt1-PgH5593-6
+date: 2019-07-11
+edition: CREC
+section: HOUSE
+page: H5593
+citation: 165 Cong. Rec. H5593
+---
+
+# HONORING THE LIFE OF VERA DULANEY
+
+**Speaking:** Smith, Adrian (S001172) [R-NE]
+
+```
+                   HONORING THE LIFE OF VERA DULANEY
+
+  (Mr. SMITH of Nebraska asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Nebraska. Mr. Speaker, I rise today to honor the life of 
+Vera Dulaney who passed away July 5.
+  Last November, I was able to recognize Vera on the floor for her 
+retirement and how much she meant to our community. For more than 30 
+years, she served the community through her position as Scotts Bluff 
+County clerk and election commissioner, as well as in various other 
+volunteer capacities.
+  Throughout her public service, Vera's diligent work maintained the 
+integrity of our local elections and assisted the effective and 
+efficient operation of Scotts Bluff County. Her outstanding efforts 
+across the community were recently acknowledged when she was presented 
+the Community Volunteer Award for Public Service.
+  Vera was well-known in our community for her years of official 
+service, humble demeanor, and dedication to family. Her smile always 
+lit up the room. Her devotion to the Nebraska Cornhuskers and Chicago 
+Cubs was only surpassed by her devotion to her family and our community 
+as a whole.
+  Throughout her long and prosperous life, she touched countless 
+others. Now in passing, we celebrate her life and keep her family and 
+friends in our prayers.
+
+                          ____________________
+```

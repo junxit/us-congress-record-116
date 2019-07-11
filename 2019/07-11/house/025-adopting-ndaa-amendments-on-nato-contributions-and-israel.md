@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-07-11-pt1-PgH5593-4
+date: 2019-07-11
+edition: CREC
+section: HOUSE
+page: H5593
+citation: 165 Cong. Rec. H5593
+---
+
+# ADOPTING NDAA AMENDMENTS ON NATO CONTRIBUTIONS AND ISRAEL
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+       ADOPTING NDAA AMENDMENTS ON NATO CONTRIBUTIONS AND ISRAEL
+
+  (Mr. BIGGS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BIGGS. Mr. Speaker, two amendments I offered to the NDAA were 
+adopted.
+  The first addresses shared responsibility for the world's security. 
+The United States is the most powerful nation on the planet and so must 
+remain, but our allies must pull their weight on global security 
+efforts. It is not just Americans who benefit from peace, after all.
+  For instance, is it fair for economic powerhouse Germany to spend 
+only 1.35 percent of its overall GDP toward NATO defense in the coming 
+years? I don't think so. We should at least examine the contributions 
+of Germany and all of our other allies.
+  My amendment simply requires the Department of Defense to report the 
+annual defense spending of each of our NATO and non-NATO allies.
+  My second amendment affirms the critical importance of the U.S.-
+Israel relationship. Since its founding over 50 years ago, Israel has 
+been an important strategic partner. Given the significant challenges 
+our Nation currently faces in the Middle East, the U.S.-Israel 
+relationship remains vital.
+  I thank Armed Services Committee Chairman Smith and Ranking Member 
+Thornberry for working with me on these amendments.
+
+                          ____________________
+```

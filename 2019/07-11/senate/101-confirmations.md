@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-07-11-pt1-PgS4811-8
+date: 2019-07-11
+edition: CREC
+section: SENATE
+page: S4811
+citation: 165 Cong. Rec. S4811
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 11, 2019:
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       PETER C. WRIGHT, OF MICHIGAN, TO BE ASSISTANT 
+     ADMINISTRATOR, OFFICE OF SOLID WASTE, ENVIRONMENTAL 
+     PROTECTION AGENCY.
+
+
+                        DEPARTMENT OF EDUCATION
+
+       ROBERT L. KING, OF KENTUCKY, TO BE ASSISTANT SECRETARY FOR 
+     POSTSECONDARY EDUCATION, DEPARTMENT OF EDUCATION.
+
+
+                          DEPARTMENT OF LABOR
+
+       JOHN P. PALLASCH, OF KENTUCKY, TO BE AN ASSISTANT SECRETARY 
+     OF LABOR.
+```
