@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-07-12-pt1-PgH5731-7
+date: 2019-07-12
+edition: CREC
+section: HOUSE
+page: H5731
+citation: 165 Cong. Rec. H5731
+---
+
+# RECOGNIZING INDEPENDENCE DAY AND PRESERVATION OF FREEDOM
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+        RECOGNIZING INDEPENDENCE DAY AND PRESERVATION OF FREEDOM
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, last week, my wife, 
+Penny, and I honored those who make Independence Day possible by 
+attending our son Logan's reenlistment and promotion to Army sergeant 
+first class at Fort Drum, New York.
+  This occasion reminded me that our independence relies upon the 
+vigilance of our citizens and those who have fought to defend our 
+freedoms.
+  Regarding Independence Day, John Adams wrote to his wife, Abigail: 
+``It ought to be commemorated as the day of deliverance by solemn acts 
+of devotion to God Almighty. It ought to be solemnized with pomp and 
+parade, with shews, games, sports, guns, bells, bonfires, and 
+illuminations from one end
+
+[[Page H5732]]
+
+of this continent to the other from this time forward forevermore.''
+  Following the Constitutional Convention, Benjamin Franklin was asked 
+what sort of government the delegates had created. Without hesitation, 
+he responded, ``A republic, if you can keep it.''
+  President Reagan aptly stated that freedom isn't something passed to 
+our children in the bloodstream.
+  Preserving our freedom is certainly a responsibility of this 
+generation as any past.
+  Madam Speaker, I commend those who continue to make these freedoms 
+possible, and I look forward to a future where these freedoms will be 
+defended for generations to come.
+
+                          ____________________
+```
