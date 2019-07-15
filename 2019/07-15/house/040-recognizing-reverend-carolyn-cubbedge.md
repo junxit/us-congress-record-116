@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-07-15-pt1-PgH5814-4
+date: 2019-07-15
+edition: CREC
+section: HOUSE
+page: H5814
+citation: 165 Cong. Rec. H5814
+---
+
+# RECOGNIZING REVEREND CAROLYN CUBBEDGE
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                 RECOGNIZING REVEREND CAROLYN CUBBEDGE
+
+  (Mr. CARTER of Georgia asked and was given permission to address the
+
+[[Page H5815]]
+
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize 
+Reverend Carolyn Cubbedge on her retirement from the ministry and 
+Wesley Monumental United Methodist Church.
+  Reverend Cubbedge has made a tremendous impact throughout the First 
+Congressional District of Georgia as Wesley's senior adult pastor. One 
+of her most notable projects includes her work with Morningstar 
+Children & Family Services in Brunswick, which provides therapy to 
+children who have multiple diagnoses of intellectual disabilities. But 
+this project is only the tip of the iceberg.
+  Through her work helping the most vulnerable--organizing church 
+events, her dedication to the ministry, and her breadth of knowledge of 
+God's word--she has helped Wesley to increase its congregation and 
+engage those members to make our community a better place to live.
+  Reverend Cubbedge retired on June 30, and I am both thankful and 
+proud that we were able to have a woman like her doing God's work in 
+the First Congressional District of Georgia.
+  Enjoy your retirement, Reverend Cubbedge
+
+                          ____________________
+```
