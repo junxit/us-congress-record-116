@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-07-16-pt1-PgH5832-6
+date: 2019-07-16
+edition: CREC
+section: HOUSE
+page: H5832
+citation: 165 Cong. Rec. H5832
+---
+
+# WELCOMING BISHOP A. ELIAS ZAIDAN
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+                    WELCOMING BISHOP A. ELIAS ZAIDAN
+
+  The SPEAKER pro tempore. Without objection, the gentleman from 
+Illinois (Mr. LaHood) is recognized for 1 minute.
+  There was no objection.
+  Mr. LaHOOD. Mr. Speaker, I rise today to honor Bishop Abdallah Elias 
+Zaidan of the Maronite Catholic faith and a valuable member of our 
+Lebanese American community in the United States.
+  Born in Ksseibe, Lebanon, Bishop Zaidan is the youngest bishop to 
+lead the Eparchy of Our Lady of Lebanon of Los Angeles. As a Lebanese 
+American myself, I am honored to have Bishop Zaidan come to Washington 
+to open the House floor for prayer this morning.
+  In 1984, Bishop Zaidan professed his perpetual vows as a member of 
+the Congregation of the Lebanese Maronite Missionaries and was ordained 
+a priest 2 years later. Since then, Bishop Zaidan committed his life to 
+serving others and was recognized for that service with his appointment 
+by Pope Francis as the third bishop of the eparchy.
+  I would like to commend Bishop Zaidan for his continued service in 
+the community and as a champion for the protection of children and a 
+missionary to those of all faiths. I am grateful for his work in the 
+Lebanese American community, and I would like to sincerely thank him 
+for coming this morning to bless the House in prayer.
+
+                          ____________________
+```

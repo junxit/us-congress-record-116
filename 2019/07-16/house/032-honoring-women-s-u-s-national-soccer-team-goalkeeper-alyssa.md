@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-07-16-pt1-PgH5835
+date: 2019-07-16
+edition: CREC
+section: HOUSE
+page: H5835
+citation: 165 Cong. Rec. H5835
+---
+
+# HONORING WOMEN'S U.S. NATIONAL SOCCER TEAM GOALKEEPER, ALYSSA NAEHER
+
+**Speaking:** DeLauro, Rosa L. (D000216) [D-CT]
+
+**Measures:** H.R. 7
+
+```
+  HONORING WOMEN'S U.S. NATIONAL SOCCER TEAM GOALKEEPER, ALYSSA NAEHER
+
+  (Ms. DeLAURO asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. DeLAURO. Mr. Speaker, I rise to honor Alyssa Naeher, the 
+Connecticut-born U.S. Women's National Soccer Team goalkeeper.
+  The United States team once again proved that they are the best in 
+the world. And throughout the World Cup, Alyssa--who grew up in 
+Stratford, Connecticut, in my district, and played at Christian 
+Heritage School in Trumbull--provided crucial play after crucial play. 
+None was more important or heart-stopping than her save against 
+England.
+  By stopping a penalty kick with time winding down, she single-
+handedly saved the United States' championship hopes.
+  And Alyssa is more than just a champion. She is a role model as the 
+team champions the issue of equal pay for them and for millions of 
+women and families nationwide.
+  Clearly, the time is now for the United States Senate to pass H.R. 7, 
+the Paycheck Fairness Act, which has said men and women in the same job 
+deserve the same pay.
+  What better tribute, my friends, to the talent, to the determination, 
+and to the commitment of these outstanding young women.
+  Mr. Speaker, again, I congratulate Alyssa. Connecticut could not be 
+more proud.
+
+                          ____________________
+```
