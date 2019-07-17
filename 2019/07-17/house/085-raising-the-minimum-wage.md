@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-07-17-pt1-PgH5983
+date: 2019-07-17
+edition: CREC
+section: HOUSE
+page: H5983
+citation: 165 Cong. Rec. H5983
+---
+
+# RAISING THE MINIMUM WAGE
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+```
+                              {time}  1915
+                        RAISING THE MINIMUM WAGE
+
+  (Ms. GARCIA of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. GARCIA of Texas. Mr. Speaker, the Fair Labor Standards Act of 
+1938 created a minimum wage for all workers to ensure a livable wage. 
+However, it has been over a decade since the last increase of the 
+Federal minimum wage, the longest period without any raise since the 
+minimum wage was established.
+  Sadly today, $7.25 an hour forces many Americans to work two, many 
+times three, jobs to make ends meet.
+  Someone living in my district making minimum wage must work 112 hours 
+a week to afford a two-bedroom apartment for their family. That is 16 
+hours a day, 7 days a week. That is two shifts with no day off.
+  181,000 workers in my district would receive a pay raise by 
+increasing the minimum wage to $15 an hour.
+  Raising the minimum wage would help many hardworking Americans rise 
+out of poverty and reach financial stability that, right now, is simply 
+out of reach. We must increase the minimum wage.
+  Mr. Speaker, I urge all of us to vote for the minimum wage bill 
+tomorrow.
+
+                          ____________________
+```

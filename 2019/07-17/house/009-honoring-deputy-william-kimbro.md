@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-07-17-pt1-PgH5917
+date: 2019-07-17
+edition: CREC
+section: HOUSE
+page: H5917
+citation: 165 Cong. Rec. H5917
+---
+
+# HONORING DEPUTY WILLIAM KIMBRO
+
+**Speaking:** Cunningham, Joe (C001122) [D-SC]
+
+```
+                     HONORING DEPUTY WILLIAM KIMBRO
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+South Carolina (Mr. Cunningham) for 5 minutes.
+  Mr. CUNNINGHAM. Mr. Chair, I rise today to honor the valiant actions 
+of Deputy William Kimbro of the Berkeley County Sheriff's Office.
+  On June 11, Deputy Kimbro pulled over a speeding vehicle to find that 
+12-day-old Riley had stopped breathing. She needed immediate help, so 
+without hesitation, Deputy Kimbro administered lifesaving care to this 
+newborn until the first responders could arrive on the scene.
+  Deputy Kimbro served our Nation in the Navy for 21 years before 
+joining the Berkeley County Sheriff's Office in 2013. A school resource 
+officer on summer break, patrolling the road is not Deputy Kimbro's 
+primary duty, but he acted without hesitation. For his bravery and 
+composure, he earned Berkeley County's Life-Saving Medal.
+  He is a husband and father of two children. Deputy Kimbro is an all-
+around hero, and we are lucky to have him looking after us in the 
+Lowcountry. He, alongside all first responders, keep the Lowcountry and 
+this Nation a safer and better place.
+  Deputy Kimbro should take a bow. We are extremely proud of him.
+
+                          ____________________
+```

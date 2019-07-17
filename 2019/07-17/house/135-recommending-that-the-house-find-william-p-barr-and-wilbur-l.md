@@ -1,0 +1,3254 @@
+---
+granule: CREC-2019-07-17-pt2-PgH6003-2
+date: 2019-07-17
+edition: CREC
+section: HOUSE
+page: H6003
+citation: 165 Cong. Rec. H6003
+---
+
+# RECOMMENDING THAT THE HOUSE FIND WILLIAM P. BARR AND WILBUR L. ROSS, JR., IN CONTEMPT OF CONGRESS
+
+**Measures:** H.Res. 430
+
+```
+ RECOMMENDING THAT THE HOUSE FIND WILLIAM P. BARR AND WILBUR L. ROSS, 
+                      JR., IN CONTEMPT OF CONGRESS
+
+       The Committee on Oversight and Reform, having considered 
+     this Report, reports favorably thereon and recommends that 
+     the Report be approved.
+       The form of the Resolution that the Committee on Oversight 
+     and Reform would recommend to the House of Representatives 
+     for citing William P. Barr, Attorney General of the United 
+     States, and Wilbur L. Ross, Jr., Secretary of Commerce, for 
+     contempt of Congress pursuant to this Report is as follows:
+       Resolved, That William P. Barr, Attorney General of the 
+     United States, and Wilbur L. Ross, Jr., Secretary of 
+     Commerce, shall be found to be in contempt of Congress for 
+     failing to comply with subpoenas authorized by the Committee 
+     on Oversight and Reform and duly issued by Chairman Elijah E. 
+     Cummings relating to the 2020 Census.
+       Resolved, That the Attorney General (i) failed to comply 
+     with a Committee subpoena issued on April 2, 2019, to produce 
+     documents, and (ii) ordered a Department of Justice employee, 
+     John Gore, not to comply with a Committee subpoena requiring 
+     him to appear for deposition testimony before the Committee 
+     on April 11, 2019.
+       Resolved, That the Secretary of Commerce failed to comply 
+     with a Committee subpoena issued on April 2, 2019, to produce 
+     documents.
+       Resolved, That the Report of the Committee on Oversight and 
+     Reform details the refusal of the Attorney General to produce 
+     documents to the Committee as required by subpoena, the order 
+     from the Attorney General directing John Gore to defy a duly 
+     authorized Committee subpoena for deposition testimony, and 
+     the refusal of the Secretary of Commerce to produce documents 
+     to the Committee as required by subpoena.
+       Resolved, That pursuant to 2 U.S.C. 192 and 194, the 
+     Speaker of the House of Representatives shall certify the 
+     Report of the Committee on Oversight and Reform, detailing 
+     the refusal of William P. Barr, Attorney General of the 
+     United States, to produce documents to the Committee on 
+     Oversight and Reform as directed by subpoena, to the United 
+     States Attorney for the District of Columbia, to the end that 
+     Mr. Barr be proceeded against in the manner and form provided 
+     by law.
+       Resolved, That pursuant to 2 U.S.C. 192 and 194, the 
+     Speaker of the House of Representatives shall certify the 
+     Report of the Committee on Oversight and Reform, detailing 
+     the refusal of Wilbur L. Ross, Jr., Secretary of Commerce, to 
+     produce documents to the Committee as directed by subpoena, 
+     to the United States Attorney for the District of Columbia, 
+     to the end that Mr. Ross be proceeded against in the manner 
+     and form provided by law.
+       Resolved, That the Speaker of the House shall otherwise 
+     take all appropriate action to enforce the subpoenas.
+       Resolved, That the Chairman of the Committee on Oversight 
+     and Reform shall take all necessary steps to enforce the 
+     above-referenced subpoenas, including, but not limited to, 
+     seeking authorization from the House of Representatives 
+     through a vote of the Bipartisan Legal Advisory Group 
+     pursuant to clause 8(b) of rule II, and H. Res. 430, to 
+     initiate or to intervene in proceedings in any federal court 
+     of competent jurisdiction, to seek judgements affirming the 
+     duty of the subpoena recipients to comply with the above-
+     referenced subpoenas, and to seek any appropriate ancillary 
+     relief, including injunctive relief.
+
+[[Page H6004]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.001
+
+
+
+[[Page H6005]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.002
+
+
+
+[[Page H6006]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.003
+
+
+
+[[Page H6007]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.004
+
+
+
+[[Page H6008]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.005
+
+
+
+[[Page H6009]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.006
+
+
+
+[[Page H6010]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.007
+
+
+
+[[Page H6011]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.008
+
+
+
+[[Page H6012]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.009
+
+
+
+[[Page H6013]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.010
+
+
+
+[[Page H6014]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.011
+
+
+
+[[Page H6015]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.012
+
+
+
+[[Page H6016]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.013
+
+
+
+[[Page H6017]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.014
+
+
+
+[[Page H6018]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.015
+
+
+
+[[Page H6019]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.016
+
+
+
+[[Page H6020]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.017
+
+
+
+[[Page H6021]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.018
+
+
+
+[[Page H6022]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.019
+
+
+
+[[Page H6023]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.020
+
+
+
+[[Page H6024]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.021
+
+
+
+[[Page H6025]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.022
+
+
+
+[[Page H6026]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.023
+
+
+
+[[Page H6027]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.024
+
+
+
+[[Page H6028]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.025
+
+
+
+[[Page H6029]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.026
+
+
+
+[[Page H6030]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.027
+
+
+
+[[Page H6031]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.028
+
+
+
+[[Page H6032]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.029
+
+
+
+[[Page H6033]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.030
+
+
+
+[[Page H6034]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.031
+
+
+
+[[Page H6035]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.032
+
+
+
+[[Page H6036]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.033
+
+
+
+[[Page H6037]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.034
+
+
+
+[[Page H6038]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.035
+
+
+
+[[Page H6039]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.036
+
+
+
+[[Page H6040]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.037
+
+
+
+[[Page H6041]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.038
+
+
+
+[[Page H6042]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.039
+
+
+
+[[Page H6043]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.040
+
+
+
+[[Page H6044]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.041
+
+
+
+[[Page H6045]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.042
+
+
+
+[[Page H6046]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.043
+
+
+
+[[Page H6047]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.044
+
+
+
+[[Page H6048]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.045
+
+
+
+[[Page H6049]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.046
+
+
+
+[[Page H6050]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.047
+
+
+
+[[Page H6051]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.048
+
+
+
+[[Page H6052]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.049
+
+
+
+[[Page H6053]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.050
+
+
+
+[[Page H6054]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.051
+
+
+
+[[Page H6055]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.052
+
+
+
+[[Page H6056]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.053
+
+
+
+[[Page H6057]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.054
+
+
+
+[[Page H6058]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.055
+
+
+
+[[Page H6059]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.056
+
+
+
+[[Page H6060]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.057
+
+
+
+[[Page H6061]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.058
+
+
+
+[[Page H6062]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.059
+
+
+
+[[Page H6063]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.060
+
+
+
+[[Page H6064]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.061
+
+
+
+[[Page H6065]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.062
+
+
+
+[[Page H6066]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.063
+
+
+
+[[Page H6067]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.064
+
+
+
+[[Page H6068]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.065
+
+
+
+[[Page H6069]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.066
+
+
+
+[[Page H6070]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.067
+
+
+
+[[Page H6071]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.068
+
+
+
+[[Page H6072]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.069
+
+
+
+[[Page H6073]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.070
+
+
+
+[[Page H6074]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.071
+
+
+
+[[Page H6075]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.072
+
+
+
+[[Page H6076]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.073
+
+
+
+[[Page H6077]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.074
+
+
+
+[[Page H6078]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.075
+
+
+
+[[Page H6079]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.076
+
+
+
+[[Page H6080]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.077
+
+
+
+[[Page H6081]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.078
+
+
+
+[[Page H6082]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.079
+
+
+
+[[Page H6083]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.080
+
+
+
+[[Page H6084]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.081
+
+
+
+[[Page H6085]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.082
+
+
+
+[[Page H6086]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.083
+
+
+
+[[Page H6087]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.084
+
+
+
+[[Page H6088]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.085
+
+
+
+[[Page H6089]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.086
+
+
+
+[[Page H6090]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.087
+
+
+
+[[Page H6091]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.088
+
+
+
+[[Page H6092]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.089
+
+
+
+[[Page H6093]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.090
+
+
+
+[[Page H6094]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.091
+
+
+
+[[Page H6095]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.092
+
+
+
+[[Page H6096]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.093
+
+
+
+[[Page H6097]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.094
+
+
+
+[[Page H6098]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.095
+
+
+
+[[Page H6099]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.096
+
+
+
+[[Page H6100]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.097
+
+
+
+[[Page H6101]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.098
+
+
+
+[[Page H6102]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.099
+
+
+
+[[Page H6103]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.100
+
+
+
+[[Page H6104]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.101
+
+
+
+[[Page H6105]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.102
+
+
+
+[[Page H6106]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.103
+
+
+
+[[Page H6107]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.104
+
+
+
+[[Page H6108]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.105
+
+
+
+[[Page H6109]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.106
+
+
+
+[[Page H6110]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.107
+
+
+
+[[Page H6111]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.108
+
+
+
+[[Page H6112]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.109
+
+
+
+[[Page H6113]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.110
+
+
+
+[[Page H6114]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.111
+
+
+
+[[Page H6115]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.112
+
+
+
+[[Page H6116]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.113
+
+
+
+[[Page H6117]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.114
+
+
+
+[[Page H6118]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.115
+
+
+
+[[Page H6119]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.116
+
+
+
+[[Page H6120]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.117
+
+
+
+[[Page H6121]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.118
+
+
+
+[[Page H6122]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.119
+
+
+
+[[Page H6123]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.120
+
+
+
+[[Page H6124]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.121
+
+
+
+[[Page H6125]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.122
+
+
+
+[[Page H6126]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.123
+
+
+
+[[Page H6127]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.124
+
+
+
+[[Page H6128]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.125
+
+
+
+[[Page H6129]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.126
+
+
+
+[[Page H6130]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.127
+
+
+
+[[Page H6131]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.128
+
+
+
+[[Page H6132]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.129
+
+
+
+[[Page H6133]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.130
+
+
+
+[[Page H6134]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.131
+
+
+
+[[Page H6135]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.132
+
+
+
+[[Page H6136]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.133
+
+
+
+[[Page H6137]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.134
+
+
+
+[[Page H6138]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.135
+
+
+
+[[Page H6139]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.136
+
+
+
+[[Page H6140]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.137
+
+
+
+[[Page H6141]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.138
+
+
+
+[[Page H6142]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.139
+
+
+
+[[Page H6143]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.140
+
+
+
+[[Page H6144]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.141
+
+
+
+[[Page H6145]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.142
+
+
+
+[[Page H6146]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.143
+
+
+
+[[Page H6147]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.144
+
+
+
+[[Page H6148]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.145
+
+
+
+[[Page H6149]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.146
+
+
+
+[[Page H6150]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.147
+
+
+
+[[Page H6151]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.148
+
+
+
+[[Page H6152]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.149
+
+
+
+[[Page H6153]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.150
+
+
+
+[[Page H6154]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.151
+
+
+
+[[Page H6155]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.152
+
+
+
+[[Page H6156]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.153
+
+
+
+[[Page H6157]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.154
+
+
+
+[[Page H6158]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.155
+
+
+
+[[Page H6159]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.156
+
+
+
+[[Page H6160]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.157
+
+
+
+[[Page H6161]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.158
+
+
+
+[[Page H6162]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.159
+
+
+
+[[Page H6163]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.160
+
+
+
+[[Page H6164]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.161
+
+
+
+[[Page H6165]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.162
+
+
+
+[[Page H6166]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.163
+
+
+
+[[Page H6167]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.164
+
+
+
+[[Page H6168]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.165
+
+
+
+[[Page H6169]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.166
+
+
+
+[[Page H6170]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.167
+
+
+
+[[Page H6171]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.168
+
+
+
+[[Page H6172]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.169
+
+
+
+[[Page H6173]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.170
+
+
+
+[[Page H6174]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.171
+
+
+
+[[Page H6175]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.172
+
+
+
+[[Page H6176]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.173
+
+
+
+[[Page H6177]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.174
+
+
+
+[[Page H6178]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.175
+
+
+
+[[Page H6179]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.176
+
+
+
+[[Page H6180]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.177
+
+
+
+[[Page H6181]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.178
+
+
+
+[[Page H6182]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.179
+
+
+
+[[Page H6183]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.180
+
+
+
+[[Page H6184]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.181
+
+
+
+[[Page H6185]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.182
+
+
+
+[[Page H6186]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.183
+
+
+
+[[Page H6187]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.184
+
+
+
+[[Page H6188]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.185
+
+
+
+[[Page H6189]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.186
+
+
+
+[[Page H6190]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.187
+
+
+
+[[Page H6191]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.188
+
+
+
+[[Page H6192]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.189
+
+
+
+[[Page H6193]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.190
+
+
+
+[[Page H6194]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.191
+
+
+
+[[Page H6195]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.192
+
+
+
+[[Page H6196]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.193
+
+
+
+[[Page H6197]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.194
+
+
+
+[[Page H6198]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.195
+
+
+
+[[Page H6199]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.196
+
+
+
+[[Page H6200]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.197
+
+
+
+[[Page H6201]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.198
+
+
+
+[[Page H6202]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.199
+
+
+
+[[Page H6203]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.200
+
+
+
+[[Page H6204]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.201
+
+
+
+[[Page H6205]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.202
+
+
+
+[[Page H6206]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.203
+
+
+
+[[Page H6207]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.204
+
+
+
+[[Page H6208]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.205
+
+
+
+[[Page H6209]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.206
+
+
+
+[[Page H6210]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.207
+
+
+
+[[Page H6211]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.208
+
+
+
+[[Page H6212]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.209
+
+
+
+[[Page H6213]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.210
+
+
+
+[[Page H6214]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.211
+
+
+
+[[Page H6215]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.212
+
+
+
+[[Page H6216]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.213
+
+
+
+[[Page H6217]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.214
+
+
+
+[[Page H6218]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.215
+
+
+
+[[Page H6219]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.216
+
+
+
+[[Page H6220]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.217
+
+
+
+[[Page H6221]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.218
+
+
+
+[[Page H6222]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.219
+
+
+
+[[Page H6223]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.220
+
+
+
+[[Page H6224]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.221
+
+
+
+[[Page H6225]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.222
+
+
+
+[[Page H6226]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.223
+
+
+
+[[Page H6227]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.224
+
+
+
+[[Page H6228]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.225
+
+
+
+[[Page H6229]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.226
+
+
+
+[[Page H6230]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.227
+
+
+
+[[Page H6231]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.228
+
+
+
+[[Page H6232]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.229
+
+
+
+[[Page H6233]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.230
+
+
+
+[[Page H6234]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.231
+
+
+
+[[Page H6235]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.232
+
+
+
+[[Page H6236]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.233
+
+
+
+[[Page H6237]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.234
+
+
+
+[[Page H6238]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.235
+
+
+
+[[Page H6239]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.236
+
+
+
+[[Page H6240]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.237
+
+
+
+[[Page H6241]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.238
+
+
+
+[[Page H6242]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.239
+
+
+
+[[Page H6243]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.240
+
+
+
+[[Page H6244]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.241
+
+
+
+[[Page H6245]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.242
+
+
+
+[[Page H6246]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.243
+
+
+
+[[Page H6247]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.244
+
+
+
+[[Page H6248]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.245
+
+
+
+[[Page H6249]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.246
+
+
+
+[[Page H6250]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.247
+
+
+
+[[Page H6251]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.248
+
+
+
+[[Page H6252]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.249
+
+
+
+[[Page H6253]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.250
+
+
+
+[[Page H6254]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.251
+
+
+
+[[Page H6255]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.252
+
+
+
+[[Page H6256]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.253
+
+
+
+[[Page H6257]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.254
+
+
+
+[[Page H6258]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.255
+
+
+
+[[Page H6259]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.256
+
+
+
+[[Page H6260]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.257
+
+
+
+[[Page H6261]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.258
+
+
+
+[[Page H6262]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.259
+
+
+
+[[Page H6263]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.260
+
+
+
+[[Page H6264]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.261
+
+
+
+[[Page H6265]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.262
+
+
+
+[[Page H6266]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.263
+
+
+
+[[Page H6267]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.264
+
+
+
+[[Page H6268]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.265
+
+
+
+[[Page H6269]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.266
+
+
+
+[[Page H6270]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.267
+
+
+
+[[Page H6271]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.268
+
+
+
+[[Page H6272]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.269
+
+
+
+[[Page H6273]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.270
+
+
+
+[[Page H6274]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.271
+
+
+
+[[Page H6275]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.272
+
+
+
+[[Page H6276]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.273
+
+
+
+[[Page H6277]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.274
+
+
+
+[[Page H6278]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.275
+
+
+
+[[Page H6279]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.276
+
+
+
+[[Page H6280]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.277
+
+
+
+[[Page H6281]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.278
+
+
+
+[[Page H6282]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.279
+
+
+
+[[Page H6283]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.280
+
+
+
+[[Page H6284]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.281
+
+
+
+[[Page H6285]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.282
+
+
+
+[[Page H6286]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.283
+
+
+
+[[Page H6287]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.284
+
+
+
+[[Page H6288]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.285
+
+
+
+[[Page H6289]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.286
+
+
+
+[[Page H6290]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.287
+
+
+
+[[Page H6291]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.288
+
+
+
+[[Page H6292]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.289
+
+
+
+[[Page H6293]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.290
+
+
+
+[[Page H6294]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.291
+
+
+
+[[Page H6295]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.292
+
+
+
+[[Page H6296]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.293
+
+
+
+[[Page H6297]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.294
+
+
+
+[[Page H6298]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.295
+
+
+
+[[Page H6299]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.296
+
+
+
+[[Page H6300]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.297
+
+
+
+[[Page H6301]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.298
+
+
+
+[[Page H6302]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.299
+
+
+
+[[Page H6303]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.300
+
+
+
+[[Page H6304]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.301
+
+
+
+[[Page H6305]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.302
+
+
+
+[[Page H6306]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.303
+
+
+
+[[Page H6307]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.304
+
+
+
+[[Page H6308]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.305
+
+
+
+[[Page H6309]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.306
+
+
+
+[[Page H6310]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.307
+
+
+
+[[Page H6311]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.308
+
+
+
+[[Page H6312]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.309
+
+
+
+[[Page H6313]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.310
+
+
+
+[[Page H6314]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.311
+
+
+
+[[Page H6315]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.312
+
+
+
+[[Page H6316]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.313
+
+
+
+[[Page H6317]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.314
+
+
+
+[[Page H6318]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.315
+
+
+
+[[Page H6319]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.316
+
+
+
+[[Page H6320]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.317
+
+
+
+[[Page H6321]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.318
+
+
+
+[[Page H6322]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.319
+
+
+
+[[Page H6323]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.320
+
+
+
+[[Page H6324]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.321
+
+
+
+[[Page H6325]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.322
+
+
+
+[[Page H6326]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.323
+
+
+
+[[Page H6327]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.324
+
+
+
+[[Page H6328]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.325
+
+
+
+[[Page H6329]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.326
+
+
+
+[[Page H6330]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.327
+
+
+
+[[Page H6331]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.328
+
+
+
+[[Page H6332]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.329
+
+
+
+[[Page H6333]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.330
+
+
+
+[[Page H6334]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.331
+
+
+
+[[Page H6335]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.332
+
+
+
+[[Page H6336]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.333
+
+
+
+[[Page H6337]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.334
+
+
+
+[[Page H6338]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.335
+
+
+
+[[Page H6339]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.336
+
+
+
+[[Page H6340]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.337
+
+
+
+[[Page H6341]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.338
+
+
+
+[[Page H6342]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.339
+
+
+
+[[Page H6343]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.340
+
+
+
+[[Page H6344]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.341
+
+
+
+[[Page H6345]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.342
+
+
+
+[[Page H6346]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.343
+
+
+
+[[Page H6347]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.344
+
+
+
+[[Page H6348]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.345
+
+
+
+[[Page H6349]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.346
+
+
+
+[[Page H6350]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.347
+
+
+
+[[Page H6351]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.348
+
+
+
+[[Page H6352]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.349
+
+
+
+[[Page H6353]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.350
+
+
+
+[[Page H6354]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.351
+
+
+
+[[Page H6355]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.352
+
+
+
+[[Page H6356]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.353
+
+
+
+[[Page H6357]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.354
+
+
+
+[[Page H6358]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.355
+
+
+
+[[Page H6359]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.356
+
+
+
+[[Page H6360]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.357
+
+
+
+[[Page H6361]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.358
+
+
+
+[[Page H6362]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.359
+
+
+
+[[Page H6363]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.360
+
+
+
+[[Page H6364]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.361
+
+
+
+[[Page H6365]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.362
+
+
+
+[[Page H6366]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.363
+
+
+
+[[Page H6367]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.364
+
+
+
+[[Page H6368]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.365
+
+
+
+[[Page H6369]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.366
+
+
+
+[[Page H6370]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.367
+
+
+
+[[Page H6371]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.368
+
+
+
+[[Page H6372]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.369
+
+
+
+[[Page H6373]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.370
+
+
+
+[[Page H6374]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.371
+
+
+
+[[Page H6375]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.372
+
+
+
+[[Page H6376]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.373
+
+
+
+[[Page H6377]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.374
+
+
+
+[[Page H6378]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.375
+
+
+
+[[Page H6379]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.376
+
+
+
+[[Page H6380]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.377
+
+
+
+[[Page H6381]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.378
+
+
+
+[[Page H6382]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.379
+
+
+
+[[Page H6383]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.380
+
+
+
+[[Page H6384]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.381
+
+
+
+[[Page H6385]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.382
+
+
+
+[[Page H6386]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.383
+
+
+
+[[Page H6387]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.384
+
+
+
+[[Page H6388]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.385
+
+
+
+[[Page H6389]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.386
+
+
+
+[[Page H6390]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.387
+
+
+
+[[Page H6391]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.388
+
+
+
+[[Page H6392]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.389
+
+
+
+[[Page H6393]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.390
+
+
+
+[[Page H6394]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.391
+
+
+
+[[Page H6395]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.392
+
+
+
+[[Page H6396]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.393
+
+
+
+[[Page H6397]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.394
+
+
+
+[[Page H6398]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.395
+
+
+
+[[Page H6399]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.396
+
+
+
+[[Page H6400]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.397
+
+
+
+[[Page H6401]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.398
+
+
+
+[[Page H6402]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.399
+
+
+
+[[Page H6403]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.400
+
+
+
+[[Page H6404]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.401
+
+
+
+[[Page H6405]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.402
+
+
+
+[[Page H6406]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.403
+
+
+
+[[Page H6407]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.404
+
+
+
+[[Page H6408]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.405
+
+
+
+[[Page H6409]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.406
+
+
+
+[[Page H6410]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.407
+
+
+
+[[Page H6411]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.408
+
+
+
+[[Page H6412]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.409
+
+
+
+[[Page H6413]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.410
+
+
+
+[[Page H6414]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.411
+
+
+
+[[Page H6415]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.412
+
+
+
+[[Page H6416]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.413
+
+
+
+[[Page H6417]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.414
+
+
+
+[[Page H6418]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.415
+
+
+
+[[Page H6419]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.416
+
+
+
+[[Page H6420]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.417
+
+
+
+[[Page H6421]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.418
+
+
+
+[[Page H6422]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.419
+
+
+
+[[Page H6423]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.420
+
+
+
+[[Page H6424]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.421
+
+
+
+[[Page H6425]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.422
+
+
+
+[[Page H6426]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.423
+
+
+
+[[Page H6427]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.424
+
+
+
+[[Page H6428]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.425
+
+
+
+[[Page H6429]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.426
+
+
+
+[[Page H6430]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.427
+
+
+
+[[Page H6431]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.428
+
+
+
+[[Page H6432]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.429
+
+
+
+[[Page H6433]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.430
+
+
+
+[[Page H6434]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.431
+
+
+
+[[Page H6435]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.432
+
+
+
+[[Page H6436]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.433
+
+
+
+[[Page H6437]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.434
+
+
+
+[[Page H6438]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.435
+
+
+
+[[Page H6439]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.436
+
+
+
+[[Page H6440]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.437
+
+
+
+[[Page H6441]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.438
+
+
+
+[[Page H6442]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.439
+
+
+
+[[Page H6443]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.440
+
+
+
+[[Page H6444]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.441
+
+
+
+[[Page H6445]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.442
+
+
+
+[[Page H6446]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.443
+
+
+
+[[Page H6447]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.444
+
+
+
+[[Page H6448]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.445
+
+
+
+[[Page H6449]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.446
+
+
+
+[[Page H6450]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.447
+
+
+
+[[Page H6451]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.448
+
+
+
+[[Page H6452]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.449
+
+
+
+[[Page H6453]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.450
+
+
+
+[[Page H6454]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.451
+
+
+
+[[Page H6455]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.452
+
+
+
+[[Page H6456]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.453
+
+
+
+[[Page H6457]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.454
+
+
+
+[[Page H6458]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.455
+
+
+
+[[Page H6459]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.456
+
+
+
+[[Page H6460]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.457
+
+
+
+[[Page H6461]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.458
+
+
+
+[[Page H6462]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.459
+
+
+
+[[Page H6463]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.460
+
+
+
+[[Page H6464]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.461
+
+
+
+[[Page H6465]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.462
+
+
+
+[[Page H6466]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.463
+
+
+
+[[Page H6467]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.464
+
+
+
+[[Page H6468]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.465
+
+
+
+[[Page H6469]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.466
+
+
+
+[[Page H6470]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.467
+
+
+
+[[Page H6471]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.468
+
+
+
+[[Page H6472]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.469
+
+
+
+[[Page H6473]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.470
+
+
+
+[[Page H6474]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.471
+
+
+
+[[Page H6475]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.472
+
+
+
+[[Page H6476]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.473
+
+
+
+[[Page H6477]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.474
+
+
+
+[[Page H6478]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.475
+
+
+
+[[Page H6479]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.476
+
+
+
+[[Page H6480]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.477
+
+
+
+[[Page H6481]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.478
+
+
+
+[[Page H6482]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.479
+
+
+
+[[Page H6483]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.480
+
+
+
+[[Page H6484]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.481
+
+
+
+[[Page H6485]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.482
+
+
+
+[[Page H6486]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.483
+
+
+
+[[Page H6487]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.484
+
+
+
+[[Page H6488]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.485
+
+
+
+[[Page H6489]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.486
+
+
+
+[[Page H6490]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.487
+
+
+
+[[Page H6491]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.488
+
+
+
+[[Page H6492]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.489
+
+
+
+[[Page H6493]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.490
+
+
+
+[[Page H6494]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.491
+
+
+
+[[Page H6495]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.492
+
+
+
+[[Page H6496]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.493
+
+
+
+[[Page H6497]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.494
+
+
+
+[[Page H6498]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.495
+
+
+
+[[Page H6499]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.496
+
+
+
+[[Page H6500]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.497
+
+
+
+[[Page H6501]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.498
+
+
+
+[[Page H6502]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.499
+
+
+
+[[Page H6503]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.500
+
+
+
+[[Page H6504]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.501
+
+
+
+[[Page H6505]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.502
+
+
+
+[[Page H6506]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.503
+
+
+
+[[Page H6507]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.504
+
+
+
+[[Page H6508]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.505
+
+
+
+[[Page H6509]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.506
+
+
+
+[[Page H6510]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.507
+
+
+
+[[Page H6511]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.508
+
+
+
+[[Page H6512]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.509
+
+
+
+[[Page H6513]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.510
+
+
+
+[[Page H6514]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.511
+
+
+
+[[Page H6515]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.512
+
+
+
+[[Page H6516]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.513
+
+
+
+[[Page H6517]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.514
+
+
+
+[[Page H6518]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.515
+
+
+
+[[Page H6519]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.516
+
+
+
+[[Page H6520]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.517
+
+
+
+[[Page H6521]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.518
+
+
+
+[[Page H6522]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.519
+
+
+
+[[Page H6523]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.520
+
+
+
+[[Page H6524]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.521
+
+
+
+[[Page H6525]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.522
+
+
+
+[[Page H6526]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.523
+
+
+
+[[Page H6527]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.524
+
+
+
+[[Page H6528]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.525
+
+
+
+[[Page H6529]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.526
+
+
+
+[[Page H6530]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.527
+
+
+
+[[Page H6531]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.528
+
+
+
+[[Page H6532]]
+
+[GRAPHIC] [TIFF OMITTED] T9060.529
+
+
+
+[[Page H6533]]
+```

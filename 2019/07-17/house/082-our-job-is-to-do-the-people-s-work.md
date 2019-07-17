@@ -1,0 +1,34 @@
+---
+granule: CREC-2019-07-17-pt1-PgH5982-4
+date: 2019-07-17
+edition: CREC
+section: HOUSE
+page: H5982
+citation: 165 Cong. Rec. H5982
+---
+
+# OUR JOB IS TO DO THE PEOPLE'S WORK
+
+**Speaking:** Fulcher, Russ (F000469) [R-ID]
+
+```
+                   OUR JOB IS TO DO THE PEOPLE'S WORK
+
+  (Mr. FULCHER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FULCHER. Mr. Speaker, in the last few days, we spent a lot of 
+time in session in the U.S. Congress reviewing and debating tweets and 
+personal comments of individuals. In the meantime, policy debate and 
+the urgent work of the people are excluded from the agenda.
+  As I speak, among other things, we are apprehending some 3,000 
+immigrants per day on our southern border, we will lose around 130 
+people today due to the opioid crisis, and our national debt will 
+increase another $3 billion or so in just the next 24 hours.
+  It is clear that the majority leadership does not want to have policy 
+initiatives that are desired by our current administration to even get 
+a debate, but, Mr. Speaker, we have an election process to deal with 
+those concerns.
+  It is our job to do the people's work. Please, let's go to work.
+
+                          ____________________
+```
