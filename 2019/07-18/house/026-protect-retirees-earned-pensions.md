@@ -1,0 +1,46 @@
+---
+granule: CREC-2019-07-18-pt1-PgH7134-2
+date: 2019-07-18
+edition: CREC
+section: HOUSE
+page: H7134
+citation: 165 Cong. Rec. H7134
+---
+
+# PROTECT RETIREES' EARNED PENSIONS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                   PROTECT RETIREES' EARNED PENSIONS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Madam Speaker, pensions have afforded millions of middle-
+class Americans the opportunity to enjoy their golden years with 
+economic peace of mind.
+  Congress did not ensure that security for all retirees when it passed 
+the Multiemployer Pension Reform Act in December 2014, attaching it to 
+unrelated, must-pass legislation.
+  For the past 5 years, I have listened to the anxiety of thousands of 
+retirees from Ohio and across our Nation, and I have fought for a 
+better solution for them.
+  Next week, this body will consider the Rehabilitation for 
+Multiemployer Pensions Act, better known as the Butch Lewis Act. This 
+bill is long overdue and a great step toward restoring economic 
+security for over 1,300,000 pensioners in our country.
+  Congress can provide relief for these 1.3 million workers and 
+retirees in plans running out of money through no fault of the workers. 
+Many of these hardworking individuals worked 30 years or more but now, 
+every day, they live with economic uncertainty, some facing drastic 
+cuts, as much as 70 percent, to their earned pensions. Many of these 
+individuals are too old to return to the workforce. This is criminal.
+  Madam Speaker, this Congress should improve our constituents' lives. 
+It is with great anticipation that next week we offer a glimmer of hope 
+for millions of pensioners caught far out on the ledge of economic 
+disaster. The Butch Lewis Act is overdue and a reasonable solution to 
+address this multiemployer pension crisis and end the economic terror 
+that affects these retirees' lives.
+
+                          ____________________
+```

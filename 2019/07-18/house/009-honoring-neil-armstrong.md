@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-07-18-pt1-PgH7093-8
+date: 2019-07-18
+edition: CREC
+section: HOUSE
+page: H7093
+citation: 165 Cong. Rec. H7093
+---
+
+# HONORING NEIL ARMSTRONG
+
+**Speaking:** Chabot, Steve (C000266) [R-OH]
+
+```
+                        HONORING NEIL ARMSTRONG
+
+  (Mr. CHABOT asked and was given permission to address the House for 1
+
+[[Page H7094]]
+
+minute and to revise and extend his remarks.)
+  Mr. CHABOT. Mr. Speaker, as the Representative of Cincinnati, Ohio, I 
+rise this morning to recognize an Ohioan who was a professor of 
+aerospace engineering at the University of Cincinnati. Prior to that, 
+he was a naval aviator, a test pilot, and, later, an astronaut.
+  Mr. Speaker, 50 years ago, the words he spoke now reside in history: 
+``That's one small step for man, one giant leap for mankind.''
+  Everyone on Earth at that time remembers where he or she was when 
+Neil Armstrong took that step. His contributions to space exploration 
+did not end on the surface of the Moon. Neil Armstrong was also on the 
+team that investigated the Apollo 13 accident, and he was vice chairman 
+of the commission that investigated the space shuttle Challenger 
+disaster.
+  Ohioan Neil Armstrong is a true American hero, and his extraordinary 
+service to our country--to all of humankind, really--will be forever 
+remembered.
+
+                          ____________________
+```

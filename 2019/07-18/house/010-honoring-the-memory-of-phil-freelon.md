@@ -1,0 +1,33 @@
+---
+granule: CREC-2019-07-18-pt1-PgH7094
+date: 2019-07-18
+edition: CREC
+section: HOUSE
+page: H7094
+citation: 165 Cong. Rec. H7094
+---
+
+# HONORING THE MEMORY OF PHIL FREELON
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                  HONORING THE MEMORY OF PHIL FREELON
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to honor Phil Freelon, who 
+passed away on July 9 at his home in Durham, North Carolina.
+  While attending Central High School in Philadelphia, he was drawn to 
+art and the technique of designing and building. He was one of two 
+Black architect students at North Carolina State University's College 
+of Design, where he had a passion for increasing diversity within his 
+profession.
+  One of his major contributions to our Nation was the building of the 
+National Museum of African American History and Culture.
+  Mr. Speaker, we mourn the passing of Mr. Freelon, but his legacy and 
+passion lives on to educate and empower the next generation of 
+architects.
+
+                          ____________________
+```

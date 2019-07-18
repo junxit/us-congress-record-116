@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-07-18-pt1-PgS4943-4
+date: 2019-07-18
+edition: CREC
+section: SENATE
+page: S4943
+citation: 165 Cong. Rec. S4943
+---
+
+# TRIBUTE TO MIRIAM HALEY
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                        TRIBUTE TO MIRIAM HALEY
+
+● Mr. DAINES. Mr. President, this week I have the distinct honor 
+of recognizing Miriam Haley of Silver Bow County for her contribution 
+to the Butte veteran community.
+  Mrs. Haley, a quilter for over two decades, recently chaired a 
+patriotic quilt show during Butte's Miners' Union Day celebration. The 
+goal of this show was to create quilts for veterans moving into the 
+newly built Southwest Montana Regional Veterans Home. Mrs. Haley 
+ensured these quilts were designed to serve the Butte veterans in their 
+day-to-day needs, whether they be resting or sitting with visitors. 
+Originally, Mrs. Haley had hoped to collect 65 quilts for the veterans, 
+but the show collected double that number. The 130 quilts spread out in 
+proud display for the show acted as a tangible expression of Montana's 
+ability to go above and beyond for its veteran community.
+  I wish to congratulate Mrs. Haley on her quilt show's success. Her 
+actions reflect the deep devotion to patriotism ingrained in all 
+Montanans.●
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-07-18-pt1-PgH7093-7
+date: 2019-07-18
+edition: CREC
+section: HOUSE
+page: H7093
+citation: 165 Cong. Rec. H7093
+---
+
+# STAND UP AGAINST BIGOTRY AND HATE
+
+**Speaking:** Green, Al (G000553) [D-TX]
+
+```
+                   STAND UP AGAINST BIGOTRY AND HATE
+
+  (Mr. GREEN of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GREEN of Texas. Mr. Speaker, and still I rise with love of 
+country in my heart, understanding that, Mr. Speaker, we have gone from 
+``lock her up'' to ``Jews will not replace us,'' to now ``send her 
+back.''
+  ``Send her back.''
+  Mr. Speaker, bigotry, hate is on the rise in the country, and I am so 
+proud of the 95 persons who, yesterday, voted against bigotry and hate. 
+We must not allow this to continue.
+  We now are moving on; we are marching on until victory is won. We 
+first had 58, then we had 66. Now, we have 95. We are marching on to 
+212.
+  And, Mr. Speaker, let me close with this: This is an important time 
+in our country. These are dangerous times. Every Member of this House 
+needs additional security. I am going to file a bill asking for more 
+security for the Members of this House.
+  Leadership has adequate security. Members do not have adequate 
+security. I want to thwart the efforts of those who might want to harm 
+a Member of this House.
+
+                          ____________________
+```
