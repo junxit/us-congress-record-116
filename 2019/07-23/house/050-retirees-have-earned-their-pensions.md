@@ -1,0 +1,50 @@
+---
+granule: CREC-2019-07-23-pt1-PgH7224-6
+date: 2019-07-23
+edition: CREC
+section: HOUSE
+page: H7224
+citation: 165 Cong. Rec. H7224
+---
+
+# RETIREES HAVE EARNED THEIR PENSIONS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                  RETIREES HAVE EARNED THEIR PENSIONS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Madam Speaker, this week marks a heroic milestone for 
+millions of America's retirees as the House
+
+[[Page H7225]]
+
+finally considers the Butch Lewis Act. This bill moves America one step 
+closer to restoring its broken pension promises to 1,300,000 pensioners 
+across our Nation.
+  Today I met with another 50 retirees from trucking firms, candy 
+manufacturers, miners, and others in Ohio whose futures are at risk in 
+their golden years. Their top concern is economic security.
+  I heard the stresses they have endured since receiving letters 
+threatening pension cuts of up to 70 percent of their earned pensions. 
+Worry between family members, increased suicides amongst pensioner 
+friends, anxiety and growing health concerns. This isn't the retirement 
+hardworking Americans earned.
+  Valorie Shapler, a retired Roadway Express truck driver, is suffering 
+from brain cancer. She is fighting for her life daily, and why should 
+she have to worry about the pension cuts that she earned?
+  Vicki Bailey, a widow of a trucker, raised their family but already 
+struggles to survive on her spousal benefits that were cut in half with 
+her husband's passing, and she has her own health issues to worry 
+about.
+  Jim Baumgartner asked for a prayer.
+  How can Congress ignore the pleas of millions of hardworking 
+Americans?
+  Pensions have afforded millions of retired middle-class people some 
+economic security in their retirement years. Please let our colleagues 
+join us in broad bipartisan passage of the Butch Lewis Act tomorrow.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-07-23-pt1-PgH7225-4
+date: 2019-07-23
+edition: CREC
+section: HOUSE
+page: H7225
+citation: 165 Cong. Rec. H7225
+---
+
+# MISS NEW JERSEY 2019
+
+**Speaking:** Van Drew, Jefferson (V000133) [D-NJ]
+
+```
+                          MISS NEW JERSEY 2019
+
+  (Mr. VAN DREW asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VAN DREW. Madam Speaker, a few weeks ago, 28 young, impressive 
+women shared their talents in the Miss New Jersey competition. The 
+competition has been around for almost 100 years and since that time 
+has evolved into a fantastic celebration of some of the best young 
+individuals in south Jersey.
+  The Miss New Jersey competition was the first to offer a talent 
+category, and this past year the competition focused even more on 
+aptitude and intellect over outward appearance. This year the 
+candidates were able to emphasize their individual styles and their 
+individual passions, and all of the young women spoke about different 
+social impact initiatives that mattered greatly to them.
+  One of my wonderful spring interns, Alyssa Rodriguez, placed in the 
+top 11 with her platform of social media awareness. She made south 
+Jersey so very proud. Miss Jade Glab of Belmar, New Jersey, was crowned 
+Miss New Jersey with her platform of healthy children, strong America.
+  We are proud of all the contestants and the intellect and the 
+compassion they bring to all of their communities, and I am most proud 
+of our contestants from south Jersey.
+
+                          ____________________
+```
