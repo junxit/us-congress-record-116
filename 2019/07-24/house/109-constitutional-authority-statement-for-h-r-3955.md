@@ -1,0 +1,20 @@
+---
+granule: CREC-2019-07-24-pt1-PgH7378-21
+date: 2019-07-24
+edition: CREC
+section: HOUSE
+page: H7378
+citation: 165 Cong. Rec. H7378
+---
+
+# Constitutional Authority Statement for H.R. 3955
+
+**Measures:** H.R. 3955
+
+```
+            By Mr. TIPTON:
+        H.R. 3955.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 18 of the Constitution
+```
