@@ -1,0 +1,374 @@
+---
+granule: CREC-2019-07-25-pt1-PgS5118-5
+date: 2019-07-25
+edition: CREC
+section: SENATE
+page: S5118
+citation: 165 Cong. Rec. S5118
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. GLEN D. VANHERCK
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICER FOR APPOINTMENT IN THE RESERVE OF THE ARMY TO 
+     THE GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                          To be major general
+
+BRIG. GEN. ARTHUR J. LOGAN
+
+
+                            FOREIGN SERVICE
+
+       THE FOLLOWING-NAMED MEMBERS OF THE FOREIGN SERVICE OF THE 
+     DEPARTMENT OF STATE TO BE A CONSULAR OFFICER AND A SECRETARY 
+     IN THE DIPLOMATIC SERVICE OF THE UNITED STATES OF AMERICA:
+GEORGE HABIB ABI-NADER, of Virginia
+HECTOR JAVIER ACEVEDO RIOS, of Maryland
+BRANDON C. AITCHISON, of Virginia
+TODD ALIX ALPHONSE, of Virginia
+CORI A. ALSTON, of Illinois
+ALI FERIDUN ARIN, of Florida
+BETHANY SARAH ARNOLD-BIK, of Virginia
+SAMUEL I. ARONSON, of New Jersey
+ANEESHA S. ASKEW, of Virginia
+EMILY ROSE AUGUSTINE, of Virginia
+PAUL STEPHEN BAILEY, JR., of Virginia
+TIMOTHY TRAVER BAKER, of the District of Columbia
+ROBERT L. BALDRIDGE, of Virginia
+MICHAEL STEPHEN BALSHI, of Virginia
+JOSHUA P. BARTLETT, of Ohio
+ASHLEY U. BENGTZEN, of Virginia
+ALEXANDRA L. B. BERNARDO, of Virginia
+ERIC J. BERNAU, of California
+NATHALIA RICARTE GILLOT BORDEN, of Virginia
+WILLIAM T. BRENT, of the District of Columbia
+SOMALY BUN, of Virginia
+JOHN MATTHEWS BYRNE III, of Virginia
+KELLY ALPINE BYRNES, of Virginia
+CHRISTOPHER DESHAWN CARR, of Texas
+BARRIE JAMIESON CHANG, of the District of Columbia
+SRAVANTHI CHERUKURI, of Virginia
+PATRICK D. CHO, of Ohio
+CHIH HAO CHOU, of Virginia
+WILLIAM P. CLARK, of Texas
+ERICA LYNN CLAYTON, of Virginia
+ROSS A. CONROY, of the District of Columbia
+ROBERT R. COOPER, of Utah
+JASON E. CURRIER, of New Hampshire
+KATHARINE MARIE DANIELS, of Virginia
+RAYMOND JOHN DI NOVO, JR., of Virginia
+WILLIAM L. F. DING-EVERSON, of California
+EMILY KATELIN DIONNE, of Virginia
+LORRAINE DIOUS, of Virginia
+CHRISTOPHER ROBERT DITTMEIER, of Virginia
+STEPHEN C. DOVE, of Texas
+HILARY G. DOWNEY, of Virginia
+SUZANNE K. EBERT, of Nebraska
+FRANK VINCENT EMERSON, of Virginia
+JENNA NICOLE EWALD, of Virginia
+WILLIAM ERIK EZEKIEL, of Virginia
+STEPHEN LINDER FERNANDEZ, of Virginia
+LAURA A. FIELDS, of California
+JOHN MATTHEW FINE, of the District of Columbia
+JOSEPH C. FORD, of Virginia
+KRISTEAN O'BRYAN FORREST, of Virginia
+TANJA CATHERINE FRANCIS, of Virginia
+ANTHONY FRANZESE, of Virginia
+MATTHEW JOSEPH GALLERY, of the District of Columbia
+PETER JOHN GALLO, of Virginia
+ADAM R. GANNAWAY, of Texas
+MARY C. GILLMORE, of Virginia
+ALFREDO L. GONZALEZ, JR., of Florida
+RACHEL LOUISE GRADY, of Virginia
+RICHARD JUN HA, of Virginia
+PATRICK M. HAKEY, of Virginia
+ADAM R. HALL, of Illinois
+PRESTON DARYL HALL, of Virginia
+TRAVIS C. HALL, of Washington
+PENNY G. HAMBILOMATIS, of Virginia
+PETER L. HANSEN, of Washington
+STEPHANIE LYNN HARRISON, of Virginia
+MEREDITH LINDSAY HART, of Virginia
+MORIA LYNN HENNING, of Virginia
+GRANT A. HOLYOAK, of Virginia
+WESLEY A. HOLZER, of California
+PHILIP AUSTIN HOVIS, of Virginia
+ELIZABETH A. HUML, of the District of Columbia
+ANDREA J. HUSTON, of Virginia
+AUSTIN KYLE INGHAM, of Virginia
+JUSTIN V. IVEY, of Florida
+DANIEL F. JACKSON, of Florida
+PAULETTE K. JANUS, of Illinois
+ISAAC B. JENKINS, of the District of Columbia
+ALEX R. JOHNSON, of Maryland
+ALEXANDRA K. JOHNSON, of the District of Columbia
+BRIANA NICHOLE JOHNSON, of Rhode Island
+CHANCE LOGAN JOHNSON, of Virginia
+KATHRYN L. JONES, of Oklahoma
+ERIC MICHAEL JOYNER, of Virginia
+SAMANTHA ANNE KACOS, of Virginia
+MANDY JOY KAMIEN, of Virginia
+ARI KATZ, of Washington
+RICHARD DEAN KIM, of Virginia
+YONGKYU KIM, of California
+JAMES GORDON KING, of Pennsylvania
+PATRICK RYAN KLOTZBACH, of the District of Columbia
+JAMES O. KNABLE, of Maryland
+KEVIN A. KRAVITZ, of the District of Columbia
+ELIASZ KRAWCZUK, of New York
+JAMES PETER KROMHOUT, of Virginia
+BETH A. KUCH, of Hawaii
+MATTHEW ALLEN LANDMEIER, of Virginia
+SCOTT J. LAVON, of Maryland
+DAVID EDWARD LEARY, of Virginia
+SCOTTIE LEONARD III, of Virginia
+MATTHEW BRETT LEVEY, of Virginia
+EARNESTINE LING, of Virginia
+JULIAN H. LIPSCOMB III, of Pennsylvania
+JAKUB D. LISKOWIAK, of the District of Columbia
+SARA E. LOCKE, of California
+EMILY BRIDGETTE LOPEZ, of Maryland
+MARK A. LOWRY, of Virginia
+RUBY KEHAULANI MACKO, of Texas
+SEAN R. MADDEN, of Virginia
+LAUREN KAYE MALATO, of Virginia
+SHEREE N. MARAMBIO, of California
+TAYLOR R. MAUCK, of the District of Columbia
+MICHAEL LORING MAYNE, of Florida
+CAROLYN ANN MCCOLLOW, of Virginia
+EDWARD DOUGLAS MCINTOSH, of Virginia
+ROBERT T. MCNEARY, of Virginia
+KENNETH DONALD MCNEIL III, of Virginia
+JENNIFER WAINE MILLER, of Virginia
+TASHA ROYEL MINOR, of Virginia
+RYAN M. MULLEN, of Maryland
+DEREK CHRISTOPHER MURPHY, of Virginia
+KRISTEN A. NAGLE, of Virginia
+STEVEN ANTHONY NIGGL, of Virginia
+SHAWN K. O'DONNELL, of California
+DRU R. OLSON, of the District of Columbia
+DENIZ Z. OZDEMIR, of the District of Columbia
+MICHAEL A. PANDO, of Virginia
+TASIA ESTELLE PARASKEVOPOULOS, of Virginia
+LARA MARISSA PARK, of New Mexico
+VALERIE J. PARRY, of Washington
+KEVIN BRUCE PASZINSKI, of Virginia
+RYANN EMILEE PENDER, of Virginia
+RYAN ALLEN PEREIRA, of Virginia
+AUGUSTA B. PHILBIN, of the District of Columbia
+CEDAR I. PHILLIPS, of Minnesota
+JENNIFER A. PIERSON, of Texas
+
+[[Page S5119]]
+
+CHRISTIAN DALE PIMENTEL, of Virginia
+JAMES WILLIAM PINER, of Virginia
+AJLA PORCA, of Virginia
+LEAH WOODARD PURNELL, of the District of Columbia
+FELICE MCKELVEY RAITERI, of Virginia
+FRANCISCO JAVIER REYES, of Virginia
+JOHN E. RIES, of Virginia
+JAMES JOHN RIZZI, of Virginia
+JAMES E. ROBBINS, of Texas
+HADLEY MARGUERITE ROBERTS, of Maryland
+PATRICK TERRENCE ROHAN, of Virginia
+ZACHARY A. ROSNER, of the District of Columbia
+AARON DAVID ROTH, of Virginia
+RENAE REYES SAN NICOLAS, of Virginia
+WHITNEY MARIE SAUER, of Virginia
+BARBARA ANN SCHECKEL, of Virginia
+MAX MICHAEL SCHINDLER, of Virginia
+ETHAN LEWIS SCHULMAN, of Maryland
+ANNE N. SHERMAN, of the District of Columbia
+MIKAELA MARIE SHUPP, of Virginia
+PENELOPE ANNE SIMMONS, of Virginia
+WHITNEY LORRAINE SKIPPINGS, of the District of Columbia
+MARIA SKIRK, of the District of Columbia
+MIKOLAJ M. SLOMKA, of Virginia
+JULIAN STRASSMANN SMISEK, of Texas
+CHARLES EDWARD SMITH II, of Florida
+DANIEL ARTHUR SMITH, of Virginia
+EMILIA B. SMITH, of Washington
+LAWRENCE ANDREW SMITH, of Virginia
+MCRAE JOSEPH SMITH, of Virginia
+PATRICK D. SMITH, of Washington
+MARY ELIZABETH SNEDEKER, of Virginia
+JAMES ANDREW SOMERS III, of the District of Columbia
+JESSICA LYNN SOUDER, of Virginia
+ERICA LAUREN STEWART, of Virginia
+GREGORY B. STONEBERG, of Virginia
+JENNIFER SHARI STRINGER, of Virginia
+HILARY SEEGER SZOT, of Virginia
+KELLY L. TEK, of Virginia
+BART J. THILTGEN, JR., of California
+ALISA M. THOMAS, of Ohio
+GREGORY MCDONALD TYREE, of Virginia
+NJOKI PATRICE URIBE, of Virginia
+ANTHONY JOHN VALDEZ, of Virginia
+CRISPIN M. VANBUER, of California
+STEPHANIE C. VANN, of Virginia
+THEODORE J. VASTINE, of Virginia
+CHRISTINE SHORTLEY VILLANI, of Maryland
+SARA DIANE VOTIPKA, of Virginia
+THOMAS ARTHUR WALKER, of Virginia
+MARGARET H. WALROD, of the District of Columbia
+DANIEL J. WALSH, of Florida
+BRANDON KENNETH WARREN, of Virginia
+ELAINE ROBBINS WARREN, of Virginia
+KRISTIN WEBER, of Virginia
+AMANDA GUAY WELDON, of the District of Columbia
+ZACHARY CANNON WHITLEY, of Virginia
+KIP T. WHITTINGTON, of Texas
+SHAINA MARIE WILLIAMS, of Virginia
+SAMUEL THOMAS WILLIAMSON, of New Hampshire
+AMY SUE WISSLER, of Virginia
+ROBERT WILLIAM WOODALL, of Virginia
+ERICA MICHELLE PARKER YACUS, of Florida
+GABRIELLE MARIE YORK, of Virginia
+JORDAN E. YOUNES, of Virginia
+ROXANA ISABELLE ZIAREK, of Virginia
+RYAN KELLY ZIMMERMAN, of Virginia
+ALEXIS LYN ZINTAK, of Virginia
+       THE FOLLOWING-NAMED CAREER MEMBER OF THE FOREIGN SERVICE OF 
+     THE UNITED STATES DEPARTMENT OF AGRICULTURE FOR PROMOTION 
+     INTO THE SENIOR FOREIGN SERVICE OF THE UNITED STATES OF 
+     AMERICA, CLASS OF COUNSELOR:
+CYNTHIA K. DUERR, of Florida
+       THE FOLLOWING-NAMED CAREER MEMBERS OF THE FOREIGN SERVICE 
+     OF THE UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT, 
+     OFFICE OF INSPECTOR GENERAL, TO BE A FOREIGN SERVICE OFFICER, 
+     A CONSULAR OFFICER, AND A SECRETARY IN THE DIPLOMATIC SERVICE 
+     OF THE UNITED STATES OF AMERICA:
+JESSICA ABENSTEIN, of Florida
+SETH FLINCHBAUGH, of Oklahoma
+TIMOTHY LAMPING, of Pennsylvania
+TYLER SCHEUFELE, of South Carolina
+JAE SONG, of Texas
+DAVID WALDRON, of Pennsylvania
+       THE FOLLOWING-NAMED MEMBERS OF THE FOREIGN SERVICE OF THE 
+     DEPARTMENT OF STATE TO BE A FOREIGN SERVICE OFFICER, A 
+     CONSULAR OFFICER, AND A SECRETARY IN THE DIPLOMATIC SERVICE 
+     OF THE UNITED STATES OF AMERICA:
+KENDRA MICHELLE ARBAIZA-SUNDAL, of South Dakota
+SARAH H. ASHBY, of Texas
+CLAIRE J. ASHCRAFT, of California
+JOHN T. AVRETT II, of South Carolina
+SAPTARSHI BASU, of Texas
+HEATHER J. BEGGS, of Alaska
+CHELSEA R. BERGESEN, of Washington
+CHRISTOPHER J. BODINGTON, of Virginia
+MATTHEW CARL BOWLBY, of Minnesota
+TIMOTHY S. BROWN, of Michigan
+ANDRES K. CALDERON, of Texas
+HOOJU CHOI, of Virginia
+CYBELE M. COCHRAN, of Virginia
+TASHINA ETTER COOPER, of Texas
+DAVID P. COUGHRAN, JR., of Washington
+IAIN A. CRAWFORD, of California
+GREGORY DAVID, of Florida
+CLAIRE Y. DESJARDINS, of Ohio
+TAYLOR B. DEWEY, of Virginia
+MICHAEL H. DING, of California
+JEFFREY D. DIRKS, of Washington
+ERIC S. ELLIOTT, of New Mexico
+PAUL R. ESTRADA, of California
+JOHN T. FOJUT, of Virginia
+LAWRENCE FOSTER, of Florida
+PAUL S. GARR, of Pennsylvania
+MATTHEW J. GERDIN, of the District of Columbia
+LUIS L. GONZALEZ III, of Texas
+PAUL J. GORMLEY, of Colorado
+SHIRLEY C. GREEN, of Texas
+LAWRENCE J. GROMAN, of Virginia
+STEPHANIE KARLA GUERRA-SMITH, of Virginia
+BLYTHE M. GUIGNON, of Virginia
+TODD D. HEFFNER, of Virginia
+BENJAMIN J. HILLBERY, of Virginia
+ILDIKO A. HRUBOS, of Hawaii
+SONG Y. HUANG, of the District of Columbia
+JASON INSLEE, of Florida
+MELY A. JACOBSON, of Texas
+MATTHEW M. JENNINGS, of Texas
+JAE-MAN JEON, of Virginia
+DAVID H. JOHNSON, of Michigan
+LAUREN A. JOHNSON, of New Hampshire
+SYDNEY PASQUIER-VICTORIA KELLY, of Washington
+MAUREEN G. KUMAR, of Texas
+NEAL B. LARKINS, of Oregon
+JOHN D. LATHERS II, of North Carolina
+BRIGID A. LAUGHLIN, of Pennsylvania
+HYE R. LEE, of Virginia
+AVA GIANA LEONE, of South Carolina
+AUSTIN J. LEWIS, of Texas
+ANN R. MANGOLD, of Pennsylvania
+JENNIFER D. MARSH, of Florida
+JESSICA E. MARTIN, of California
+JAY R. MCCANN, of New Hampshire
+JAMES W. MCPHERSON IV, of Maryland
+OMAR W. MEDINA, of Florida
+SEAN C. MURRAY, of Virginia
+TAMORA JOHNSON NOBILSKI, of New York
+MATTHEW J. PAGETT, of Florida
+ROBERT E. POULSON-HOUSER, of the District of Columbia
+NICHOLAS A. PSYHOS, of Virginia
+SAMIDHA REDKAR, of Ohio
+ALEXANDER M. ROSENBLATT, of Maine
+LUIS G. SALAS, of California
+MIKEL L. SAVIDES, of California
+COLIN M. SEALS, of Florida
+JULIECLAIRE B. SHEPPARD, of Florida
+DAVID RAYMOND SKORSKI, of Florida
+JESSICA KELLY SLATTERY, of Nebraska
+WILLIAM A. SLOAN, of the District of Columbia
+SHANNON A. SMALL, of the District of Columbia
+JULIA MARIE SMART, of Virginia
+CHRISTOPHER J. SMITH, of Washington
+MELANIE J. SMITH, of Washington
+BRIAN E. SMYSER, of New York
+THOMAS A. SNYDER, of Minnesota
+WILLIAM E. STANGE, of Washington
+CATHERINE L. SWANSON, of the District of Columbia
+LUKE K. TATEOKA, of Hawaii
+SARAH E. TATUM, of Tennessee
+ESTHER E. TETRUASHVILY, of New Jersey
+NATHANIEL G. TISHMAN, of Florida
+AMANDA S. TOLLEFSON, of Washington
+RYAN H. USTICK, of Florida
+JERRY J. WANG, of Texas
+TRAVIS J. WARNER, of Kansas
+RICHARD A. WESCH, of Texas
+BRYANT H. WHITFIELD, of Indiana
+MATTHEW L. WILLIGER, of South Dakota
+KELLY M. WINCK, of Tennessee
+MATTHEW D. WINSLOW, of Wyoming
+JOSEPH B. WITTERS, of Virginia
+GORDON T. WOOD, of Florida
+       THE FOLLOWING-NAMED CAREER MEMBER OF THE FOREIGN SERVICE 
+     FOR PROMOTION INTO THE SENIOR FOREIGN SERVICE, AS A CAREER 
+     MEMBER OF THE SENIOR FOREIGN SERVICE, CLASS OF COUNSELOR:
+JACQUELINE LEANN WARD, of Florida
+
+                          ____________________
+```

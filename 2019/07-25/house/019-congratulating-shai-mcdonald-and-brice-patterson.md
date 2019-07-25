@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-07-25-pt1-PgH7387-2
+date: 2019-07-25
+edition: CREC
+section: HOUSE
+page: H7387
+citation: 165 Cong. Rec. H7387
+---
+
+# CONGRATULATING SHAI McDONALD AND BRICE PATTERSON
+
+**Speaking:** Gianforte, Greg (G000584) [R-MT]
+
+```
+            CONGRATULATING SHAI McDONALD AND BRICE PATTERSON
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Montana (Mr. Gianforte) for 5 minutes.
+  Mr. GIANFORTE. Mr. Speaker, I rise today to recognize two young 
+Montanans who are among the best in rodeo.
+  In this month's National High School Finals Rodeo in Wyoming, Montana 
+was well represented with competitors from across the State. The 
+National High School Finals Rodeo drew about 1,500 finalists from 43 
+States, Mexico, Canada, and Australia.
+  Two Montanans won buckles for placing in the top 10 in their event. 
+Shai McDonald of Gardiner took second in barrel racing, and Brice 
+Patterson of Bozeman took fourth in bareback riding.
+  Rodeo is a time-honored tradition in Montana, and it is part of our 
+way of life.
+  The outstanding work ethic and dedication of these young athletes 
+allows them to compete and succeed at this high level.
+  Mr. Speaker, I congratulate Shai and Brice on their accomplishments 
+at the National High School Finals Rodeo.
+
+                          ____________________
+```

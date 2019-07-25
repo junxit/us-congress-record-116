@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-07-25-pt1-PgS5119
+date: 2019-07-25
+edition: CREC
+section: SENATE
+page: S5119
+citation: 165 Cong. Rec. S5119
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 25, 2019:
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       JOSEPH V. CUFFARI, OF ARIZONA, TO BE INSPECTOR GENERAL, 
+     DEPARTMENT OF HOMELAND SECURITY.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS CHAIRMAN OF 
+     THE JOINT CHIEFS OF STAFF AND APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTIONS 152 AND 601:
+
+                             To be general
+
+GEN. MARK A. MILLEY
+```
