@@ -1,0 +1,55 @@
+---
+granule: CREC-2019-07-29-pt1-PgS5147-2
+date: 2019-07-29
+edition: CREC
+section: SENATE
+page: S5147
+citation: 165 Cong. Rec. S5147
+---
+
+# SENATE RESOLUTION 288--AFFIRMING THE IMPORTANCE OF THE LONG-TERM SOLVENCY OF THE HIGHWAY TRUST FUND
+
+**Measures:** S.Res. 288
+
+```
+   SENATE RESOLUTION 288--AFFIRMING THE IMPORTANCE OF THE LONG-TERM 
+                   SOLVENCY OF THE HIGHWAY TRUST FUND
+
+  Mr. BRAUN submitted the following resolution; which was referred to 
+the Committee on Environment and Public Works:
+
+                              S. Res. 288
+
+       Whereas, in July 2019, the public debt of the United States 
+     was more than $22,000,000,000,000, increasing each year by a 
+     Federal budget deficit of nearly $1,000,000,000,000;
+       Whereas the Federal Government is facing shortfalls in 
+     several Federal trust funds, including the Highway Trust 
+     Fund, which is expected to reach insolvency in July 2021;
+       Whereas the infrastructure of the United States needs 
+     substantial investment in order to continue supporting the 
+     growing economy of the United States;
+       Whereas, according to a report published in 2015 by the 
+     Federal Highway Administration, 20 percent of the Federal-aid 
+     highways in the United States were in poor condition;
+
+[[Page S5148]]
+
+       Whereas short-term extensions providing funding to the 
+     Highway Trust Fund do not provide the certainty needed by 
+     States and local governments to enter into long-term 
+     roadbuilding contracts; and
+       Whereas short-term extensions providing funding to the 
+     Highway Trust Fund, based solely on deficit spending, 
+     exacerbate the problem described in the preceding whereas 
+     clause and only serve to postpone solving the problem: Now, 
+     therefore, be it
+     Resolved, That it is the sense of the Senate that--
+       (1) the Highway Trust Fund should achieve long-term 
+     solvency through user fees; and
+       (2) any spending on Federal highway programs during the 
+     next reauthorization period that exceeds current Highway 
+     Trust Fund revenues and balances should be fully offset.
+
+                          ____________________
+```
