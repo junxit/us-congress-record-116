@@ -1,0 +1,125 @@
+---
+granule: CREC-2019-07-30-pt1-PgH7477-9
+date: 2019-07-30
+edition: CREC
+section: HOUSE
+page: H7477
+citation: 165 Cong. Rec. H7477
+---
+
+# EMPOWERING BENEFICIARIES, ENSURING ACCESS, AND STRENGTHENING ACCOUNTABILITY ACT OF 2019
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+**Measures:** H.R. 3253
+
+```
+     EMPOWERING BENEFICIARIES, ENSURING ACCESS, AND STRENGTHENING 
+                       ACCOUNTABILITY ACT OF 2019
+
+  Ms. NORTON. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the bill (H.R. 3253) to provide for certain extensions 
+with respect to the Medicaid program under title XIX of the Social 
+Security Act, and for other purposes, with the Senate amendment 
+thereto, and concur in the Senate amendment.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The Clerk will report the Senate amendment.
+  The Clerk read as follows:
+  Senate amendment:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Sustaining Excellence in 
+     Medicaid Act of 2019''.
+
+[[Page H7478]]
+
+  
+
+
+     SEC. 2. EXTENSION OF THE COMMUNITY MENTAL HEALTH SERVICES 
+                   DEMONSTRATION PROGRAM.
+
+       Section 223(d)(3) of the Protecting Access to Medicare Act 
+     of 2014 (42 U.S.C. 1396a note), as amended by Public Law 116-
+     29, is amended by striking ``July 14, 2019'' and inserting 
+     ``September 13, 2019''.
+
+     SEC. 3. EXTENSION OF PROTECTION FOR MEDICAID RECIPIENTS OF 
+                   HOME AND COMMUNITY-BASED SERVICES AGAINST 
+                   SPOUSAL IMPOVERISHMENT.
+
+       (a) In General.--Section 2404 of Public Law 111-148 (42 
+     U.S.C. 1396r-5 note) is amended by striking ``September 30, 
+     2019'' and inserting ``December 31, 2019''.
+       (b) Rule of Construction.--Nothing in section 2404 of 
+     Public Law 111-148 (42 U.S.C. 1396r-5 note) or section 
+     1902(a)(17) or 1924 of the Social Security Act (42 U.S.C. 
+     1396a(a)(17), 1396r-5) shall be construed as prohibiting a 
+     State from applying an income or resource disregard under a 
+     methodology authorized under section 1902(r)(2) of such Act 
+     (42 U.S.C. 1396a(r)(2))--
+       (1) to the income or resources of an individual described 
+     in section 1902(a)(10)(A)(ii)(VI) of such Act (42 U.S.C. 
+     1396a(a)(10)(A)(ii)(VI)) (including a disregard of the income 
+     or resources of such individual's spouse); or
+       (2) on the basis of an individual's need for home and 
+     community-based services authorized under subsection (c), 
+     (d), (i), or (k) of section 1915 of such Act (42 U.S.C. 
+     1396n) or under section 1115 of such Act (42 U.S.C. 1315).
+
+     SEC. 4. EXTENSION OF MONEY FOLLOWS THE PERSON REBALANCING 
+                   DEMONSTRATION.
+
+       Section 6071(h)(1)(F) of the Deficit Reduction Act of 2005 
+     (42 U.S.C. 1396a note) is amended by striking 
+     ``$132,000,000'' and inserting ``$254,500,000''.
+
+     SEC. 5. EXTENSION FOR FAMILY-TO-FAMILY HEALTH INFORMATION 
+                   CENTERS.
+
+       Section 501(c) of the Social Security Act (42 U.S.C. 
+     701(c)) is amended--
+       (1) in paragraph (1)(A)(vii), by striking ``and 2019'' and 
+     inserting ``through 2024''; and
+       (2) in paragraph (3)(C), by striking ``fiscal years 2018 
+     and 2019'' and inserting ``fiscal year 2018 and each fiscal 
+     year thereafter''.
+
+     SEC. 6. REDUCED WHOLESALE ACQUISITION COST (WAC)-BASED 
+                   PAYMENTS FOR NEW DRUGS AND BIOLOGICALS.
+
+       Section 1847A(c)(4) of the Social Security Act (42 U.S.C. 
+     1395w-3a(c)(4)) is amended by striking ``payable under this 
+     section for the drug or biological based on--'' and all that 
+     follows through the period at the end and inserting the 
+     following: ``payable under this section--
+       ``(A) in the case of a drug or biological furnished prior 
+     to January 1, 2019, based on--
+       ``(i) the wholesale acquisition cost; or
+       ``(ii) the methodologies in effect under this part on 
+     November 1, 2003, to determine payment amounts for drugs or 
+     biologicals; and
+       ``(B) in the case of a drug or biological furnished on or 
+     after January 1, 2019--
+       ``(i) at an amount not to exceed 103 percent of the 
+     wholesale acquisition cost; or
+       ``(ii) based on the methodologies in effect under this part 
+     on November 1, 2003, to determine payment amounts for drugs 
+     or biologicals.''.
+
+  Ms. NORTON (during the reading). Mr. Speaker, I ask unanimous consent 
+to dispense with the reading of the amendment.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from the District of Columbia?
+  There was no objection.
+  The SPEAKER pro tempore. Is there objection to the original request 
+of the gentlewoman from the District of Columbia?
+  There was no objection.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
