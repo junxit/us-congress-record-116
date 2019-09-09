@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-09-09-pt1-PgH7550-5
+date: 2019-09-09
+edition: CREC
+section: HOUSE
+page: H7550
+citation: 165 Cong. Rec. H7550
+---
+
+# HONORING SEPTEMBER VETERAN OF THE MONTH ANDY KOEHL
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+           HONORING SEPTEMBER VETERAN OF THE MONTH ANDY KOEHL
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute.)
+  Mr. SPANO. Madam Speaker, I rise today to honor World War II veteran, 
+Colonel Andy Koehl, U.S. Army Retired.
+  Colonel Koehl enlisted in the Wisconsin National Guard in 1936. 
+During World War II, he spent 43 months in the South Pacific, during 
+which he participated in five amphibious landings as an artillery 
+officer, was wounded in action, and was awarded the Purple Heart.
+  In August 1945, he again risked his life as one of the first 
+occupation troops to enter Hiroshima after the atomic bomb.
+  Following World War II, he continued his stellar career by serving 
+multiple worldwide tours of duty, including service in Vietnam from 
+1961 to 1963 as part of the first advisors dispatched to that area.
+  And this past May, Colonel Koehl celebrated his 100th birthday. But 
+in fact, it is we who celebrate him.
+  Our Nation owes him a debt of gratitude for all he has endured over 
+30 years of service to protect our freedoms and a faith that brought 
+him through the darkest days of war.
+  Madam Speaker, I thank Colonel Koehl. I thank him for blessing us 
+with his life of sacrifice.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-09-09-pt1-PgH7549-3
+date: 2019-09-09
+edition: CREC
+section: HOUSE
+page: H7549
+citation: 165 Cong. Rec. H7549
+---
+
+# CONGRATULATING WINSTON-SALEM STATE UNIVERSITY, THE NATION'S TOP PUBLIC HBCU FOR VALUE
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+CONGRATULATING WINSTON-SALEM STATE UNIVERSITY, THE NATION'S TOP PUBLIC 
+                             HBCU FOR VALUE
+
+  (Ms. FOXX of North Carolina asked and was given permission to address 
+the House for 1 minute.)
+  Ms. FOXX of North Carolina. Madam Speaker, I rise to congratulate 
+Winston-Salem State University, WSSU, in North Carolina's Fifth 
+District on its recent ranking by Money magazine as the Nation's best 
+public Historically Black University for value. The publication 
+considered 26 different measures of value, including affordability, 
+education quality, and graduates' record of landing well-paying jobs.
+  Many institutions do not make timely completion of college a 
+priority, leading to increased debt for the six out of 10 students who 
+take more than 6 years to graduate. WSSU is a bright spot in our 
+Nation's university system, though, with the average student graduating 
+in under 5 years and alumni earning an average $46,200 annually within 
+3 years of graduation.
+  Chancellor Elwood Robinson, WSSU administrators, and faculty should 
+be very proud to lead our Nation's Historically Black Universities and 
+Colleges in value. I applaud the school's dedication to honoring the 
+financial sacrifices made to pursue postsecondary education.
+
+                          ____________________
+```
