@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-09-10-pt1-PgH7586-5
+date: 2019-09-10
+edition: CREC
+section: HOUSE
+page: H7586
+citation: 165 Cong. Rec. H7586
+---
+
+# THE HEALTH OF FLORIDA'S ECOSYSTEM
+
+**Speaking:** Mucarsel-Powell, Debbie (M001207) [D-FL]
+
+```
+                   THE HEALTH OF FLORIDA'S ECOSYSTEM
+
+  (Ms. MUCARSEL-POWELL asked and was given permission to address the 
+House for 1 minute.)
+  Ms. MUCARSEL-POWELL. Madam Speaker, today I rise in support of the 
+Coastal and Marine Economies Protection Act and the Protecting and 
+Securing Florida's Coastline Act.
+  It is estimated that 11 percent of Florida's plant species and 883 
+vertebrate and invertebrate species are endemic to our State. Florida 
+has 114 federally endangered or threatened species in our community.
+  The Florida reef is the third largest reef in the world and the only 
+living coral reef in the continental United States.
+  Florida's unique ecosystem is too delicate to put at risk to the 
+hazards of the drilling process. Offshore drilling puts our tourism 
+industry and fishing industry at risk, two of the biggest factors in 
+our economy here in Florida.
+  Drilling should never take priority over keeping our ecosystems 
+healthy or our fishermen's jobs. It is time to put the health and the 
+well-being of our community over the greed of corporate polluters.
+
+                          ____________________
+```

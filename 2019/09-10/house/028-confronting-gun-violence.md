@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-09-10-pt1-PgH7566-3
+date: 2019-09-10
+edition: CREC
+section: HOUSE
+page: H7566
+citation: 165 Cong. Rec. H7566
+---
+
+# CONFRONTING GUN VIOLENCE
+
+**Speaking:** Lipinski, Daniel (L000563) [D-IL]
+
+```
+                        CONFRONTING GUN VIOLENCE
+
+  (Mr. LIPINSKI asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LIPINSKI. Mr. Speaker, as we return this week, we must confront 
+our Nation's sickening gun violence. My commitment to act is even 
+stronger after my own terrifying experience.
+  My wife Judy and I were at the Gilroy Garlic Festival when a shooter 
+opened fire. We heard the pops, then screams, and we turned and ran for 
+our lives. Three people were killed, but it could have been much worse 
+if not for law enforcement's quick action. It almost seems like a bad 
+dream, but it was real. Just as the threat of gun violence in our 
+Nation is all too real.
+  This violence has social and spiritual roots, but there are 
+commonsense laws we can enact to stem gun violence. I have had many 
+people beg me for Congress to act, including proud gun owners who 
+understand that we can pass gun safety laws while also upholding the 
+Second Amendment.
+  This week the Senate should start by passing the comprehensive 
+background check bill that we passed in the House earlier this year. 
+Doing nothing is not an option. Congress must act.
+
+                          ____________________
+```
