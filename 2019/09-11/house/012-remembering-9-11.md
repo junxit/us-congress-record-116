@@ -1,0 +1,110 @@
+---
+granule: CREC-2019-09-11-pt1-PgH7601-3
+date: 2019-09-11
+edition: CREC
+section: HOUSE
+page: H7601
+citation: 165 Cong. Rec. H7601
+---
+
+# REMEMBERING 9/11
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+                            REMEMBERING 9/11
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Kansas (Mr. Marshall) for 5 minutes.
+  Mr. MARSHALL. Madam Speaker, on this day nearly 20 years ago our 
+great Nation suffered a loss unlike any she has suffered before or 
+since. Almost 3,000 American citizens were killed on September 11, 
+2001, and thousands more have died or become seriously ill since from 
+their response that day, whether
+
+[[Page H7602]]
+
+at Ground Zero or in the Middle East. Men and women, young and old were 
+stolen from their families, their communities, and our country.
+  As she always has during our darkest hour, this country came together 
+in a courageous way. We were one people uniting to heal a terrible 
+wound. May we all strive today to soon find that same unity--now, not 
+just in times of tragedy. Americans and her people will be all the 
+better for it.
+  May God bless the memories of those who died on September 11, and may 
+God bless this great country.
+
+
+             Striving to Make Kansas a Better Place to Live
+
+  Mr. MARSHALL. Madam Speaker, last week I completed my tour of all 105 
+counties in Kansas. I enjoyed meeting folks of all backgrounds and 
+learning about their passions, concerns and what they need their 
+representatives in Washington to do to deliver for Kansas.
+  From Dodge to Topeka, Pratt to Leavenworth, the message I heard from 
+Kansans is they want their way of live preserved. They want their 
+representatives to fight alongside President Trump, reduce Washington 
+red tape, and advocate for new and fair trade agreements so our farmers 
+can feed the world.
+  For the most part, Kansans just want a decent job with a good wage 
+and a fair shot at the American Dream. Aside from the safety and 
+security afforded to them, most would otherwise be happy to not have 
+Washington involved in our day-to-day lives.
+  Despite folks' disagreements on some issues, Kansans are a people who 
+largely agree on the importance of faith, community, and hard work.
+  After completing this tour of all 105 Kansas counties, I have a 
+greater appreciation for the challenges of Kansans of all walks of 
+life. Each conversation was an opportunity to hear an individual's 
+story about the burden of securing affordable healthcare for a loved 
+one, finding good workers to grow a small farm or business, finding a 
+home to raise their family in, and protecting and nurturing the 
+communities they love and cherish.
+  I don't have all the answers or quick fixes for our challenges, but I 
+will continue to strive to make Kansas a better place to live. Each day 
+I am blessed with the opportunity to represent Kansas in Congress. I 
+carry that message in my heart, that we are the breadbasket of the 
+world and home to some of the best, hardest working and most decent 
+people on Earth.
+
+
+            Americans Must Reject a Radical Socialist Agenda
+
+  Mr. MARSHALL. Madam Speaker, last week a socialist senator seeking 
+higher office proposed increasing abortions across the world as a way 
+to slow population growth and combat climate change. Worse yet, he 
+directly stated that he wanted U.S. taxpayers to pay for these 
+abortions. As many Kansans are coming to understand, this is just one 
+of the many disgraceful and disturbing socialist agendas increasingly 
+embraced by my colleagues across the aisle.
+  There is no policy proposal at present which more represents the 
+Democrats' quest for total control over every aspect of our lives than 
+the Green New Deal. This deal is nothing more than a rebranding of 
+overwhelming government control under the guise of environmental 
+stewardship. Just ask its sponsor's former chief of staff who said, 
+``It wasn't originally a climate thing at all. . . . we really think of 
+it as a how to change the entire economy thing.''
+
+  The Green New Deal demands we completely overhaul our energy and 
+transportation infrastructure, which would kill the jobs of millions of 
+Americans working in the oil, and gas industry, manufacturing, and 
+aviation industries, to name a few. The plan would crush Kansas beef 
+producers by placing a hefty tax on our farms with estimates costing 
+nearly $2,000 per cow. The Green New Deal would be the greatest 
+centralization of power in the hands of Washington elites in American 
+history.
+  But destroying America's means of energy and food production isn't 
+all this radical socialist agenda seeks to do; as we learned recently, 
+the new Democrat party's to-do list includes everything from banning 
+private health insurance to plastic straws nationwide, positions 
+numerous Democratic candidates for President have already endorsed.
+  Democrats want to dictate what you can drink, how you drink it, what 
+you can eat, and where you can work, and what healthcare you can have, 
+all while you are forced to pay for abortions overseas. And don't 
+forget about the proposed 90 percent tax rates on Americans either.
+  We must emphatically reject this radical socialist agenda and work 
+instead to implement innovative solutions to provide for greater 
+prosperity and equality for all. Our children and our grandchildren's 
+future and the future of Kansas and this great Nation depend upon it.
+
+                          ____________________
+```

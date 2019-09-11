@@ -1,0 +1,50 @@
+---
+granule: CREC-2019-09-11-pt1-PgH7639-6
+date: 2019-09-11
+edition: CREC
+section: HOUSE
+page: H7639
+citation: 165 Cong. Rec. H7639
+---
+
+# HONORING THE LIFE OF DIET EMAN
+
+**Speaking:** Huizenga, Bill (H001058) [R-MI]
+
+```
+                     HONORING THE LIFE OF DIET EMAN
+
+  (Mr. HUIZENGA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HUIZENGA. Mr. Speaker, I rise today to honor the life of a very 
+special hero who risked her life to care for others and left a 
+remarkable legacy.
+  Diet Eman was a longtime west Michigan resident who was born and
+
+[[Page H7640]]
+
+raised in the Netherlands. At 20 years old, she found herself in the 
+middle of the crisis that had overtaken Europe during World War II.
+  Recognizing the injustices against the Jewish people in Holland, Diet 
+and her fiance, Hein Sietsma, formed the Dutch resistance group called 
+``Help Elkander in Nood,'' which means ``helping each other in need.''
+  Throughout the course of the war, Diet organized shelters and 
+provided assistance to Jews in need, reported on German troop 
+movements, and helped downed Allied pilots.
+  Eventually, she was actually captured by the Germans and spent 3 
+months in a concentration camp. However, her spirit and will could not 
+be broken, and she outsmarted her interrogators, bluffed her captors 
+into releasing her, and quickly returned to her work within the 
+resistance movement.
+  Diet was personally recognized by President Eisenhower for her 
+contributions, as well as by Dutch King Willem-Alexander, who deemed 
+her a national hero for her courage and sacrifice.
+  Meeting her in person last year was a very special memory for me and 
+my entire family. Diet never wavered in taking a stand for what is 
+noble and lived a life full of bravery, compassion, and purpose.
+  Through her efforts, Diet helped change the world and make it a 
+better place.
+  May her memory be eternal.
+
+                          ____________________
+```
