@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-09-12-pt1-PgH7670
+date: 2019-09-12
+edition: CREC
+section: HOUSE
+page: H7670
+citation: 165 Cong. Rec. H7670
+---
+
+# HONORING THE LIFE AND SERVICE OF MARCA BRISTO
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+             HONORING THE LIFE AND SERVICE OF MARCA BRISTO
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GARCIA of Illinois. Mr. Speaker, this past weekend, we lost my 
+dear friend, Marca Bristo, an inspiring civil rights activist from 
+Chicago.
+  Marca had a diving accident when she was young that left her 
+paralyzed from the chest down. She never allowed her disability to 
+define her. Instead, her disability became her superpower.
+  Marca dedicated her life to changing laws and bringing attention to 
+the disparities faced by people with disabilities in the most basic 
+services. She was instrumental in bringing wheelchair ramps to Chicago 
+public buses.
+  She didn't do this by just writing letters or holding meetings. Marca 
+went as far as chaining herself to a bus to force the Chicago Transit 
+Authority to make mass transit more accessible.
+  She worked with the broader civil rights communities to pass key 
+legislation like the Americans with Disabilities Act. The organization 
+she founded, Access Living of Metropolitan Chicago, will carry on with 
+her legacy.
+  I send our heartfelt thoughts to her son and her daughter.
+  Rest in power, Marca Bristol.
+
+                          ____________________
+```
