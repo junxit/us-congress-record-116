@@ -1,0 +1,80 @@
+---
+granule: CREC-2019-09-16-pt1-PgH7714-2
+date: 2019-09-16
+edition: CREC
+section: HOUSE
+page: H7714
+citation: 165 Cong. Rec. H7714
+---
+
+# PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 4334, H.R. 4335, H.R. 4336, H.R. 4337, H.R. 4338, H.R. 4339
+
+```
+                      PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XII, public bills and resolutions of the 
+following titles were introduced and severally referred, as follows:
+
+           By Ms. BONAMICI (for herself, Ms. Stefanik, Mrs. Lee of 
+             Nevada, Mr. Comer, Ms. Wild, and Mr. Johnson of South 
+             Dakota):
+       H.R. 4334. A bill to amend the Older Americans Act of 1965 
+     to authorize appropriations for fiscal years 2020 through 
+     2024, and for other purposes; to the Committee on Education 
+     and Labor.
+           By Mrs. CAROLYN B. MALONEY of New York:
+       H.R. 4335. A bill to amend the Securities Exchange Act of 
+     1934 to require the Securities and Exchange Commission to 
+     issue rules that prohibit officers and directors of certain 
+     companies from trading securities in anticipation of a 
+     current report, and for other purposes; to the Committee on 
+     Financial Services.
+           By Mr. BERA (for himself, Mr. Peters, and Mr. Aguilar):
+       H.R. 4336. A bill to amend the Patient Protection and 
+     Affordable Care Act to align open enrollment periods for 
+     Exchange plans with the deadline for filing Federal income 
+     tax returns, and for other purposes; to the Committee on 
+     Energy and Commerce.
+           By Mr. DesJARLAIS:
+       H.R. 4337. A bill to amend the Servicemembers Civil Relief 
+     Act to prohibit the enforcement of certain policies of 
+     homeowners associations regarding real property of 
+     servicemembers; to the Committee on Veterans' Affairs.
+           By Ms. FINKENAUER (for herself and Mr. Westerman):
+       H.R. 4338. A bill to amend title 23, United States Code, to 
+     require the Secretary of Transportation to ensure that States 
+     set aside certain funds for construction and operational 
+     improvements on high risk rural roads, and for other 
+     purposes; to the Committee on Transportation and 
+     Infrastructure.
+           By Ms. JACKSON LEE (for herself, Ms. Adams, Ms. 
+             Barragan, Mrs. Beatty, Mr. Bishop of Georgia, Mr. 
+             Blumenauer, Mr. Carson of Indiana, Mr. Cartwright, 
+             Ms. Castor of Florida, Ms. Judy Chu of California, 
+             Mr. Cicilline, Ms. Clarke of New York, Mr. Cohen, Mr. 
+             Connolly, Mr. Cummings, Mr. Danny K. Davis of 
+             Illinois, Ms. DeGette, Ms. DelBene, Mr. Deutch, Mrs. 
+             Dingell, Ms. Eshoo,
+
+[[Page H7715]]
+
+             Mr. Espaillat, Mr. Evans, Mr. Garcia of Illinois, Mr. 
+             Green of Texas, Mr. Hastings, Mr. Heck, Ms. Norton, 
+             Mr. Huffman, Ms. Jayapal, Mr. Johnson of Georgia, Ms. 
+             Kelly of Illinois, Mr. Kennedy, Mr. Lawson of 
+             Florida, Ms. Lee of California, Mr. Lowenthal, Ms. 
+             McCollum, Mr. Meeks, Mr. Nadler, Mrs. Napolitano, Mr. 
+             Pocan, Mr. Price of North Carolina, Mr. Richmond, Mr. 
+             Rush, Mr. Ryan, Ms. Sanchez, Mr. Sarbanes, Ms. 
+             Schakowsky, Mr. Serrano, Ms. Sewell of Alabama, Mr. 
+             Smith of Washington, Mr. Swalwell of California, Mr. 
+             Thompson of Mississippi, Ms. Velazquez, Mrs. Watson 
+             Coleman, and Mr. Welch):
+       H.R. 4339. A bill to eliminate racial profiling by law 
+     enforcement, and for other purposes; to the Committee on the 
+     Judiciary.
+
+                          ____________________
+```
