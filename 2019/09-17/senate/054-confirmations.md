@@ -1,0 +1,26 @@
+---
+granule: CREC-2019-09-17-pt1-PgS5545-4
+date: 2019-09-17
+edition: CREC
+section: SENATE
+page: S5545
+citation: 165 Cong. Rec. S5545
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 17, 2019:
+
+
+                          DEPARTMENT OF STATE
+
+       KENNETH A. HOWERY, OF TEXAS, TO BE AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY OF THE UNITED STATES OF AMERICA TO THE 
+     KINGDOM OF SWEDEN.
+       JOHN RAKOLTA, JR., OF MICHIGAN, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE UNITED ARAB EMIRATES.
+```
