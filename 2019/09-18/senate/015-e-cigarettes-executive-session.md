@@ -1,0 +1,255 @@
+---
+granule: CREC-2019-09-18-pt1-PgS5549-2
+date: 2019-09-18
+edition: CREC
+section: SENATE
+page: S5549
+citation: 165 Cong. Rec. S5549
+---
+
+# E-Cigarettes (Executive Session)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL], Schumer, Charles E. (S000148) [D-NY]
+
+```
+                              E-Cigarettes
+
+  Mr. DURBIN. Mr. President, it started sounding too familiar to me. 
+For a long time on Capitol Hill, I have been involved in public policy 
+debates about Big Tobacco, about nicotine and cigarettes, and about the 
+public health consequences of smoking. It is a personal issue, of 
+course, for me and for so many of us.
+  Our families have been touched by tobacco-related disease and death. 
+I lost my father to lung cancer. He was 53 years old. He smoked two 
+packs of Camels a day. I stood by his bedside when I was just a high 
+school student and saw what tobacco could do.
+  When I was elected to Congress, I decided to try to take on Big 
+Tobacco. It was not an easy task. Those in Big Tobacco had very many 
+friends in high places, and they made it clear in both political 
+parties in the House of Representatives that tobacco was untouchable.
+  I offered an amendment, quite a few years ago now, to ban smoking on 
+airplanes. It was really because of my irritation and strong feelings 
+that the people who were on the plane who were nonsmokers shouldn't 
+have to breathe in secondhand smoke. To my surprise, we passed it in 
+the House by a handful of votes even though the leadership of both 
+political parties opposed it. Then it came over here, and Senator Frank 
+Lautenberg, of New Jersey, passed it as well. It became the law of the 
+land.
+  Neither Frank nor I could have predicted what would happen next, but 
+as the American people noticed that secondhand smoke was taken off of 
+airplanes, they started asking a lot of these questions about why you 
+wouldn't take it off of trains and buses and out of offices, hospitals, 
+restaurants, and on and on. The net result was that of a change across 
+America when it came to standards for smoking and tobacco cigarettes.
+  Then I enlisted a group that was showing extraordinary leadership in 
+Washington. It was called the Campaign for Tobacco-Free Kids. Matt 
+Myers, the director, still works for that organization. We went to the 
+heart of the issue, and that was the fact that Big Tobacco was doing 
+its best to make teenagers its customers. It had to. It was losing too 
+many of its best customers because they were dying from Big Tobacco's 
+product.
+  It tried to addict children, and it was successful with ad campaigns. 
+The Joe Camel ads, the Marlboro cowboy, and all sorts of cartoon 
+figures were really appealing to children. It worked. It was able to 
+replenish its smokers with kids who started smoking at earlier and 
+earlier ages.
+  We went after them. Eventually, there was a national lawsuit against 
+the tobacco companies. We changed the standards for selling tobacco in 
+America. We made it much more difficult for kids to get their hands on 
+cigarettes, and, over time, we reduced the percentage of kids who were 
+using these tobacco products.
+  The tobacco companies faced a dilemma. They were losing their best 
+customers--the kids. What were they going to do to maintain their 
+profits?
+  Several years ago, it became pretty obvious that they had found an 
+alternative product called e-cigarettes and vaping. What was good about 
+this was they could make health claims about e-cigarettes and vaping. 
+They could argue that since you were taking tobacco out of the 
+equation, merely sucking in some form of nicotine vapor was preferable 
+from a health perspective. Yet, when it came right down to it, there 
+was no proof of that whatsoever.
+  JUUL is the biggest e-cigarette/e-vapor device maker in America. Its 
+full-paged ads in newspaper after newspaper have made these health 
+claims that, in fact, e-vaping is a healthy alternative to tobacco 
+cigarettes. Yet there is no proof--none.
+  Then something else started happening. We started noticing that all 
+across America, kids--the same kids who once used to be the targets of 
+Big Tobacco--were now the targets of Big Vaping. Vaping targets kids. 
+The numbers tell the story. As of 2 years ago, 11 percent of high 
+school students in America were vaping. A year later, there were 20 
+percent, and there are 27 percent today. More than one out of four high 
+school students is using e-cigarettes and vaping today. Even worse, 10 
+percent of middle school students--10-, 11-, and 12-year-olds--are 
+vaping.
+  The numbers are growing, and you wonder why. The people in the vaping 
+industry know how to target kids. They target them with flavors that 
+are designed just for kids--Razzleberry, Gummy Bears, Bubble Gum, 
+Unicorn Milk. How many 50-year-old chain smokers can't wait to get 
+Unicorn Milk flavoring for their vaping devices? It is all about kids. 
+The vaping industry, despite all of its public denials, has targeted 
+these kids and has, effectively, recruited our children to be the next 
+generation of vaporers for life.
+  How much nicotine is in that little vaping device, the one that looks 
+like
+
+[[Page S5550]]
+
+it is a flash drive for your computer? There is an equivalent amount of 
+nicotine in vaping as in a total pack of cigarettes. You get 20 
+cigarettes in one hit on a vaping device. Nicotine is a very addictive 
+chemical. I know from my family experience, and we all know, from those 
+who try for long, long times to quit using tobacco cigarettes, that the 
+nicotine draws them back time and again.
+  This addiction was underway, and I started writing letters, which 
+Senators do. I protested to the Food and Drug Administration, to the 
+Surgeon General, and to anyone else who would listen that this vaping 
+epidemic was dangerous--dangerous for our kids and dangerous for our 
+future. It took the longest time to get their attention. In fact, with 
+those in this new Trump administration, they initially postponed any 
+action against vaping until the year 2022, which would be beyond the 
+President's first term.
+  Well, I went to Dr. Gottlieb, who then was head of the FDA, and said: 
+You can't wait 4 years. You have to do something right now about 
+vaping.
+  He resisted for a while, but then he came around. He held a press 
+conference, and do you know what he called this vaping situation? An 
+epidemic. The head of the Food and Drug Administration, a medical 
+doctor, Dr. Gottlieb, called it an epidemic.
+  So then he left for family reasons, and he had a successor, Dr. Ned 
+Sharpless, Acting Commissioner of the Food and Drug Administration. I 
+appealed to him, saying: Do something. You have the power right now to 
+take all of these children's flavors off of the market for vaping. You 
+could do it today.
+  Secondly, you could ban most of the vaping devices, which have never 
+been approved by the government. He didn't want to do it. He dragged 
+his feet. It went on for months.
+  I will have to say, in all candor and honesty, last week there was a 
+breakthrough. Last week, the Trump administration addressed this issue 
+directly.
+  Last Monday, the Food and Drug Administration said to JUUL, the major 
+manufacturer: Stop making health claims you can't prove. Stop telling 
+people your product is a healthy alternative to tobacco cigarettes. 
+There are no clinical trials. There is no proof, no credible medical 
+study you can point to, to make that claim, so stop saying it.
+  Then, just a couple days later, they went even further, banning the 
+use of these flavors that have enticed children into vaping and e-
+cigarettes. They have announced that probably within 30 days, as their 
+estimate, these are all going to have to come off the market, and in 
+May of next year, the companies that make them can apply to bring them 
+back on the market if they can prove they are good for public health.
+  Well, Senator Lisa Murkowski of Alaska, a Republican, and I have had 
+a bill for several months now on this issue. I thank her for her 
+bipartisan cooperation in this effort. It is great to have her by my 
+side. She is a terrific ally.
+  She and I believe none of these flavors should come back on the 
+market until it is proven they are not dangerous to children and that 
+they in fact do help adults stop smoking and can show positive results. 
+I think that is a hard measure, a hard standard for them to meet, and 
+it should be because the alternative is unacceptable--more children 
+addicted to e-cigarettes and vaping.
+  There may be a place for e-cigarettes at some point in the future. I 
+am not sure where it will be, but as long as they are endangering our 
+children with their products and their flavors, I am going to continue 
+to fight their efforts.
+  I want to say something else. Even in the midst of my battles against 
+Big Tobacco, I still remember what my dad went through when he tried to 
+stop smoking--dying of lung cancer, trying to stop smoking. It was so 
+hard and painful, and I watched him as a young boy and saw the struggle 
+he went through.
+  I have always said we have to show some caring and compassion for the 
+people who were once tobacco users and want to quit, and today we have 
+to show the same level of caring when it comes to all of these high 
+school students--5 million American high school students--who are 
+vaping and using e-cigarettes and should quit. We need to give them a 
+path, a recommendation.
+  I wrote to the Surgeon General last week and asked him to come up 
+with a plan, an educational approach, to allow these young people to 
+get off this nicotine addiction before it is too late.
+  What has happened in the past, sadly, is that many of the high 
+schoolers who were using e-cigarettes didn't quit completely from 
+anything; they moved to tobacco cigarettes with the nicotine they were 
+seeking in a different form.
+  So that is the challenge we face. After years of inaction and a lot 
+of telephone calls and letters and meetings, the Food and Drug 
+Administration has done the right thing. I hope by the end of this 
+year, these flavors will be off the shelf, and I hope the Food and Drug 
+Administration truly enforces what they announced last week.
+  It has been 10 years since Congress gave the Food and Drug 
+Administration the legal authority to regulate all tobacco products, 
+including e-cigarettes. There is no doubt about their legal authority.
+  Last year, 4 million children under the age of 18 were vaping in 
+America. As I mentioned, today the number is 5 million.
+  Over the last 2 years, we have seen a 135-percent increase in 
+America's children using e-cigarettes.
+  Ask any public health official what this means. If we didn't do 
+something, the numbers would continue to grow unchecked. Schools are 
+taking doors off of toilet stalls so kids can't sneak in and use e-
+cigarettes and vape between classes. Some kids are bold enough to try 
+to do it in class.
+  We have now linked e-cigarettes and vaping to over 380 cases of 
+confirmed and severe respiratory illness nationwide. As of last night, 
+in California, the seventh young person has died from vaping.
+  We have 52 confirmed cases and 1 reported death in Illinois, but I 
+can tell you that on Monday morning, one of my friends, a doctor in 
+Chicago, told me in private that he had visited a major hospital, and 
+three young people who had been vaping were hanging on by a thread to 
+life. Kids as young as 15 have been hospitalized.
+  There is no specific device or substance that has been linked to all 
+of these cases, but the one common denominator is e-cigarettes.
+  This nicotine addiction and what it leads to--especially JUUL's 
+devices, which are extraordinarily popular, with the highest levels of 
+nicotine we have seen in products legally sold in America.
+  Nicotine is both toxic and highly addictive. It raises blood 
+pressure, spikes adrenaline, and increases the risk of heart disease. 
+It can have short- and long-term negative health impacts on 
+the developing brain, particularly, including increased risk of 
+addiction, mood disorder, and permanent lowering of impulse control.
+
+  Kids who use e-cigarettes are three times more likely than their 
+peers to transition to traditional tobacco cigarettes, and they, of 
+course, kill almost half a million Americans a year.
+  So that is our problem. That is our challenge.
+  I would add, too, that it is time for us to start taxing this 
+product. For years, I have been sounding the alarm that the vaping 
+industry is following Big Tobacco's playbook when it comes to appealing 
+to our children.
+  I have learned over the years, in all my battles against Big Tobacco, 
+that the single most effective tool to prevent children from starting 
+the use of tobacco cigarettes is to price it out of their range.
+  That is why we passed cigarette taxes years ago--and many States and 
+localities followed suit--and why later this week I will be introducing 
+the Tobacco Tax Equity Act. This legislation will establish the first 
+Federal e-cigarette tax. It will close loopholes exploited by Big 
+Tobacco to avoid the taxes, and it will double the Federal Government 
+tax rate and peg it to inflation so it remains an effective public 
+health tool in the future.
+  Studies have shown that even a 10-percent tax lowers tobacco use by 
+as much as 5 percent. The Surgeon General and World Health Organization 
+have called it the most effective way to reduce tobacco use. I think 
+the same will be true for e-cigarettes.
+  The FDA's flavor ban announcement was an important first step. Now we 
+need to make sure the ban is implemented quickly and that it is 
+enforced strictly.
+
+[[Page S5551]]
+
+  We need the FDA to better regulate e-cigarette devices, many of which 
+are easily tampered with and being used in conjunction with adulterated 
+and counterfeit products.
+  We need the Surgeon General to come up with a plan to help the 
+millions of kids who are now addicted, and we need to start taxing e-
+cigarette companies who have created today's youth vaping epidemic.
+  A movie we have seen before of Big Tobacco exploiting kids, finally--
+finally--resulted in public action against those tobacco companies, and 
+the rate of teen tobacco cigarette smoking went down dramatically. 
+Let's not sit through that same movie again.
+  When it comes to vaping and e-cigarettes, let's move quickly to 
+protect our children.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+```
