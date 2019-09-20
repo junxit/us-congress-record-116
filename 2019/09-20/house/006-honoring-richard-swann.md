@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-09-20-pt1-PgH7839-6
+date: 2019-09-20
+edition: CREC
+section: HOUSE
+page: H7839
+citation: 165 Cong. Rec. H7839
+---
+
+# HONORING RICHARD SWANN
+
+**Speaking:** Murphy, Stephanie N. (M001202) [D-FL]
+
+```
+                         HONORING RICHARD SWANN
+
+  (Mrs. MURPHY of Florida asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. MURPHY of Florida. Madam Speaker, I rise to honor the 
+extraordinary life and enduring legacy of Richard Swann, a constituent 
+of mine who recently passed away.
+  Richard's life was overflowing with action and accomplishment, trial 
+and triumph, and above all, family and friendship. Richard lost his 
+childhood sweetheart and beloved wife, Doris, too young, but he poured 
+his energy into his work, into his 4 children and 12 grandchildren, and 
+into his large and loyal network of friends.
+  Richard was a wise lawyer, a farsighted businessman, a real estate 
+developer, and an influential player at the highest levels of American 
+and Florida politics. Richard was a proud Orlando native and foresaw 
+the city's potential before nearly anybody else. Richard did as much as 
+any man to transform Orlando into the wonderful place it is today.
+  Richard was best known as a champion of the political causes and 
+candidates he cared about. He was committed to the concept of 
+responsible and engaged citizenship.
+  At the service celebrating Richard's life, his granddaughter Caroline 
+read an excerpt from Teddy Roosevelt's speech, ``The Man in the 
+Arena.'' Richard never sat on the sidelines. He was always in the 
+arena, striving valiantly and daring greatly.
+  Richard was a pillar of our central Florida community. He will be 
+deeply missed by all of us who had the honor to call him a friend.
+
+                          ____________________
+```
