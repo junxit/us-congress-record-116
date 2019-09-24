@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-09-24-pt1-PgH7872-6
+date: 2019-09-24
+edition: CREC
+section: HOUSE
+page: H7872
+citation: 165 Cong. Rec. H7872
+---
+
+# STUDENTS NEED MORE VIRTUAL APPRENTICESHIP OPPORTUNITIES
+
+**Speaking:** Budd, Ted (B001305) [R-NC]
+
+```
+        STUDENTS NEED MORE VIRTUAL APPRENTICESHIP OPPORTUNITIES
+
+  (Mr. BUDD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BUDD. Mr. Speaker, I rise today to highlight my bill, the Virtual 
+Apprenticeship Tax Credit Act of 2019, which I introduced last week.
+
+[[Page H7873]]
+
+  Despite booming economic growth as a result of the American Tax Cuts 
+and Jobs Act, nearly 7 million jobs in America remain unfilled.
+  Mr. Speaker, I can't tell you how many employers from my district 
+have struggled to find workers with the technical competencies to 
+compete for in-demand, good-paying jobs.
+  So when it comes to workforce development, we need innovative ideas 
+and partnerships between businesses and institutions of higher 
+education. That is why I introduced the Virtual Apprenticeship Tax 
+Credit Act of 2019, which offers a tax credit to employers who invest 
+in the funding of virtual apprenticeship programs. It is my hope this 
+will open more doors for students from all backgrounds.
+  When it comes to learning and workforce development, there shouldn't 
+be a one-size-fits-all approach. Put simply, there needs to be more 
+virtual apprenticeship opportunities for our students.
+
+                          ____________________
+```
