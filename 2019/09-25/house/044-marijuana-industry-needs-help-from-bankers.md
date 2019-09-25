@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-09-25-pt1-PgH7979-4
+date: 2019-09-25
+edition: CREC
+section: HOUSE
+page: H7979
+citation: 165 Cong. Rec. H7979
+---
+
+# MARIJUANA INDUSTRY NEEDS HELP FROM BANKERS
+
+**Speaking:** Horsford, Steven (H001066) [D-NV]
+
+```
+               MARIJUANA INDUSTRY NEEDS HELP FROM BANKERS
+
+  (Mr. HORSFORD asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. HORSFORD. Madam Speaker, I rise today in overwhelming support of 
+the SAFE Banking Act of 2019.
+  Almost 3 years ago, Nevada voters went to the polls and voted to 
+legalize recreational marijuana, making Nevada one of five States to 
+legalize marijuana in the 2016 election.
+  After its legalization, local business owners invested in Nevada's 
+legal cannabis market, creating jobs and opportunity. The Nevada 
+marijuana market quickly exceeded expectations, growing rapidly to 
+become a burgeoning industry.
+  Within 10 months, Nevada also exceeded the initial 1-year projection 
+of tax revenue, bringing in more than $55 million in taxes for our 
+schools, money that would have otherwise flooded the illicit drug 
+market. Today, Nevada raises more revenue from cannabis excise taxes 
+than alcohol excise taxes.
+  Interestingly enough, the marijuana industry did this without 
+incurring vast detriments to society, creating an addiction crisis, or 
+serving as a gateway drug, as marijuana opponents have long argued.
+
+                          ____________________
+```

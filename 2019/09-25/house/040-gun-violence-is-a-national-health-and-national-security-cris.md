@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-09-25-pt1-PgH7978-3
+date: 2019-09-25
+edition: CREC
+section: HOUSE
+page: H7978
+citation: 165 Cong. Rec. H7978
+---
+
+# GUN VIOLENCE IS A NATIONAL HEALTH AND NATIONAL SECURITY CRISIS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                              {time}  1830
+     GUN VIOLENCE IS A NATIONAL HEALTH AND NATIONAL SECURITY CRISIS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, while we mourn those lost in these all-too-
+frequent mass shootings, it is important to remember, while some cities 
+suffer these tragedies occasionally, others suffer them daily.
+  Every year, dozens of my neighbors are victims of shootings across my 
+city. We need to stop looking at guns as simply a Second Amendment 
+issue and address them as a national health and security crisis.
+  Our people are dying, and we have the power to stop it.
+  We have already taken similar actions in other industries when lives 
+are threatened or lost. Automobiles are a safety risk, so we pushed for 
+seatbelts and airbags. Smoking is a health risk, so we banned 
+advertisement and vending machines to protect our children.
+
+[[Page H7979]]
+
+  That is why I am proud to support stricter background checks before a 
+gun purchase and a ban on high-capacity magazines, which should only be 
+available to trained American soldiers.
+  But we must do more.
+  Like me, many Members return to districts where gun violence is all 
+too common and where it is rare to find a family that has not lost a 
+member to this national menace.
+
+                          ____________________
+```

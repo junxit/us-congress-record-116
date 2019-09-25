@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-09-25-pt1-PgH7912-5
+date: 2019-09-25
+edition: CREC
+section: HOUSE
+page: H7912
+citation: 165 Cong. Rec. H7912
+---
+
+# WELCOMING DR. J.D. GREEAR
+
+**Speaking:** Walker, Mark (W000819) [R-NC]
+
+```
+                       WELCOMING DR. J.D. GREEAR
+
+  The SPEAKER pro tempore. Without objection, the gentleman from North 
+Carolina (Mr. Walker) is recognized for 1 minute.
+  There was no objection.
+  Mr. WALKER. Mr. Speaker, you have just heard from a man, J.D. Greear, 
+that I have the distinct privilege of calling my friend.
+  Pastor J.D. Greear leads The Summit Church in Durham, North Carolina. 
+Under Pastor J.D.'s leadership, The Summit Church has gone from 300 
+members to over 10,000, making it one of the fastest growing churches 
+in our country.
+  His vision is to plant 1,000 new churches around the world by the 
+year 2050.
+  He believes the deeper we dive into the extravagant love of Christ, 
+the more our lives will be filled with unquenchable joy, reckless 
+generosity, and audacious faith.
+  Pastor J.D. is the author of several life-transforming books and is 
+the current president of the Southern Baptist Convention.
+  One of his most important accomplishments is his dedication to his 
+wife, Veronica, and their four children.
+  It is an honor to have him here in Washington, D.C., today. He is 
+also the mentor of my pastor, Andrew Hopper.
+  Mr. Speaker, I look forward to his continued work as a father, as a 
+pastor, and as a leader.
+
+                          ____________________
+```

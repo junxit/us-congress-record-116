@@ -1,0 +1,701 @@
+---
+granule: CREC-2019-09-25-pt1-PgS5695-3
+date: 2019-09-25
+edition: CREC
+section: SENATE
+page: S5695
+citation: 165 Cong. Rec. S5695
+---
+
+# CLOTURE MOTION
+
+**Speaking:** Thune, John (T000250) [R-SD], Durbin, Richard J. (D000563) [D-IL], Scott, Rick (S001217) [R-FL], Menendez, Robert (M000639) [D-NJ], Portman, Rob (P000449) [R-OH]
+
+**Measures:** H.R. 549
+
+```
+                             CLOTURE MOTION
+
+  The PRESIDING OFFICER. Pursuant to rule XXII, the Chair lays before 
+the Senate the pending cloture motion, which the clerk will state.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the nomination 
+     of Eugene Scalia, of Virginia, to be Secretary of Labor.
+         Lamar Alexander, Mike Braun, Pat Roberts, John Boozman, 
+           John Thune, Johnny Isakson, Mike Crapo, John Hoeven, 
+           Roger F. Wicker, Mike Rounds, Cory Gardner, Steve 
+           Daines, Tim Scott, Shelley Moore Capito, John Barrasso, 
+           Jerry Moran, Mitch McConnell.
+
+  The PRESIDING OFFICER. By unanimous consent, the mandatory quorum 
+call has been waived.
+  The question is, Is it the sense of the Senate that the debate on the 
+nomination of Eugene Scalia, of Virginia, to
+
+[[Page S5696]]
+
+be Secretary of Labor, shall be brought to a close?
+  The yeas and nays are mandatory under the rule.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. THUNE. The following Senator is necessarily absent: the Senator 
+from Florida (Mr. Rubio).
+  Further, if present and voting, the Senator from Florida (Mr. Rubio) 
+would have voted ``yea.''
+  Mr. DURBIN. I announce that the Senator from Colorado (Mr. Bennet), 
+the Senator from New Jersey (Mr. Booker), the Senator from California 
+(Ms. Harris), the Senator from Vermont (Mr. Sanders), and the Senator 
+from Massachusetts (Ms. Warren) are necessarily absent.
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+desiring to vote?
+  The yeas and nays resulted--yeas 52, nays 42, as follows:
+
+                      [Rollcall Vote No. 309 Ex.]
+
+                                YEAS--52
+
+     Alexander
+     Barrasso
+     Blackburn
+     Blunt
+     Boozman
+     Braun
+     Burr
+     Capito
+     Cassidy
+     Collins
+     Cornyn
+     Cotton
+     Cramer
+     Crapo
+     Cruz
+     Daines
+     Enzi
+     Ernst
+     Fischer
+     Gardner
+     Graham
+     Grassley
+     Hawley
+     Hoeven
+     Hyde-Smith
+     Inhofe
+     Isakson
+     Johnson
+     Kennedy
+     Lankford
+     Lee
+     McConnell
+     McSally
+     Moran
+     Murkowski
+     Paul
+     Perdue
+     Portman
+     Risch
+     Roberts
+     Romney
+     Rounds
+     Sasse
+     Scott (FL)
+     Scott (SC)
+     Shelby
+     Sullivan
+     Thune
+     Tillis
+     Toomey
+     Wicker
+     Young
+
+                                NAYS--42
+
+     Baldwin
+     Blumenthal
+     Brown
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Coons
+     Cortez Masto
+     Duckworth
+     Durbin
+     Feinstein
+     Gillibrand
+     Hassan
+     Heinrich
+     Hirono
+     Jones
+     Kaine
+     King
+     Klobuchar
+     Leahy
+     Manchin
+     Markey
+     Menendez
+     Merkley
+     Murphy
+     Murray
+     Peters
+     Reed
+     Rosen
+     Schatz
+     Schumer
+     Shaheen
+     Sinema
+     Smith
+     Stabenow
+     Tester
+     Udall
+     Van Hollen
+     Warner
+     Whitehouse
+     Wyden
+
+                             NOT VOTING--6
+
+     Bennet
+     Booker
+     Harris
+     Rubio
+     Sanders
+     Warren
+  The PRESIDING OFFICER. The Senator from Florida.
+
+
+                  Unanimous Consent Request--H.R. 549
+
+  Mr. SCOTT of Florida. Mr. President, I rise to speak about my 
+amendment to H.R. 549, which grants temporary protected status, or TPS, 
+for Venezuelans from Nicolas Maduro's oppressive regime and reforms the 
+broken TPS program.
+  I would like to thank my friends, Senator Marco Rubio and Congressman 
+Mario Diaz-Balart, who have been tireless advocates for the Venezuelan 
+people as we fight for freedom in Latin America and across the globe. I 
+am proud to have worked with Senator Rubio, along with my colleague 
+from Utah, Senator Lee, and other Republican Senators to offer 
+protection for the Venezuelan people while making necessary reforms to 
+TPS.
+  The crisis in Venezuela is a defining human rights issue of our time. 
+Maduro is starving his own people, and innocent children are dying. 
+What is happening in Venezuela is pure genocide. We have to act, but we 
+also need to be responsible. The courts have basically made a temporary 
+program permanent, which is not sustainable.
+  My amendment protects the vulnerable Venezuelan population while 
+making sure that human rights violators are clearly identified as 
+ineligible to come to the United States. My bill grants TPS for 
+Venezuelans right now.
+  The amendment also makes much-needed reforms to our TPS program. The 
+amendment grants TPS to Venezuelans for 18 months. It requires 
+congressional approval for TPS extensions, no more than 18 months at a 
+time. My amendment limits the ability of illegal aliens with no 
+connection to the TPS designation to benefit from TPS. It ensures that 
+human rights violators identified under the Magnitsky Act are not 
+eligible for TPS status. It includes provisions to distinguish that TPS 
+status does not count as admission for purposes of the Immigration and 
+Nationality Act. Under my amendment, TPS recipients cannot return to 
+the TPS country during the period of designation. And finally, the 
+amendment requires that current TPS designations will come up for 
+congressional review 2 years after the enactment of this amendment.
+  We want those seeking refuge from war and oppressive regimes to have 
+a safe haven in our country, but we need a system that works and that 
+is truly temporary.
+  I am honored to work with my colleagues to get something done today 
+to help Venezuelan families and to make some much-needed changes to our 
+broken system.
+  Mr. President, I ask unanimous consent to address the Senate in 
+Spanish.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  (English translation of the statement made Spanish is as follows:)
+  Mr. SCOTT of Florida. We need TPS now. I stand with the people of 
+Venezuela, and I will continue to fight for freedom and democracy in 
+Latin America. It is time for Maduro and his thugs to leave power.
+  Mr. President, as in legislative session, I ask unanimous consent 
+that the Judiciary Committee be discharged from further consideration 
+and the Senate proceed to the immediate consideration of H.R. 549. I 
+ask unanimous consent that the Scott of Florida amendment be agreed to 
+and that the bill, as amended, be considered read a third time and 
+passed, and that the motions to reconsider be considered made and laid 
+upon the table.
+  The PRESIDING OFFICER. Is there objection?
+  The Senator from New Jersey.
+  Mr. MENENDEZ. Mr. President, reserving the right to object, every 
+Member of the Senate knows that Venezuela's illegitimate dictator, 
+Nicolas Maduro, has created an unprecedented and harrowing humanitarian 
+crisis in that country. Extreme food and medicine shortages, widespread 
+criminal violence, and brutal state-sponsored repression have forced 
+more than 4.3 million Venezuelans to flee their homeland. This number 
+could be 8 million by the end of next year.
+  As Venezuelans flee their country, it is time for the United States 
+to place itself fully on the side of the Venezuelan people.
+  Unfortunately, just this week we have seen news stories about the 
+Trump administration deporting Venezuelans from Florida. It is 
+unconscionable that anyone would be sent back to the catastrophic 
+humanitarian conditions that exist in Venezuela. That is why, in 
+February of this year, Senator Durbin and I, along with Senators Rubio, 
+Leahy, and Booker, introduced bipartisan legislation to provide TPS to 
+Venezuelans living here in the United States. The House of 
+Representatives has already passed a version of this bill back in July, 
+with support from dozens of Republican Members.
+  However, rather than providing TPS for vulnerable Venezuelans in the 
+United States, the junior Senator from Florida has brought up an 
+amendment that seeks to overhaul existing TPS statute and make it 
+easier for the Trump administration to strip status from vulnerable 
+migrants who are legally in the United States.
+  Respectfully, the suggestions that the courts have made it impossible 
+to end any TPS is just not based in fact. This debate is not about 
+watering down our immigration laws. It is about using the laws that we 
+have right now to provide protection to Venezuelans so that we can 
+ensure that the Trump administration doesn't deport them back to the 
+nightmare they fled.
+  While I join the Senator in the same goal, it is unfortunate that the 
+Senator from Florida would prefer to pass legislation that advances the 
+administration's immigration agenda rather than help the Venezuelan 
+people--something we all agree about.
+  As a matter of fact, we don't even really need congressional action 
+because the President has the right to give temporary protected status 
+to the Venezuelans living in the United States and he doesn't need an 
+act of Congress to do that. He has failed to do that. It is in that 
+failure that the House of Representatives acted to try to create a 
+legislative response.
+  For all these reasons, I object to the unanimous consent request of 
+the Senator from Florida.
+  The PRESIDING OFFICER. Objection is heard.
+  Mr. MENENDEZ. Since the Senator from Florida and I do agree on the 
+need to provide TPS for Venezuelans, as in legislative session, I ask 
+unanimous consent that the Judiciary Committee
+
+[[Page S5697]]
+
+be discharged from further consideration of H.R. 549, the bill that has 
+already passed in the House, and the Senate proceed to its immediate 
+consideration; further, that the bill be considered read a third time 
+and passed, and the motion to reconsider be considered made and laid 
+upon the table with no intervening action or debate.
+  The PRESIDING OFFICER. Is there objection?
+  The PRESIDING OFFICER. The Senator from Florida.
+  Mr. SCOTT of Florida. Reserving the right to object, I object on half 
+of my colleague, Senator Rand Paul.
+  What I propose is a bill that grants TPS to Venezuelans right now. It 
+also makes much-needed reforms to the TPS program and gives Congress 
+real oversight.
+  I am very disappointed that my Democratic colleagues would block this 
+commonsense compromise. Republicans support it. The sponsor of the 
+House-passed bill supports it. I believe the President would sign it. 
+It is clear that the Democrats actually don't want to get something 
+done on this issue. Unfortunately, they decided to use the Venezuelan 
+community as a political prop, instead of working with us to find a 
+solution. I think that is shameful. Even though the Democrats stood up 
+and blocked TPS for Venezuelans today, I will never stop fighting to 
+support the Venezuelan community here.
+  My amendment is a solution that can be passed by Congress and signed 
+into law by the President. I hope my colleagues on both sides of the 
+aisle will help us to get this done.
+  We cannot lose sight of the fact that Nicolas Maduro is killing his 
+citizens. It is genocide. Every passing day, the situation on the 
+ground grows worse. Hundreds of thousands of Venezuelans are fleeing 
+the violence and starvation of Maduro's socialist regime, and they need 
+our help.
+  While extending TPS to Venezuelans is the right move, the United 
+States and freedom-loving nations around the world need to do 
+everything in our power to isolate Maduro in Venezuela and cut off the 
+supply of money from Cuba to Caracas.
+  It is time to help Venezuelan families. It is time to get TPS reform 
+done in this country. Temporary protected status was never meant to be 
+endless. It was meant to help families in need. We need to get this 
+program to work. We need to get TPS for Venezuelans today.
+  I look forward to working with all my colleagues to help all the 
+families in Venezuela and finally get a real long-term solution to TPS.
+  The PRESIDING OFFICER. Objection is heard.
+  The Senator from New Jersey.
+  Mr. MENENDEZ. Mr. President, very briefly, I regret that my colleague 
+has gone down the road of questioning political motives here.
+  The reality is, in a bipartisan way, the Senator from Florida joined 
+with us in February of this year to provide legislation that would 
+provide TPS for Venezuelans and the United States. The House of 
+Representatives, which has a Democratic majority--and he mentions the 
+Democrats--passed a version of this bill in July of this year with the 
+support from dozens of Republican Members, a bipartisan effort in the 
+House of Representatives.
+  At the end of the day, it doesn't take undermining TPS--dramatically 
+changing TPS--in order to give Venezuelans temporary protected status. 
+That is something the President could do without having the House of 
+Representatives or the Senate act, but he has chosen not to. There are 
+those who want to try to create an excuse for the President, but he has 
+chosen not to do it, No. 1.
+  No. 2, the reality is, if we wanted to create TPS for Venezuelans, we 
+could immediately do that right now by accepting my unanimous consent 
+request because the House of Representatives passed it with broad, 
+bipartisan support. We could do it right now. It would be on the way to 
+the President, and then, of course, he would have to sign the 
+legislation even though he could do it on his own right now.
+  I hope we can work toward the goal of actually giving the Venezuelans 
+that opportunity who are living in the United States and seeking refuge 
+from the violence, from the chaos that is Venezuela, but I am not ready 
+to undermine all of the temporary protected status in order to do that.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Ohio.
+
+
+                           Retirement Policy
+
+  Mr. PORTMAN. Mr. President, I am on the floor tonight to talk about 
+retirement security, which is something everybody cares about. Who 
+doesn't want peace of mind in retirement?
+  When I am back home, I hear about it all of the time, partly because 
+a lot of people are worried about the costs they are going to have in 
+retirement, including long-term care costs. A lot of people are seeing 
+their parents and their grandparents living longer, healthier lives; 
+yet they do not have their retirement nest eggs in order to keep up. So 
+we need to do something to help on that.
+  Social Security is there as the safety net. It used to always be 
+there, but that is what it is, just a base amount: $1,200 a month. It 
+is not very much, but it is the average for some folks in my home State 
+of Ohio. You have to have a private retirement savings that adds to 
+that, and that can mean the savings you have in your bank account. The 
+best way to do it is through a 401(k) account at your work where the 
+employer, hopefully, puts a match in. So it is a good deal for you 
+because you put money in, and your employer puts money in, and you get 
+to have a tax deduction for it. Even if you are not at work, you can 
+take an individual IRA. With the IRA, it is the same thing wherein you 
+get a tax deduction. That is good. Some companies have the defined 
+benefit plan. That is the old pension plan. That is great if you have 
+one. Not as many workers do anymore, but we want to preserve those that 
+are left. For those who are Federal Government employees, they do have 
+the Federal employees' pension plan, which works for them.
+  All of this together is incredibly important right now for the people 
+I represent, and people are worried about it.
+  Some of the statistics are actually pretty scary of a lot of people 
+who work for small businesses who don't have access to plans 
+altogether. They just don't have any opportunity to get retirement 
+savings plans. As an example, about 50 percent of the workers in these 
+small businesses are in that category. Over time, we have tried to 
+address some of these issues. Right now, fortunately, the U.S. Senate 
+has a few bills that it could take up that would actually help in that.
+  I have been working on this issue for a number of years--actually, 
+about 20 years--going back to my days in the House with now-Senator Ben 
+Cardin. We passed legislation to expand how much you can put into a 
+retirement account--a 401(k), an IRA. We increased the amount. There 
+are the catchup contributions that some people are familiar with. There 
+is also what is called auto enrollment, whereby companies automatically 
+enroll you unless you choose not to enroll, which helps to get the 
+participation rate way up, from about 75 percent up to 95 percent.
+  We have done some things that have helped, and because of that, I 
+know that, if you provide more incentives for retirement, it works 
+because it worked back in 2001. In fact, if you look at what has 
+happened since then, total retirement savings have increased from about 
+$11 trillion to about $29 trillion since 2001. By the way, this means 
+there are more resources available in our economy because there are 
+more savings, and savings are good things for investment. There is a 
+higher GDP--higher economic growth--greater access to capital for small 
+businesses and so on. So this has worked.
+  By the way, these retirement nest eggs have increased among every 
+income quintile since 2001 when you adjust it for inflation. It is not 
+just the people at the higher end or even in the middle; it is people 
+who are of low income, middle low, middle income, and higher income who 
+have all benefited from this. As I said, we have a lot more to do 
+because, even with that Social Security, which is a safety net, it is 
+really tough to live on that. People are not saving enough through 
+their private savings and their retirement plans.
+  We need to finish the work that we started. We also need to fix some 
+outdated regulations that just don't make sense in today's world. I am 
+chair of
+
+[[Page S5698]]
+
+what is called the subcommittee on retirement within the Committee on 
+Finance. We are working on these proposals on a bipartisan basis, and 
+we are making some progress. I am going to tell you about some of those 
+bills now.
+  One bill is before the Senate right now in the sense that it has 
+already passed the House. It is called the SECURE Act. One is a larger 
+bill that does more than the SECURE Act that has been introduced by 
+Senator Cardin and me. Then there is a small provision I want to 
+mention tonight that has been introduced separately, which is also in 
+the SECURE Act. It is an urgent thing to pass because there are a bunch 
+of people who are going to lose their retirement benefits unless we 
+pass it very soon. Let me back up and give you some of the troubling 
+facts about why we need to do something here.
+  First of all, fewer than half of the employees who are, again, at 
+small businesses--businesses with fewer than 50 workers--have access to 
+plans. The problem is really in our smaller businesses, and we know 
+that. Larger business all tend to have 401(k)s. Many have defined 
+contribution plans like a 401(k), and others have defined benefit plans 
+like pensions. They tend to have retirement options for workers, but 
+many of the small businesses do not. Even when workers have access to 
+plans, there are still only 34 percent who participate.
+  Amongst small businesses, there are fewer plans than there should be, 
+but there are also fewer people participating. Only 22 percent of part-
+time workers are in plans. Now, increasingly in our economy, people 
+have part-time jobs or may have a few part-time jobs, but they don't 
+have retirement plans in any of them.
+  By the way, when you look at this in terms of the folks who are not 
+participating, low-income Americans are also not participating as you 
+would want. Only 22 percent of low-income families are participating in 
+retirement plans. Many of them don't have the disposable income to be 
+able to contribute, and we will talk about that in a second as to how 
+to address that problem.
+
+  The final problem I want to mention does not have to do with the 
+small businesses or part-time workers or low-income workers. It has to 
+do with what we talked about at the beginning, which is people who 
+outlive their retirements. Let's face it. We are living longer and 
+healthier lives as Americans, and that is a good thing, but a lot of 
+people didn't or couldn't plan for that. They may have thought, I have 
+a nice, little nest egg here, and I have a 401(k), and I am going to 
+retire at age 65. Yet, when they are in their late eighties or 
+nineties, they realize there just wasn't enough set aside. Here is an 
+opportunity for us to address that as well.
+  Earlier this year, Senator Cardin and I introduced legislation called 
+the Retirement Security and Savings Act, and it addresses all of these 
+problems that I mentioned. It has more than 50 reforms, actually, to 
+help Americans achieve this goal of safe, secure retirements--peace of 
+mind--after their working for years and letting people retire with 
+dignity. It has a few important provisions that I want to mention 
+tonight. I won't go into all 50, but I will mention some of them.
+  First, to increase this low 22-percent coverage among low-income 
+workers, it expands what is called the saver's credit. This has worked 
+well, but it is not refundable now, which means, for a lot of people 
+who are of low income, they can't take advantage of it because they 
+don't have the income tax liability, particularly with the new tax 
+bill, frankly. For a lot of people, it has actually lowered taxes so 
+that they don't have the ability to take a deduction, but they can use 
+a credit. We changed the saver's credit to expand it so that it is more 
+usable, and we make it refundable. We don't make it refundable to 
+individuals but, rather, refundable to a retirement account because you 
+don't want to just provide more funding out there that is not going to 
+be used for this correct purpose of retirement. It has to go into your 
+retirement account. In addition, it increases the credit amount so as 
+to be available to a lot of low-income savers. This is really going to 
+help get people to be able to save for retirement, again, who are 
+working but who are not saving.
+  The bill also addresses the problem of only 22 percent of part-time 
+workers being in plans. It requires employers to allow part-time 
+workers who have completed 2 years of service to participate in 401(k) 
+plans. This is a big deal to the AARP, as an example, and it is one 
+reason it is strongly supporting this bill. By the way, this is also 
+being supported by a whole group of businesses, nonprofits, and others. 
+People love this bill because it is going to help people to save for 
+retirement. What is not to like there? Particularly with regard to 
+part-time workers, our saying, ``if you have completed 2 years of 
+service, you need to have access to a 401(k) plan,'' it is going to 
+help.
+  It also allows employers to make matching contributions to the 401(k) 
+accounts of employees who are paying off student loans who otherwise 
+wouldn't receive a full match. Why? It is that they have to choose 
+between paying down the student loan debt they have and saving for 
+retirement. I really like this idea. It is an innovative one. It was 
+first proposed by Senator Ron Wyden, by the way, who is the ranking 
+Democrat on the Committee on Finance.
+  I think this will really help the people who are, again, going into 
+the workforce. They have these student loans. They have to pay off that 
+debt, but they can't afford to put money into 401(k)s. This enables 
+them to put that money into the match, and it helps to get them started 
+on retirement. On average, the student loan debt now for someone who 
+comes out of one of our 4-year colleges or universities is $27,000. 
+That makes it tough for a lot of people to get started in life.
+  To get at this problem, we talked about a few small businesses having 
+plans. Portman-Cardin increases the tax credit that small businesses 
+receive for one's starting a retirement plan. It is $500 now, and we 
+take it up to $5,000. That is a tenfold increase that will really help 
+small businesses, we are told. This is why they support the bill.
+  It also provides an innovative tax credit idea. Small businesses will 
+get a tax credit if they automatically enroll their employees in the 
+plans at least every 3 years. What does this mean? We talked about auto 
+enrollment earlier and that, if you have auto enrollment in your 
+company, your participation rate goes up to 95 percent from about 75 
+percent. Why? It is that people come into the workforce and might not 
+sign up for a 401(k), but if they are automatically signed up, they are 
+not going to say no, right? This way, they will start to get a little 
+of the payroll taxes and a little of their paychecks going toward 
+retirement. They will find out that this works. They will start their 
+nest eggs, and they will like them, so they will stick with them.
+  It is the same thing here. If at least every 3 years you have to 
+automatically enroll your employees, what will happen? You will get 
+people into these plans, and they will stay in these plans. This is 
+going to be a big deal in small businesses, and we think it is worth 
+giving them a tax credit for it. It is kind of an innovative idea.
+  For small businesses, our bill also reduces some of the burdensome 
+and duplicative regulations that are associated with administering the 
+plan because, for a lot of small businesses, they don't have lawyers or 
+general counsel; they don't have professionals who can help on this. 
+Yet the HR people would sure like to have the ease of the 
+administration of these plans. So we do that, which is important in 
+order to get more of these small businesses to offer these plans.
+  We also address the problem we have talked about with Americans 
+living longer and healthier lives and being in danger of outliving 
+their retirements. For those who are following this closely because 
+they are getting close to retirement, they should pay attention here 
+because this could be helpful. To help the folks who have accumulated 
+retirement savings preserve those nest eggs--to help to preserve your 
+hard-earned nest eggs--the bill actually changes what is called the 
+required minimum distribution rules.
+  If you are in your late sixties or maybe turning 70, you may be 
+shocked to have just found out that--guess what--you have to start 
+distributing money out of the 401(k) that you have or the IRA that you 
+have under what is call the required minimum distribution rules.
+
+[[Page S5699]]
+
+  My dad was a little surprised by that because he was still working at 
+age 70\1/2\ when you have to start doing that.
+  By the way, a lot of people back home are still working at age 70\1/
+2\, and they want to keep their retirement nest egg there. They want to 
+keep building it up because they hope they are going to live a long 
+life, and they want make sure they have something in there, but 
+instead, no, when you are 70\1/2\, you have to start taking it out and 
+paying taxes on it.
+  So we changed that from 70\1/2\ to 75. We do it over a few years 
+because it is an expensive provision, frankly, in this bill, but we pay 
+for it through other means. The idea is you want to let people keep 
+that money in their nest egg. By the way, if your nest egg is $100,000 
+or less, there is no minimum required distribution anymore under our 
+bill.
+  So for people who, again, are 70\1/2\ and are wondering, ``Why do I 
+have to start taking this money out? I have 65,000 bucks I have saved 
+up all these years, and I am still working,'' or ``I don't need to take 
+it out for retirement,'' let them keep it in that plan. If there is 
+under 100,000 bucks in your account, keep it in going forward forever. 
+If you have more than 100,000 bucks in there, then for that additional 
+amount, you don't have to start taking it out until you are 75, under 
+our bill.
+  So this is going to really help the people to ensure that they can 
+set aside money for retirement, and they know it is going to be there 
+when they need it.
+  Our new Portman-Cardin retirement legislation has the potential to 
+fundamentally reshape for the better how large numbers of Americans 
+approach their retirement planning, and that is a good thing. I look 
+forward to getting it passed through the Finance Committee and sent to 
+the Senate floor for a vote.
+  As I said earlier, even before we can get this broader package done, 
+we have a smaller bill that is sitting here in the Senate. It has 
+already passed the House. It is called the SECURE Act. It actually 
+passed the House almost unanimously--417 to 3. That rarely happens, and 
+that shows you the kind of bipartisan support it has. It is not as 
+comprehensive as the bill I just talked about, but it does have some 
+good provisions.
+  It has that increase in the small employer tax credit, for instance, 
+we talked about. It also raises this minimum required distribution to 
+age 72--from 70\1/2\ to 72--which is good. It doesn't go to 75, and it 
+doesn't have the $100,000 improvement we have, but it does help. It 
+also helps long-term part-time workers contribute to 401(k)s, which is 
+good.
+  So we go further in our bill, but this SECURE Act is a good step in 
+the right direction. I support it. I support bringing it up and passing 
+it. It already passed the House.
+  I do think we ought to allow a couple of amendments on each side 
+because this SECURE Act that passed the House has not been voted on, on 
+this floor before. It came out of our committee back in 2016, I 
+believe, so it has been a while. There hasn't been any debate on it or 
+deliberation. Why not allow a few amendments on it on each side?
+  Democrats probably have a few amendments they would like to offer. 
+Republicans have a few they would like to offer. The point is, let's 
+get that bill up and get it passed.
+  Then there is this final bill I was talking about. It is part of the 
+SECURE Act, which is on the floor right now ready to go. It has also 
+been introduced separately, and this is to address an urgent problem 
+right now that is affecting over 450,000 Americans.
+  Now, it gets a little complicated here, as retirement plans do 
+sometimes. These are people who are in these defined benefit plans, 
+pension plans, and they are in businesses that have shifted from a 
+defined benefit plan to a defined contribution like a 401(k). These are 
+businesses that have said: We are not going to have an additional 
+pension anymore. We are going to go to a 401(k) where individuals 
+contribute and individuals control their account.
+  Now, what happened in some of these businesses is they said: But if 
+you are already in a defined benefit plan, you can stay in. We are 
+going to freeze your plan going forward so new employees can't go into 
+it, but you can stay in your plan, and I think that is fair. Let people 
+who are in the plan who have paid in all these years continue to stay 
+in that defined benefit plan as they retire.
+  The problem is, inadvertently, the rules with regard to pensions are 
+tripping these people up because there is something called the 
+nondiscrimination income testing. In other words, you can't have too 
+many of the benefits go, in a defined benefit plan, to people who are 
+more on the high end of income. It has to be spread out.
+  Well, think about it. The people who are left in these plans are 
+people who are older because the new employees have had to go to the 
+defined contribution plan. So it is an older group of employees and, 
+therefore, more highly compensated because they have been given raises 
+over time, so they trigger this nondiscrimination income testing, and 
+they lose their benefits. They can't continue to accrue benefits.
+  That is just wrong. These are people who have played by the rules, 
+done everything right. Through no fault of their own but through this 
+quirky regulation, which was never meant to address this kind of an 
+issue, they are facing the very real possibility--450,000-plus people--
+that they are going to lose their benefits through no fault of their 
+own. They should be able to continue to accrue benefits and get this 
+retirement plan they have worked so hard to be able to enjoy. Nobody 
+really disagrees.
+  Again, it is in the SECURE Act. We have introduced it separately. 
+Around here you run what is called a hotline with your fellow Senators 
+to see if anybody objects to this if it is a noncontroversial piece of 
+legislation.
+  So we did that with this, and, guess what, this legislation was 
+approved by everybody on the Republican side. Nobody had a problem with 
+it. Again, it is just a question of being sure these flawed rules 
+aren't inadvertently hurting these 450,000 Americans.
+  Then we ran the hotline on the Democratic side, and it was also very 
+popular over there, but at least one person objected--maybe more but at 
+least one.
+  So we are trying to work on this together to try to get it done. We 
+found out the objection is not based on the legislation at all. No one 
+has any problem with the legislation. It is based on their interest in 
+not allowing anything that is in the SECURE Act to be done separately 
+because they want to be sure the SECURE Act gets done. I want to be 
+sure the SECURE Act gets done too. It is an important bill. It is the 
+first step in the right direction, as we said, but let's not take it 
+out on these employees. If we don't fix it, then by this yearend, like 
+in the next couple of months here, these people are going to lose their 
+benefits.
+  So my hope is, now that we have tested the waters and found out it is 
+not controversial among my colleagues, let's just bring it up under 
+unanimous consent, get it done, and then let's move on and do the 
+SECURE Act too.
+  So my hope is we will be able to do that. It has been introduced, 
+again, as a standalone bill. So it is not like it is the other parts of 
+the SECURE Act that are only in the SECURE Act. It is standalone so it 
+shouldn't violate anybody's sense of fairness to say: Let's deal with 
+this separately and get it done.
+  I thank Chairman Chuck Grassley and Ranking Member Wyden for helping 
+on this because they have been supportive of the SECURE Act, they have 
+been supportive of dealing with this quirk in the law that deals with 
+these 450,000 people who are going to lose their benefits, and they 
+have been supportive of us doing this broader retirement savings 
+package as well.
+  I hope we can get them done. Let's do it in order. No. 1, let's get 
+the Retirement Security Preservation Act done. That is the 450,000 
+people, and let's just do that by unanimous consent. Everybody agrees 
+to it.
+  Let's move to the SECURE Act, get that done. Again, that was passed 
+in the House almost unanimously, and then let's move on to this broader 
+Portman-Cardin legislation we talked about tonight. It really deals 
+with these issues of small business coverage. It deals with the issue 
+of low-income workers needing to save more. It deals with the issue of 
+part-time workers having to save more. It deals with this
+
+[[Page S5700]]
+
+issue of being sure that people aren't outliving their retirement 
+savings.
+  Again, of the 50-plus provisions in there, there is a lot that really 
+helps the people I represent back in Ohio and folks all around the 
+country. They deserve us in Congress to be focused on these kinds of 
+issues. This is exactly what people expect us to do here, help them 
+ensure they have peace of mind in their retirement. We are doing all we 
+can to provide the incentives to make that happen.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. PORTMAN. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
