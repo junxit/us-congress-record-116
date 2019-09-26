@@ -1,0 +1,87 @@
+---
+granule: CREC-2019-09-26-pt1-PgH7996-2
+date: 2019-09-26
+edition: CREC
+section: HOUSE
+page: H7996
+citation: 165 Cong. Rec. H7996
+---
+
+# EASTERN HANCOCK HIGH SCHOOL WINS COLTS LEADERSHIP CHALLENGE
+
+**Speaking:** Pence, Greg (P000615) [R-IN]
+
+```
+      EASTERN HANCOCK HIGH SCHOOL WINS COLTS LEADERSHIP CHALLENGE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Indiana (Mr. Pence) for 5 minutes.
+  Mr. PENCE. Madam Speaker, I rise today to recognize the Eastern 
+Hancock High School football team for being one of four Indiana high 
+schools to win the Colts Leadership Challenge.
+  The Colts Leadership Challenge is a competition that encourages high 
+school football teams to host blood drives and encourages donations 
+throughout the summer.
+  Hundreds of donations are needed each day to meet the needs of the 
+Versiti Blood Center of Indiana. We are so proud of the Royals for 
+helping to deliver these critical, lifesaving measures.
+  I want to thank the Eastern Hancock High School football team for 
+their outstanding service to the community and to the State of Indiana. 
+Well done.
+
+
+    Recognizing Bec Wicker's Women In Agriculture Achievement Award
+
+  Mr. PENCE. Madam Speaker, I want to recognize Rush County resident 
+Bec Wicker, who was recently awarded the Women in Agriculture 
+Achievement Award. The annual award recognizes Indiana women who have 
+contributed significantly to the success of Indiana agriculture.
+  Bec joined Wicker Farms in 1976 and has since built a dairy milking 
+operation, a calf and cow operation, and produces corn, soybeans, 
+wheat, alfalfa, and hay.
+  I thank Mrs. Bec Wicker for her outstanding contributions and support 
+for the agriculture community.
+
+
+  Farmers In Indiana's Sixth District Receive Hoosier Homestead Award
+
+  Mr. PENCE. Madam Speaker, I want to recognize the outstanding 
+achievement of 27 family farms in Indiana's Sixth Congressional 
+District.
+  The Hoosier Homestead Award is given out by the Indiana State 
+Department of Agriculture to family farms that have been farming for 
+over 100 years, 150 years, and 200 years. I am proud that, in my 
+district alone, 15 family farms earned the Hoosier Homestead centennial 
+award, 8 earned the sesquicentennial award, and 4 earned the 
+bicentennial award.
+  Future generations of Hoosier farmers can look up to these family 
+farms and know that hard work and dedication pays off.
+  Congratulations to all of these families for earning the recognition 
+as a Hoosier homestead.
+
+
+                   Indiana's Beirut Memorial Monument
+
+  Mr. PENCE. Madam Speaker, this weekend, I joined my fellow veterans 
+and Gold Star families in dedicating the Beirut Memorial monument to 
+Hoosiers killed in the terrorist attack in Beirut, Lebanon, on October 
+23, 1983.
+  As a Beirut veteran myself, I understand that our first duty is to 
+remember. I am proud that Indiana now has our own memorial to 
+commemorate the Indiana servicemen who sacrificed their lives in the 
+name of peace, and we will never forget:
+  James Baynard, USMC
+  Danny Estes, USMC
+  Michael Gorchinski, USN
+  Maurice Hukill, USMC
+  George McVicker, USN; and
+  Thomas Thorstad, USMC.
+  Madam Speaker, I will always be faithful.
+  Semper fi.
+
+[[Page H7997]]
+
+  
+
+                          ____________________
+```

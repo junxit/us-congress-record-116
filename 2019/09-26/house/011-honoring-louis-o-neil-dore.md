@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-09-26-pt1-PgH7995-3
+date: 2019-09-26
+edition: CREC
+section: HOUSE
+page: H7995
+citation: 165 Cong. Rec. H7995
+---
+
+# HONORING LOUIS O'NEIL DORE
+
+**Speaking:** Cunningham, Joe (C001122) [D-SC]
+
+```
+                       HONORING LOUIS O'NEIL DORE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+South Carolina (Mr. Cunningham) for 5 minutes.
+  Mr. CUNNINGHAM. Madam Speaker, I rise today to honor the brilliant 
+life of Louis O'Neil Dore.
+  Dore was everything the Lowcountry could ask for in a hometown hero. 
+Born in Beaufort in 1945, he attended Morehouse College and worked 
+three jobs to put himself through college. After graduating, he 
+returned home to teach high school and helped guide the desegregation 
+of Beaufort's school system. He eventually obtained his law degree at 
+the University of Georgia, where he was one of only four Black 
+Americans in his class.
+  Dore was a tireless advocate for civil rights and a champion of 
+voting rights, education, and improved health standards for the people 
+of the Lowcountry. Dore served as the legal officer for the Beaufort-
+Jasper-Hampton Comprehensive Health Services, fighting for the rights 
+of Black doctors to treat patients in Beaufort and Jasper Counties.
+  As chairman of the South Carolina Board of Education, Dore worked 
+with leaders and legislators to pass the Education Improvement Act of 
+1984, which is considered some of the most comprehensive education 
+reform legislation of its time.
+  Throughout the course of his life, Dore would return home to Beaufort 
+to break historic ground, including becoming the first Black lawyer to 
+be named partner at a South Carolina firm.
+  I know that I speak for the entire State when I say that Louis Dore 
+is one of the greats, and we are honored that he shaped our history.
+
+                          ____________________
+```

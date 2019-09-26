@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-09-26-pt1-PgH7998-3
+date: 2019-09-26
+edition: CREC
+section: HOUSE
+page: H7998
+citation: 165 Cong. Rec. H7998
+---
+
+# HELP FOR OUR DAIRY INDUSTRY
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                      HELP FOR OUR DAIRY INDUSTRY
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Mr. Speaker, while our Nation's farmers continue to bear 
+the brunt of the obstruction stopping passage of the USMCA, there is a 
+lot we can do to help our struggling dairy industry.
+  Currently, I am a proud cosponsor of three bills that would do just 
+that and implement the priorities of not just farmers in Pennsylvania's 
+12th Congressional District, but farmers across our Nation.
+  The bipartisan Dairy Pride Act would provide truth in labeling by 
+preventing nondairy products made from nuts, algae, seeds, and plants 
+from using dairy terms.
+  The Whole Milk for Healthy Kids Act of 2019, introduced by 
+Pennsylvania's own G.T. Thompson, would increase consumption of whole 
+milk in our schools, allowing children to reap the taste and 
+nutritional benefits of whole milk, and is a win-win for both children 
+and dairy producers alike.
+  In addition, the School Milk Nutrition Act of 2019, also sponsored by 
+Congressman Thompson, would roll back another bad policy from the Obama 
+years and would codify that schools may offer flavored low-fat milk in 
+the National School Lunch Program.
+  Mr. Speaker, if Democrat leaders will not bring up the USMCA for a 
+vote and help our dairy farmers by doing things like eliminating 
+Canada's Class 7 milk, then we should act to find other ways to solve 
+these problems for our dairy farmers. These are three bills that are a 
+great start.
+
+                          ____________________
+```
