@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-09-27-pt1-PgH8076-2
+date: 2019-09-27
+edition: CREC
+section: HOUSE
+page: H8076
+citation: 165 Cong. Rec. H8076
+---
+
+# BUS DRIVER SAFETY AND SECURITY MONTH
+
+**Speaking:** Tipton, Scott R. (T000470) [R-CO]
+
+```
+                  BUS DRIVER SAFETY AND SECURITY MONTH
+
+  (Mr. TIPTON asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TIPTON. Madam Speaker, I rise today to invite my colleagues to 
+join my call designating September 2019 as School Bus Safety and 
+Security Month.
+  Earlier this month, I introduced a resolution to honor and show my 
+appreciation to the more than half a million school bus drivers across 
+the country.
+  Over 26 million children rely on public school transportation to get 
+them safely to and from school each year, and September is the perfect 
+month to thank these drivers for keeping our kids safe as they return 
+to school.
+  In rural districts like Colorado's Third Congressional District, many 
+of these drivers find themselves driving great distances facing 
+inclement weather, wildlife, and other hazards that make driving 
+difficult, yet they work tirelessly to ensure safe transportation of 
+our children.
+  Madam Speaker, I would also like to commend the Child Safety Network 
+for their 30 years of commitment to America's children and promoting 
+this resolution. I am truly appreciative of their advocacy on behalf of 
+school safety, and I thank my colleagues who have joined as cosponsors 
+for this important resolution.
+
+                          ____________________
+```

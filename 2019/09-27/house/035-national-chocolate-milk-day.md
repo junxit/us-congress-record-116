@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-09-27-pt1-PgH8075-4
+date: 2019-09-27
+edition: CREC
+section: HOUSE
+page: H8075
+citation: 165 Cong. Rec. H8075
+---
+
+# NATIONAL CHOCOLATE MILK DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                      NATIONAL CHOCOLATE MILK DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+recognize September 27 as National Chocolate Milk Day. Chocolate milk 
+is adored by millions of Americans nationwide, and it is a favorite 
+among children. Seventy percent of the milk children consume is 
+flavored, with chocolate being the most popular.
+  Why?
+  Because chocolate milk is low in fat, high in nutrients, and packed 
+with flavor.
+  Milk consumption has been declining, however, and when the National 
+School Lunch Program removed the most popular and the most nutritious 
+options from the schools to serve only fat-free milk, the numbers 
+continued to drop. This was partially reversed by the USDA when the 
+decision was made to, once again, allow 1 percent flavored milk back in 
+school lunches.
+  To build on this momentum, I introduced the Whole Milk for Healthy 
+Kids Act earlier this year to once again allow whole milk--both 
+flavored and unflavored--to be offered within the program because 
+children can greatly benefit from the essential nutrients whole milk 
+provides.
+  Madam Speaker, I urge my colleagues to celebrate National Chocolate 
+Milk Day accordingly.
+
+                          ____________________
+```

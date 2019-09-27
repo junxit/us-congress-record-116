@@ -1,0 +1,46 @@
+---
+granule: CREC-2019-09-27-pt1-PgH8075-5
+date: 2019-09-27
+edition: CREC
+section: HOUSE
+page: H8075
+citation: 165 Cong. Rec. H8075
+---
+
+# FRUITLESS INVESTIGATIONS INVOLVING THE PRESIDENT OF THE UNITED STATES
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+ FRUITLESS INVESTIGATIONS INVOLVING THE PRESIDENT OF THE UNITED STATES
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Madam Speaker, I rise to reflect on what could have been 
+accomplished in the past 9 months on this House floor.
+  The list is staggering: border security and illegal immigration 
+reform; lower drug costs and lower premiums and deductibles for 
+families; correcting surprise billing; making the middle class tax cut 
+permanent; passing a robust infrastructure transportation bill; 
+promoting free, fair, and reciprocal trade globally; and passing the 
+United States-Mexico-Canada Agreement and other America-first, but not-
+America-alone, trade agreements, which will grow our domestic industry 
+and agricultural exports.
+  Democrat leadership has, however, wasted the last 9 months focused on
+
+[[Page H8076]]
+
+fruitless investigations aimed at relitigating the 2016 Presidential 
+election. Every one of these investigations has produced the same 
+result: nothing.
+  The majority party has wasted its own time and, much more seriously, 
+the time of the people who sent us here.
+  House Democrats are now grasping at one last desperate effort: an 
+impeachment inquiry over a baseless, secondhand account. This farce, 
+which chooses to push a presumption of guilt where evidence is 
+nonexistent, is nothing short of a constitutional embarrassment for our 
+country.
+  May God continue to bless the United States of America.
+
+                          ____________________
+```
