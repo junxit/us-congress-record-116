@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-10-16-pt1-PgH8151-5
+date: 2019-10-16
+edition: CREC
+section: HOUSE
+page: H8151
+citation: 165 Cong. Rec. H8151
+---
+
+# ATTEMPTED COUP NEEDS TO STOP NOW
+
+**Speaking:** Gohmert, Louie (G000552) [R-TX]
+
+```
+                    ATTEMPTED COUP NEEDS TO STOP NOW
+
+  (Mr. GOHMERT asked and was given permission to address the House for 
+1 minute.)
+  Mr. GOHMERT. Mr. Speaker, what is going on with regard to the 
+attempted coup on a United States President is really outrageous. It is 
+playing out now in the House of Representatives.
+  I am on the Judiciary Committee, as are other friends.   Andy Biggs--
+who just addressed us--our friend,   Andy Harris, and others went down 
+to the SCIF where there is supposedly a hearing going on about 
+impeachment. I was not allowed in, nor were the others with me who are 
+Members of Congress.
+  We were told: No, you are not allowed in.
+  I asked: Who gave that order? Because until a vote is held on the 
+rules to change the rules of precedent, it goes through the Judiciary 
+Committee. They couldn't explain.
+  They said: Well, our staff boss says an elected Member of Congress 
+cannot go sit in on a hearing like that.
+  It is outrageous. They couldn't say who said it. It is outrageous. 
+This coup needs to stop now.
+
+                          ____________________
+```

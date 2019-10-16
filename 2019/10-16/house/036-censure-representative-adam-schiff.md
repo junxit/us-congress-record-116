@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-10-16-pt1-PgH8153-4
+date: 2019-10-16
+edition: CREC
+section: HOUSE
+page: H8153
+citation: 165 Cong. Rec. H8153
+---
+
+# CENSURE REPRESENTATIVE ADAM SCHIFF
+
+**Speaking:** Scalise, Steve (S001176) [R-LA]
+
+```
+                   CENSURE REPRESENTATIVE ADAM SCHIFF
+
+  (Mr. SCALISE asked and was given permission to address the House for 
+1 minute.)
+  Mr. SCALISE. Mr. Speaker, I rise in strong support of my colleague   
+Andy Biggs' resolution to censure Adam Schiff for the way he has 
+conducted this impeachment inquiry behind closed doors and in secret.
+  We have seen this pattern of misinformation time and time again, 
+where he throws out false information, like when he said he had more 
+than circumstantial evidence that the President colluded with Russia. 
+Then, after the Mueller report comes out, we find out there was no 
+collusion. Not once did he try, by the way, Mr. Speaker, to present 
+that evidence because there was no evidence.
+  Then he goes on and gives this false representation of the 
+whistleblower report. Of course, we now have seen the transcript. We 
+know what happened. There was no quid pro quo, even though he was 
+alleging quid pro quo.
+  Now he is holding meetings in secret, behind closed doors, to impeach 
+a President of the United States.
+  Mr. Speaker, we had an election in 2016; Donald Trump was elected. We 
+have another election next year, and the people will decide who the 
+President is, not Speaker Pelosi and not Adam Schiff behind closed 
+doors.
+  We need transparency, and we need to end this kangaroo court witch 
+hunt. Let's get back to the people's work here in this House.
+
+                          ____________________
+```

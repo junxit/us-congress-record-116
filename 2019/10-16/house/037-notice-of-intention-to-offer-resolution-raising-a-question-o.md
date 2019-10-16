@@ -1,0 +1,94 @@
+---
+granule: CREC-2019-10-16-pt1-PgH8153-5
+date: 2019-10-16
+edition: CREC
+section: HOUSE
+page: H8153
+citation: 165 Cong. Rec. H8153
+---
+
+# NOTICE OF INTENTION TO OFFER RESOLUTION RAISING A QUESTION OF THE PRIVILEGES OF THE HOUSE
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+**Measures:** H.Res. 630
+
+```
+   NOTICE OF INTENTION TO OFFER RESOLUTION RAISING A QUESTION OF THE 
+                        PRIVILEGES OF THE HOUSE
+
+  Mr. BIGGS. Mr. Speaker, pursuant to clause 2(a)(1) of rule IX, I rise 
+to give notice of my intention to raise a question of the privileges of 
+the House.
+  The form of the resolution is as follows:
+  House Resolution 630. Condemning and censuring Adam Schiff, 
+Representative of California's 28th Congressional District.
+  Whereas President Trump released the transcript of a call between him 
+and the President of Ukraine;
+  Whereas President Trump subsequently released the whistleblower 
+complaint of August 12, 2019;
+  Whereas, in a September 26, 2019, hearing on the whistleblower 
+complaint, House Intelligence Committee Chairman Adam Schiff purported 
+to relay the content of the phone call to the American people;
+  Whereas, instead of quoting directly from the available transcript, 
+Chairman Schiff manufactured a false retelling of the conversation 
+between President Trump and President Zelensky;
+  Whereas this egregiously false and fabricated retelling had no 
+relationship to the call itself;
+  Whereas these actions of Chairman Schiff misled the American people, 
+bring disrepute upon the House of Representatives, and make a mockery 
+of the impeachment process, one of this Chamber's most solemn 
+constitutional duties;
+  Whereas, for more than 2 years, Chairman Schiff has spread false 
+accusations that the Trump campaign colluded with Russia;
+  Whereas, on March 20, 2017, then-Ranking Member Schiff read out false 
+allegations from the Steele dossier accusing numerous Trump associates 
+of colluding with Russia;
+
+[[Page H8154]]
+
+  Whereas then-Ranking Member Schiff falsely claimed in a March 2017 
+interview to have ``more than circumstantial evidence'' of collusion 
+with Russia;
+  Whereas then-Ranking Member Schiff negotiated with Russian comedians 
+whom he believed to be Ukrainian officials to obtain materials to 
+damage the President of the United States politically;
+  Whereas, according to a New York Times article on October 2, 2019, 
+Chairman Schiff's committee staff met with the whistleblower prior to 
+the filing of his complaint, and staff members communicated the content 
+of the complaint to Chairman Schiff;
+  Whereas Chairman Schiff concealed his dealings with the whistleblower 
+from the rest of the Intelligence Committee, and when asked directly in 
+a television interview whether he had any contact with the 
+whistleblower, he lied to the American people and said, ``We have not 
+spoken directly with the whistleblower.'';
+  Whereas members of the Intelligence Committee have lost faith in his 
+objectivity and capabilities as chairman, with every Republican member 
+on the committee having signed a letter calling for his immediate 
+resignation as chairman; and
+  Whereas Chairman Schiff has hindered the ability of the Intelligence 
+Committee to fulfill its oversight responsibilities of the intelligence 
+community, an indispensable pillar of our national security: Now, 
+therefore, be it
+  Resolved, That--
+  One, the House of Representatives censures and condemns 
+Representative Adam Schiff for conduct that misleads the American 
+people in a way that is not befitting an elected Member of the House of 
+Representatives;
+  Two, Representative Adam Schiff will forthwith present himself in the 
+well of the House for the pronouncement of censure; and
+  Three, Representative Adam Schiff will be censured with the public 
+reading of this resolution by the Speaker.
+  The SPEAKER pro tempore (Mr. Cuellar). Under rule IX, a resolution 
+offered from the floor by a Member other than the majority leader or 
+the minority leader as a question of the privileges of the House has 
+immediate precedence only at a time designated by the Chair within 2 
+legislative days after the resolution is properly noticed.
+  Pending that designation, the form of the resolution noticed by the 
+gentleman from Arizona will appear in the Record at this point.
+  The Chair will not at this point determine whether the resolution 
+constitutes a question of privilege. That determination will be made at 
+the time designated for consideration of the resolution.
+
+                          ____________________
+```

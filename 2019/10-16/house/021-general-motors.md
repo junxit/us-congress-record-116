@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-10-16-pt1-PgH8151-2
+date: 2019-10-16
+edition: CREC
+section: HOUSE
+page: H8151
+citation: 165 Cong. Rec. H8151
+---
+
+# GENERAL MOTORS
+
+```
+                             GENERAL MOTORS
+
+  (Mr. HIGGINS of Nevada asked and was given permission to address the 
+House for 1 minute.)
+  Mr. HIGGINS of Nevada. Mr. Speaker, I stand today in solidarity with 
+46,000 United Automobile Workers who are now entering their fifth week 
+on strike following the expiration of their contract in September.
+  Ironically, this September also marked the end of GM's third quarter, 
+where it sold 737,000 vehicles, more than any other U.S. automaker, 
+recording record profits and capturing nearly 18 percent of market 
+share.
+  GM cited product quality and reliability for its continued strong 
+sales. The United Automobile Workers made those 737,000 vehicles with 
+pride and dedication and attention to detail.
+  The United Automobile Workers made sacrifices to keep GM whole when 
+the automaker faced bankruptcy 10 years ago. Now those workers simply 
+want to keep their families whole with good healthcare, fair wages, and 
+job security.
+  With record sales, a fair deal is within reach, one that secures the 
+long-term success of General Motors and a better future for United 
+Automobile Workers. Let's get the deal done.
+
+                          ____________________
+```
