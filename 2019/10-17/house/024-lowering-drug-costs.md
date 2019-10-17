@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-10-17-pt1-PgH8207-10
+date: 2019-10-17
+edition: CREC
+section: HOUSE
+page: H8207
+citation: 165 Cong. Rec. H8207
+---
+
+# LOWERING DRUG COSTS
+
+**Speaking:** Cartwright, Matt (C001090) [D-PA]
+
+**Measures:** H.R. 3
+
+```
+                          LOWERING DRUG COSTS
+
+  (Mr. CARTWRIGHT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CARTWRIGHT. Mr. Speaker, I rise to say this: Americans are 
+suffering from extortionate, skyrocketing drug prices, and this is 
+unacceptable.
+  Between 2013 and 2016, 67 percent of Americans who had to file for 
+bankruptcy did so because of enormous medical expenses. That is 
+unacceptable.
+  Last year, in my home State of Pennsylvania alone, one in four 
+individuals had to forgo medical care so they could pay their rent or 
+put food on the table. That is not a choice we can, in good conscience, 
+allow them to have to make. It is unacceptable.
+  I am, therefore, proud to announce my support of the Lower Drug Costs 
+Now Act, H.R. 3, landmark legislation which takes bold strides to lower 
+prescription drug prices for all Americans.
+  On behalf of the families who demand and deserve drug pricing reform, 
+I urge my colleagues on both sides of the aisle to ensure swift passage 
+of this landmark, critical legislation.
+
+[[Page H8208]]
+
+  
+
+                          ____________________
+```

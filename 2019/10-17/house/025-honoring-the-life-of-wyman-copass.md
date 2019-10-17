@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-10-17-pt1-PgH8208
+date: 2019-10-17
+edition: CREC
+section: HOUSE
+page: H8208
+citation: 165 Cong. Rec. H8208
+---
+
+# HONORING THE LIFE OF WYMAN COPASS
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+                   HONORING THE LIFE OF WYMAN COPASS
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COMER. Mr. Speaker, I rise today to pay tribute to the remarkable 
+life led by my friend and former pastor, Dr. Wyman Copass.
+  Wyman passed away on Friday, October 4, having lived an extraordinary 
+life of 80 years. Wyman will live on in the memories of all who have 
+had the privilege to know him.
+  For me, his influence lives on in the memory of his role in my 
+salvation. As a graduate of Campbellsville University and Luther Rice 
+Seminary, Dr. Copass oversaw a ministry spanning not only the 
+Commonwealth of Kentucky, but also the breadth of the Nation.
+  While he enjoyed golfing, cooking, and gardening, his greatest 
+passion was his family, whose love and devotion he cherished and 
+returned in kind. His wife of 62 years, Glenda; his daughter, Susan; 
+and his son, Chris; as well as his five grandchildren undoubtedly 
+consider themselves lucky to have had such an emblematic figure in 
+their lives, just as I do.
+  Dr. Wyman Copass was a force for good in the First Congressional 
+District of Kentucky, and his example and vision will be missed.
+
+                          ____________________
+```
