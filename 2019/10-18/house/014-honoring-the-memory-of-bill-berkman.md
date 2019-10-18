@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-18-pt1-PgH8233
+date: 2019-10-18
+edition: CREC
+section: HOUSE
+page: H8233
+citation: 165 Cong. Rec. H8233
+---
+
+# HONORING THE MEMORY OF BILL BERKMAN
+
+**Speaking:** Newhouse, Dan (N000189) [R-WA]
+
+```
+                              {time}  0915
+                  HONORING THE MEMORY OF BILL BERKMAN
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. NEWHOUSE. Mr. Speaker, the Tri-Cities community recently lost a 
+leader and a friend. I rise today to honor the memory of Bill Berkman, 
+chairman of the Benton County Republicans. Bill became involved with 
+the local Republican Party as a precinct committee officer in 2016, and 
+later that year, as chairman. I got to know him well while encouraging 
+our fellow community members to get out to vote.
+  As owner of the MenZone franchises in Kennewick and Pasco, Bill was a 
+passionate voice for limited government and policies that supported 
+small business owners. Even with his strong personal beliefs and 
+conservative principles, though, Bill never let partisanship rise above 
+integrity. He was adamant that we could and should do more to bring 
+more respect into our politics.
+  He will be remembered for his efforts to build bridges, including 
+with his counterparts in the local Democratic Party.
+  We will all miss Bill's booming voice, his polite fervent candor, and 
+his desire for facts, for truth, and for solutions for the Nation.
+  Rest in peace, Bill.
+
+                          ____________________
+```
