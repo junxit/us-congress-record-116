@@ -1,0 +1,37 @@
+---
+granule: CREC-2019-10-21-pt1-PgH8265
+date: 2019-10-21
+edition: CREC
+section: HOUSE
+page: H8265
+citation: 165 Cong. Rec. H8265
+---
+
+# USMCA IS A WIN FOR ALL AMERICANS
+
+**Speaking:** Hartzler, Vicky (H001053) [R-MO]
+
+```
+                    USMCA IS A WIN FOR ALL AMERICANS
+
+  (Mrs. HARTZLER asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. HARTZLER. Madam Speaker, this month marks 1 year since the Trump 
+administration negotiated the U.S.-Mexico-Canada Agreement.
+  USMCA is undoubtedly a win for Missourians and for all Americans. The 
+agreement will bring 176,000 new jobs and will spur $63 billion in new 
+economic activity.
+  Benefits of USMCA will be felt across diverse industries, including 
+many of our manufacturing industries, agriculture, and small 
+businesses, while also supporting technology and innovation.
+  But month after month, this Congress has been subject to missed 
+opportunities for our producers and consumers as we have been refused 
+the chance to vote on the USMCA. This needs to change.
+  Instead of House leaders squandering precious legislative time 
+bringing up impeachment inquiries, they should be bringing up USMCA for 
+a vote.
+  Let us hope that we get this opportunity soon. That would be a 
+positive win for all Americans.
+
+                          ____________________
+```

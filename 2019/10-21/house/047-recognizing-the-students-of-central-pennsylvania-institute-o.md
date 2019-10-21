@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-21-pt1-PgH8284
+date: 2019-10-21
+edition: CREC
+section: HOUSE
+page: H8284
+citation: 165 Cong. Rec. H8284
+---
+
+# RECOGNIZING THE STUDENTS OF CENTRAL PENNSYLVANIA INSTITUTE OF SCIENCE AND TECHNOLOGY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+ RECOGNIZING THE STUDENTS OF CENTRAL PENNSYLVANIA INSTITUTE OF SCIENCE 
+                             AND TECHNOLOGY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+the students of the Central Pennsylvania Institute of Science and 
+Technology in Pleasant Gap, Pennsylvania.
+  Recently, I had the pleasure of joining several students back in 
+Centre County for a very special project that they are working on. It 
+is called Heroscaping.
+  The students are building a memorial at the Centre County Public 
+Safety Training Center to honor first responders, particularly those 
+who answered the call to serve when the World Trade Center was attacked 
+on 9/11.
+  The project was recently finished, and it was an honor to join them 
+when I was back in my district to help lay pavers and meet many of the 
+students involved. One of the students was just 3 months old when the 
+planes crashed into the Twin Towers. The others had not been born yet.
+  That is why projects like these are so important--to honor the men 
+and women who rose to the occasion to protect our Nation and to ensure 
+that the younger generations never forget their sacrifices.
+
+                          ____________________
+```
