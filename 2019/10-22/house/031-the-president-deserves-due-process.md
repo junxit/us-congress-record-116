@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8306-6
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8306
+citation: 165 Cong. Rec. H8306
+---
+
+# THE PRESIDENT DESERVES DUE PROCESS
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+                   THE PRESIDENT DESERVES DUE PROCESS
+
+  (Mr. MURPHY of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. MURPHY of North Carolina. Madam Speaker, today I rise in 
+opposition to the unfair and unprecedented process that is being used 
+by my colleagues across the aisle to smear the duly elected President 
+of the United States and make a mockery of American justice.
+  Since the day he was sworn in, Democrats have dismissed their duty as 
+the majority party to lead this country. Instead, their agenda has 
+revolved around their desire to oust the duly elected President.
+  Since hearings with Robert Mueller, Joseph Maguire, and others did 
+not yield their desired results, Democrats have changed their tactics. 
+Those publicity stunts backfired.
+  So what has been their response? Hold Soviet-style, closed-door, 
+``guilty until proven innocent'' investigations.
+  President Trump deserves due process, and the American people deserve 
+transparency and fairness; but, more importantly, Congress should be 
+tending to the business of the people by passing substantive 
+legislation instead of continuing to waste taxpayer time and money on 
+yet another witch hunt.
+
+                          ____________________
+```

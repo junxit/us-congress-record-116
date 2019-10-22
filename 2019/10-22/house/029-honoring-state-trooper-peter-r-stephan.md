@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8306-4
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8306
+citation: 165 Cong. Rec. H8306
+---
+
+# HONORING STATE TROOPER PETER R. STEPHAN
+
+**Speaking:** Brooks, Susan W. (B001284) [R-IN]
+
+```
+                HONORING STATE TROOPER PETER R. STEPHAN
+
+  (Mrs. BROOKS of Indiana asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. BROOKS of Indiana. Madam Speaker, I rise today to honor Indiana 
+State Trooper Peter R. Stephan, or ``Bo,'' of Lafayette, Indiana, who 
+paid the ultimate price and sacrificed his life while protecting his 
+community.
+  He served with the Indiana State Police Department for 4 years and, 
+tragically, will never return home to his wife, Jessica, or his 5-
+month-old daughter.
+  Two weeks ago, this 27-year-old trooper was on his way to assist 
+another trooper who had called for assistance. On his way, Trooper 
+Stephan's car hit a curve and, for unknown reasons, went off the road. 
+The car rolled at least once and hit a utility pole, and he was 
+pronounced dead at the scene.
+  Trooper Stephan is the 44th Indiana State Police trooper to die in 
+the line of duty. A coworker of his said: ``He did what was right. He 
+wasn't pushed around by public opinion. If there were 100 people doing 
+the wrong thing, he would be the one guy doing it right.''
+  I offer my deepest condolences to his family, the Indiana State 
+Police Department, all Hoosiers, and all of those officers around our 
+country who mourn his loss and will forever cherish his memory.
+  We will never forget.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8382
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8382
+citation: 165 Cong. Rec. H8382
+---
+
+# SHAM IMPEACHMENT
+
+**Speaking:** Walker, Mark (W000819) [R-NC]
+
+```
+                            SHAM IMPEACHMENT
+
+  (Mr. WALKER asked and was given permission to address the House for 1 
+minute.)
+  Mr. WALKER. Before they identified the crime, Madam Speaker, the 
+Democrats organized the firing squad. Before anyone was talking about 
+Ukraine, over half of the Democratic majority was in favor of 
+impeachment.
+  In fact, this process didn't begin with Ukraine or a whistleblower, 
+this sham impeachment process started year one of President Trump's 
+administration when a Democrat colleague stated, ``. . . if we don't 
+impeach this President he will get reelected.''
+  Hatred for President Trump has become the new religion of the radical 
+left, creating an irrational behavior, not rooted in good judgment, but 
+rather in emotion.
+  The Democrats are protecting Adam Schiff, as seen by yesterday's 
+censure vote. This was not, and is not, about the facts. Facing your 
+accusers and ``innocent until proven guilty'' used to be the American 
+way.
+  It is the basic standard that every American should expect, including 
+the President. Being targeted by an angry mob, a willing media machine, 
+and a twisted version of democracy.
+  The President calls this a witch hunt. Unfortunately, it looks like 
+that is exactly what it is.
+
+                          ____________________
+```

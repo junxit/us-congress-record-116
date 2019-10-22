@@ -1,0 +1,50 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8381-3
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8381
+citation: 165 Cong. Rec. H8381
+---
+
+# SHOW TRIAL IMPEACHMENT
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+                         SHOW TRIAL IMPEACHMENT
+
+  (Mr. SMUCKER asked and was given permission to address the House for 
+1 minute.)
+  Mr. SMUCKER. Madam Speaker, I rise today to give voice to my 
+constituents on the destructive partisan and secret impeachment 
+inquiry, which really is a slap in the face to the overwhelming 
+majority of Pennsylvania's 11th District who voted for and continue to 
+support President Trump.
+  Judith from Ephrata writes:
+
+       Congressman, my husband and I are furious about this 
+     constant push to impeach President Trump. We don't care how 
+     many Members of Congress don't like him. It is not their 
+     choice; it is ours.
+
+  Rebecca from Lititz writes:
+
+       I am alarmed at the political climate and attempts to 
+     impeach our President. The House has done nothing to solve 
+     the issues facing our country and continues to spend their 
+     time trying to stop the progress that our President has made.
+
+  Jody from Windsor writes:
+
+       Can you please tell Speaker Pelosi and the Democrats that 
+     the overwhelming majority of people I interact with in my 
+     daily life want them to stop these unfounded impeachment 
+     proceedings into President Trump and get back to work fixing 
+     the issues we elected Congress to fix?
+
+  Madam Speaker, I share my constituents' anger and frustration toward 
+the show trial. This process isn't honest or fair.
+
+                          ____________________
+```

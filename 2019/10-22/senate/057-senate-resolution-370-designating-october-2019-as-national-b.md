@@ -1,0 +1,73 @@
+---
+granule: CREC-2019-10-22-pt1-PgS5975
+date: 2019-10-22
+edition: CREC
+section: SENATE
+page: S5975
+citation: 165 Cong. Rec. S5975
+---
+
+# SENATE RESOLUTION 370--DESIGNATING OCTOBER 2019 AS "NATIONAL BULLYING PREVENTION MONTH" AND OCTOBER 23, 2019, AS "UNITY DAY"
+
+**Measures:** S.Res. 370
+
+```
+SENATE RESOLUTION 370--DESIGNATING OCTOBER 2019 AS ``NATIONAL BULLYING 
+       PREVENTION MONTH'' AND OCTOBER 23, 2019, AS ``UNITY DAY''
+
+  Mr. BLUMENTHAL (for himself, Ms. Smith, Mrs. Feinstein, and Ms. 
+Hassan) submitted the following resolution; which was referred to the 
+Committee on the Judiciary:
+
+                              S. Res. 370
+
+       Whereas 1 in 5 students report being bullied and nearly 16 
+     percent of students report being cyberbullied;
+       Whereas students who experience bullying are at an 
+     increased risk for poor school adjustment, sleep 
+     difficulties, anxiety, and depression;
+       Whereas National Bullying Prevention Month was founded in 
+     2006 by the National Bullying Prevention Center of the PACER 
+     Center and has been held during the month of October each 
+     year since;
+       Whereas National Bullying Prevention Month is a nationwide 
+     campaign that seeks to educate the public about, and raise 
+     awareness of, bullying prevention;
+       Whereas individuals, families, schools, school districts, 
+     communities, and many others have hosted thousands of events 
+     to spread the message of National Bullying Prevention Month;
+       Whereas Unity Day was started by the National Bullying 
+     Prevention Center in October 2011 and is the signature event 
+     of National Bullying Prevention Month;
+       Whereas Unity Day has been held on the third or fourth 
+     Wednesday of each October since 2011 and will be recognized 
+     in 2019 on October 23;
+       Whereas the goal of Unity Day is to bring together youth, 
+     parents, educators, businesses, and community members across 
+     the United States to emphasize--
+       (1) a message of uniting for kindness, acceptance, 
+     inclusion, and mutual respect;
+       (2) that all students deserve to be safe in school, online, 
+     and in their communities;
+       (3) that there is value in celebrating the differences 
+     between people; and
+       (4) that compromise and tolerance are important in 
+     communication;
+       Whereas Unity Day has been highlighted on national 
+     television shows and in public service announcements, films, 
+     and public displays of art and expression; and
+       Whereas Unity Day is often celebrated by--
+       (1) wearing orange, the official color of Unity Day;
+       (2) holding student and teacher led discussions at schools;
+       (3) organizing efforts at community centers; and
+       (4) expressing support for Unity Day through art, music, 
+     dance, and social media: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 2019 as ``National Bullying 
+     Prevention Month'';
+       (2) designates October 23, 2019, as ``Unity Day''; and
+       (3) acknowledges that the prevention of bullying of 
+     children should be a national priority.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8303
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8303
+citation: 165 Cong. Rec. H8303
+---
+
+# THE NATION'S CATTLE MARKETS
+
+**Speaking:** Gianforte, Greg (G000584) [R-MT]
+
+```
+                      THE NATION'S CATTLE MARKETS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Montana (Mr. Gianforte) for 5 minutes.
+  Mr. GIANFORTE. Mr. Speaker, I rise today to bring attention to the 
+state of our Nation's cattle markets.
+  Following the August fire at Tyson's beef packing plant in Holcomb, 
+Kansas, live cattle prices hit a 5-year low. At the same time, retail 
+beef prices rose. It makes sense: if you can process less cattle, then 
+there is an oversupply in the live cattle market and less processed 
+beef, which increases retail beef prices.
+  But the Holcomb processing plant represented only 5 percent of 
+America's processing capacity, and yet live cattle prices fell 11 
+percent, while retail prices hit their highest levels since 2015.
+  I asked Secretary Perdue to investigate the cattle market following 
+the Holcomb fire, and he agreed. The USDA expects the investigation to 
+wrap up by the end of this year.
+  Mr. Speaker, I urge the House to do the right thing by America's 
+ranchers and also to look into this cattle market. Montana ranchers 
+produce the world's best beef, but current conditions in the market are 
+hurting them. They deserve an explanation and to be treated fairly.
+  I look forward to a full accounting of the cattle market.
+
+                          ____________________
+```

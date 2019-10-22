@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8380-5
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8380
+citation: 165 Cong. Rec. H8380
+---
+
+# DISTRACTION IMPEACHMENT
+
+**Speaking:** Miller, Carol D. (M001205) [R-WV]
+
+```
+                        DISTRACTION IMPEACHMENT
+
+  (Mrs. MILLER asked and was given permission to address the House for 
+1 minute.)
+  Mrs. MILLER. Madam Speaker, I rise today to denounce the partisan 
+motivations and lack of transparency behind Speaker Pelosi and Chairman 
+Schiff's impeachment proceedings.
+  For the past 10 months, my colleagues across the aisle have operated 
+with one sole motivation: undoing the results of the 2016 election. As 
+such, Congress has failed to advance the priorities of the American 
+people.
+  We have not funded crucial legislation to fix our outdated and 
+crumbling infrastructure. We have not addressed the crisis on the 
+southern border. Meanwhile, the opioid epidemic continues to rage on.
+  All we have to show for the past 10 months is a handful of liberal 
+messaging bills that have no chance of being made into law.
+  While the priorities of the American people have been pushed to the 
+side, all of Congress' energy and resources have been diverted to 
+behind-closed-door impeachment proceedings far from beyond the sight of 
+my fellow colleagues and completely hidden from the taxpayers.
+  This is not why I came to Congress. This is not what we were sent 
+here to do. The American people deserve better.
+
+                          ____________________
+```

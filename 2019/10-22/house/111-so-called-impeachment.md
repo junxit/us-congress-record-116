@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8381-5
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8381
+citation: 165 Cong. Rec. H8381
+---
+
+# SO-CALLED IMPEACHMENT
+
+**Speaking:** Griffith, H. Morgan (G000568) [R-VA]
+
+```
+                         SO-CALLED IMPEACHMENT
+
+  (Mr. GRIFFITH asked and was given permission to address the House for 
+1 minute.)
+  Mr. GRIFFITH. Madam Speaker, I have learned from Democrat press 
+conferences and Washington Post leaks that this body has an ongoing so-
+called impeachment inquiry.
+  But can I, as a Member of Congress, watch the testimony? No.
+  Can you watch the testimony at home so you can decide for yourself? 
+No.
+  Why are the hearings taking place in the basement behind guarded 
+doors? What do they want to keep from me? What do they want to keep 
+from you, Madam Speaker, either hearing or seeing?
+  I don't know, but Speaker Nancy Pelosi knows, and you can call her 
+and ask her why at 202-225-4965. Ask her what she has to hide, at 202-
+225-4965. Ask her why you can't watch the hearing, at 202-225-4965.
+  The American people deserve the answers.
+  Call 202-225-4965.
+
+                          ____________________
+```

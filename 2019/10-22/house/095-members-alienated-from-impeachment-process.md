@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8379
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8379
+citation: 165 Cong. Rec. H8379
+---
+
+# MEMBERS ALIENATED FROM IMPEACHMENT PROCESS
+
+**Speaking:** Loudermilk, Barry (L000583) [R-GA]
+
+```
+               MEMBERS ALIENATED FROM IMPEACHMENT PROCESS
+
+  (Mr. LOUDERMILK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. LOUDERMILK. Madam Speaker, I am in my fifth year in this esteemed 
+body, but I have never in my 5 years been subjected to being alienated 
+from one of the most important duties that people in this House are 
+given the responsibility for.
+  There is no issue greater than impeachment, other than just declaring 
+war. But, yet, I have been alienated from the process.
+  Now, when Speaker Pelosi decided that she was going to start somewhat 
+of an inquiry, I was told, being on the Financial Services Committee, I 
+will be one of the committees involved in it.
+  But then, apparently, the rules changed, and we shifted it to two 
+other committees. And those committees, when they were having their 
+hearings in front of the American people, apparently, that didn't go to 
+their pleasing because the testimonies didn't meet their narrative, so 
+they moved it into a secret area.
+  Since then, I have been trying to get ahold of the transcripts of the 
+hearings that I have been alienated from.
+  I actually got one today. After a week of looking for Volker's 
+testimony and asking for others, I finally got one today of Ambassador 
+Taylor, from The Washington Post. It appears that we are leaking what 
+we want to leak.
+
+                          ____________________
+```

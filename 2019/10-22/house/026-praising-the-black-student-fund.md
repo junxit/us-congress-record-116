@@ -1,0 +1,35 @@
+---
+granule: CREC-2019-10-22-pt1-PgH8306
+date: 2019-10-22
+edition: CREC
+section: HOUSE
+page: H8306
+citation: 165 Cong. Rec. H8306
+---
+
+# PRAISING THE BLACK STUDENT FUND
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                    PRAISING THE BLACK STUDENT FUND
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I would like to celebrate an organization 
+right here in Washington, D.C., that fights every day to increase the 
+academic achievements of local African American students, the Black 
+Student Fund.
+  The fund has provided educational assistance and resources to 
+promising Black students since 1964.
+  Officials work with students from pre-K to 12th grade to keep their 
+grades up, graduate high school, and go on to college. Many of these 
+students are the first in their families to go to college, and 70 
+percent of them are from single-parent households.
+  The benefits of a quality education to students and their communities 
+are too numerous to mention in 1 minute. That is why we need more 
+organizations like the Black Student Fund to keep more of our youth out 
+of trouble and in the classrooms where they belong.
+
+                          ____________________
+```
