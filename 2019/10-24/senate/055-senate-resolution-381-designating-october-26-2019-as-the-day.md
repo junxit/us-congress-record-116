@@ -1,0 +1,72 @@
+---
+granule: CREC-2019-10-24-pt1-PgS6161-3
+date: 2019-10-24
+edition: CREC
+section: SENATE
+page: S6161
+citation: 165 Cong. Rec. S6161
+---
+
+# SENATE RESOLUTION 381--DESIGNATING OCTOBER 26, 2019, AS THE "DAY OF THE DEPLOYED"
+
+**Measures:** S.Res. 381
+
+```
+ SENATE RESOLUTION 381--DESIGNATING OCTOBER 26, 2019, AS THE ``DAY OF 
+                             THE DEPLOYED''
+
+  Mr. HOEVEN (for himself, Mr. Tester, Mr. Peters, Ms. Warren, Mr. 
+Daines, and Mr. Isakson) submitted the following resolution; which was 
+considered and agreed to:
+
+                              S. Res. 381
+
+       Whereas more than 2,100,000 individuals serve as members of 
+     the Armed Forces of the United States;
+       Whereas several hundred thousand members of the Armed 
+     Forces rotate each year through deployments to more than 150 
+     countries in every region of the world;
+       Whereas more than 2,000,000 members of the Armed Forces 
+     have deployed to the area of operations of the United States 
+     Central Command since the September 11, 2001, terrorist 
+     attacks;
+       Whereas the United States is kept strong and free by the 
+     loyal military personnel from the total force, which is 
+     comprised of the regular components, the National Guard, and 
+     the Reserves, who protect the precious heritage of the United 
+     States through their declarations and actions;
+       Whereas the United States remains committed to providing 
+     the fullest possible accounting for personnel missing from 
+     past conflicts ranging from World War II through current day 
+     conflicts;
+       Whereas members of the Armed Forces serving at home and 
+     abroad have courageously answered the call to duty to defend 
+     the ideals of the United States and to preserve peace and 
+     freedom around the world;
+       Whereas the United States remains committed to easing the 
+     transition from deployment abroad to service at home for 
+     members of the Armed Forces and the families of the members;
+       Whereas members of the Armed Forces personify the virtues 
+     of patriotism, service, duty, courage, and sacrifice;
+       Whereas the families of members of the Armed Forces make 
+     important and significant sacrifices for the United States; 
+     and
+       Whereas the Senate has designated October 26 as the ``Day 
+     of the Deployed'' since 2011: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 26, 2019, as the ``Day of the 
+     Deployed'';
+       (2) honors the deployed members of the Armed Forces of the 
+     United States and the families of the members;
+
+[[Page S6162]]
+
+       (3) calls on the people of the United States to reflect on 
+     the service of those members of the Armed Forces, wherever 
+     the members serve, past, present, and future; and
+       (4) encourages the people of the United States to observe 
+     the Day of the Deployed with appropriate ceremonies and 
+     activities.
+
+                          ____________________
+```
