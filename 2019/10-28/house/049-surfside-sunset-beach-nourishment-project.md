@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-28-pt1-PgH8528-2
+date: 2019-10-28
+edition: CREC
+section: HOUSE
+page: H8528
+citation: 165 Cong. Rec. H8528
+---
+
+# SURFSIDE-SUNSET BEACH NOURISHMENT PROJECT
+
+**Speaking:** Rouda, Harley (R000616) [D-CA]
+
+```
+               SURFSIDE-SUNSET BEACH NOURISHMENT PROJECT
+
+  (Mr. ROUDA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ROUDA. Mr. Speaker, I rise today to highlight the importance of 
+the Surfside-Sunset Beach Nourishment Project to the residents of 
+Orange County, California.
+  Due to flood control measures and other shore protection and harbor 
+works made by the Federal Government, the 17-mile-long shoreline 
+between Anaheim Bay and Newport Bay no longer receives a natural supply 
+of sand.
+  As a result, Congress authorized the Surfside-Sunset project in 1962 
+to provide for artificial beach nourishment to stabilize affected 
+shoreline. Stage 13 of this project will combat continued coastline 
+erosion and protect coastal property.
+  Unfortunately, the Federal Government has neglected the Surfside-
+Sunset project in recent years, which has prevented stage 13 from 
+moving forward. This project has not been funded by the Federal 
+Government for 11 years. Let me repeat--11 years.
+  As the Surfside-Sunset project is one of many more Army Corps 
+projects for the people of Orange County, I will continue to advocate 
+for its prioritization by the Army Corps and Congress.
+
+                          ____________________
+```

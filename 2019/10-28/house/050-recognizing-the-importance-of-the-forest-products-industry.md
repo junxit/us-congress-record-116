@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-10-28-pt1-PgH8528-3
+date: 2019-10-28
+edition: CREC
+section: HOUSE
+page: H8528
+citation: 165 Cong. Rec. H8528
+---
+
+# RECOGNIZING THE IMPORTANCE OF THE FOREST PRODUCTS INDUSTRY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+       RECOGNIZING THE IMPORTANCE OF THE FOREST PRODUCTS INDUSTRY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, last week, we celebrated 
+Timber Innovation Day and National Forest Products Week.
+  The forest products industry plays an important role in many 
+communities around the Nation, including Pennsylvania, which is blessed 
+with some of the finest hardwoods in the world. In 2018, U.S. hardwood 
+exports were valued at $135 billion and employed roughly 700,000 
+people, nationwide.
+  In addition to its significant economic footprint, the industry also 
+provides numerous environmental benefits because managed forests 
+support proactive stewardship.
+  Unfortunately, times have been difficult for many timber producers in 
+recent years. While the industry continues to diversify and trade 
+negotiations progress, identifying new markets for American forest 
+products remains essential.
+  The Timber Renovation Act, which was included in the 2018 farm bill, 
+is one initiative I have been proud to support that does just that. It 
+encourages new markets by supporting research for wood products in 
+construction.
+  Mr. Speaker, I would like to thank our producers for the work that 
+they do.
+
+                          ____________________
+```
