@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-10-31-pt1-PgH8707-2
+date: 2019-10-31
+edition: CREC
+section: HOUSE
+page: H8707
+citation: 165 Cong. Rec. H8707
+---
+
+# INTRODUCING THE THREE SEAS RESOLUTION
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                 INTRODUCING THE THREE SEAS RESOLUTION
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute.)
+  Ms. KAPTUR. Madam Speaker, I rise to introduce a resolution 
+supporting the Three Seas Initiative to bolster energy infrastructure 
+security in Central and Eastern Europe. I am pleased to co-lead this 
+bipartisan effort with the ranking member of the House Foreign Affairs 
+Subcommittee on Europe, Eurasia, Energy, and the Environment, Adam 
+Kinzinger.
+  Energy security is national security. For years, Russia has sought to 
+undermine liberty and security in Europe by forcing Central and East 
+European nations into reliance on Russia for their energy needs. They 
+do this through projects including the Nord Stream 2 and TurkStream, 
+Russian gas pipelines.
+  Thankfully, 12 of our closest allies in Central and Eastern Europe 
+have banded together to increase their energy autonomy through 
+collective financing of energy infrastructure projects: the Three Seas 
+Initiative.
+  This resolution makes clear U.S.'s strong support for the initiative 
+and encourages member nations to take action on joint financing of 
+future projects. Additionally, it encourages the member nations to 
+consider financing of clean energy projects as the world addresses our 
+dire climate change crises.
+  In the face of increased Russian aggression, the U.S. must play a 
+leading role in energy security in Europe, and I urge my colleagues to 
+support this important resolution.
+
+                          ____________________
+```

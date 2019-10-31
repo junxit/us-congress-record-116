@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-10-31-pt1-PgH8682
+date: 2019-10-31
+edition: CREC
+section: HOUSE
+page: H8682
+citation: 165 Cong. Rec. H8682
+---
+
+# LIMOUSINE SAFETY STANDARDS
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+                       LIMOUSINE SAFETY STANDARDS
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Madam Speaker, this month marked the painful anniversary 
+of one fateful afternoon in Schoharie, New York, when 20 precious souls 
+were lost in the preventable crash of a limousine that should never 
+have been allowed on the road.
+  The families of those lost--many from my hometown of Amsterdam, New 
+York--the families of eight young people devastated by the Cutchogue 
+crash on Long Island in 2015, and countless others touched by these 
+preventable tragedies have raised their voices to demand action.
+  Last week we introduced bipartisan legislation that answers their 
+call. It is important, I believe, to respond to that call and to that 
+request. The SAFE Limos Act, the Take Unsafe Limos Off the Road Act, 
+and the End the Limo Loophole Act have responded to them with great 
+sensitivity.
+  I thank my friend, Antonio Delgado, for joining me in sponsoring this 
+lifesaving legislation, and I thank our colleagues on both sides of the 
+aisle who have signed on in support. These commonsense measures will 
+save lives and ensure that this never happens to another family.
+  Madam Speaker, I urge this body to raise our Nation's limousine 
+safety standards without delay.
+
+                          ____________________
+```

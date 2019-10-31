@@ -1,0 +1,71 @@
+---
+granule: CREC-2019-10-31-pt1-PgS6339-2
+date: 2019-10-31
+edition: CREC
+section: SENATE
+page: S6339
+citation: 165 Cong. Rec. S6339
+---
+
+# SENATE RESOLUTION 394--HONORING THE MEMBERS OF THE MILITARY AND INTELLIGENCE COMMUNITY WHO CARRIED OUT THE MISSION THAT KILLED ABU BAKR AL-BAGHDADI, AND FOR OTHER PURPOSES
+
+**Measures:** S.Res. 394
+
+```
+    SENATE RESOLUTION 394--HONORING THE MEMBERS OF THE MILITARY AND 
+INTELLIGENCE COMMUNITY WHO CARRIED OUT THE MISSION THAT KILLED ABU BAKR 
+                  AL-BAGHDADI, AND FOR OTHER PURPOSES
+
+  Mr. COTTON (for himself, Mr. Graham, Mr. Cruz, and Mr. Braun) 
+submitted the following resolution; which was considered and agreed to.
+
+                              S. Res. 394
+
+       Whereas the world's number one wanted terrorist, Ibrahim 
+     Awad Ibrahim al-Badri, also referred to by his nom de guerre 
+     Abu Bakr al-Baghdadi, was killed after years of relentless 
+     pursuit by the United States;
+       Whereas President Donald J. Trump stated, ``Capturing or 
+     killing Baghdadi has been the top national security priority 
+     of my Administration,'' and ``The world is now a much safer 
+     place.'';
+       Whereas, on October 26, 2019, members of the United States 
+     Special Operations Command flawlessly executed a daring and 
+     complex nighttime raid coordinated with numerous partners to 
+     assault the compound in
+
+[[Page S6340]]
+
+     which Abu Bakr al-Baghdadi was residing, ultimately leading 
+     to his demise;
+       Whereas Secretary of Defense Mark Esper said of the death 
+     of Abu Bakr al-Baghdadi, ``This is a devastating blow. This 
+     is not just their leader, it's their founder. He was an 
+     inspirational leader in many ways. He formed ISIS in 2014, he 
+     led to establishing the physical caliphate throughout the 
+     region, so this is a major blow to them.''; and
+       Whereas, although all members of the raid force were able 
+     to return to a safe location following the operation, two 
+     service members suffered minor injuries and one military 
+     working dog was also injured: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) declares that the death of Abu Bakr al-Baghdadi 
+     represents a measure of justice and relief for the 
+     innumerable victims of ISIS;
+       (2) commends the men and women and military working dogs of 
+     the United States Armed Forces and the United States 
+     intelligence community for their flawless plan and execution 
+     to capture or kill the ISIS leader;
+       (3) commends the President for ordering the successful 
+     operation to locate and eliminate Abu Bakr al-Baghdadi;
+       (4) recognizes the support from our allies and partners, 
+     including the Syrian Kurds, for assisting with executing this 
+     daring raid; and
+       (5) reaffirms its commitment to disrupting, dismantling, 
+     and defeating ISIS and affiliated radical Islamic terrorist 
+     organizations around the world that threaten United States 
+     national security, eliminating safe havens for terrorists, 
+     and bringing terrorists to justice.
+
+                          ____________________
+```

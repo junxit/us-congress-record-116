@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-10-31-pt1-PgH8682-3
+date: 2019-10-31
+edition: CREC
+section: HOUSE
+page: H8682
+citation: 165 Cong. Rec. H8682
+---
+
+# VENTURE ACADEMY: MOCK TRIAL WORLD CHAMPIONS
+
+**Speaking:** McNerney, Jerry (M001166) [D-CA]
+
+```
+              VENTURE ACADEMY: MOCK TRIAL WORLD CHAMPIONS
+
+  (Mr. McNERNEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McNERNEY. Madam Speaker, I rise today to congratulate a group of 
+talented students in my district who recently earned the title of Mock 
+Trial World Champions.
+  Venture Academy's mock trial team was one of 38 teams that traveled 
+to New York to compete for this honor in the Empire Mock Trial World 
+Championship. They successfully argued a fictional case involving a 
+construction company that was accused of failing to take proper safety 
+precautions by portraying the prosecutors and defendants as well as the 
+witnesses in the case. They ended up bringing back the top prize to 
+Stockton.
+  This isn't Venture Academy's first big success. Last year the team 
+placed fifth in the Empire contest, and for the past 6 years they have 
+won first place in the San Joaquin County mock trial competition.
+  One day some of these students could come here and stand at this 
+podium, putting their debate skills to work while arguing for or 
+against important legislation.
+  So, Madam Speaker, please join me in congratulating Venture Academy's 
+mock trial team, the Mock Trial World Champions.
+
+                          ____________________
+```
