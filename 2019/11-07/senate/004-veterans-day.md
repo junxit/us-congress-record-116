@@ -1,0 +1,30 @@
+---
+granule: CREC-2019-11-07-pt1-PgS6453-4
+date: 2019-11-07
+edition: CREC
+section: SENATE
+page: S6453
+citation: 165 Cong. Rec. S6453
+---
+
+# VETERANS DAY
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                              VETERANS DAY
+
+  Mr. GRASSLEY. Mr. President, this year on Veterans Day, I will join 
+all Americans in honoring those who have served in our Armed Forces. As 
+a nation, we owe those who have served a debt of gratitude for the 
+sacrifices they have made to protect our country, our way of life, and 
+the principles of liberty and natural rights. Too often, we forget to 
+thank the families who are left behind while they are in service. They 
+deserve our consideration as well.
+  The least we can do in return is work to ensure that all veterans 
+have the healthcare and benefits they have earned. We owe it to 
+veterans to ensure that they are never forsaken, nor forgotten.
+  I yield the floor.
+
+                          ____________________
+```

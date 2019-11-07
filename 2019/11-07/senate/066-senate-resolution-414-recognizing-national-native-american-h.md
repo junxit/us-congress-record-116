@@ -1,0 +1,111 @@
+---
+granule: CREC-2019-11-07-pt1-PgS6481-2
+date: 2019-11-07
+edition: CREC
+section: SENATE
+page: S6481
+citation: 165 Cong. Rec. S6481
+---
+
+# SENATE RESOLUTION 414--RECOGNIZING NATIONAL NATIVE AMERICAN HERITAGE MONTH AND CELEBRATING THE HERITAGES AND CULTURES OF NATIVE AMERICANS AND THE CONTRIBUTIONS OF NATIVE AMERICANS TO THE UNITED STATES
+
+**Measures:** S.Res. 414
+
+```
+ SENATE RESOLUTION 414--RECOGNIZING NATIONAL NATIVE AMERICAN HERITAGE 
+ MONTH AND CELEBRATING THE HERITAGES AND CULTURES OF NATIVE AMERICANS 
+     AND THE CONTRIBUTIONS OF NATIVE AMERICANS TO THE UNITED STATES
+
+  Mr. HOEVEN (for himself, Mr. Udall, Mr. Tillis, Mr. Wyden, Mrs. 
+Feinstein, Mr. Schatz, Ms. Baldwin, Mr. Tester, Mr. Rounds, Mr. Wicker, 
+Ms. Warren, Mr. Crapo, Ms. Klobuchar, Mr. Merkley, Mr. Lankford, Ms. 
+McSally, Ms. Smith, Mr. Schumer, Ms. Cantwell, Ms. Cortez Masto, Ms. 
+Hirono, Mr. Moran, Mr. King, Mr. Barrasso, Ms. Harris, Mr. Heinrich, 
+Ms. Murkowski, Mr. Kaine, Mr. Booker, Ms. Rosen, Mr. Blumenthal, and 
+Mr. Sullivan) submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 414
+
+       Whereas, from November 1, 2019, through November 30, 2019, 
+     the United States celebrates National Native American 
+     Heritage Month;
+       Whereas National Native American Heritage Month is an 
+     opportunity to consider and recognize the contributions of 
+     Native Americans to the history of the United States;
+       Whereas Native Americans are descendants of the original, 
+     indigenous inhabitants of what is now the United States;
+       Whereas the Bureau of the Census estimates that, in 2018, 
+     there were more than 6,800,000 individuals of American Indian 
+     and Alaska Native descent in the United States;
+       Whereas Native Americans maintain vibrant cultures and 
+     traditions and hold a deeply rooted sense of community;
+       Whereas Native Americans have moving stories of tragedy, 
+     triumph, and perseverance that need to be shared with future 
+     generations;
+       Whereas Native Americans speak and preserve indigenous 
+     languages, which have contributed to the English language by 
+     being used as names of individuals and locations throughout 
+     the United States;
+       Whereas Congress has consistently reaffirmed the support of 
+     the United States of
+
+[[Page S6482]]
+
+     Tribal self-governance and self-determination and the 
+     commitment of the United States to improving the lives of all 
+     Native Americans by--
+       (1) enhancing health care and law enforcement resources; 
+     and
+       (2) improving the housing and socioeconomic status of 
+     Native Americans;
+       Whereas the United States is committed to strengthening the 
+     government-to-government relationship that the United States 
+     has maintained with the various Indian Tribes;
+       Whereas Congress has recognized the contributions of the 
+     Iroquois Confederacy and the influence of the Iroquois 
+     Confederacy on the Founding Fathers in the drafting of the 
+     Constitution of the United States with the concepts of--
+       (1) freedom of speech;
+       (2) the separation of governmental powers; and
+       (3) the system of checks and balances between the branches 
+     of government;
+       Whereas, with the enactment of the Native American Heritage 
+     Day Act of 2009 (Public Law 111-33; 123 Stat. 1922), 
+     Congress--
+       (1) reaffirmed the government-to-government relationship 
+     between the United States and Native American governments; 
+     and
+       (2) recognized the important contributions of Native 
+     Americans to the culture of the United States;
+       Whereas Native Americans have made distinct and important 
+     contributions to the United States and the rest of the world 
+     in many fields, including the fields of agriculture, 
+     medicine, music, language, and art;
+       Whereas Native Americans have distinguished themselves as 
+     inventors, entrepreneurs, spiritual leaders, and scholars;
+       Whereas Native Americans have served with honor and 
+     distinction in the Armed Forces and continue to serve in the 
+     Armed Forces in greater numbers per capita than any other 
+     group in the United States;
+       Whereas the United States has recognized the contribution 
+     of the Native American code talkers in World War I and World 
+     War II, who used indigenous languages as an unbreakable 
+     military code, saving countless lives in the United States; 
+     and
+       Whereas the people of the United States have reason to 
+     honor the great achievements and contributions of Native 
+     Americans and their ancestors: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the month of November 2019 as ``National 
+     Native American Heritage Month'';
+       (2) recognizes the Friday after Thanksgiving as ``Native 
+     American Heritage Day'' in accordance with section 2(10) of 
+     the Native American Heritage Day Act of 2009 (Public Law 111-
+     33; 123 Stat. 1923); and
+       (3) urges the people of the United States to observe 
+     National Native American Heritage Month and Native American 
+     Heritage Day with appropriate programs and activities.
+
+                          ____________________
+```
