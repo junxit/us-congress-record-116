@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-11-12-pt1-PgH8777
+date: 2019-11-12
+edition: CREC
+section: HOUSE
+page: H8777
+citation: 165 Cong. Rec. H8777
+---
+
+# HIRE VETS MEDALLION
+
+**Speaking:** Cline, Ben (C001118) [R-VA]
+
+```
+                          HIRE VETS MEDALLION
+
+  (Mr. CLINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLINE. Mr. Speaker, yesterday was Veterans Day, and while we were 
+all back in our district and while we should thank our veterans every 
+day for standing in defense of our Nation, November 11 is a day when we 
+all can join together as Americans to thank these courageous heroes.
+  I rise today to congratulate one specific business, Tactical and 
+Survival Specialties, Incorporated, of Harrisonburg for being awarded 
+the U.S. Department of Labor's HIRE Vets Medallion.
+  This prestigious honor is the only program within the Federal 
+Government that recognizes the meaningful and verifiable efforts 
+undertaken by job creators to hire and retain our veterans.
+  Tactical and Survival Specialties, Incorporated, was founded by 
+retired U.S. Navy Senior Chief Petty Officer Bill Strang in 1980, and 
+the business is one of the oldest tactical equipment suppliers in the 
+United States. TSSi is committed to providing state-of-the-art 
+equipment to military, law enforcement, and disaster response 
+professionals all over the world.
+
+  I applaud TSSi on being one of a select few awardees across the 
+Nation, and I thank all the employers who have demonstrated outstanding 
+efforts to hire, train, and retain our veterans.
+
+                          ____________________
+```
