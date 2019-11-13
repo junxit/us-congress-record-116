@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-11-13-pt1-PgH8793-4
+date: 2019-11-13
+edition: CREC
+section: HOUSE
+page: H8793
+citation: 165 Cong. Rec. H8793
+---
+
+# ENACT GUN SAFETY LEGISLATION TO PROTECT POLICE, CITIZENS
+
+**Speaking:** Malinowski, Tom (M001203) [D-NJ]
+
+```
+        ENACT GUN SAFETY LEGISLATION TO PROTECT POLICE, CITIZENS
+
+  (Mr. MALINOWSKI asked and was given permission to address the House 
+for 1 minute.)
+  Mr. MALINOWSKI. Mr. Speaker, on June 13, a gunman from another State 
+sat in the parking lot of Tamaques Elementary School in my district, 
+armed with a loaded .45-caliber handgun, hollow-point bullets, and 130 
+rounds of ammunition.
+  Because of the quick work of the Westfield Police Department of New 
+Jersey, the gunman was disarmed and taken into custody. Officers 
+Jeffrey Johnson, Michael Pollock, Joseph Habeiche, Elizabeth Savnik, 
+and Tiffany Kenny, along with Detectives Nicholas Bruno and Jason 
+Merritt, prevented what could have been a devastating tragedy.
+  I am eternally grateful for their brave and swift actions, and I am 
+proud to recognize them this month as they are honored with the New 
+Jersey PBA's Unit Citation Award for their heroism.
+  Mr. Speaker, police officers are the good guys with a gun in America. 
+They are the good guys with a gun.
+  How many times do we have to experience these tragedies and close 
+calls before Congress finally acts to protect them and us by keeping 
+dangerous weapons from falling into the wrong hands?
+  The House has passed sensible gun safety legislation that will save 
+lives. It is time for the Senate to act.
+
+                          ____________________
+```

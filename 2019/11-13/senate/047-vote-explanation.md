@@ -1,0 +1,33 @@
+---
+granule: CREC-2019-11-13-pt1-PgS6545-3
+date: 2019-11-13
+edition: CREC
+section: SENATE
+page: S6545
+citation: 165 Cong. Rec. S6545
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Harris, Kamala D. (H001075) [D-CA]
+
+```
+                            VOTE EXPLANATION
+
+● Ms. HARRIS. Mr. President, I was absent, but had I been 
+present, I would have voted no on rollcall vote No. 352, the 
+confirmation of Executive Calendar No. 464, William Joseph Nardini, of 
+Connecticut, to be U.S. circuit judge for the Second Circuit.
+  Mr. President, I was absent, but had I been present, I would have 
+voted no on rollcall vote No. 351, the confirmation of Executive 
+Calendar No. 365, Jennifer Philpott Wilson, of Pennsylvania, to be U.S. 
+district judge for the Middle District of Pennsylvania.
+  Mr. President, I was absent, but had I been present, I would have 
+voted no on rollcall vote No. 355, the motion to invoke cloture on 
+Executive Calendar No. 486, Steven J. Menashi, of New York, to be U.S. 
+circuit judge for the Second Circuit.●
+  (At the request of Mr. Inhofe, the following statement was ordered to 
+be printed in the Record.)
+
+                          ____________________
+```

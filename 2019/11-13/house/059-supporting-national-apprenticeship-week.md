@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-11-13-pt1-PgH8815-2
+date: 2019-11-13
+edition: CREC
+section: HOUSE
+page: H8815
+citation: 165 Cong. Rec. H8815
+---
+
+# SUPPORTING NATIONAL APPRENTICESHIP WEEK
+
+**Speaking:** Allen, Rick W. (A000372) [R-GA]
+
+```
+                SUPPORTING NATIONAL APPRENTICESHIP WEEK
+
+  (Mr. ALLEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALLEN. Madam Speaker, I rise today in support, as others have 
+said, of National Apprenticeship Week.
+  The Republican-led Congress and President Trump jumpstarted America's 
+economy, making it the best in the world. There has never been a better 
+time to enter the workforce. However, every time I am back in the 
+district, I hear about the need for skilled workers.
+  That is why apprenticeships are absolutely vital to developing 
+America's future workforce. By connecting employers directly to their 
+future workforce, Americans have the opportunity to develop technical 
+skills while gaining valuable work experience.
+  The numbers show just how successful these programs are. Ninety-four 
+percent of those who complete an apprenticeship program retain 
+employment with an average salary of more than $70,000.
+  I am proud that Georgia is leading the way in career and technical 
+education and apprenticeships. For example, in Lyons, Georgia, Chicken 
+of the Sea has invested millions in state-of-the-art technology and 
+helped train our next generation of skilled workers through their 
+apprenticeship program, creating even more jobs and promoting economic 
+opportunity throughout Toombs County. We must continue with this 
+training.
+
+                          ____________________
+```
