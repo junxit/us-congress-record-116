@@ -1,0 +1,34 @@
+---
+granule: CREC-2019-11-14-pt1-PgH8833-2
+date: 2019-11-14
+edition: CREC
+section: HOUSE
+page: H8833
+citation: 165 Cong. Rec. H8833
+---
+
+# HONORING SERVICE OF DR. DWIGHT VINES
+
+**Speaking:** Abraham, Ralph Lee (A000374) [R-LA]
+
+```
+                  HONORING SERVICE OF DR. DWIGHT VINES
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Louisiana (Mr. Abraham) for 5 minutes.
+  Mr. ABRAHAM. Mr. Speaker, the people of Louisiana lost a great man 
+when former University of Louisiana at Monroe President Dwight Vines 
+passed away at the age of 88.
+  Dr. Vines was born in Jackson Parish in 1931. After earning his 
+doctorate degree in business administration, he became a professor at 
+Northeast Louisiana University, which would later become ULM.
+  Under his leadership as president, from 1976 to 1991, ULM developed 
+40 new degree programs and built a school of nursing, an aquatic 
+center, and a sports stadium, and it expanded its library.
+  In addition to his time at ULM, Dr. Vines served as economic 
+development officer for the city of Monroe and district director for 
+former Fifth District Congressman Dr. John Cooksey.
+  Please join me in honoring a great Louisianan, Dr. Dwight Vines.
+
+                          ____________________
+```
