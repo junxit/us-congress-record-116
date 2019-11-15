@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-11-15-pt1-PgH8884-6
+date: 2019-11-15
+edition: CREC
+section: HOUSE
+page: H8884
+citation: 165 Cong. Rec. H8884
+---
+
+# APPRENTICESHIPS CAN HELP CLOSE THE SKILLED TRADES GAP
+
+**Speaking:** Johnson, Dusty (J000301) [R-SD]
+
+```
+                              {time}  0915
+         APPRENTICESHIPS CAN HELP CLOSE THE SKILLED TRADES GAP
+
+  (Mr. JOHNSON of South Dakota asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of South Dakota. Mr. Speaker, it is National 
+Apprenticeship Week.
+  We have 7 million unfilled jobs in this country, and many of them are 
+in the skilled trades. We have got to close
+
+[[Page H8885]]
+
+that gap, and I think apprenticeships can help. There are companies 
+like Midwestern Mechanical in Sioux Falls who understand that and have 
+created their own in-house apprenticeship programs.
+  Their apprentices get free classes while they work 40 hours a week in 
+their field. They earn while they learn. Unlike many college students, 
+they finish their program with a license, with a skill, with a job, and 
+without college debt.
+  Now, as we look forward to how do we grow this economy and how do we 
+do a better job, we have to understand that, yes, 4-year degrees are 
+important, but they are not the only way to close that skill gap.
+  I think that in-house apprenticeships like those at Midwestern 
+Mechanical show us an important way forward.
+
+                          ____________________
+```
