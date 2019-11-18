@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-11-18-pt1-PgH8943
+date: 2019-11-18
+edition: CREC
+section: HOUSE
+page: H8943
+citation: 165 Cong. Rec. H8943
+---
+
+# NATIONAL ADOPTION MONTH
+
+**Speaking:** Langevin, James R. (L000559) [D-RI]
+
+```
+                        NATIONAL ADOPTION MONTH
+
+  (Mr. LANGEVIN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANGEVIN. Mr. Speaker, as a co-chair of the Congressional Caucus 
+on Foster Youth and a member of the Adoption Caucus, I rise to 
+recognize National Adoption Month.
+  Mr. Speaker, all children deserve the love and security of a family, 
+but for the 125,000 youth waiting to be adopted from foster care, that 
+most basic of human needs can seem so out of reach. Through the Foster 
+Youth Caucus, we try to shine a spotlight on these youth, as well as 
+the adoptive families that open their hearts and homes to children in 
+need.
+  Ted and Teena Sullivan are two such adoptive parents from my home 
+State of Rhode Island. Ted is also the senior director of Mission 
+Advancement for Bethany Christian Services, and I was honored to 
+recognize him as a 2019 Congressional Coalition on Adoption Institute 
+Angel in Adoption last week.
+  Mr. Speaker, adoptive parents like Ted and Teena give children in 
+need the most important gift: a forever family. Let them be our example 
+this National Adoption Month as we recommit to serving our most 
+vulnerable youth.
+
+                          ____________________
+```
