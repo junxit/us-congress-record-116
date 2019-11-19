@@ -1,0 +1,31 @@
+---
+granule: CREC-2019-11-19-pt1-PgS6666
+date: 2019-11-19
+edition: CREC
+section: SENATE
+page: S6666
+citation: 165 Cong. Rec. S6666
+---
+
+# 100TH ANNIVERSARY OF THE ROTARY CLUB OF LAFAYETTE, LOUISIANA
+
+**Speaking:** Cassidy, Bill (C001075) [R-LA]
+
+```
+      100TH ANNIVERSARY OF THE ROTARY CLUB OF LAFAYETTE, LOUISIANA
+
+● Mr. CASSIDY. Madam President, the Rotary Club of Lafayette 
+will turn 100 years old in 2020. I would like to share with you some of 
+the accomplishments of the club since its founding in 1920. Early in 
+their history, they underwrote the election to fund the first public 
+library, they helped to establish One Acadiana and started the first 
+Lafayette Boy Scout troop. In addition to establishing Rotary Park in 
+the 1980s, they currently fund annual scholarships for local students, 
+coordinate food drives for FoodNet, and support Rotary's mission to 
+eradicate polio worldwide, in addition to supporting other local 
+charities.
+  Congratulations to the Rotary Club of Lafayette on this historic 
+achievement. I wish you all the best of luck in years to come.●
+
+                          ____________________
+```
