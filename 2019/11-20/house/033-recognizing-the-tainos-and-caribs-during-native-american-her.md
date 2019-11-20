@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-11-20-pt1-PgH9067-4
+date: 2019-11-20
+edition: CREC
+section: HOUSE
+page: H9067
+citation: 165 Cong. Rec. H9067
+---
+
+# RECOGNIZING THE TAINOS AND CARIBS DURING NATIVE AMERICAN HERITAGE MONTH
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+RECOGNIZING THE TAINOS AND CARIBS DURING NATIVE AMERICAN HERITAGE MONTH
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. PLASKETT. Madam Speaker, November is Native American Heritage 
+Month, and I would like to share with you a story, one unknown to most 
+Americans, but one that Virgin Islanders learn at a young age. It is 
+the Caribbean story of Europe's drive for conquest and the resistance 
+of the Native Americans of the Virgin Islands, the Tainos and the 
+Caribs.
+  In 1493, Columbus and his men landed on Ayay, known now as Saint 
+Croix in the U.S. Virgin Islands. There they met a group of Taino 
+people who had been taken captive by the Caribs. While en route back to 
+their ship with these captives, Columbus' men encountered the fierce 
+Carib villagers, and the first recorded violent conflict between 
+Europeans and Native Americans of the Western Hemisphere ensued, 
+killing one of Columbus' men.
+  Men and women fought with bows and canoes against gunpowder on ships. 
+It is our story of Native pride of resistance, of remembering what is 
+yours.
+  However, the Taino and Carib peoples have left us with so much more. 
+When you use such words as barbecue, guava, canoe, hurricane, potato, 
+maze, savannah, you are connecting with indigenous people who centuries 
+ago journeyed from South America to settle in the archipelago that has 
+given, and continues to give, much to this country and the world.
+
+                          ____________________
+```

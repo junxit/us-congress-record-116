@@ -1,0 +1,336 @@
+---
+granule: CREC-2019-11-20-pt1-PgS6722-2
+date: 2019-11-20
+edition: CREC
+section: SENATE
+page: S6722
+citation: 165 Cong. Rec. S6722
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** H.R. 3055
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 1249. Mr. MANCHIN (for himself, Mrs. Capito, Mr. Brown, Mr. 
+Warner, Mr. Casey, Mr. Kaine, Mr. Jones, Ms. Sinema, Ms. Duckworth, and 
+Mr. Van Hollen) submitted an amendment intended to be proposed by him 
+to the bill H.R. 3055, making appropriations for the Departments of 
+Commerce and Justice, Science, and Related Agencies for the fiscal year 
+ending September 30, 2020, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       On page 14, after line 15, insert the following:
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S6722, November 20, 2019, in the second column, the 
+following appears: On page 14, after line 22, insert the 
+following:
+  
+  The online Record has been corrected to read: On page 14, after 
+line 15, insert the following:
+
+
+ ========================= END NOTE ========================= 
+
+
+     SEC. 1603. BIPARTISAN AMERICAN MINERS ACT OF 2019.
+
+       (a) Short Title.--This section may be cited as the 
+     ``Bipartisan American Miners Act of 2019''.
+       (b) Transfers to 1974 UMWA Pension Plan.--
+       (1) In general.--Subsection (i) of section 402 of the 
+     Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 
+     1232) is amended--
+       (A) in paragraph (3)(A), by striking ``$490,000,000'' and 
+     inserting ``$750,000,000'';
+       (B) by redesignating paragraph (4) as paragraph (5); and
+       (C) by inserting after paragraph (3) the following:
+       ``(4) Additional amounts.--
+       ``(A) Calculation.--If the dollar limitation specified in 
+     paragraph (3)(A) exceeds the aggregate amount required to be 
+     transferred under paragraphs (1) and (2) for a fiscal year, 
+     the Secretary of the Treasury shall transfer an additional 
+     amount equal to the difference between such dollar limitation 
+     and such aggregate amount to the trustees of the 1974 UMWA 
+     Pension Plan to pay benefits required under that plan.
+       ``(B) Cessation of transfers.--The transfers described in 
+     subparagraph (A) shall cease as of the first fiscal year 
+     beginning after the first plan year for which the funded 
+     percentage (as defined in section 432(j)(2) of the Internal 
+     Revenue Code of 1986) of the 1974 UMWA Pension Plan is at 
+     least 100 percent.
+       ``(C) Prohibition on benefit increases, etc.--During a 
+     fiscal year in which the 1974 UMWA Pension Plan is receiving 
+     transfers under subparagraph (A), no amendment of such plan 
+     which increases the liabilities of the plan by reason of any 
+     increase in benefits, any change in the accrual of benefits, 
+     or any change in the rate at which benefits become 
+     nonforfeitable under the plan may be adopted unless the 
+     amendment is required as a condition of qualification under 
+     part I of subchapter D of chapter 1 of the Internal Revenue 
+     Code of 1986.
+       ``(D) Critical status to be maintained.--Until such time as 
+     the 1974 UMWA Pension Plan ceases to be eligible for the 
+     transfers described in subparagraph (A)--
+       ``(i) the Plan shall be treated as if it were in critical 
+     status for purposes of sections 412(b)(3), 432(e)(3), and 
+     4971(g)(1)(A) of the Internal Revenue Code of 1986 and 
+     sections 302(b)(3) and 305(e)(3) of the Employee Retirement 
+     Income Security Act;
+       ``(ii) the Plan shall maintain and comply with its 
+     rehabilitation plan under section 432(e) of such Code and 
+     section 305(e) of such Act, including any updates thereto; 
+     and
+       ``(iii) the provisions of subsections (c) and (d) of 
+     section 432 of such Code and subsections (c) and (d) of 
+     section 305 of such Act shall not apply.
+       ``(E) Treatment of transfers for purposes of withdrawal 
+     liability under erisa.--The amount of any transfer made under 
+     subparagraph (A) (and any earnings attributable thereto) 
+     shall be disregarded in determining the unfunded vested 
+     benefits of the 1974 UMWA Pension Plan and the allocation of 
+     such unfunded vested benefits to an employer for purposes of 
+     determining the employer's withdrawal liability under section 
+     4201 of the Employee Retirement Income Security Act of 1974.
+       ``(F) Requirement to maintain contribution rate.--A 
+     transfer under subparagraph (A) shall not be made for a 
+     fiscal year unless the persons that are obligated to 
+     contribute to the 1974 UMWA Pension Plan on the date of the 
+     transfer are obligated to make the contributions at rates 
+     that are no less than those in effect on the date which is 30 
+     days before the date of enactment of the Bipartisan American 
+     Miners Act of 2019.
+       ``(G) Enhanced annual reporting.--
+       ``(i) In general.--Not later than the 90th day of each plan 
+     year beginning after the date of enactment of the Bipartisan 
+     American Miners Act of 2019, the trustees of the 1974 UMWA 
+     Pension Plan shall file with the Secretary of the Treasury or 
+     the Secretary's delegate and the Pension Benefit Guaranty 
+     Corporation a report (including appropriate documentation and 
+     actuarial certifications from the plan actuary, as required 
+     by the Secretary of the Treasury or the Secretary's delegate) 
+     that contains--
+
+       ``(I) whether the plan is in endangered or critical status 
+     under section 305 of the Employee Retirement Income Security 
+     Act of 1974 and section 432 of the Internal Revenue Code of 
+     1986 as of the first day of such plan year;
+       ``(II) the funded percentage (as defined in section 
+     432(j)(2) of such Code) as of the first day of such plan 
+     year, and the underlying actuarial value of assets and 
+     liabilities taken into account in determining such 
+     percentage;
+       ``(III) the market value of the assets of the plan as of 
+     the last day of the plan year preceding such plan year;
+
+[[Page S6723]]
+
+       ``(IV) the total value of all contributions made during the 
+     plan year preceding such plan year;
+       ``(V) the total value of all benefits paid during the plan 
+     year preceding such plan year;
+       ``(VI) cash flow projections for such plan year and either 
+     the 6 or 10 succeeding plan years, at the election of the 
+     trustees, and the assumptions relied upon in making such 
+     projections;
+       ``(VII) funding standard account projections for such plan 
+     year and the 9 succeeding plan years, and the assumptions 
+     relied upon in making such projections;
+       ``(VIII) the total value of all investment gains or losses 
+     during the plan year preceding such plan year;
+       ``(IX) any significant reduction in the number of active 
+     participants during the plan year preceding such plan year, 
+     and the reason for such reduction;
+       ``(X) a list of employers that withdrew from the plan in 
+     the plan year preceding such plan year, and the resulting 
+     reduction in contributions;
+       ``(XI) a list of employers that paid withdrawal liability 
+     to the plan during the plan year preceding such plan year 
+     and, for each employer, a total assessment of the withdrawal 
+     liability paid, the annual payment amount, and the number of 
+     years remaining in the payment schedule with respect to such 
+     withdrawal liability;
+       ``(XII) any material changes to benefits, accrual rates, or 
+     contribution rates during the plan year preceding such plan 
+     year;
+       ``(XIII) any scheduled benefit increase or decrease in the 
+     plan year preceding such plan year having a material effect 
+     on liabilities of the plan;
+       ``(XIV) details regarding any funding improvement plan or 
+     rehabilitation plan and updates to such plan;
+       ``(XV) the number of participants and beneficiaries during 
+     the plan year preceding such plan year who are active 
+     participants, the number of participants and beneficiaries in 
+     pay status, and the number of terminated vested participants 
+     and beneficiaries;
+       ``(XVI) the information contained on the most recent annual 
+     funding notice submitted by the plan under section 101(f) of 
+     the Employee Retirement Income Security Act of 1974;
+       ``(XVII) the information contained on the most recent 
+     Department of Labor Form 5500 of the plan; and
+       ``(XVIII) copies of the plan document and amendments, other 
+     retirement benefit or ancillary benefit plans relating to the 
+     plan and contribution obligations under such plans, a 
+     breakdown of administrative expenses of the plan, participant 
+     census data and distribution of benefits, the most recent 
+     actuarial valuation report as of the plan year, copies of 
+     collective bargaining agreements, and financial reports, and 
+     such other information as the Secretary of the Treasury or 
+     the Secretary's delegate, in consultation with the Secretary 
+     of Labor and the Director of the Pension Benefit Guaranty 
+     Corporation, may require.
+
+       ``(ii) Electronic submission.--The report required under 
+     clause (i) shall be submitted electronically.
+       ``(iii) Information sharing.--The Secretary of the Treasury 
+     or the Secretary's delegate shall share the information in 
+     the report under clause (i) with the Secretary of Labor.
+       ``(iv) Penalty.--Any failure to file the report required 
+     under clause (i) on or before the date described in such 
+     clause shall be treated as a failure to file a report 
+     required to be filed under section 6058(a) of the Internal 
+     Revenue Code of 1986, except that section 6652(e) of such 
+     Code shall be applied with respect to any such failure by 
+     substituting `$100' for `$25'. The preceding sentence shall 
+     not apply if the Secretary of the Treasury or the Secretary's 
+     delegate determines that reasonable diligence has been 
+     exercised by the trustees of such plan in attempting to 
+     timely file such report.
+       ``(H) 1974 umwa pension plan defined.--For purposes of this 
+     paragraph, the term `1974 UMWA Pension Plan' has the meaning 
+     given the term in section 9701(a)(3) of the Internal Revenue 
+     Code of 1986, but without regard to the limitation on 
+     participation to individuals who retired in 1976 and 
+     thereafter.''.
+       (2) Effective dates.--
+       (A) In general.--The amendments made by this subsection 
+     shall apply to fiscal years beginning after September 30, 
+     2016.
+       (B) Reporting requirements.--Section 402(i)(4)(G) of the 
+     Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 
+     1232(i)(4)(G)), as added by this subsection, shall apply to 
+     plan years beginning after the date of the enactment of this 
+     Act.
+       (c) Inclusion in Multiemployer Health Benefit Plan.--
+     Section 402(h)(2)(C) of the Surface Mining Control and 
+     Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)) is 
+     amended--
+       (1) by striking ``the Health Benefits for Miners Act of 
+     2017'' both places it appears in clause (ii) and inserting 
+     ``the Bipartisan American Miners Act of 2019'';
+       (2) by striking ``, would be denied or reduced as a result 
+     of a bankruptcy proceeding commenced in 2012 or 2015'' in 
+     clause (ii)(II) and inserting ``or a related coal wage 
+     agreement, would be denied or reduced as a result of a 
+     bankruptcy proceeding commenced in 2012, 2015, 2018, or 
+     2019'';
+       (3) by striking ``and'' at the end of clause (ii)(I), by 
+     striking the period at the end of clause (ii)(II) and 
+     inserting ``; and'', and by inserting after clause (ii)(II) 
+     the following new subclause:
+
+       ``(III) the cost of administering the resolution of 
+     disputes process administered (as of the date of the 
+     enactment of the Bipartisan American Miners Act of 2019) by 
+     the Trustees of the Plan.'',
+
+       (4) by striking ``January 1, 2017'' in clause (ii) and 
+     inserting ``January 1, 2019''; and
+       (5) by adding at the end the following new clause:
+       ``(vi) Related coal wage agreement.--For purposes of clause 
+     (ii), the term `related coal wage agreement' means an 
+     agreement between the United Mine Workers of America and an 
+     employer in the bituminous coal industry that--
+
+       ``(I) is a signatory operator; or
+       ``(II) is or was a debtor in a bankruptcy proceeding that 
+     was consolidated, administratively or otherwise, with the 
+     bankruptcy proceeding of a signatory operator or a related 
+     person to a signatory operator (as those terms are defined in 
+     section 9701(c) of the Internal Revenue Code of 1986).''.
+
+       (d) Reduction in Minimum Age for Allowable In-service 
+     Distributions.--
+       (1) In general.--Section 401(a)(36) of the Internal Revenue 
+     Code of 1986 is amended by striking ``age 62'' and inserting 
+     ``age 59\1/2\''.
+       (2) Application to governmental section 457(b) plans.--
+     Clause (i) of section 457(d)(1)(A) of the Internal Revenue 
+     Code of 1986 is amended by inserting ``(in the case of a plan 
+     maintained by an employer described in subsection (e)(1)(A), 
+     age 59\1/2\)'' before the comma at the end.
+       (3) Effective date.--The amendments made by this subsection 
+     shall apply to plan years beginning after December 31, 2019.
+                                 ______
+                                 
+  SA 1250. Mr. PAUL submitted an amendment intended to be proposed by 
+him to the bill H.R. 3055, making appropriations for the Departments of 
+Commerce and Justice, Science, and Related Agencies for the fiscal year 
+ending September 30, 2020, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       At the appropriate place in division A, add the following:
+
+     SEC. ___. REDUCTION IN RATE FOR OPERATIONS.
+
+       The Continuing Appropriations Act, 2020 (division A of 
+     Public Law 116-59) is further amended by inserting after 
+     section 150, as added by section 101 of this division, the 
+     following:
+
+     ``SEC. 151. REDUCTION IN CONTINUING APPROPRIATIONS TO PROVIDE 
+                   SAVINGS FOR THE HIGHWAY TRUST FUND AND 
+                   ENVIRONMENTAL PROTECTION AGENCY INFRASTRUCTURE 
+                   ASSISTANCE.
+
+       ``(a) Reduction in Continuing Appropriations.--
+       ``(1) In general.--Except as provided in paragraph (2), the 
+     rate for operations provided by section 101 is hereby reduced 
+     by 1 percent.
+       ``(2) Exceptions.--The rate for operations shall not be 
+     reduced under paragraph (1) for the following:
+       ``(A) Amounts made available from the Highway Trust Fund 
+     established by section 9503(a) of the Internal Revenue Code 
+     of 1986.
+       ``(B) Amounts for purposes described in section 147.
+       ``(C) For the Environmental Protection Agency, 
+     Infrastructure Assistance, amounts made available for the 
+     following:
+       ``(i) The Clean Water State Revolving Funds and the 
+     Drinking Water State Revolving Funds.
+       ``(ii) The Water Infrastructure Finance and Innovation Act 
+     Program Account.
+       ``(iii) The America's Water Infrastructure Act Grant 
+     Programs under section 1459A of the Safe Drinking Water Act 
+     (42 U.S.C. 300j-19a).
+       ``(b) Transfer of Savings.--
+       ``(1) Determination of savings.--The Secretary of the 
+     Treasury shall determine the amount of the reduction in 
+     amounts made available under section 101 of this division 
+     that is attributable to subsection (a).
+       ``(2) Transfer.--The Secretary of the Treasury shall 
+     transfer from the General Fund of the Treasury an amount 
+     equal to the amount determined under paragraph (1), as 
+     follows:
+       ``(A) For the Highway Trust Fund established by section 
+     9503(a) of the Internal Revenue Code of 1986, 95 percent of 
+     such amount.
+       ``(B) For the Clean Water State Revolving Funds and the 
+     Drinking Water State Revolving Funds, 3 percent of such 
+     amount.
+       ``(C) For the Water Infrastructure Finance and Innovation 
+     Act Program Account, 1 percent of such amount.
+       ``(D) For the America's Water Infrastructure Act Grant 
+     Programs under section 1459A of the Safe Drinking Water Act 
+     (42 U.S.C. 300j-19a), 1 percent of such amount.
+       ``(3) Availability.--Amounts transferred under paragraph 
+     (2) shall remain available until expended.''.
+
+                          ____________________
+```

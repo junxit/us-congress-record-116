@@ -1,0 +1,33 @@
+---
+granule: CREC-2019-11-20-pt1-PgH9104-2
+date: 2019-11-20
+edition: CREC
+section: HOUSE
+page: H9104
+citation: 165 Cong. Rec. H9104
+---
+
+# HONORING TRACY SINGLE ON TRANSGENDER DAY OF REMEMBRANCE
+
+**Speaking:** Fletcher, Lizzie (F000468) [D-TX]
+
+```
+        HONORING TRACY SINGLE ON TRANSGENDER DAY OF REMEMBRANCE
+
+  (Mrs. FLETCHER asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. FLETCHER. Mr. Speaker, today, on Transgender Remembrance Day, I 
+rise to remember Tracy Single, who was killed in July of this year in 
+my district, the 15th transgender woman of color murdered this year.
+  A music lover with an eye for fashion and an ear for music, 22-year-
+old Tracy moved to Houston to pursue her dream of becoming a rapper. 
+Tension around her gender identity forced her out of her home, and she 
+experienced a very hard time, but she was persistent and upbeat, always 
+working to achieve her goals.
+  Her life reminds us that creative and vibrant people can thrive even 
+in the most difficult circumstances. And her death reminds us that 
+transgender people are under attack and must have equal protection 
+under the law.
+
+                          ____________________
+```

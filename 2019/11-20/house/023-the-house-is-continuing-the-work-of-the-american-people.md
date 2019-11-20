@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-11-20-pt1-PgH9065-6
+date: 2019-11-20
+edition: CREC
+section: HOUSE
+page: H9065
+citation: 165 Cong. Rec. H9065
+---
+
+# THE HOUSE IS CONTINUING THE WORK OF THE AMERICAN PEOPLE
+
+**Speaking:** Cardenas, Tony (C001097) [D-CA]
+
+```
+        THE HOUSE IS CONTINUING THE WORK OF THE AMERICAN PEOPLE
+
+  (Mr. CARDENAS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CARDENAS. Madam Speaker, I rise today to highlight the great work 
+of the House of Representatives. For the last 10 months in the 116th 
+Congress, the House of Representatives has passed 18 healthcare bills, 
+5 gun safety bills, 81 education bills, 47 national security and 
+defense bills, 45 environmental bills, 36 immigration bills, 40 
+infrastructure and transportation bills, and much more.
+  My point, Madam Speaker, is that we are continuing the work of the 
+American people. We never lost sight of our promise and commitment to 
+the people of this great country.
+  We are constantly fighting back the White House's attempt to take 
+away healthcare from millions of Americans, and we are working to lower 
+prescription drug costs.
+  We will continue supporting our military and ensure that they have 
+all the resources that they need to keep Americans safe.
+  We will not allow this President to keep us from fulfilling our duty 
+to make our economy stronger, our
+
+[[Page H9066]]
+
+schools safer, and to protect us from tyranny.
+
+                          ____________________
+```

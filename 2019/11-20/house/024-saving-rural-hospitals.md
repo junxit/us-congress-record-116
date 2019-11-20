@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-11-20-pt1-PgH9066
+date: 2019-11-20
+edition: CREC
+section: HOUSE
+page: H9066
+citation: 165 Cong. Rec. H9066
+---
+
+# SAVING RURAL HOSPITALS
+
+**Speaking:** Green, Mark E. (G000590) [R-TN]
+
+**Measures:** H.R. 2990
+
+```
+                         SAVING RURAL HOSPITALS
+
+  (Mr. GREEN of Tennessee asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GREEN of Tennessee. Madam Speaker, instead of this laser focus on 
+impeachment, we should be doing the people's work and passing a bill to 
+help many Americans across this country who live in rural areas. My 
+bipartisan Rural Health Care Access Act, H.R. 2990, would do just that.
+  Between January 1, 2010, and March 19, 2019, 102 rural hospitals 
+closed in America. We are facing a crisis for rural America. These 
+closures are increasing almost every year.
+  While so many of our senior citizens must utilize Medicare, Medicare 
+is not reimbursing all hospitals in rural areas at a sustainable rate. 
+We need to designate all our rural hospitals as Critical Access 
+Hospitals.
+  Currently, this designation does not apply to those hospitals in 
+rural areas that are slightly less than 35 miles from another hospital. 
+My bill would get rid of this distance requirement, while maintaining 
+all other requirements. It would help stave off the rapid decline of 
+healthcare and protect vital jobs in rural communities.
+  I urge the Speaker to give my bill a chance.
+
+                          ____________________
+```
