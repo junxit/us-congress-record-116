@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-11-21-pt1-PgH9155-6
+date: 2019-11-21
+edition: CREC
+section: HOUSE
+page: H9155
+citation: 165 Cong. Rec. H9155
+---
+
+# CELEBRATING GEORGE HYAK'S 100TH BIRTHDAY
+
+**Speaking:** Cloud, Michael (C001115) [R-TX]
+
+```
+                CELEBRATING GEORGE HYAK'S 100TH BIRTHDAY
+
+  (Mr. CLOUD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLOUD. Madam Speaker, I rise to today to wish Mr. George Hyak of 
+Victoria, Texas, a heartfelt happy 100th birthday and to thank him for 
+his service to our country.
+  George is an example of a life well lived. He and his precious bride, 
+Sarah, have been married for 71 years, and their family has flourished.
+  George served our Nation heroically during World War II, storming the 
+beaches of Normandy on D-day, fighting in the Battle of the Bulge, and 
+liberating a Nazi concentration camp.
+  After the war, he returned home and continued operating the Dick's 
+Food Stores in Victoria, which he cofounded. The longevity of the store 
+earned it the Texas Treasure Business Award.
+  As we look to celebrate Thanksgiving, we as a nation do have a lot to 
+be thankful for, including veterans like George. May Mr. Hyak's life 
+serve as a reminder of the price that he and others like him paid for 
+our freedom.
+
+                          ____________________
+```

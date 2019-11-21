@@ -1,0 +1,47 @@
+---
+granule: CREC-2019-11-21-pt1-PgH9155-7
+date: 2019-11-21
+edition: CREC
+section: HOUSE
+page: H9155
+citation: 165 Cong. Rec. H9155
+---
+
+# OUR FEDERAL FISCAL HOUSE IS OUT OF ORDER
+
+**Speaking:** Case, Ed (C001055) [D-HI]
+
+**Measures:** H.R. 4907, H.R. 5178, H.R. 5211
+
+```
+                OUR FEDERAL FISCAL HOUSE IS OUT OF ORDER
+
+  (Mr. CASE asked and was given permission to address the House for 1
+
+[[Page H9156]]
+
+minute and to revise and extend his remarks.)
+  Mr. CASE. Madam Speaker, can anyone seriously dispute that our 
+Federal fiscal house is seriously out of order?
+  Our national debt stands at $23 trillion, doubling in just the last 
+decade alone. No end is in sight, as we just registered $1 trillion 
+annual deficit in the last fiscal year, and this fiscal year looks the 
+same or worse. Interest payments alone will exceed defense spending by 
+2025.
+  We need look no further than into the mirror for the root cause. It 
+is our collective inability to face the music of fiscal responsibility 
+and sustainability. We clearly need help.
+  H.R. 5211, the Sustainable Budget Act, cointroduced today with my 
+colleague from Arkansas, the ranking member of the Budget Committee, 
+Mr. Womack, would follow the models of Simpson-Bowles and other such 
+independent commissions charged with focusing on our debt and 
+recommending a sustainable path forward for an up-or-down vote by 
+Congress.
+  In that, our bill is similar to other measures I have also 
+cointroduced: H.R. 4907, the TRUST Act, with Representatives Gallagher 
+and McAdams; and H.R. 5178, the RAFT Act, with Representative Burchett. 
+Together, they offer a far better way forward to tackling our debt 
+crisis, and I urge their prompt consideration and passage.
+
+                          ____________________
+```
