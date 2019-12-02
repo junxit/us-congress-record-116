@@ -1,0 +1,49 @@
+---
+granule: CREC-2019-12-02-pt1-PgS6787-4
+date: 2019-12-02
+edition: CREC
+section: SENATE
+page: S6787
+citation: 165 Cong. Rec. S6787
+---
+
+# TRIBUTE TO MICHAEL T. CARRIGAN
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                     TRIBUTE TO MICHAEL T. CARRIGAN
+
+● Ms. DUCKWORTH. Mr. President, I rise today to honor the 
+outstanding career of Michael T. Carrigan. Mr. Carrigan is retiring as 
+president of the Illinois AFL-CIO following a long and distinguished 
+career in public service.
+  After growing up in Bradley, IL, Mr. Carrigan graduated from 
+MacMurray College in Jacksonville. He then completed a 4-year 
+apprenticeship program and became a wireman before serving as business 
+manager and financial secretary for International Brotherhood of 
+Electrical Workers Local 146.
+  In 1995, Mr. Carrigan was elected to the Decatur City Council. He was 
+appointed mayor of Decatur in 2008 to complete the term of another, 
+retiring mayor. In 2010, he became president of the Illinois AFL-CIO, 
+where he has spent the last 20 years advocating for workers and 
+families across my State.
+
+[[Page S6788]]
+
+  Among the many victories Mr. Carrigan has secured for working 
+families, he recently helped successfully push for a minimum wage 
+increase in Illinois and a $45 billion State infrastructure package. He 
+has been lauded for his ``steady hand'' and leadership and will no 
+doubt be missed by his membership and everyone in Illinois that 
+supports the rights of working people.
+  I thank Mr. Carrigan for his service to the State of Illinois, and I 
+wish him all the best in retirement.●
+
+                          ____________________
+```

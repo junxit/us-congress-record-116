@@ -1,0 +1,168 @@
+---
+granule: CREC-2019-12-02-pt1-PgS6790-4
+date: 2019-12-02
+edition: CREC
+section: SENATE
+page: S6790
+citation: 165 Cong. Rec. S6790
+---
+
+# SUPPORTING THE GLOBAL FUND TO FIGHT AIDS, TUBERCULOSIS AND MALARIA, AND THE SIXTH REPLENISHMENT
+
+**Speaking:** Boozman, John (B001236) [R-AR]
+
+**Measures:** S.Res. 318
+
+```
+SUPPORTING THE GLOBAL FUND TO FIGHT AIDS, TUBERCULOSIS AND MALARIA, AND 
+                        THE SIXTH REPLENISHMENT
+
+  Mr. BOOZMAN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 236, S. Res. 318.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 318) to support the Global Fund to 
+     fight AIDS, Tuberculosis and Malaria, and the Sixth 
+     Replenishment.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, with amendments, as follows:
+
+       (The parts of the resolution intended to be stricken are 
+     shown in boldface brackets, and the parts of the resolution 
+     intended to be inserted are shown in italics.)
+
+                              S. Res. 318
+
+       Whereas the Global Fund to Fight AIDS, Tuberculosis, and 
+     Malaria has been an effective partnership of governments, the 
+     private sector, civil society, and affected communities to 
+     galvanize political and financial efforts to improve the 
+     response to these epidemics since 2002;
+       Whereas, in 2017, the Global Fund contributed to 
+     extraordinary improvements in global health that would 
+     otherwise not have occurred, including a more than 50 percent 
+     reduction in the number of AIDS-related deaths since the peak 
+     in 2005, a 37 percent decline in tuberculosis (TB) deaths 
+     since 2000, and a 60 percent decline in the number of malaria 
+     deaths since 2000;
+       Whereas, since the Global Fund's creation in 2002, more 
+     than 27,000,000 lives have been saved in the countries where 
+     it invests;
+       Whereas the Global Fund and its partners work to maintain a 
+     steadfast commitment to transparency and accountability and 
+     have received high marks in multilateral aid reviews and by 
+     independent watchdog groups;
+       Whereas a 2019 study published in the Annals of Global 
+     Health found evidence of associated improvements in 
+     government accountability, control of corruption, political 
+     freedoms, regulatory quality, and rule of law that are 
+     significant in countries where the Global Fund invests;
+       Whereas, despite progress in combating AIDS, tuberculosis, 
+     and malaria, challenges such as drug and insecticide 
+     resistance, reaching marginalized and vulnerable populations, 
+     and complacency in the fight against infectious diseases 
+     threaten further progress;
+       Whereas United States leadership has been critical to the 
+     success of the Global Fund, both as its largest donor and 
+     through its oversight role on the Board of the Global Fund;
+       Whereas Global Fund programs and activities support and 
+     complement United States bilateral health programs, including 
+     the President's Emergency Plan for AIDS Relief, the 
+     President's Malaria Initiative, and the United States Agency 
+     for International Development tuberculosis program;
+       Whereas the United States is limited by law from 
+     contributing more than 33 percent of the Global Fund budget, 
+     thereby encouraging other partners to significantly increase 
+     their contributions;
+       Whereas the Global Fund's requirements for co-financing 
+     have spurred domestic investments, with recipient countries 
+     committing 41 percent more of their own funding to fight 
+     AIDS, tuberculosis, and malaria for 2018-2020 compared to 
+     2015-2017;
+       Whereas the Global Fund has called on donors to support its 
+     Sixth Replenishment by mobilizing a minimum of 
+     $14,000,000,000 in donor commitments for 2021-2023;
+       Whereas Canada, the European Union, Germany, India, 
+     Ireland, Italy, Luxembourg, Japan, Portugal, Switzerland, and 
+     the United Kingdom have responded to the call by 
+     significantly increasing their respective pledges for the 
+     Sixth Replenishment;
+       Whereas recipient countries also are expected to increase 
+     their co-financing by 48 percent, growing to $46,000,000,000 
+     in 2021-2023; and
+       Whereas, with these resources secured, the Global Fund 
+     projects it will reduce the number of deaths due to AIDS, TB, 
+     and malaria by nearly 50 percent, avert 234,000,000 
+     infections or disease cases, and save an additional 
+     16,000,000 lives; Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the work of the Global Fund and its partners 
+     for their contributions aimed at ending the epidemics of 
+     AIDS, tuberculosis, and malaria;
+       (2) affirms the support of the United States for the goal 
+     of securing a minimum of $14,000,000,000 in donor commitments 
+     for the Sixth Global Fund Replenishment, to be held on 
+     October 10, 2019, in Lyon, France;
+       (3) supports United States contributions of 33 percent of 
+     the budget provided by the Global Fund's Sixth Replenishment, 
+     consistent with
+
+[[Page S6791]]
+
+     section 202(d) of the United States Leadership Against HIV/
+     AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 
+     7622(d)), and provided that the Fund continues to uphold its 
+     longstanding commitment to transparency, accountability, and 
+     results in combating AIDS, tuberculosis, and malaria;
+       [(3)] (4) urges donor countries to step up the fight and 
+     increase their pledges for the Sixth Global Fund 
+     Replenishment;
+       [(4)] (5) urges Global Fund recipient countries to continue 
+     to make and meet ambitious co-financing commitments to 
+     sustain progress in ending the epidemics of AIDS, 
+     tuberculosis, and malaria; and
+       [(5)] (6) encourages United States bilateral aid programs 
+     to continue their collaboration with the Global Fund to 
+     maximize the life-saving impact of global health investments.
+
+  Mr. BOOZMAN. I ask unanimous consent that the committee-reported 
+amendments to the resolution be agreed to; that the resolution, as 
+amended, be agreed to; that the preamble be agreed to; and that the 
+motions to reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendments were agreed to.
+  The resolution (S. Res. 318), as amended, was agreed to.
+  The preamble was agreed to.
+  (The resolution is printed in the Record of Tuesday, December 10, 
+2019.)
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S6791, December 2, 2019, first column, the following 
+appears: The PRESIDING OFFICER. Without objection, it is so 
+ordered. The committee-reported amendments were agreed to. The 
+resolution (S. Res. 318), as amended, was agreed to. The preamble 
+was agreed to. (The resolution, with its preamble, is printed in 
+the Record of September 17, 2019, under ``Submitted 
+Resolutions.'')
+  
+  The online Record has been corrected to read: The PRESIDING 
+OFFICER. Without objection, it is so ordered. The committee-
+reported amendments were agreed to. The resolution (S. Res. 318), 
+as amended, was agreed to. The preamble was agreed to. (The 
+resolution is printed in the Record of Tuesday, December 10, 
+2019.)
+
+
+ ========================= END NOTE ========================= 
+
+
+
+
+                          ____________________
+```
