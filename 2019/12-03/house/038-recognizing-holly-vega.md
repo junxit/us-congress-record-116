@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-12-03-pt1-PgH9211-6
+date: 2019-12-03
+edition: CREC
+section: HOUSE
+page: H9211
+citation: 165 Cong. Rec. H9211
+---
+
+# RECOGNIZING HOLLY VEGA
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+                              {time}  1930
+                         RECOGNIZING HOLLY VEGA
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute.)
+
+[[Page H9212]]
+
+  
+
+  Mr. SPANO. Madam Speaker, I rise today to recognize Holly Vega, a 
+resident of my district, who was recently named the 2019 Armed Forces 
+Insurance Military Spouse of the Year.
+  Military spouses are unsung heroes that are responsible for securing 
+the homestead and supporting our servicemembers. And for Holly's 
+husband, Marine Corps Lieutenant Colonel Javier Vega, she is a gift to 
+their family and to their community.
+  Holly has been recognized for her generosity, her passion, and her 
+heart for philanthropy, and for empowering other military spouses 
+through community service opportunities and volunteerism. Her own 
+selfless service has extended to the South Tampa Chamber of Commerce, 
+Military Hearts Matter, and the Girl Scouts.
+  I am so grateful for the thousands of spouses like Holly whose 
+sacrifices and stresses are sometimes overshadowed, but whose 
+contributions to our national defense and our communities are 
+priceless.
+  I thank you, Holly, for your passion and your drive to give to those 
+in need. You indeed are a gift to many, and I salute you.
+
+                          ____________________
+```

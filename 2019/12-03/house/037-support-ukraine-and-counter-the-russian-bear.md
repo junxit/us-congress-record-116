@@ -1,0 +1,48 @@
+---
+granule: CREC-2019-12-03-pt1-PgH9211-5
+date: 2019-12-03
+edition: CREC
+section: HOUSE
+page: H9211
+citation: 165 Cong. Rec. H9211
+---
+
+# SUPPORT UKRAINE AND COUNTER THE RUSSIAN BEAR
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+**Measures:** H.Res. 546
+
+```
+              SUPPORT UKRAINE AND COUNTER THE RUSSIAN BEAR
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, earlier tonight, the Democrat leadership 
+of this House put to the floor a resolution, H. Res. 546, to state that 
+Russia should not be allowed to officially rejoin the G7. That 
+resolution calls out the President's desire to reengage with Russia in 
+the G7 in an attempt to put Republican Members in the House in a false 
+debate between supporting the President and supporting Ukraine's 
+sovereignty.
+  Madam Speaker, there is no debate, at least not in the Republican 
+Conference. As we all have voted before:
+  Russia must restore Ukraine's borders;
+  The United States must continue to provide military aid to Ukraine to 
+withstand Russian aggression;
+  The United States must continue to assist our European allies in 
+resisting Russian influence; and
+  The United States must continue to sanction the irresponsible regime 
+of Vladimir Putin.
+  In all these policies, President Trump has actually gone further than 
+President Obama: sanctions have increased; military aid has been 
+elevated to include lethal weapons.
+  I strongly support the President's policies to continue to support 
+Ukraine and counter the Russian bear.
+  Madam Speaker, NATO--where the President is over, today, working in 
+London and remarked that NATO has become stronger--did not become a 
+strong alliance by having the House of Representatives constantly 
+undercut the Commander in Chief.
+
+                          ____________________
+```
