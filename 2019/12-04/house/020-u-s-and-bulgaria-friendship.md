@@ -1,0 +1,43 @@
+---
+granule: CREC-2019-12-04-pt1-PgH9229-7
+date: 2019-12-04
+edition: CREC
+section: HOUSE
+page: H9229
+citation: 165 Cong. Rec. H9229
+---
+
+# U.S. AND BULGARIA FRIENDSHIP
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                      U.S. AND BULGARIA FRIENDSHIP
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, last week, President 
+Donald Trump warmly welcomed Bulgarian Prime Minister Boyko Borissov to 
+the White House and reaffirmed the strong alliance between our two 
+countries.
+  Based on this successful meeting, the United States and Bulgaria 
+announced a new strategic partnership framework to deepen our historic 
+bilateral relationship which spans over 100 years.
+  According to a joint statement to face a growing concern about the 
+security situation in the Black Sea, Bulgaria offered to provide a 
+maritime coordination function at Varna in support of NATO's Tailored 
+Forward Presence Initiative. This is so important and will be a welcome 
+step in the formation of an intelligence hub in the region to counter 
+destructive activity. The two also agreed to work more closely on 
+energy diversification to advance Bulgaria's energy sector, reduce 
+prices for citizens, and allow for Bulgaria to become a true gas hub 
+and key source of regional energy security.
+  These two measures underscore the important role that Bulgaria 
+continues to play as an ally and a valuable NATO member. I am grateful 
+that President Trump is prioritizing a relationship with a beloved ally 
+like Bulgaria.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```
