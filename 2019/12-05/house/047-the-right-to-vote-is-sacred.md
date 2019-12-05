@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-12-05-pt1-PgH9282-4
+date: 2019-12-05
+edition: CREC
+section: HOUSE
+page: H9282
+citation: 165 Cong. Rec. H9282
+---
+
+# THE RIGHT TO VOTE IS SACRED
+
+**Speaking:** Engel, Eliot L. (E000179) [D-NY]
+
+**Measures:** H.R. 4
+
+```
+                      THE RIGHT TO VOTE IS SACRED
+
+  (Mr. ENGEL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ENGEL. Madam Speaker, I rise in support of H.R. 4, the Voting 
+Rights Advancement Act.
+  The right to vote is sacred and must not be infringed upon. Sadly, 
+our Nation has a long and even bloody history of racial voter 
+suppression, but lately that suppression has been supercharged by the 
+terrible decision in Shelby County v. Holder. This case gutted key 
+protections of the Voting Rights Act, allowing for States to prevent 
+certain groups from accessing the ballot through voter ID laws, closing 
+polling locations, and even purging voter rolls.
+  I will be pleased to vote in favor of H.R. 4, as it represents a 
+major step toward ensuring every citizen has the ability to vote. H.R. 
+4 will create a new coverage formula for repeated voting rights 
+violations in the last 25 years and establish practice-based 
+preclearance to focus administrative or judiciary review narrowly on 
+suspect voting practices.
+  With the House approving H.R. 4, we take a major step forward, and I 
+urge prompt action by the other body.
+
+                          ____________________
+```

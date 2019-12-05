@@ -1,0 +1,40 @@
+---
+granule: CREC-2019-12-05-pt1-PgH9263-8
+date: 2019-12-05
+edition: CREC
+section: HOUSE
+page: H9263
+citation: 165 Cong. Rec. H9263
+---
+
+# WAGES ARE RISING IN SOUTH CAROLINA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                   WAGES ARE RISING IN SOUTH CAROLINA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Madam Speaker, yesterday, Jessica 
+Holdman with The Post and Courier reported that wages in South Carolina 
+rose faster than expected this year and will continue to rise. I was 
+alerted to this by Gary David and Christopher Thompson on WVOC by 
+iHeartRadio. I am grateful for President Donald Trump's actions to 
+increase wages by reducing taxes and regulations.
+  According to Doug Woodward, economist with the University of South 
+Carolina's Darla Moore School of Business, this is the best job market 
+we have seen in a generation. USC economist Joey Von Nessen says, 
+``workers are in high demand right now, and we are seeing strong wage 
+growth as a result. This includes wage growth for workers across the 
+pay scale, with those on the lower end benefiting the most.''
+  By creating jobs, raising wages, and consistently working to promote 
+opportunities, President Trump is continuing his record of keeping his 
+promises. I am grateful that President Trump is focused to work for 
+American families and jobs, despite the failed Russian hoax and today 
+the impeachment hoax.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism.
+
+                          ____________________
+```

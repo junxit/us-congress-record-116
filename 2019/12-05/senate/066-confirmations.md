@@ -1,0 +1,32 @@
+---
+granule: CREC-2019-12-05-pt1-PgS6896-3
+date: 2019-12-05
+edition: CREC
+section: SENATE
+page: S6896
+citation: 165 Cong. Rec. S6896
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 5, 2019:
+
+
+                      UNITED STATES POSTAL SERVICE
+
+       ROBERT M. DUNCAN, OF KENTUCKY, TO BE A GOVERNOR OF THE 
+     UNITED STATES POSTAL SERVICE FOR A TERM EXPIRING DECEMBER 8, 
+     2025.
+
+
+                             THE JUDICIARY
+
+       RICHARD ERNEST MYERS II, OF NORTH CAROLINA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE EASTERN DISTRICT OF NORTH 
+     CAROLINA.
+       SHERRI A. LYDON, OF SOUTH CAROLINA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF SOUTH CAROLINA.
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-12-05-pt1-PgH9263-7
+date: 2019-12-05
+edition: CREC
+section: HOUSE
+page: H9263
+citation: 165 Cong. Rec. H9263
+---
+
+# WE ARE RUNNING OUT OF TIME
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                       WE ARE RUNNING OUT OF TIME
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Madam Speaker, climate change is an immediate and 
+existential threat to our national security, economy, and the future we 
+leave to our children.
+  This is a global problem that requires urgent international 
+solutions, but the Trump administration is dangerously squandering this 
+crucial moment. Quite simply, we are running out of time.
+  By formally beginning withdrawal from the Paris climate agreement, 
+the President is ceding American leadership on climate and actively 
+undermining critical efforts to curb emissions and transition to a 
+clean energy economy.
+  As signatory countries around the world meet this week for a 
+conference in Madrid, I am introducing a resolution, joined by more 
+than 100 of my House colleagues as original cosponsors, condemning the 
+administration's actions. This resolution sends a strong message that 
+the House opposes the President's reckless, irresponsible decision to 
+abandon the climate agreement, and we stand ready to fulfill the 
+commitments that our Nation made under the Paris Agreement to address 
+the climate threat.
+  I urge my colleagues to join me in this clear call for global action 
+and critically needed U.S. leadership.
+
+                          ____________________
+```

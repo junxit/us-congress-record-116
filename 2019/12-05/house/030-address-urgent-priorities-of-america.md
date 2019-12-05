@@ -1,0 +1,44 @@
+---
+granule: CREC-2019-12-05-pt1-PgH9264-5
+date: 2019-12-05
+edition: CREC
+section: HOUSE
+page: H9264
+citation: 165 Cong. Rec. H9264
+---
+
+# ADDRESS URGENT PRIORITIES OF AMERICA
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+                  ADDRESS URGENT PRIORITIES OF AMERICA
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Madam Speaker, it has been less than a year since 
+Democrats took back the majority in the House. In that short time, we 
+have passed nearly 400 bills to get government working for the people 
+again, by increasing access to quality, affordable healthcare and 
+protecting coverage for preexisting conditions; by raising family 
+wages; by making bold investments in rebuilding our Nation's 
+infrastructure; and by cleaning up corruption in Washington and getting 
+the government to work for the people again.
+  We have sent more than 275 bipartisan bills to the Senate, where 
+Mitch McConnell is refusing to vote on them. These bills include 
+legislation to protect and strengthen coverage for preexisting 
+conditions, to ensure equal pay for equal work, and to fight back 
+against the debilitating effects of climate change and ban offshore 
+drilling.
+  We also voted to give 33 million Americans a long-overdue pay raise 
+by raising the minimum wage, provide Gold Star families with much-
+needed tax relief, and secure our Nation's elections.
+  Yet, Mitch McConnell has described himself as the ``grim reaper'' and 
+won't take up any of this legislation.
+  We are busy doing the work of the American people. We have passed 
+over 375 bipartisan bills that are sitting in the Senate. It is time 
+for the Senate to take up these bills and address the urgent priorities 
+of the American people.
+
+                          ____________________
+```
