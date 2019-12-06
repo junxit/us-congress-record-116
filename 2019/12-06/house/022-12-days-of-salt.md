@@ -1,0 +1,42 @@
+---
+granule: CREC-2019-12-06-pt1-PgH9337-4
+date: 2019-12-06
+edition: CREC
+section: HOUSE
+page: H9337
+citation: 165 Cong. Rec. H9337
+---
+
+# 12 DAYS OF SALT
+
+**Speaking:** Sherrill, Mikie (S001207) [D-NJ]
+
+```
+                            12 DAYS OF SALT
+
+  (Ms. SHERRILL asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SHERRILL. Madam Speaker, on this third day of SALT, my 
+constituents have said to me that they think the holiday season is the 
+perfect time to eliminate the SALT marriage penalty.
+  The 2017 tax law violated more than 100 years of Federal tax policy, 
+capping the State and local tax deduction at $10,000. That means 
+married couples filing jointly are constrained to the same $10,000 
+level that applies to individual filers.
+  This penalizes tens of thousands of couples in my district. In Morris 
+County alone, there were more than 52,000 middle-class joint filers in 
+2016, and well over half were above the $10,000 cap. They are now 
+likely subject to a marriage penalty simply for filing their taxes 
+jointly.
+  I am a member of the SALT task force, and my bipartisan bill, the 
+SALT
+
+[[Page H9338]]
+
+Relief and Marriage Penalty Elimination Act, should be the basis for 
+righting this wrong done to families. It will raise the SALT deduction 
+across the board and restore incentives for charitable giving and 
+homeownership.
+
+                          ____________________
+```

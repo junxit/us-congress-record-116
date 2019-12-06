@@ -1,0 +1,38 @@
+---
+granule: CREC-2019-12-06-pt1-PgH9340-2
+date: 2019-12-06
+edition: CREC
+section: HOUSE
+page: H9340
+citation: 165 Cong. Rec. H9340
+---
+
+# HIGHER EDUCATION
+
+**Speaking:** Levin, Mike (L000593) [D-CA]
+
+```
+                            HIGHER EDUCATION
+
+  (Mr. LEVIN of California asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. LEVIN of California. Madam Speaker, I am honored to represent the 
+University of California at San Diego, which is one of the leading 
+research universities in the Nation.
+  As I have worked with my friends on the Education and Labor Committee 
+to reauthorize the Higher Education Act, I have kept all the incredible 
+students at UCSD in mind. I am especially proud of our work to improve 
+access for graduate students and ease their financial burden.
+  Graduate students are the backbone of research universities, teaching 
+and mentoring undergraduates, performing groundbreaking research, and 
+innovating the solutions for 21st century problems. Unfortunately, many 
+of those same students have crippling student loan debt.
+  That is why I am so glad that the College Affordability Act recreates 
+the Federal Perkins Loan Program and strengthens the Pell Grant Program 
+to better address the needs of our undergraduate and graduate students.
+  While there is much more that we need to do to support students, I am 
+proud to cosponsor the College Affordability Act and will continue to 
+work with my colleagues to improve outcomes for our students.
+
+                          ____________________
+```
