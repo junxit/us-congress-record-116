@@ -1,0 +1,34 @@
+---
+granule: CREC-2019-12-09-pt1-PgS6907-4
+date: 2019-12-09
+edition: CREC
+section: SENATE
+page: S6907
+citation: 165 Cong. Rec. S6907
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         DEPARTMENT OF DEFENSE
+
+        JAMES E. MCPHERSON, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     THE ARMY, VICE RYAN MCCARTHY, RESIGNED.
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+        FINCH FULTON, OF ALABAMA, TO BE AN ASSISTANT SECRETARY OF 
+     TRANSPORTATION, VICE CARLOS A. MONJE, JR.
+
+
+                     CONGRESS OF THE UNITED STATES
+
+        J. BRETT BLANTON, OF VIRGINIA, TO BE ARCHITECT OF THE 
+     CAPITOL FOR THE TERM OF TEN YEARS, VICE STEPHEN T. AYERS.
+```

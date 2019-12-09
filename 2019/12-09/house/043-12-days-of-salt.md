@@ -1,0 +1,49 @@
+---
+granule: CREC-2019-12-09-pt1-PgH9382-5
+date: 2019-12-09
+edition: CREC
+section: HOUSE
+page: H9382
+citation: 165 Cong. Rec. H9382
+---
+
+# 12 DAYS OF SALT
+
+**Speaking:** Sherrill, Mikie (S001207) [D-NJ]
+
+```
+                            12 DAYS OF SALT
+
+  (Ms. SHERRILL asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SHERRILL. Madam Speaker, on this fourth day of SALT, my 
+constituents have said to me that the SALT cap has impacted their 
+ability to engage in charitable giving.
+  Capping SALT deductions will substantially reduce the number of 
+itemizers and, therefore, will reduce the number of households that 
+will benefit from the tax incentive for charitable giving.
+  The Tax Policy Center estimates that only 8 percent of all households 
+will take the charitable gift deduction in 2018, compared to 21 percent 
+in 2017.
+  While people give generously to charities for many reasons, studies 
+clearly show a positive relationship between the existence of a tax 
+incentive and the amount donated.
+  The reductions in giving that will result from this bill will be 
+devastating to charities and to the people, communities, and causes 
+that depend on them.
+  New Jersey's charities and nonprofit organizations provide critical 
+services to our community that range from providing support services to 
+individuals suffering from addiction to providing shelter for battered 
+women and their children and providing disaster relief.
+  Additionally, New Jersey charities employ almost 10 percent of the 
+State's private workforce.
+  The programs, services, and economic benefits provided by nonprofits 
+are critical factors in making New Jersey an attractive place to live, 
+work, or start a business. The SALT cap puts all of this at risk.
+
+[[Page H9383]]
+
+  
+
+                          ____________________
+```

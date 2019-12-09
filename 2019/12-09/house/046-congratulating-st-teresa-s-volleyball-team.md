@@ -1,0 +1,39 @@
+---
+granule: CREC-2019-12-09-pt1-PgH9383-3
+date: 2019-12-09
+edition: CREC
+section: HOUSE
+page: H9383
+citation: 165 Cong. Rec. H9383
+---
+
+# CONGRATULATING ST. TERESA'S VOLLEYBALL TEAM
+
+**Speaking:** Davis, Rodney (D000619) [R-IL]
+
+```
+              CONGRATULATING ST. TERESA'S VOLLEYBALL TEAM
+
+  (Mr. RODNEY DAVIS of Illinois asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I rise today to 
+congratulate Coach Brad Dalton and the St. Teresa volleyball team on 
+their first IHSA volleyball championship.
+  Last month, the Bulldogs played the Breese Mater Dei Knights for the 
+Class 2A title and won the championship in two sets.
+  Although it was St. Teresa's fourth time competing in the State 
+tournament, this was their best finish ever. The Bulldogs earned the 
+school's first ever State championship title in volleyball--and first 
+in Macon County history.
+  Offensively, the Bulldogs pulled off 21 kills and 3 aces in the first 
+set, with an equally intimidating defense that racked up 32 digs, 
+total.
+  In the second set, the teams tied 11 times, but an ace by senior Abby 
+Robinson followed by a remarkable dig finished the match 26-24.
+  Coach Dalton said: ``We fought and we fought. This is a big win for 
+everybody in our program.''
+  A historic win to cap off a whirlwind of a season. Congratulations to 
+Coach Dalton and the entire Bulldog team.
+
+                          ____________________
+```

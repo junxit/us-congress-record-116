@@ -1,0 +1,632 @@
+---
+granule: CREC-2019-12-09-pt1-PgH9356
+date: 2019-12-09
+edition: CREC
+section: HOUSE
+page: H9356
+citation: 165 Cong. Rec. H9356
+---
+
+# ENGINEERING BIOLOGY RESEARCH AND DEVELOPMENT ACT OF 2019
+
+**Speaking:** Johnson, Eddie Bernice (J000126) [D-TX], Lucas, Frank D. (L000491) [R-OK]
+
+**Measures:** H.R. 4373
+
+```
+                              {time}  1515
+        ENGINEERING BIOLOGY RESEARCH AND DEVELOPMENT ACT OF 2019
+
+  Ms. JOHNSON of Texas. Mr. Speaker, I move to suspend the rules and 
+pass the bill (H.R. 4373) to provide for a coordinated Federal research 
+initiative to ensure continued United States leadership in engineering 
+biology, as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 4373
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Engineering Biology Research 
+     and Development Act of 2019''.
+
+     SEC. 2. FINDINGS.
+
+       The Congress makes the following findings:
+       (1) Cellular and molecular processes may be used, mimicked, 
+     or redesigned to develop new products, processes, and systems 
+     that improve societal well-being, strengthen national 
+     security, and contribute to the economy.
+       (2) Engineering biology relies on a workforce with a 
+     diverse and unique set of skills combining the biological, 
+     physical, chemical, and information sciences and engineering.
+       (3) Long-term research and development is necessary to 
+     create breakthroughs in engineering biology. Such research 
+     and development requires government investment as many of the 
+     benefits are too distant or uncertain for industry to support 
+     alone.
+       (4) Research is necessary to inform evidence-based 
+     governance of engineering biology and to support the growth 
+     of the engineering biology industry.
+       (5) The Federal Government can play an important role by 
+     facilitating the development of tools and technologies to 
+     further advance engineering biology, including user 
+     facilities, by facilitating public-private partnerships, by 
+     supporting risk research, and by facilitating the commercial 
+     application in the United States of research funded by the 
+     Federal Government.
+       (5) The United States led the development of the science 
+     and engineering techniques that created the field of 
+     engineering biology, but due to increasing international 
+     competition, the United States is at risk of losing its 
+     competitive advantage if does not invest the necessary 
+     resources and have a national strategy.
+       (6) A National Engineering Biology Initiative can serve to 
+     establish new research directions and technology goals, 
+     improve interagency coordination and planning processes, 
+     drive technology transfer to the private sector, and help 
+     ensure optimal returns on the Federal investment.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Biomanufacturing.--The term ``biomanufacturing'' means 
+     the utilization of biological systems to develop new and 
+     advance existing products, tools, and processes at commercial 
+     scale.
+       (2) Engineering biology.--The term ``engineering biology'' 
+     means the application of engineering design principles and 
+     practices to biological systems, including molecular and 
+     cellular systems, to advance fundamental understanding of 
+     complex natural systems and to enable novel or optimize 
+     functions and capabilities.
+       (3) Initiative.--The term ``Initiative'' means the National 
+     Engineering Biology Research and Development Initiative 
+     established under section 4.
+       (4) Omics.--The term ``omics'' refers to the collective 
+     technologies used to explore the roles, relationships, and 
+     actions of the various types of molecules that make up the 
+     cells of an organism.
+
+     SEC. 4. NATIONAL ENGINEERING BIOLOGY RESEARCH AND DEVELOPMENT 
+                   INITIATIVE.
+
+       (a) In General.--The President, acting through the Office 
+     of Science and Technology Policy, shall implement a National 
+     Engineering Biology Research and Development Initiative to 
+     advance societal well-being, national security, 
+     sustainability, and economic productivity and competitiveness 
+     through--
+       (1) advancing areas of research at the intersection of the 
+     biological, physical, chemical, and information sciences and 
+     engineering to accelerate scientific understanding and 
+     technological innovation in engineering biology;
+       (2) advancing areas of biomanufacturing research to 
+     optimize, standardize, scale, and deliver new products and 
+     solutions;
+       (3) supporting social and behavioral sciences and economics 
+     research that advances the field of engineering biology and
+
+[[Page H9357]]
+
+     contributes to the development and public understanding of 
+     new products, processes, and technologies;
+       (4) supporting risk research, including under subsection 
+     (d);
+       (5) supporting the development of novel tools and 
+     technologies to accelerate scientific understanding and 
+     technological innovation in engineering biology;
+       (6) expanding the number of researchers, educators, and 
+     students with engineering biology training, including from 
+     traditionally underserved populations;
+       (7) accelerating the translation and commercialization of 
+     engineering biology research and development by the private 
+     sector; and
+       (8) improving the interagency planning and coordination of 
+     Federal Government activities related to engineering biology.
+       (b) Initiative Activities.--The activities of the 
+     Initiative shall include--
+       (1) sustained support for engineering biology research and 
+     development through--
+       (A) grants to individual investigators and teams of 
+     investigators, including interdisciplinary teams;
+       (B) projects funded under joint solicitations by a 
+     collaboration of no fewer than two agencies participating in 
+     the Initiative; and
+       (C) interdisciplinary research centers that are organized 
+     to investigate basic research questions, carry out technology 
+     development and demonstration activities, and increase 
+     understanding of how to scale up engineering biology 
+     processes, including biomanufacturing;
+       (2) sustained support for databases and related tools, 
+     including--
+       (A) support for curated genomics, epigenomics, and all 
+     other relevant omics databases, including plant and microbial 
+     databases, that are available to researchers to carry out 
+     engineering biology research;
+       (B) development of standards for such databases, including 
+     for curation, interoperability, and protection of privacy and 
+     security; and
+       (C) support for the development of computational tools, 
+     including artificial intelligence tools, that can accelerate 
+     research and innovation using such databases; and
+       (D) an inventory and assessment of all Federal government 
+     omics databases to identify opportunities for consolidation 
+     and inform investment in such databases as critical 
+     infrastructure for the engineering biology research 
+     enterprise;
+       (3) sustained support for the development, optimization, 
+     and validation of novel tools and technologies to enable the 
+     dynamic study of molecular processes in situ, including 
+     through grants to investigators at institutions of higher 
+     education and other nonprofit research institutions, and 
+     through the Small Business Innovation Research Program and 
+     the Small Business Technology Transfer Program, as described 
+     in section 9 of the Small Business Act (15 U.S.C. 638);
+       (4) education and training of undergraduate and graduate 
+     students in engineering biology, in biomanufacturing, in 
+     bioprocess engineering, and in areas of computational science 
+     applied to engineering biology;
+       (5) activities to develop robust mechanisms for tracking 
+     and quantifying the outputs and economic benefits of 
+     engineering biology; and
+       (6) activities to accelerate the translation and 
+     commercialization of new products, processes, and 
+     technologies by--
+       (A) identifying precompetitive research opportunities;
+       (B) facilitating public-private partnerships in engineering 
+     biology research and development;
+       (C) connecting researchers, graduate students, and 
+     postdoctoral fellows with entrepreneurship education and 
+     training opportunities; and
+       (D) supporting proof of concept activities and the 
+     formation of startup companies including through programs 
+     such as the Small Business Innovation Research Program and 
+     the Small Business Technology Transfer Program.
+       (c) Expanding Participation.--The Initiative shall include, 
+     to the maximum extent practicable, outreach to primarily 
+     undergraduate and minority-serving institutions about 
+     Initiative opportunities, and shall encourage the development 
+     of research collaborations between research-intensive 
+     universities and primarily undergraduate and minority-serving 
+     institutions.
+       (d) Ethical, Legal, Environmental, Safety, Security, and 
+     Societal Issues.--Initiative activities shall take into 
+     account ethical, legal, environmental, safety, security, and 
+     other appropriate societal issues by--
+       (1) supporting research, including in the social sciences, 
+     and other activities addressing ethical, legal, 
+     environmental, and other appropriate societal issues related 
+     to engineering biology, including integrating research on 
+     such topics with the research and development in engineering 
+     biology, and ensuring that the results of such research are 
+     widely disseminated, including through interdisciplinary 
+     engineering biology research centers described in subsection 
+     (b)(1);
+       (2) supporting research and other activities related to the 
+     safety and security implications of engineering biology, 
+     including outreach to increase awareness among federally-
+     funded researchers at institutions of higher education about 
+     potential safety and security implications of engineering 
+     biology research, as appropriate;
+       (3) ensuring that input from Federal and non-Federal 
+     experts on the ethical, legal, environmental, security, and 
+     other appropriate societal issues related to engineering 
+     biology is integrated into the Initiative; and
+       (4) ensuring, through the agencies and departments that 
+     participate in the Initiative, that public input and outreach 
+     are integrated into the Initiative by the convening of 
+     regular and ongoing public discussions through mechanisms 
+     such as workshops, consensus conferences, and educational 
+     events, as appropriate.
+
+     SEC. 5. INITIATIVE COORDINATION.
+
+       (a) Interagency Committee.--The President, acting through 
+     the Office of Science and Technology Policy, shall designate 
+     an interagency committee to coordinate engineering biology, 
+     which shall be co-chaired by the Office of Science and 
+     Technology Policy, and include representatives from the 
+     National Science Foundation, the Department of Energy, the 
+     National Aeronautics and Space Administration, the National 
+     Institute of Standards and Technology, the Environmental 
+     Protection Agency, the Department of Agriculture, the 
+     National Institutes of Health, the Bureau of Economic 
+     Analysis, and any other agency that the President considers 
+     appropriate (in this section referred to as the ``interagency 
+     committee''). The Director of the Office of Science and 
+     Technology Policy shall select an additional co-chairperson 
+     from among the members of the Interagency Committee. The 
+     Interagency Committee shall oversee the planning, management, 
+     and coordination of the Initiative. The Interagency Committee 
+     shall--
+       (1) provide for interagency coordination of Federal 
+     engineering biology research, development, and other 
+     activities undertaken pursuant to the Initiative;
+       (2) establish and periodically update goals and priorities 
+     for the Initiative;
+       (3) develop, not later than 12 months after the date of 
+     enactment of this Act, and update every 3 years, a strategic 
+     plan that--
+       (A) guides the activities of the Initiative for purposes of 
+     meeting the goals and priorities established under (and 
+     updated pursuant to) paragraph (2); and
+       (B) describes--
+       (i) the Initiative's support for long-term funding for 
+     interdisciplinary engineering biology research and 
+     development;
+       (ii) the Initiative's support for education and public 
+     outreach activities;
+       (iii) the Initiative's support for research and other 
+     activities on ethical, legal, environmental, safety, 
+     security, and other appropriate societal issues related to 
+     engineering biology;
+       (iv) how the Initiative will move results out of the 
+     laboratory and into application for the benefit of society 
+     and United States competitiveness; and
+       (v) how the Initiative will measure and track the 
+     contributions of engineering biology to United States 
+     economic growth and other societal indicators;
+       (4) develop a national genomic sequencing strategy to 
+     ensure engineering biology research fully leverages plant, 
+     animal, and microbe biodiversity to enhance long-term 
+     innovation and competitiveness in engineering biology in the 
+     United States;
+       (5) propose an annually coordinated interagency budget for 
+     the Initiative that is intended to ensure--
+       (A) the maintenance of a robust engineering biology 
+     research and development portfolio; and
+       (B) that the balance of funding across the Initiative is 
+     sufficient to meet the goals and priorities established for 
+     the Program;
+       (6) develop a plan to utilize Federal programs, such as the 
+     Small Business Innovation Research Program and the Small 
+     Business Technology Transfer Program as described in section 
+     9 of the Small Business Act (15 U.S.C. 638), in support of 
+     the activities described in section 4(b)(3); and
+       (7) in carrying out this section, take into consideration 
+     the recommendations of the advisory committee established 
+     under section 6, the results of the workshop convened under 
+     section 7, existing reports on related topics, and the views 
+     of academic, State, industry, and other appropriate groups.
+       (b) Annual Report.--Beginning with fiscal year 2020, not 
+     later than 90 days after submission of the President's annual 
+     budget request and each fiscal year thereafter, the 
+     interagency committee shall prepare and submit to the 
+     Committee on Science, Space, and Technology of the House of 
+     Representatives and the Committee on Commerce, Science, and 
+     Transportation of the Senate a report that includes--
+       (1) a summarized agency budget in support of the Initiative 
+     for the fiscal year to which such budget request applies, and 
+     for the then current fiscal year, including a breakout of 
+     spending for each agency participating in the Program and for 
+     the development and acquisition of any research facilities 
+     and instrumentation; and
+       (2) an assessment of how Federal agencies are implementing 
+     the plan described in subsection (a)(3), and a description of 
+     the amount and number of awards made under the Small Business 
+     Innovation Research Program and the Small Business Technology 
+     Transfer Program (as described in section 9 of the Small 
+     Business Act (15 U.S.C. 638)) in support of the Initiative.
+       (c) Initiative Office.--
+       (1) In general.--The President shall establish an 
+     Initiative Coordination Office, with a Director and full-time 
+     staff, which shall--
+       (A) provide technical and administrative support to the 
+     interagency committee and
+
+[[Page H9358]]
+
+     the advisory committee established under section 6;
+       (B) serve as the point of contact on Federal engineering 
+     biology activities for government organizations, academia, 
+     industry, professional societies, State governments, 
+     interested citizen groups, and others to exchange technical 
+     and programmatic information;
+       (C) oversee interagency coordination of the Initiative, 
+     including by encouraging and supporting joint agency 
+     solicitation and selection of applications for funding of 
+     activities under the Initiative;
+       (D) conduct public outreach, including dissemination of 
+     findings and recommendations of the advisory committee 
+     established under section 6, as appropriate; and
+       (E) promote access to, and early application of, the 
+     technologies, innovations, and expertise derived from 
+     Initiative activities to agency missions and systems across 
+     the Federal Government, and to United States industry, 
+     including startup companies.
+       (2) Funding.--The Director of the Office of Science and 
+     Technology Policy shall develop an estimate of the funds 
+     necessary to carry out the activities of the Initiative 
+     Coordination Office, including an estimate of how much each 
+     participating agency described in subsection (a) will 
+     contribute to such funds, and submit such estimate to 
+     Congress no later than 90 days after the enactment of this 
+     Act.
+       (3) Termination.--The Initiative Coordination Office 
+     established under this subsection shall terminate on the date 
+     that is 10 years after the date of the enactment of this Act, 
+     unless a determination is made by the President that such 
+     Office is necessary to meet the economic or national security 
+     goals of the Program.
+
+     SEC. 6. ADVISORY COMMITTEE.
+
+       (a) In General.--The President, acting through the Office 
+     of Science and Technology Policy, shall designate or 
+     establish an advisory committee on engineering biology 
+     research and development (in this section referred to as the 
+     ``advisory committee'') to be composed of not fewer than 12 
+     members, including representatives of research and academic 
+     institutions, industry, and nongovernmental entities, who are 
+     qualified to provide advice on the Initiative.
+       (b) Assessment.--The advisory committee shall assess--
+       (1) the current state of United States competitiveness in 
+     engineering biology, including the scope and scale of United 
+     States investments in engineering biology research and 
+     development in the international context;
+       (2) current market barriers to commercialization of 
+     engineering biology products, processes, and tools in the 
+     United States;
+       (3) progress made in implementing the Initiative;
+       (4) the need to revise the Initiative;
+       (5) the balance of activities and funding across the 
+     Initiative;
+       (6) whether the strategic plan developed or updated by the 
+     interagency committee established under section 5 is helping 
+     to maintain United States leadership in engineering biology;
+       (7) the management, coordination, implementation, and 
+     activities of the Initiative; and
+       (8) whether ethical, legal, environmental, safety, 
+     security, and other appropriate societal issues are 
+     adequately addressed by the Initiative.
+       (c) Reports.--Beginning not later than 2 years after the 
+     date of enactment of this Act, and not less frequently than 
+     once every 3 years thereafter, the advisory committee shall 
+     submit to the President, the Committee on Science, Space, and 
+     Technology of the House of Representatives, and the Committee 
+     on Commerce, Science, and Transportation of the Senate, a 
+     report on--
+       (1) the findings of the advisory committee's assessment 
+     under subsection (b); and
+       (2) the advisory committee's recommendations for ways to 
+     improve the Initiative.
+       (d) Application of Federal Advisory Committee Act.--Section 
+     14 of the Federal Advisory Committee Act (5 U.S.C. App.) 
+     shall not apply to the Advisory Committee.
+
+     SEC. 7. EXTERNAL REVIEW OF ETHICAL, LEGAL, ENVIRONMENTAL, AND 
+                   SOCIETAL ISSUES.
+
+       (a) In General.--Not later than 6 months after the date of 
+     enactment of this Act, the Director of the National Science 
+     Foundation shall enter into an agreement with the National 
+     Academies of Sciences, Engineering, and Medicine to conduct a 
+     review, and make recommendations with respect to, the 
+     ethical, legal, environmental, and other appropriate societal 
+     issues related to engineering biology research and 
+     development. The review shall include--
+       (1) an assessment of the current research on such issues;
+       (2) a description of the research gaps relating to such 
+     issues;
+       (3) recommendations on how the Initiative can address the 
+     research needs identified pursuant to paragraph (2); and
+       (4) recommendations on how engineering biology researchers 
+     can best incorporate considerations of ethical, legal, 
+     environmental, and other societal issues into the development 
+     of research proposals and the conduct of research.
+       (b) Report to Congress.--The agreement entered into under 
+     subsection (a) shall require the National Academy of 
+     Sciences, Engineering, and Medicine to, not later than 2 
+     years after the date of the enactment of this Act--
+       (1) submit to the Committee on Science, Space, and 
+     Technology of the House of Representatives and the Committee 
+     on Commerce, Science, and Transportation of the Senate a 
+     report containing the findings and recommendations of the 
+     review conducted under subsection (a); and
+       (2) make a copy of such report available on a publicly 
+     accessible website.
+
+     SEC. 8. AGENCY ACTIVITIES.
+
+       (a) National Science Foundation.--As part of the 
+     Initiative, the National Science Foundation shall--
+       (1) support basic research in engineering biology through 
+     individual grants and through interdisciplinary research 
+     centers;
+       (2) support research on the environmental, legal, and 
+     social implications of engineering biology;
+       (3) provide support for research instrumentation for 
+     engineering biology disciplines, including support for 
+     research, development, optimization and validation of novel 
+     technologies to enable the dynamic study of molecular 
+     processes in situ;
+       (4) support curriculum development and research experiences 
+     for secondary, undergraduate, and graduate students in 
+     engineering biology and biomanufacturing; and
+       (5) award grants, on a competitive basis, to enable 
+     institutions to support graduate students and postdoctoral 
+     fellows who perform some of their engineering biology 
+     research in an industry setting.
+       (b) Department of Commerce.--As part of the Initiative, the 
+     Director of the National Institute of Standards and 
+     Technology shall--
+       (1) establish a bioscience research program to advance the 
+     development of standard reference materials and measurements 
+     and to create new data tools, techniques, and processes 
+     necessary to advance engineering biology and 
+     biomanufacturing;
+       (2) provide access to user facilities with advanced or 
+     unique equipment, services, materials, and other resources to 
+     industry, institutions of higher education, nonprofit 
+     organizations, and government agencies to perform research 
+     and testing; and
+       (3) provide technical expertise to inform the potential 
+     development of guidelines or safeguards for new products, 
+     processes, and systems of engineering biology.
+       (c) Department of Energy.--As part of the Initiative, the 
+     Secretary of Energy shall--
+       (1) conduct and support research, development, 
+     demonstration, and commercial application activities in 
+     engineering biology, including in the areas of synthetic 
+     biology, advanced biofuel development, biobased materials, 
+     and environmental remediation;
+       (2) support the development, optimization and validation of 
+     novel, scalable tools and technologies to enable the dynamic 
+     study of molecular processes in situ; and
+       (3) provide access to user facilities with advanced or 
+     unique equipment, services, materials, and other resources, 
+     as appropriate, to industry, institutions of higher 
+     education, nonprofit organizations, and government agencies 
+     to perform research and testing.
+       (d) National Aeronautics and Space Administration.--As part 
+     of the Initiative, the National Aeronautics and Space 
+     Administration shall--
+       (1) conduct and support basic and applied research in 
+     engineering biology, including in synthetic biology, and 
+     related to Earth and space sciences, aeronautics, space 
+     technology, and space exploration and experimentation, 
+     consistent with the priorities established in the National 
+     Academies' decadal surveys; and
+       (2) award grants, on a competitive basis, that enable 
+     institutions to support graduate students and postdoctoral 
+     fellows who perform some of their engineering biology 
+     research in an industry setting.
+       (e) Environmental Protection Agency.--As part of the 
+     Initiative, the Environmental Protection Agency shall support 
+     research on how products, processes, and systems of 
+     engineering biology will affect or can protect the 
+     environment.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+Texas (Ms. Johnson) and the gentleman from Oklahoma (Mr. Lucas) each 
+will control 20 minutes.
+  The Chair recognizes the gentlewoman from Texas.
+
+
+                             General Leave
+
+  Ms. JOHNSON of Texas. Mr. Speaker, I ask unanimous consent that all 
+Members may have 5 legislative days to revise and extend their remarks 
+and to include extraneous materials on H.R. 4373, the bill under 
+consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Texas?
+  There was no objection.
+  Ms. JOHNSON of Texas. Mr. Speaker, I yield myself such time as I may 
+consume.
+  I rise today in support of H.R. 4373, the Engineering Biology 
+Research and Development Act of 2019.
+  I want to thank Ranking Member Lucas for joining me in introducing 
+this legislation.
+  The term ``engineering biology'' means the application of engineering
+
+[[Page H9359]]
+
+design, principles, and practices to biological systems to advance 
+fundamental understanding of complex natural systems and to enable 
+novel functions and capabilities.
+  Engineering biology research is used in microbes and plants to grow 
+food more resilient to climate change, reduce our dependency on fossil 
+fuels, and make more effective drugs to treat human diseases. Some 
+researchers are even engineering microbes for environmental cleanup. 
+These are some of our Nation's and world's greatest challenges, and 
+engineering biology is one of our greatest tools.
+  The economy of the 21st century will be driven by the bioeconomy. 
+Other countries are making significant investments in engineering 
+biology research and development. We must recognize that U.S. 
+leadership is not just about growing our economy and ensuring that our 
+Nation benefits from the products of engineering biology; it is also 
+about leading responsibly.
+  As China accelerates its own investments and the tools of engineering 
+biology are increasingly cheap and accessible to individuals 
+everywhere, we must also be mindful of the security implications. The 
+potential for misuse of this technology to cause harm makes more urgent 
+our need to invest strategically in engineering biology research today.
+  Along with authorizing a Federal engineering biology research 
+initiative, this bill would also establish a framework for greater 
+coordination of Federal investments in engineering biology; require a 
+national strategy for those investments; expand public-private 
+partnerships; focus on the education and training for the next 
+generation of engineering biology researchers; and address any 
+potential ethical, security, and societal issues associated with 
+engineering biology research.
+  It is past time for the United States to recognize the significance 
+of this emerging research area to our economic and national security.
+  I was disappointed by the lack of such recognition in this 
+administration's last budget request but hopeful to see the tide 
+turning with the convening of a recent White House summit on the 
+bioeconomy.
+  I look forward to working with my colleagues on both sides of the 
+aisle and with the administration to ensure that the United States will 
+not lose its leadership position in this area.
+  H.R. 4373 is an important bill, and I urge my colleagues to support 
+it.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. LUCAS. Mr. Speaker, I yield myself such time as I may consume.
+  I rise in support of H.R. 4373, the Engineering Biology Research and 
+Development Act of 2019.
+  I was proud to join Chairwoman Johnson, as well as Representatives 
+Jim Sensenbrenner and Zoe Lofgren, in introducing this bill.
+  The U.S. was a key driver in biological innovation in the 20th 
+century, but there is increasing global competition. Other countries 
+recognize the benefits of biotech technology and are striving to 
+capture its potential through new investments and friendly regulations.
+  H.R. 4373 promotes a national research strategy around engineering 
+biology to ensure that the U.S. remains the global leader in biology 
+and biotechnology.
+  New gene editing techniques like CRISPR and the advancement of rapid 
+gene sequencing are driving innovation in agriculture, medicine, 
+energy, and manufacturing. We must keep pace and set a research and 
+regulatory framework that supports innovation and creates a marketplace 
+for new ideas and projects, while setting the safety and ethical 
+standards for the world to follow.
+  H.R. 4373 establishes a national engineering biology research and 
+development initiative to provide interagency research coordination and 
+develop a 3-year strategic plan.
+  The bill also authorizes research at the agencies under the Science 
+Committee's jurisdiction, including the National Science Foundation, 
+the National Institute of Standards and Technology, and the Department 
+of Energy.
+  Last month, the White House convened a summit with the Nation's 
+foremost bioeconomy leaders from industry, academia, and government to 
+discuss how to maintain America's leadership in biology for our 
+economic and national security. I hope that summit, along with this 
+legislation, will build momentum for a serious national public-private 
+effort to advance and protect the U.S. bioeconomy.
+  I urge my colleagues to support this good, bipartisan bill.
+  I would note to the chairwoman that I have no additional speakers, 
+and I reserve the balance of my time.
+  Ms. JOHNSON of Texas. Mr. Speaker, I have no requests for time, and 
+if the gentleman is ready to close, then I reserve the balance of my 
+time.
+  Mr. LUCAS. Mr. Speaker, I yield myself such time as I may consume.
+  In both the Agriculture Committee and the Science Committee, we have 
+discussed biotechnology research and regulation for years, but I can't 
+remember a more exciting or challenging time for the field than today. 
+H.R. 4373 will set a national agenda to advance innovation and help us 
+meet those challenges.
+
+  I appreciate the chairwoman and her staff for working with us and the 
+biology stakeholder community to produce a good, bipartisan bill. I ask 
+my colleagues to support this bill.
+  Mr. Speaker, I yield back the balance of my time.
+  Ms. JOHNSON of Texas. Mr. Speaker, I yield myself the balance of my 
+time.
+  I wish to express my appreciation for Mr. Sensenbrenner, Mr. Lucas, 
+Ms. Lofgren, and myself, and I have no further requests for time.
+  I would simply urge the passage of this bill, and I yield back the 
+balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from Texas (Ms. Johnson) that the House suspend the rules 
+and pass the bill, H.R. 4373, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

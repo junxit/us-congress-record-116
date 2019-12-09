@@ -1,0 +1,36 @@
+---
+granule: CREC-2019-12-09-pt1-PgH9382-3
+date: 2019-12-09
+edition: CREC
+section: HOUSE
+page: H9382
+citation: 165 Cong. Rec. H9382
+---
+
+# HONORING QUILLA TALMADGE
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                        HONORING QUILLA TALMADGE
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to honor East Orange City 
+Councilwoman Quilla Talmadge. Councilwoman Talmadge has served the 
+citizens of East Orange with distinction for 30 years.
+  Her political career started as president of her third ward 
+neighborhood. It continued with her active leadership as a member of 
+her local Parent Teacher Association, local NAACP, and the National 
+Council of Negro Women, among many others.
+  She has won numerous awards for her community and church involvement.
+  Recently, the New Jersey State League of Municipalities inducted her 
+into the Elected Officials Hall of Fame.
+  Councilwoman Talmadge is retiring from the city council this year, 
+but she has left a legacy that will be remembered for many years to 
+come.
+  Madam Speaker, I ask my colleagues to join me and the residents of 
+East Orange in commending her service to her community.
+
+                          ____________________
+```

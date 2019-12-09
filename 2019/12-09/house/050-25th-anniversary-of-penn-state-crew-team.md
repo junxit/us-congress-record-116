@@ -1,0 +1,48 @@
+---
+granule: CREC-2019-12-09-pt1-PgH9383-7
+date: 2019-12-09
+edition: CREC
+section: HOUSE
+page: H9383
+citation: 165 Cong. Rec. H9383
+---
+
+# 25TH ANNIVERSARY OF PENN STATE CREW TEAM
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                              {time}  1930
+                25TH ANNIVERSARY OF PENN STATE CREW TEAM
+
+  (Mr. KELLER asked and was given permission to address the House for 1
+
+[[Page H9384]]
+
+minute and to revise and extend his remarks.)
+  Mr. KELLER. Madam Speaker, this month, Penn State celebrates its 25th 
+anniversary. On behalf of the people of Pennsylvania's 12th 
+Congressional District, I congratulate them on their rich history of 
+success.
+  The crew team at Penn State started with humble beginnings in the 
+winter of 1994. While they had no equipment, the team possessed a 
+passion for the sport and a will to do whatever was necessary to make 
+the team successful.
+  In an example we can all be proud of, Penn State crew's first 
+Schoenbrod was borrowed from Bucknell University, another great 
+institution of higher education in Pennsylvania's 12th Congressional 
+District.
+  Later, through hard work at fundraising by selling concessions at 
+football games, cleaning Beaver Stadium, and selling crew apparel, the 
+team was finally able to purchase its own equipment in the fall of 
+1995. From there, the program has never looked back.
+  Penn State crew men's and women's teams have had a proud record of 
+achievement that should make them very proud: sweeping podiums and 
+inspiring a new generation of crew participants from experienced rowers 
+to novices.
+  Again, Madam Speaker, on behalf of the people of Pennsylvania's 12th 
+Congressional District, I congratulate Penn State crew on celebrating 
+their 25th anniversary.
+
+                          ____________________
+```
