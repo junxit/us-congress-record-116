@@ -1,0 +1,49 @@
+---
+granule: CREC-2019-12-10-pt1-PgS6946-2
+date: 2019-12-10
+edition: CREC
+section: SENATE
+page: S6946
+citation: 165 Cong. Rec. S6946
+---
+
+# ADDITONAL STATEMENTS
+
+**Speaking:** Manchin, Joe, III (M001183) [D-WV]
+
+```
+                          ADDITONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        TRIBUTE TO ANDY PRADELLA
+
+● Mr. MANCHIN. Madam President, Gayle and I would like to extend 
+our warmest congratulations and very best wishes to our very dear 
+friend Andy Pradella on his 70th birthday. What I have always admired 
+about Andy is his unparalleled work ethic and determination to learn 
+and serve, and to inspire those around him. I can't tell him how much 
+his and Joanie's friendship has meant to me and Gayle throughout the 
+years. They are like family to us. Together, they are both a match made 
+in ``Almost Heaven.''
+  While Andy wasn't born in West Virginia, he certainly is a West 
+Virginian in his heart and soul. In West Virginia, if you are hungry, 
+you will be fed. If you are lost, someone will not only give you 
+directions but will offer to drive you to your destination. I am so 
+deeply proud of the people of my home State and the values that make us 
+stand out from the rest of the Nation.
+  It is in that same spirit that I proudly recognize Andy Pradella as 
+an honorary West Virginian. No one fits this title better. He is one of 
+the most generous, kindest, selfless people I have had the privilege of 
+calling my very dear friend. He has provided so much happiness and 
+wisdom to the lives of those around him throughout the years, and it is 
+my wish that the memory of this special day remains with him just as 
+his guidance and influence will remain in all the lives he has touched. 
+Again, it is with the greatest admiration that I send to him my best 
+wishes on his special day.
+  Andy, please always remember that no matter where you are, you have a 
+home here in ``Almost Heaven.''●
+
+                          ____________________
+```
