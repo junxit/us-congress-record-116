@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-12-11-pt1-PgH10032-4
+date: 2019-12-11
+edition: CREC
+section: HOUSE
+page: H10032
+citation: 165 Cong. Rec. H10032
+---
+
+# REDUCE OUT-OF-POCKET COSTS FOR PRESCRIPTION DRUGS
+
+**Speaking:** Underwood, Lauren (U000040) [D-IL]
+
+```
+           REDUCE OUT-OF-POCKET COSTS FOR PRESCRIPTION DRUGS
+
+  (Ms. UNDERWOOD asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. UNDERWOOD. Mr. Speaker, today is a historic day for patients in 
+this country because today we will be voting for a piece of legislation 
+that my community in northern Illinois wants urgently. It cannot wait.
+  I hear about unfortunate and unaffordably high drug prices every time 
+I am home. Recently, a 15-year-old boy in my district who relies on 
+insulin wrote to me: ``I am concerned with what my future holds. I need 
+this medicine to live, and if the costs continue to rise . . . I am 
+afraid that, one day, I won't be able to get the medicine and I will 
+die.''
+  No one should be thinking about the possibility of death because they 
+can't afford a common, live-saving medication, and the Lower Drug Costs 
+Now Act delivers the reforms we critically need because the bill 
+reduces out-of-pocket costs for prescription drugs; it creates a new, 
+$2,000 out-of-pocket limit for seniors; and it allows the Secretary of 
+Health and Human Services to negotiate a fair price for the highest 
+cost drugs, which will reduce private insurances premiums and out-of-
+pocket costs.
+  This legislation also incorporates my bill to prevent drug companies 
+from making outrageous, unfair price hikes. And with the savings from 
+lower drug costs, we reinvest in Medicare, expanding much needed 
+hearing, dental, and vision services to seniors.
+  I am proud of this bill. It is a product of countless hours of 
+research and negotiation. I would like to thank the committee chairs, 
+leadership members, and staff who made it possible.
+
+                          ____________________
+```

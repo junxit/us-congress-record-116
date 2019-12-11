@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-12-11-pt1-PgH10032-6
+date: 2019-12-11
+edition: CREC
+section: HOUSE
+page: H10032
+citation: 165 Cong. Rec. H10032
+---
+
+# ALLOW DIRECT NEGOTIATION OF PRESCRIPTION DRUG PRICES BY MEDICARE
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+**Measures:** H.R. 3
+
+```
+    ALLOW DIRECT NEGOTIATION OF PRESCRIPTION DRUG PRICES BY MEDICARE
+
+  (Ms. KUSTER of New Hampshire asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. KUSTER of New Hampshire. Mr. Speaker, I have long called for 
+Congress to take meaningful action to lower prescription drug costs by 
+allowing the direct negotiation of prescription drug prices by 
+Medicare.
+  I am proud to cosponsor H.R. 3, the Lower Drug Costs Now Act, and I 
+am pleased to see it includes my legislation, the Respond Now Act, as 
+the basis for much needed funding to combat the opioid epidemic.
+  H.R. 3 provides $10 billion in direct funding, including investments 
+directly into our communities who are the front lines of this epidemic.
+
+[[Page H10033]]
+
+  I am also grateful to see that H.R. 3 includes funding to support 
+children impacted by this crisis, so that they can access trauma-
+informed practices in schools.
+  I thank the Speaker for the inclusion of this critical funding to 
+help Granite State families and communities across this country. I urge 
+my colleagues to vote ``yes'' on the bill.
+
+                          ____________________
+```

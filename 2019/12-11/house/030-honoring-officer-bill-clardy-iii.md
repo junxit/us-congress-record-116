@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-12-11-pt1-PgH10029-3
+date: 2019-12-11
+edition: CREC
+section: HOUSE
+page: H10029
+citation: 165 Cong. Rec. H10029
+---
+
+# HONORING OFFICER BILL CLARDY III
+
+**Speaking:** Byrne, Bradley (B001289) [R-AL]
+
+```
+                    HONORING OFFICER BILL CLARDY III
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Alabama (Mr. Byrne) for 5 minutes.
+
+[[Page H10030]]
+
+  
+
+  Mr. BYRNE. Mr. Speaker, I rise today with sadness in my heart to 
+honor Officer Bill Clardy III of the Huntsville Police Department.
+  Officer Clardy, a decorated 14-year veteran of the department who 
+also served with distinction in the Iraq war, was tragically shot and 
+killed recently during a drug investigation. Officer Clardy was 
+assigned to a strategic counterdrug team called the STAC Team, leading 
+a task force of Federal and local law enforcement agencies to make drug 
+busts across north Alabama.
+  Sadly, the Clardy family knows well the sacrifices of service. 
+Officer Clardy's father, Billy Clardy, Jr., was killed in a car crash 
+while on duty in 1978.
+  We owe it to Officer Clardy not to forget him or his sacrifice. 
+Officer Clardy's reputation for service and for caring for his 
+community is unmatched.
+  Officer Clardy was a Huntsville hero, and he is an American hero. He 
+will be greatly missed.
+  Our thoughts, our prayers, and our support now are with the Clardy 
+family. We embrace you with our love. We offer you our support. In the 
+days to come, we pledge to you, we will not forget his sacrifice.
+
+                          ____________________
+```
