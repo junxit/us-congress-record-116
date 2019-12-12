@@ -1,0 +1,105 @@
+---
+granule: CREC-2019-12-12-pt1-PgS7031
+date: 2019-12-12
+edition: CREC
+section: SENATE
+page: S7031
+citation: 165 Cong. Rec. S7031
+---
+
+# SENATE RESOLUTION 454--CALLING FOR THE IMMEDIATE RELEASE OF CUBAN DEMOCRACY ACTIVIST JOSE DANIEL FERRER AND COMMENDING THE EFFORTS OF JOSE DANIEL FERRER TO PROMOTE HUMAN RIGHTS AND FUNDAMENTAL...
+
+**Measures:** S.Res. 454
+
+```
+   SENATE RESOLUTION 454--CALLING FOR THE IMMEDIATE RELEASE OF CUBAN 
+  DEMOCRACY ACTIVIST JOSE DANIEL FERRER AND COMMENDING THE EFFORTS OF 
+JOSE DANIEL FERRER TO PROMOTE HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS IN 
+                                  CUBA
+
+  Mr. MENENDEZ (for himself, Mr. Rubio, Mr. Durbin, Mr. Cruz, Mr. 
+Cardin, Ms. Collins, and Mr. Kaine) submitted the following resolution; 
+which was referred to the Committee on Foreign Relations:
+
+                              S. Res. 454
+
+       Whereas Jose Daniel Ferrer Garcia is a Cuban democracy and 
+     human rights activist who has dedicated his life to promoting 
+     greater political pluralism and respect for fundamental 
+     freedoms in Cuba;
+       Whereas Mr. Ferrer was born in Cuba on July 29, 1970, in 
+     the province of Santiago de Cuba;
+       Whereas, in the late 1990s, Mr. Ferrer joined the Christian 
+     Liberation Movement (MCL), a peaceful political movement led 
+     by late Cuban activist Oswaldo Paya;
+       Whereas, through coordination with the MCL, Mr. Ferrer 
+     helped lead the Varela Project, an initiative to collect the 
+     signatures of citizens to petition the Government of Cuba for 
+     democratic reforms and protections for freedom of speech, 
+     freedom of the press, and freedom of assembly;
+       Whereas, in March 2003, as part of a series of sweeping 
+     arrests of 75 democracy activists, Mr. Ferrer was arrested by 
+     Cuban authorities for his work on the Varela Project and 
+     sentenced to 25 years in prison;
+       Whereas, in March 2004, Amnesty International declared the 
+     group of 75 democracy activists, including Mr. Ferrer, to be 
+     prisoners of conscience and called for their immediate and 
+     unconditional release; 
+       Whereas, in 2009, Mr. Ferrer was honored with the Democracy 
+     Award given annually by the National Endowment for Democracy;
+       Whereas, in March 2011, as part of an agreement brokered by 
+     the Catholic Church, Mr. Ferrer refused to abandon his 
+     homeland and was released from prison to remain in Cuba;
+       Whereas, in August 2011, Mr. Ferrer founded the Patriotic 
+     Union of Cuba (UNPACU), a nonviolent political movement 
+     dedicated to promoting human rights, democratic principles, 
+     and fundamental freedoms in Cuba;
+       Whereas, on June 7, 2012, Mr. Ferrer testified via digital 
+     video conference at a hearing of the Committee on Foreign 
+     Relations of the Senate;
+       Whereas, since he was released from jail in March 2011, Mr. 
+     Ferrer has been frequently harassed, regularly surveilled, 
+     and repeatedly jailed by Cuban authorities for his role in 
+     UNPACU; 
+       Whereas, on October 1, 2019, Mr. Ferrer was imprisoned 
+     arbitrarily by Cuban authorities for his leadership of UNPACU 
+     and outspoken advocacy for human rights and democratic 
+     principles in Cuba;
+       Whereas, on October 1, 2019, Cuban authorities detained 3 
+     other members of UNPACU, Fernando Gonzalez Vailant, Jose Pupo 
+     Chaveco, and Roilan Zarraga Ferrer;
+       Whereas a letter from Mr. Ferrer was smuggled out of prison 
+     stating that he had been tortured, mistreated, and denied 
+     proper medical attention, and that his life was put in danger 
+     while in detention;
+       Whereas the family of Mr. Ferrer has been permitted to 
+     visit him only twice since he was imprisoned arbitrarily on 
+     October 1, 2019, and the wife of Mr. Ferrer reported that she 
+     saw evidence that he had been physically abused and 
+     mistreated; and
+       Whereas, on November 28, 2019, the European Parliament 
+     approved a resolution condemning the arbitrary detention of 
+     Mr. Ferrer and calling for his immediate release: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) condemns the arbitrary imprisonment of leading Cuban 
+     democracy and human rights activist Jose Daniel Ferrer and 
+     calls for his immediate and unconditional release;
+       (2) urges Cuban authorities to grant Mr. Ferrer immediate 
+     access to medical care and independent legal counsel;
+       (3) calls for the immediate and unconditional release of 
+     all members of the Patriotic
+
+[[Page S7032]]
+
+     Union of Cuba (UNPACU) that have been arbitrarily imprisoned;
+       (4) commends Mr. Ferrer for his unwavering commitment to 
+     advance democratic principles, human rights, and fundamental 
+     freedoms in Cuba; and
+       (5) recognizes the important contributions of UNPACU and 
+     all of its members for their efforts to promote greater 
+     respect for democratic principles, human rights, and 
+     fundamental freedoms in Cuba.
+
+                          ____________________
+```
