@@ -1,0 +1,41 @@
+---
+granule: CREC-2019-12-17-pt1-PgH10603-3
+date: 2019-12-17
+edition: CREC
+section: HOUSE
+page: H10603
+citation: 165 Cong. Rec. H10603
+---
+
+# COMPELLING, OVERWHELMING, AND BIPARTISAN
+
+**Speaking:** Bost, Mike (B001295) [R-IL]
+
+```
+                COMPELLING, OVERWHELMING, AND BIPARTISAN
+
+  (Mr. BOST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BOST. Mr. Speaker, earlier this year, Speaker Nancy Pelosi said 
+that impeachment should be ``compelling, overwhelming, and 
+bipartisan.''
+  Let me tell you that, if you come from the State of Illinois, you 
+understand what it is to have an impeachment that is compelling, 
+overwhelming, and bipartisan, and what it looks like.
+  And if you are a Member in this House and you served in Illinois, you 
+know, because your constituents know as well.
+  A decade ago, the Illinois General Assembly impeached Governor Rod 
+Blagojevich. There was clear and convincing evidence of crimes 
+committed by the Governor.
+  I served on that bipartisan impeachment committee to recommend 
+impeachment, and it was recommended by the committee 21-0.
+  After impeachment advanced to the floor, it passed 114-1, and the one 
+that dissented was his sister-in-law.
+  Let me tell you that that was compelling, overwhelming, and 
+bipartisan.
+  What we have that we are dealing with here this week is not a crime, 
+and it is not overwhelming, and it is not compelling, and it sure isn't 
+bipartisan.
+
+                          ____________________
+```

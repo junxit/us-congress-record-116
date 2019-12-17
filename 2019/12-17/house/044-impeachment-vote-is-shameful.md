@@ -1,0 +1,45 @@
+---
+granule: CREC-2019-12-17-pt1-PgH10605-5
+date: 2019-12-17
+edition: CREC
+section: HOUSE
+page: H10605
+citation: 165 Cong. Rec. H10605
+---
+
+# IMPEACHMENT VOTE IS SHAMEFUL
+
+**Speaking:** Allen, Rick W. (A000372) [R-GA]
+
+```
+                              {time}  1445
+                      IMPEACHMENT VOTE IS SHAMEFUL
+
+  (Mr. ALLEN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALLEN. Mr. Speaker, our Founding Fathers warned us against what 
+is happening this week on the House floor when one political party 
+abandons constitutional principles simply for political gain.
+  Tomorrow's impeachment vote is shameful and sets a dangerous 
+precedent. Without bringing forward any evidence of an impeachable 
+offense, House Democrats have rushed this partisan vote. You cannot 
+impeach a duly elected President simply because you don't like him.
+  For the past few months, Speaker Pelosi and House Democrats have been 
+so obsessed with impeaching President Trump that they have forgotten to 
+do their sworn duty, and that is to work on behalf of the American 
+people.
+  While I am glad we are finally voting on the United States-Mexico-
+Canada Agreement this week, the vital trade deal was used by Democrats 
+as a political pawn until after they brought forward their sham 
+Articles of Impeachment.
+  Americans must question the timing of the votes this week: a rushed 
+impeachment vote, and a much-delayed trade deal.
+  So, when the American people ask me back home, ``What in the world is
+
+[[Page H10606]]
+
+going on in Washington?'' I say, ``It is just putting politics before 
+the American people.''
+
+                          ____________________
+```
