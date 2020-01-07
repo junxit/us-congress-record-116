@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-07-pt1-PgH7-5
+date: 2020-01-07
+edition: CREC
+section: HOUSE
+page: H7
+citation: 166 Cong. Rec. H7
+---
+
+# HONORING VETERAN OF THE MONTH OLIVER GREEN
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+               HONORING VETERAN OF THE MONTH OLIVER GREEN
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute.)
+  Mr. SPANO. Mr. Speaker, I rise to bring attention to a distinguished 
+veteran from my district.
+  At the age of 17, Private Oliver Green enlisted in the Army just 
+before the Korean war; and on his 18th birthday, Private Green landed 
+at Wonsan, North Korea, in a tank landing ship.
+  As a machine gunner assigned to the Third Infantry Division, Seventh 
+Regiment, First Battalion, D Company, Oliver Green was quickly put into 
+the fight, experiencing a number of combat engagements with the enemy. 
+After being seriously wounded, Private Green was awarded the Bronze 
+Star, the Silver Star, and the Purple Heart for his combat heroism.
+  Oliver Green went on to attend the University of Alabama and Stetson 
+School of Law. He later became a Polk County judge, rising to become 
+chief judge of the tenth judicial circuit in 1979.
+  Oliver Green is a patriot. His commitment and service to our Nation 
+and our community have been outstanding.
+  I am grateful for brave individuals like Oliver Green who go, and 
+have gone, above and beyond the call of duty to serve their fellow man 
+and to serve our Nation.
+
+                          ____________________
+```

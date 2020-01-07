@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-07-pt1-PgH6-6
+date: 2020-01-07
+edition: CREC
+section: HOUSE
+page: H6
+citation: 166 Cong. Rec. H6
+---
+
+# CONGRATULATING THE BLUM HIGH SCHOOL BOBCATS ON THEIR FIRST STATE TITLE
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+ CONGRATULATING THE BLUM HIGH SCHOOL BOBCATS ON THEIR FIRST STATE TITLE
+
+  (Mr. WILLIAMS asked and was given permission to address the House for 
+1 minute.)
+  Mr. WILLIAMS. Mr. Speaker, I rise today to recognize and congratulate 
+the 2019 Blum High School Bobcats football team on winning their first 
+ever six-man State championship title.
+  For Texans, high school football is not just a sport; it is a way of 
+life. Each week in the fall, we gather under Friday night lights and 
+cheer our team on to victory.
+
+[[Page H7]]
+
+  The young men and coaches on our teams spend countless hours running 
+drills, watching film, and getting ready for their moment in history. 
+During the 2019 season, Blum High School's dedication paid off as they 
+rose from behind and secured a 58-52 win over the McLean Tigers at AT&T 
+Stadium.
+  On behalf of the 25th District of Texas, I congratulate the Bobcats 
+on their first State championship victory, and I wish them the very 
+best in their bright futures.
+  In God we trust.
+  Bless our troops.
+  Go Bobcats.
+
+                          ____________________
+```

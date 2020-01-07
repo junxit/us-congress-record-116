@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-01-07-pt1-PgH5-3
+date: 2020-01-07
+edition: CREC
+section: HOUSE
+page: H5
+citation: 166 Cong. Rec. H5
+---
+
+# PRAISING UNSUNG HEROES OF JERSEY CITY SHOOTING
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+             PRAISING UNSUNG HEROES OF JERSEY CITY SHOOTING
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to praise the unsung heroes of 
+the terrible shooting in Jersey City, New Jersey, last month.
+  When tragedy strikes a community, we all hear about the criminals who 
+committed the horrible acts. Only now and then do we hear about the 
+heroes who risked their lives to save others.
+  In Jersey City, it was heroes like Sergeant Majorie Jordan. She 
+walked into the line of fire to pull a wounded police officer to 
+safety.
+  Heroes like Anayah Bey; she cared for one of the shooting victims 
+until help arrived.
+  These are two of the many stories of individual bravery, from 
+officers and civilians alike, that happen during national tragedies 
+like Jersey City. These unsung heroes represent the best of America 
+during the worst of times, and they deserve our thanks and praise.
+  Mr. Speaker, I ask my colleagues to join me in recognizing these 
+brave and honorable citizens and their care for their fellow man.
+
+                          ____________________
+```
