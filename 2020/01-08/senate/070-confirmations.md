@@ -1,0 +1,33 @@
+---
+granule: CREC-2020-01-08-pt1-PgS97-5
+date: 2020-01-08
+edition: CREC
+section: SENATE
+page: S97
+citation: 166 Cong. Rec. S97
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate January 8, 2020:
+
+
+                             THE JUDICIARY
+
+       MATTHEW H. SOLOMSON, OF MARYLAND, TO BE A JUDGE OF THE 
+     UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF FIFTEEN 
+     YEARS.
+       ELENI MARIA ROUMEL, OF MARYLAND, TO BE A JUDGE OF THE 
+     UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF FIFTEEN 
+     YEARS.
+
+
+                          DEPARTMENT OF STATE
+
+       MICHAEL GEORGE DESOMBRE, OF ILLINOIS, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE KINGDOM OF THAILAND.
+```

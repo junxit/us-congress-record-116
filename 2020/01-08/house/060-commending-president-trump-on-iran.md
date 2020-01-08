@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-01-08-pt1-PgH53-5
+date: 2020-01-08
+edition: CREC
+section: HOUSE
+page: H53
+citation: 166 Cong. Rec. H53
+---
+
+# COMMENDING PRESIDENT TRUMP ON IRAN
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                   COMMENDING PRESIDENT TRUMP ON IRAN
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I rise tonight to commend President Trump 
+for his actions in dealing with Iran.
+  The White House has shown restraint up to this point, since Iran has 
+been a bad actor going all the way back to 1979, one of the largest 
+sponsors of terror the world has ever seen.
+  The President has been patient, and, finally, with the actions 
+recently at the embassy, took that step to eliminate General Soleimani, 
+which was needed in order to not only send a message but stop a lot of 
+the carnage.
+  Moving forward, we hope for and wish for true freedom for the people 
+of Iran so that they would be able to live more like they did pre-1979, 
+with the freedom, especially for women, to associate as they please.
+  This is not about regime change, and it is not about wanting to start 
+a war. It is about, indeed, helping our neighbors and our colleagues in 
+the Middle East to have stability from the state sponsor of terror.
+
+                          ____________________
+```
