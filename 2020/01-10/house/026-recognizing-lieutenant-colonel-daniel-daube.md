@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-10-pt1-PgH171-5
+date: 2020-01-10
+edition: CREC
+section: HOUSE
+page: H171
+citation: 166 Cong. Rec. H171
+---
+
+# RECOGNIZING LIEUTENANT COLONEL DANIEL DAUBE
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+              RECOGNIZING LIEUTENANT COLONEL DANIEL DAUBE
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+
+[[Page H172]]
+
+  
+
+  Mr. DUNN. Mr. Speaker, I rise today to recognize an extraordinary 
+three-war veteran, Lieutenant Colonel Daniel Daube.
+  Colonel Daube is a highly decorated veteran, having served in World 
+War II, Korea, and Vietnam, amassing over 5,000 flight-hours between 
+the Navy and the Air Force. He flew the P-51 Mustang, multiple fighter 
+jets, and heavy metal. He even served in the space program. His name is 
+enshrined on the Wall of Honor in the Smithsonian Air and Space Museum.
+  Colonel Daube's record of service is emblematic of why we all revere 
+the Greatest Generation. Now, at 95 years old, he is still the cheerful 
+warrior. He lives in Callaway, Florida, near his son, Dr. Skip Daube, 
+who has been my friend for over 25 years.
+  I was honored to serve them both Thanksgiving dinner at Tyndall Air 
+Force Base this year, and it was a time of great comradery.
+  Mr. Speaker, please join me in saluting a living hero from our 
+father's generation, Colonel Daniel Daube.
+
+                          ____________________
+```

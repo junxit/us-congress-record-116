@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-10-pt1-PgH152-5
+date: 2020-01-10
+edition: CREC
+section: HOUSE
+page: H152
+citation: 166 Cong. Rec. H152
+---
+
+# UNITED STATES' RELATIONSHIP WITH IRAN
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                 UNITED STATES' RELATIONSHIP WITH IRAN
+
+  (Ms. DEAN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEAN. Mr. Speaker, over the last week, our relationship with Iran 
+has fallen to its most difficult period since 1979. The United States 
+killed Major General Qasem Soleimani, a bad man whom we do not mourn, 
+and yet it was a provocative and disproportionate event.
+  Iran responded with missiles on two of our military bases. I am 
+grateful, thankful that none of our soldiers were in that attack and 
+that tensions between our countries appear to be easing.
+  I hope we can use this moment to assess where we are, how we got 
+here, and find the better path that lies ahead.
+  First, I call on the administration to share the intelligence with 
+Congress about the timing and rationale for the strike.
+  Second, I urge continued de-escalation. We stand less safe in 
+heightened tensions with Iran. It is essential that we emphasize 
+diplomacy once again.
+  Third, I ask that we treat this moment as an opportunity to redefine 
+our relationships with foes and friends alike and how we act as a 
+nation.
+  We will always defend America's security, but we should never create 
+needless provocation. As Matthew tells us: ``Blessed are the 
+peacemakers: for they shall be called children of God.''
+
+                          ____________________
+```
