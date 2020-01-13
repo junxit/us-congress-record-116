@@ -1,0 +1,69 @@
+---
+granule: CREC-2020-01-13-pt1-PgS163
+date: 2020-01-13
+edition: CREC
+section: SENATE
+page: S163
+citation: 166 Cong. Rec. S163
+---
+
+# SENATE RESOLUTION 468--RELATIVE TO THE DEATH OF THE HONORABLE JOCELYN BURDICK, FORMER UNITED STATES SENATOR FOR THE STATE OF NORTH DAKOTA
+
+**Measures:** S.Res. 468
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 468--RELATIVE TO THE DEATH OF THE HONORABLE JOCELYN 
+  BURDICK, FORMER UNITED STATES SENATOR FOR THE STATE OF NORTH DAKOTA
+
+  Mr. HOEVEN (for himself and Mr. Cramer) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 468
+
+       Whereas Jocelyn Burdick was born in Fargo, North Dakota, 
+     and attended Principia College and Northwestern University;
+       Whereas Jocelyn Burdick began her career as a radio 
+     announcer in Moorhead, Minnesota, served as a trustee to the 
+     newly reorganized Lake Agassiz Arts Council in 1977, was a 
+     Sunday school teacher and devoted member of the Christian 
+     Science Church, was president of the Parent Teacher 
+     Association, recorded public service announcements raising 
+     awareness of substance abuse and drunk driving, and was 
+     nationally recognized for her philanthropy on behalf of the 
+     Gamma Phi Beta sorority;
+       Whereas, on September 12, 1992, Jocelyn Burdick became the 
+     first woman from the State of North Dakota to serve in the 
+     United States Senate when then-Governor George Sinner 
+     appointed her to fill the seat of her late husband, Quentin 
+     Burdick;
+       Whereas Jocelyn Burdick was sworn in on September 16, 1992, 
+     and served in the United States Senate until December 14, 
+     1992; and
+       Whereas, during her time as United States Senator for North 
+     Dakota, Jocelyn Burdick served the people of North Dakota and 
+     continued the agenda of her late husband, including by 
+     supporting the enactment of the Federal Facility Compliance 
+     Act of 1992 (Public Law 102-386; 106 Stat. 1505), helping to 
+     establish the Quentin N. Burdick Indian Health Program at the 
+     University of North Dakota, supporting health care training 
+     programs for Native Americans, and helping to secure funding 
+     for the Federal courthouse in Fargo named after her late 
+     husband: Now, therefore, be it
+       Resolved, That--
+       (1) the Senate has heard with profound sorrow and deep 
+     regret the announcement of the death of the Honorable Jocelyn 
+     Burdick, former Member of the United States Senate;
+       (2) the Secretary of the Senate communicate this resolution 
+     to the House of Representatives and transmit an enrolled copy 
+     thereof to the family of the deceased; and
+       (3) when the Senate adjourns today, it stand adjourned as a 
+     further mark of respect to the memory of the Honorable 
+     Jocelyn Burdick.
+
+                          ____________________
+```

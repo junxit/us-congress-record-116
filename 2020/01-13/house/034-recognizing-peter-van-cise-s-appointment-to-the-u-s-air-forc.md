@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-01-13-pt1-PgH203-3
+date: 2020-01-13
+edition: CREC
+section: HOUSE
+page: H203
+citation: 166 Cong. Rec. H203
+---
+
+# RECOGNIZING PETER VAN CISE'S APPOINTMENT TO THE U.S. AIR FORCE ACADEMY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+ RECOGNIZING PETER VAN CISE'S APPOINTMENT TO THE U.S. AIR FORCE ACADEMY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to 
+recognize Peter Van Cise of Julian, Pennsylvania. Peter is a senior at 
+the Bald Eagle Area High School. When considering his post-graduation 
+options, Peter honorably chose to commit himself to serving his 
+country.
+  I am proud of Peter and pleased to announce that he has accepted a 
+fully qualified appointment to the United States Air Force Academy in 
+Colorado.
+  Peter is the son of Ann Van Cise and Dana Van Cise, an Air Force 
+veteran. He is the youngest of seven children. Peter excelled in the 
+classroom, on the soccer field, and in his community as a true leader. 
+I know that his hard work as a student will serve him well as he starts 
+his military career in the Air Force Academy.
+  Peter has continually demonstrated a sincere commitment to service, 
+and I wish him all the best in this exciting new venture.
+
+                          ____________________
+```

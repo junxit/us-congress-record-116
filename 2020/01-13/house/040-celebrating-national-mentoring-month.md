@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-01-13-pt1-PgH204-3
+date: 2020-01-13
+edition: CREC
+section: HOUSE
+page: H204
+citation: 166 Cong. Rec. H204
+---
+
+# CELEBRATING NATIONAL MENTORING MONTH
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                  CELEBRATING NATIONAL MENTORING MONTH
+
+  (Ms. FOXX of North Carolina asked and was given permission to address 
+the House for 1 minute.)
+  Ms. FOXX of North Carolina. Madam Speaker, since 2002, January has 
+been recognized as National Mentoring Month. We should all recognize 
+the positive impact that mentoring has on young people.
+  From our servicemembers at Cherry Point to the volunteers of the 
+Winston-Salem United Way, the coaches of LifeConnections in Alexander 
+County to the Western Youth Network in Boone, North Carolinians remain 
+actively engaged in mentoring opportunities across my State.
+  According to Mentoring.org, at-risk youth who were paired with a 
+mentor are 55 percent more likely to enroll in college; 78 percent more 
+likely to volunteer regularly in their communities; and 130 percent 
+more likely to hold leadership positions in their careers.
+  Madam Speaker, the numbers speak for themselves. Mentoring is a 
+cornerstone of the growth and development of young people across our 
+country.
+
+                          ____________________
+```
