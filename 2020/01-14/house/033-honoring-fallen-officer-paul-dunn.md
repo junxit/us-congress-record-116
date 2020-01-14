@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-01-14-pt1-PgH223-4
+date: 2020-01-14
+edition: CREC
+section: HOUSE
+page: H223
+citation: 166 Cong. Rec. H223
+---
+
+# HONORING FALLEN OFFICER PAUL DUNN
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+                   HONORING FALLEN OFFICER PAUL DUNN
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute.)
+  Mr. SPANO. Mr. Speaker, I rise today to honor one of Lakeland Police 
+Department's finest. Officer Paul Dunn was a United States Marine Corps 
+veteran and worked in law enforcement
+
+[[Page H224]]
+
+for over 20 years. He started with Lakeland P.D. in 2013 and epitomized 
+courage and sacrifice.
+  Officer Dunn sadly passed away following a tragic on-duty traffic 
+crash on January 9. He leaves behind a devoted wife, who is a detective 
+with Lakeland P.D. and five children.
+  This is the second officer Lakeland P.D. has lost over a 5-week 
+period, and their losses have a wide impact on the surrounding 
+communities. Yet the thin blue line that Officer Dunn was a part of 
+continues to serve, continues to protect, and continues to allow us 
+peace of mind.
+  I am grateful for him and for all of those who don the uniform with 
+dignity, fairness, and justice. I thank them from the bottom of my 
+heart.
+  Mr. Speaker, our prayers are with the family of Officer Dunn. He was 
+treasured in our community.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-01-14-pt1-PgH214-10
+date: 2020-01-14
+edition: CREC
+section: HOUSE
+page: H214
+citation: 166 Cong. Rec. H214
+---
+
+# DRUG PRICING
+
+**Speaking:** Johnson, Eddie Bernice (J000126) [D-TX]
+
+```
+                              DRUG PRICING
+
+  (Ms. JOHNSON of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Ms. JOHNSON of Texas. Mr. Speaker, as a professional registered nurse 
+in Congress, I must say how crucial it is for essential medications to 
+be affordable and accessible.
+  In 2017, 42 percent of Texas residents stopped taking medications as 
+prescribed simply due to cost according to AARP. Over 2.6 million 
+Texans have diabetes, and they must have daily access to affordable and 
+quality insulin.
+  Mr. Speaker, huge investments from taxpayers go into the development 
+of quality medications, yet just in the first days of 2020 multiple 
+pharmaceutical companies have increased prices on over 400 drugs by 5 
+percent of the taxpayers' money.
+  We must do more to protect the vulnerable members of our communities, 
+especially our seniors and the uninsured. With support of this House 
+and Senate, we must continue to work together to lower the cost of 
+prescription drugs for our constituents.
+
+                          ____________________
+```
