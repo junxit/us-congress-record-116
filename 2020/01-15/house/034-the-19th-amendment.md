@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-01-15-pt1-PgH250-3
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H250
+citation: 166 Cong. Rec. H250
+---
+
+# THE 19TH AMENDMENT
+
+**Speaking:** Morelle, Joseph D. (M001206) [D-NY]
+
+```
+                           THE 19TH AMENDMENT
+
+  (Mr. MORELLE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MORELLE. Madam Speaker, this weekend I will join hundreds of 
+activists and supporters for the Women's March in Seneca Falls, New 
+York, home of the historic 1848 Women's Rights Convention that sparked 
+the suffrage movement.
+  We will celebrate the incredible strides we have made in the fight 
+for women's rights and the many strong, courageous women who have 
+shattered glass ceilings to achieve progress.
+  The year 2020 marks the 100th anniversary of the passage of the 19th 
+Amendment, guaranteeing and protecting women's constitutional right to 
+vote. Now more than ever as we face new barriers threatening to roll 
+back the rights of women, we must take up the mantle of Susan B. 
+Anthony and the suffragists who came before us to continue to fight for 
+the full equality that all women deserve. Together we will keep 
+persisting.
+
+                          ____________________
+```

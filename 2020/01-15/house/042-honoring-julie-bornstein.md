@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-15-pt1-PgH251-4
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H251
+citation: 166 Cong. Rec. H251
+---
+
+# HONORING JULIE BORNSTEIN
+
+**Speaking:** Takano, Mark (T000472) [D-CA]
+
+```
+                        HONORING JULIE BORNSTEIN
+
+  (Mr. TAKANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAKANO. Madam Speaker, I rise today to congratulate Julie 
+Bornstein on her retirement from the Coachella Valley Housing 
+Coalition.
+  For more than 30 years, Julie has worked tirelessly as an advocate 
+for affordable housing throughout the Coachella Valley. She has 
+dedicated her career to making a difference in the lives of thousands 
+of individuals in Riverside and Imperial Counties.
+  Her leadership has been instrumental in raising awareness about the 
+homelessness issue so many members of our communities face. Through her 
+efforts, we have seen an increase in the availability of affordable 
+housing throughout the Inland Empire.
+  Apart from her work in the Coachella Valley Housing Coalition, Julie 
+served in the California State Assembly and was chosen to serve as the 
+chair of the Democratic Caucus.
+  She went on to serve as director of the California Department of 
+Housing and Community Development. Later, Julie was appointed CEO and 
+president of the Campaign for Affordable Housing.
+  Madam Speaker, Julie's work has not gone unnoticed, and the Coachella 
+Valley is a better place because of her. We wish her a happy 
+retirement.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-01-15-pt1-PgH275-4
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H275
+citation: 166 Cong. Rec. H275
+---
+
+# KERRY McCOY PRESERVE ARKANSAS AWARD
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                  KERRY McCOY PRESERVE ARKANSAS AWARD
+
+  (Mr. HILL of Arkansas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. HILL of Arkansas. Mr. Speaker, I rise today to recognize Ms. 
+Kerry McCoy who is being honored with the 2019 Special Recognition for 
+Outstanding Stewardship from Preserve Arkansas.
+  In 1975 Kerry founded her successful business, Arkansas Flag and 
+Banner, with $400 in savings, and to start she sold flags door to door.
+  In 1990 she expanded the business by purchasing the famed, yet 
+neglected, historic Taborian Hall in Little Rock, Arkansas. Built in 
+1916, Taborian Hall once hosted legendary entertainers like Duke 
+Ellington, Ella Fitzgerald, B.B. King, and Etta James.
+  Throughout the 1990s and early 2000s, Kerry slowly and meticulously 
+renovated Taborian Hall. In 2009 she founded the nonprofit Friends of 
+the Dreamland Ballroom to save and protect the space that had once been 
+the centerpiece of the hall. Kerry has since produced a documentary and 
+published a book about the building. And I was proud to support her 
+grant for a Civil Rights Preservation Grant from the National Park 
+Service in 2018.
+  I applaud Kerry for the efforts to preserve Taborian Hall and the 
+Dreamland Ballroom, and I congratulate her on this special recognition 
+from Preserve Arkansas.
+
+                          ____________________
+```

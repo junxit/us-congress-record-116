@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-01-15-pt1-PgH251-3
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H251
+citation: 166 Cong. Rec. H251
+---
+
+# HONORING THE LIFE OF WILLIE BELTON
+
+**Speaking:** Abraham, Ralph Lee (A000374) [R-LA]
+
+```
+                   HONORING THE LIFE OF WILLIE BELTON
+
+  (Mr. ABRAHAM asked and was given permission to address the House for 
+1 minute.)
+  Mr. ABRAHAM. Madam Speaker, the people of Louisiana recently lost a 
+respected political leader, a businessman, a war veteran, and a civil 
+rights leader, Mr. Willie Belton.
+  Mr. Belton had a life of a service to others. He was awarded the 
+Bronze Star and the Purple Heart under fire, heroically, during the 
+Korean war.
+  He marched with Dr. Martin Luther King in Washington, Alabama, 
+Tennessee, and Mississippi. Like Dr. King, Mr. Belton always advocated 
+Christian values and nonviolent protests. He also led his local NAACP 
+chapter in Louisiana. In February 2019, he was awarded the Louisiana 
+Medal of Honor.
+  Madam Speaker, please join me in honoring his lifetime of service to 
+Louisiana and a Louisiana treasure, Mr. Willie Belton, whose memory 
+will, fortunately, live with us forever.
+
+                          ____________________
+```

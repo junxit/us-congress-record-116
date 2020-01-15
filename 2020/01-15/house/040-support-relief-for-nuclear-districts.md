@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-01-15-pt1-PgH251-2
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H251
+citation: 166 Cong. Rec. H251
+---
+
+# SUPPORT RELIEF FOR NUCLEAR DISTRICTS
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+                  SUPPORT RELIEF FOR NUCLEAR DISTRICTS
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Madam Speaker, I rise today for our Nation's 
+communities saddled with stranded nuclear waste stockpiles because the 
+Federal Government has failed to meet its obligation to find a 
+permanent repository.
+  My constituents in Zion understand this all too well. After its 
+nuclear plant closed in 1998, 2 million pounds of spent nuclear fuel 
+remains.
+  Literally sitting on the shores of Lake Michigan, the more than 50 
+casks severely affect the quality of life of the residents of Zion. It 
+deters economic investment, depresses home values, drives up property 
+taxes, and stretches the city's already-thin budget.
+  Today, I am proud to reintroduce the STRANDED Act to, at last, 
+provide some compensation for these affected communities. Zion is not 
+alone. Across the country, there are more than a dozen communities with 
+nuclear plants at various stages of decommissioning, with more to come.
+  Madam Speaker, I am grateful for the support and leadership of 
+Committee on Appropriations Chairwoman Nita Lowey and Subcommittee on 
+Energy and Water Development, and Related Agencies Chairwoman Marcy 
+Kaptur in reintroducing this bill.
+  Together, we are fighting to make the Federal Government do right for 
+communities like Zion, and I urge my colleagues to join us.
+
+                          ____________________
+```

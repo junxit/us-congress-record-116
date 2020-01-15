@@ -1,0 +1,46 @@
+---
+granule: CREC-2020-01-15-pt1-PgH252-3
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H252
+citation: 166 Cong. Rec. H252
+---
+
+# PROVIDE CONSUMER PROTECTIONS FOR STUDENTS
+
+**Speaking:** Hayes, Jahana (H001081) [D-CT]
+
+**Measures:** H.J.Res. 76
+
+```
+               PROVIDE CONSUMER PROTECTIONS FOR STUDENTS
+
+  (Mrs. HAYES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. HAYES. Madam Speaker, I rise in support of H.J. Res. 76, a 
+resolution of disapproval of the Secretary of Education's new borrower 
+defense rule.
+  This rule guts consumer protections for students and taxpayers and 
+makes it more difficult for students to access relief for loans 
+obtained for degrees that have no value.
+  Over 1,200 students in Connecticut have been defrauded by predatory 
+for-profit colleges like Corinthian and ITT Tech and still await 
+relief. The Department has made the approval process more difficult, 
+leaving hundreds of thousands of students desperately waiting for 
+answers.
+  Too many first-generation, low-income students, student veterans, and 
+students of color are lured into these fraudulent schools that 
+prioritize profits over helping students advance their education.
+  The DeVos rule eliminates automatic closed school discharges and 
+weakens the early warning system that forces institutions to invest in 
+the potential debt relief. It puts a greater burden of proof on 
+students, barring them from relief if they cannot file their claims 
+fast enough.
+  As a career educator who truly understands the equalizing power of 
+education, I say it is unconscionable that the Department of Education 
+and the Secretary do not feel a moral imperative to protect students.
+  Madam Speaker, I urge my colleagues to support this resolution.
+
+                          ____________________
+```

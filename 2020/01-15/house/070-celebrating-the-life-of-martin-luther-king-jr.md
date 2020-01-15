@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-15-pt1-PgH276
+date: 2020-01-15
+edition: CREC
+section: HOUSE
+page: H276
+citation: 166 Cong. Rec. H276
+---
+
+# CELEBRATING THE LIFE OF MARTIN LUTHER KING, JR.
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+```
+            CELEBRATING THE LIFE OF MARTIN LUTHER KING, JR.
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SPANO. Mr. Speaker, today I rise to celebrate the life of Dr. 
+Martin Luther King, Jr.
+  Dr. King lived a life dedicated to serving and being a voice for the 
+oppressed across our Nation. His message of nonviolence resonated with 
+many Americans during a tumultuous period of our history when basic 
+civil rights were being denied to many based on the color of their 
+skin.
+  Drawing inspiration from his Christian faith, Dr. King believed his 
+protests were the strongest weapon to achieve freedom and equality. In 
+the end he paid the ultimate price, choosing courage over fear to 
+overcome hatred and ignorance.
+  He famously preached: ``Darkness cannot drive out darkness; only 
+light can do that. Hate cannot drive out hate; only love can do that.''
+  Because of Dr. King's influence, all Americans can gather together to 
+celebrate diversity and the growth of human rights for each of us. I 
+hope that everyone will join me in commemorating and remembering Dr. 
+Martin Luther King, Jr., for his leadership, his sacrifices, and his 
+legacy.
+
+                          ____________________
+```
