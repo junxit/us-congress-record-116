@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-16-pt1-PgH304-2
+date: 2020-01-16
+edition: CREC
+section: HOUSE
+page: H304
+citation: 166 Cong. Rec. H304
+---
+
+# HONORING DR. MARTIN LUTHER KING, JR.
+
+**Speaking:** Lawrence, Brenda L. (L000581) [D-MI]
+
+```
+                  HONORING DR. MARTIN LUTHER KING, JR.
+
+  (Mrs. LAWRENCE asked and was given permission to address the House 
+for 1 minute.)
+  Mrs. LAWRENCE. Mr. Speaker, I rise today in honor of the late, great 
+Dr. Martin Luther King, Jr.
+  On June 23, 1963, in my hometown of Detroit, Michigan, Martin Luther 
+King, Jr., delivered an impassioned precursor to his ``I Have a Dream'' 
+speech during the historic Detroit Walk to Freedom, which recognized 
+the 20th anniversary of the Detroit race riots.
+  With over 120,000 people present, the Detroit Walk to Freedom was the 
+largest civil rights demonstration in the Nation's history. Of course, 
+we all know that soon changed just a few weeks later with the March on 
+Washington.
+  As a young Black girl growing up on the east side of Detroit, Dr. 
+Martin Luther King, Jr., was more than just a public figure; he was our 
+hope. Today, I am honored to have the chance to recognize him and his 
+work and will continue to do my part to ensure his legacy lives on.
+  And in today's environment, here in Washington, D.C., and this 
+Congress, we must refocus on the ability to recognize every person 
+based on their character, their skills and abilities, and not based on 
+race.
+
+                          ____________________
+```

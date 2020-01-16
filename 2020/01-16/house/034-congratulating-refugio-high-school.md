@@ -1,0 +1,44 @@
+---
+granule: CREC-2020-01-16-pt1-PgH317-5
+date: 2020-01-16
+edition: CREC
+section: HOUSE
+page: H317
+citation: 166 Cong. Rec. H317
+---
+
+# CONGRATULATING REFUGIO HIGH SCHOOL
+
+**Speaking:** Cloud, Michael (C001115) [R-TX]
+
+```
+                   CONGRATULATING REFUGIO HIGH SCHOOL
+
+  (Mr. CLOUD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CLOUD. Mr. Speaker, I rise to congratulate the Refugio High 
+School Bobcats football team for winning their fifth State 
+championship. The Bobcats had a 16-0 record this year on the way to the 
+Class 2A Division 1 championship game, where they won 28-7.
+  What makes this win extra special is that Refugio was one of the 
+hardest hit communities by Hurricane Harvey. Initially, the vast 
+majority of students was homeless, and football games were delayed as 
+the school and stadium were repaired. While the damage to homes, 
+schools, and businesses in that community were devastating, the spirit 
+of Refugio remained strong.
+  Head coach Jason Herring consistently gives all the credit to the 
+kids who put in the hours and showed up to get their work done. He has 
+played a big role in helping these students fulfill their potential. 
+All in all, it was an awesome year for the team.
+  In Refugio, winning football games is part of the legacy that goes to 
+building
+
+[[Page H318]]
+
+that strong community, and I look forward to seeing what the team does 
+next year.
+  Mr. Speaker, I congratulate the players, coaches, families, and the 
+entire Refugio community on this achievement.
+
+                          ____________________
+```

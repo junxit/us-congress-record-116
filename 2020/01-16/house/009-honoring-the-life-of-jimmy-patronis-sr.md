@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-16-pt1-PgH304
+date: 2020-01-16
+edition: CREC
+section: HOUSE
+page: H304
+citation: 166 Cong. Rec. H304
+---
+
+# HONORING THE LIFE OF JIMMY PATRONIS, SR.
+
+**Speaking:** Dunn, Neal P. (D000628) [R-FL]
+
+```
+                HONORING THE LIFE OF JIMMY PATRONIS, SR.
+
+  (Mr. DUNN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. DUNN. Mr. Speaker, I rise today to honor Jimmy Patronis, Sr., a 
+local legend in Bay County, Florida, where he recently passed away at 
+the age of 88.
+  Mr. Patronis truly lived a life in full, one of family, 
+entrepreneurship, and of service to our community.
+  He served as a captain in the United States Air Force and then moved 
+to Panama City in 1953 to join in the restaurant business with his 
+brother, Johnny Patronis.
+  The brothers purchased Captain Anderson's, which has been in his 
+family's ownership ever since and has become a favorite spot for people 
+who are visiting Panama City.
+  From a very young age, Jimmy had an unwavering desire to serve others 
+and make the world a better place. He had an enormous staff, and he 
+treated all of them like family.
+  He leaves behind the love of his life, Helen, and four sons: Theo, 
+Yonnie, Nick, and the current Florida chief financial officer and 
+friend of mine, Jimmy, Jr.
+  Jimmy Patronis will be sorely missed by many. May he rest in peace.
+
+                          ____________________
+```
