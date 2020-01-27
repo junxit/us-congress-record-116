@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-27-pt1-PgH557
+date: 2020-01-27
+edition: CREC
+section: HOUSE
+page: H557
+citation: 166 Cong. Rec. H557
+---
+
+# RECOGNIZING NATIONAL HUMAN TRAFFICKING AWARENESS MONTH
+
+**Speaking:** Taylor, Van (T000479) [R-TX]
+
+```
+         RECOGNIZING NATIONAL HUMAN TRAFFICKING AWARENESS MONTH
+
+  (Mr. TAYLOR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAYLOR. Mr. Speaker, I rise in recognition of National Human 
+Trafficking Awareness Month and the dedicated volunteers who work to 
+end modern-day slavery.
+  As a parent, there is nothing scarier than the thought of children 
+being removed from their families and trafficked.
+  Oftentimes, when we think about human trafficking, we envision 
+terrible situations across the globe, but according to the Texas 
+attorney general, there were more than 300,000 victims of human 
+trafficking just in Texas.
+  As we bring attention to this far-too-common tragedy, I thank some of 
+the incredible organizations in Collin County that work tirelessly to 
+help survivors. Traffick911, CASA of Collin County, Rescue Her, 
+Treasured Vessels, New Friends New Life, and the Collin County 
+Sheriff's Office are all helping lead the fight against human 
+trafficking.
+  Mr. Speaker, I ask my colleagues in the House of Representatives to 
+join in thanking these organizations and recognizing the importance of 
+spreading awareness about human trafficking today and every day.
+
+                          ____________________
+```

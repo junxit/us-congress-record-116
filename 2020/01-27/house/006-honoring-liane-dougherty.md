@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-01-27-pt1-PgH539-5
+date: 2020-01-27
+edition: CREC
+section: HOUSE
+page: H539
+citation: 166 Cong. Rec. H539
+---
+
+# HONORING LIANE DOUGHERTY
+
+**Speaking:** Rose, Max (R000613) [D-NY]
+
+```
+                        HONORING LIANE DOUGHERTY
+
+  (Mr. ROSE of New York asked and was given permission to address the 
+House for 1 minute.)
+  Mr. ROSE of New York. Madam Speaker, I rise today to pay respect and 
+honor to my great teacher, Liane Dougherty. Mrs. Dougherty passed away 
+on December 5, 2019. She taught me in history class more than 20 years 
+ago at Poly Prep, where she was a mentor. She is survived by her 
+husband, Francis, and her children, Max and Sophie.
+  Her students recall--myself included--that, each and every day, she 
+would approach the classroom with grace, compassion, incredible wisdom 
+and intellect. I can say without a doubt, I would not be a Congressman 
+today without Mrs. Dougherty.
+  There is only one person in all of America being honored on the floor 
+of the United States House of Representatives today, and that is Liane 
+Dougherty. She is deserving of that, the best teacher I could ever ask 
+for.
+  Madam Speaker, may she rest in peace. We will always honor her 
+incredible legacy.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-27-pt1-PgH557-5
+date: 2020-01-27
+edition: CREC
+section: HOUSE
+page: H557
+citation: 166 Cong. Rec. H557
+---
+
+# CONFRONTING ANTI-SEMITISM
+
+**Speaking:** Spano, Ross (S001210) [R-FL]
+
+**Measures:** H.R. 943
+
+```
+                       CONFRONTING ANTI-SEMITISM
+
+  (Mr. SPANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SPANO. Mr. Speaker, I rise today to confront a cancer that has 
+been rapidly spreading, and that cancer is anti-Semitism, here at home 
+and around the world.
+  It is unsettling, and it is downright appalling. Day after day, I see 
+new headlines about disparaging rhetoric and violence against the 
+Jewish people.
+  The Anti-Defamation League reports that 80 percent of European Jews 
+feel anti-Semitism in their country is increasing, and 40 percent live 
+in daily fear of physical attack.
+  In 2018, here at home, there were 1,879 reported anti-Semitic 
+incidents in the United States. Our Nation was founded on freedom of 
+religion and diversity, and we must do everything necessary to preserve 
+it.
+  To that end, today, the House passed H.R. 943, the Never Again 
+Education Act, of which I am a proud cosponsor. It funds Holocaust 
+education programs around the country.
+  Mr. Speaker, America cannot and will not become a breeding ground for 
+hatred.
+
+                          ____________________
+```
