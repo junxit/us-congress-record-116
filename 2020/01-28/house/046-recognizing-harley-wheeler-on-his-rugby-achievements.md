@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-01-28-pt1-PgH608-3
+date: 2020-01-28
+edition: CREC
+section: HOUSE
+page: H608
+citation: 166 Cong. Rec. H608
+---
+
+# RECOGNIZING HARLEY WHEELER ON HIS RUGBY ACHIEVEMENTS
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+          RECOGNIZING HARLEY WHEELER ON HIS RUGBY ACHIEVEMENTS
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Madam Speaker, I rise to recognize Harley Wheeler, an 
+outstanding rugby player from Knoxville, Tennessee. His granddad, Roy, 
+and his grandmother--he recently lost--Alice, were dear friends of 
+mine.
+  Harley played rugby since he was 14 and is now one of the top players 
+in the United States. Harley began his rugby career with the South 
+Doyle Rugby Club while a student at South-Doyle High School. In 2015, 
+he enrolled at Life University to compete on its rugby team at the 
+collegiate level.
+  Harley's 4 years on the Life University rugby team were incredibly 
+successful. The team advanced to the Division 1A College Rugby National 
+Championship match every year he was on the team, and won the 
+championship in 2016, 2018, and 2019.
+  After graduating with a degree in business, Harley was selected to 
+represent the United States on the international stage at the 2019 Pan 
+American Games in Lima, Peru. Team USA finished third at the games, 
+defeating Brazil 24-19. Harley scored 10 points during the bronze medal 
+match.
+  As we approach the 2020 Summer Olympics, I wish Harley the best of 
+luck as he competes for a spot on the national rugby team. I hope to 
+see him representing Knoxville and the United States in Japan.
+
+                          ____________________
+```

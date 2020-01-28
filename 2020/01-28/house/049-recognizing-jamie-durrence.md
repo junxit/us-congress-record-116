@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-01-28-pt1-PgH608-6
+date: 2020-01-28
+edition: CREC
+section: HOUSE
+page: H608
+citation: 166 Cong. Rec. H608
+---
+
+# RECOGNIZING JAMIE DURRENCE
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                       RECOGNIZING JAMIE DURRENCE
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize Mr. 
+Jamie Durrence who has been selected to serve as the 2020 chair of the 
+Georgia Restaurant Association Board of Directors.
+  I can't think of someone more deserving of this responsibility. In 
+his more than 20 years managing restaurants in Savannah, he has 
+rejuvenated Savannah's restaurant scene with four restaurants that 
+serve fresh ingredients, unique menus, quality service, and overall 
+exceptional dining experiences.
+  Much of Mr. Durrence's penchant for the restaurant industry stems 
+from his youth when he was raised on a working farm just outside of 
+Savannah.
+  As chairman of the Georgia Restaurant Association Board of Directors, 
+Mr. Durrence will be tasked as the chief spokesperson for the industry 
+and will be an integral part of the statewide events.
+  I know that the Georgia restaurant industry is in good hands with Mr. 
+Durrence.
+  Congratulations, Mr. Durrence. Keep up the good work.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-28-pt1-PgH577-8
+date: 2020-01-28
+edition: CREC
+section: HOUSE
+page: H577
+citation: 166 Cong. Rec. H577
+---
+
+# CELEBRATING SCHOOL CHOICE
+
+**Speaking:** Lamborn, Doug (L000564) [R-CO]
+
+```
+                       CELEBRATING SCHOOL CHOICE
+
+  (Mr. LAMBORN asked and was given permission to address the House for 
+1 minute.)
+  Mr. LAMBORN. Madam Speaker, I rise during this week to celebrate 
+school choice.
+  Americans lose their freedom when parents aren't allowed to decide on 
+their own where to send their children to school. A one-size-fits-all 
+approach doesn't encourage growth for the next generation of Americans.
+  In March, the Supreme Court will be hearing oral arguments for the 
+case of Espinoza v. Montana Department of Revenue. The Court's decision 
+could have important ramifications for public funding of private and 
+public schools.
+  In my district, I am proud of the work being done by Steve and Joyce 
+Schuck, champions of the school choice movement in Colorado. Steven 
+Woodford is also doing great work for the homeschool communities of 
+Colorado.
+  These key leaders in our community are enabling students to have 
+educational opportunities they wouldn't otherwise have.
+  Colorado is making great strides in the school choice movement, and I 
+am proud to represent both the community leaders who facilitate it and 
+the talented students of this generation.
+
+                          ____________________
+```
