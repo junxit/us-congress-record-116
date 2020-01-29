@@ -1,0 +1,30 @@
+---
+granule: CREC-2020-01-29-pt1-PgH704-3
+date: 2020-01-29
+edition: CREC
+section: HOUSE
+page: H704
+citation: 166 Cong. Rec. H704
+---
+
+# WISHING THE KANSAS CITY CHIEFS LUCK IN THE SUPER BOWL
+
+**Speaking:** Marshall, Roger (M001198) [R-KS]
+
+```
+         WISHING THE KANSAS CITY CHIEFS LUCK IN THE SUPER BOWL
+
+  (Mr. MARSHALL asked and was given permission to address the House for 
+1 minute.)
+  Mr. MARSHALL. Madam Speaker, it seems like it was just yesterday when 
+I sat down in my family living room with my dad to watch Super Bowl IV. 
+It was an exciting game, watching Hank Stram strut up and down the 
+sideline, Lenny Dawson completing long passes to Otis Taylor.
+  This weekend, after 50 years in the desert, the Chiefs are back at 
+the Super Bowl. On behalf of the entire delegation, I want to wish 
+Coach Reid and MVP Patrick Mahomes a great day, a great game, wishing 
+that they all do their very best and bring back home that Lombardi 
+Trophy.
+
+                          ____________________
+```

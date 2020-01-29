@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-01-29-pt1-PgH645-4
+date: 2020-01-29
+edition: CREC
+section: HOUSE
+page: H645
+citation: 166 Cong. Rec. H645
+---
+
+# IT IS TIME TO END MIGRANT PROTECTION PROTOCOLS
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+**Measures:** H.R. 2662
+
+```
+                              {time}  1215
+             IT IS TIME TO END MIGRANT PROTECTION PROTOCOLS
+
+  (Ms. ESCOBAR asked and was given permission to address the House for 
+1 minute.)
+  Ms. ESCOBAR. Mr. Speaker, today marks the 1-year anniversary of the 
+implementation of the abhorrent Migrant Protection Protocol program, or 
+MPP, which forces vulnerable asylum seekers to remain in Mexico for 
+their U.S. court dates.
+  MPP is currently implemented at seven ports of entry along the U.S.-
+Mexico border, including in my community, El Paso, Texas, where over 
+18,000 asylum seekers have been made to wait in Ciudad Juarez, 
+Chihuahua.
+  During my time in Congress, I have brought a number of my colleagues 
+to the border to see our Nation's immigration challenges firsthand. A 
+number of them joined me last July, when we crossed the border to visit 
+with some of the families impacted by the program. We heard about their 
+journey to the U.S., the dangers they face if they return home, and 
+what it takes to survive day-to-day in Mexico, a country that is not 
+their own. We heard that obtaining legal counsel is nearly impossible, 
+hindering due process.
+  This administration is making it as hard as possible for these 
+families to obtain asylum in an effort to deter them from coming to the 
+U.S. in the first place, because cruelty is the point.
+  I urge my colleagues to cosponsor H.R. 2662, the Asylum Seeker 
+Protection Act, to defund this unlawful, abhorrent program.
+
+                          ____________________
+```

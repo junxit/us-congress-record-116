@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-01-29-pt1-PgH644-7
+date: 2020-01-29
+edition: CREC
+section: HOUSE
+page: H644
+citation: 166 Cong. Rec. H644
+---
+
+# RECOGNIZING STUART MacVEAN
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       RECOGNIZING STUART MacVEAN
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, I am grateful to recognize 
+Stuart MacVean of Aiken, president and CEO of Savannah River Nuclear 
+Solutions, for being honored as a 2020 CEO Who ``Gets It'' by the 
+National Safety Council's Safety and Health magazine.
+  This award is presented to those who go the extra mile through risk 
+reduction, performance measurement, safety management solutions, and 
+employee engagement--safety first.
+  Stuart has made keeping his employees safe and healthy a top 
+priority. His dedication has resulted in successful site mission 
+operations for support of our Nation's nuclear complex.
+  Stuart has been recognized by his local community. This month, I was 
+present when Stuart was named Man of the Year for his leadership, 
+community impact and involvement, and integrity by the Aiken Chamber of 
+Commerce, led by President David Jameson and Chair Julie Whitesell, 
+succeeding Pastor Paul Bush.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism with the leadership 
+of President Donald Trump.
+
+                          ____________________
+```
