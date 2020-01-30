@@ -1,0 +1,44 @@
+---
+granule: CREC-2020-01-30-pt1-PgH716-2
+date: 2020-01-30
+edition: CREC
+section: HOUSE
+page: H716
+citation: 166 Cong. Rec. H716
+---
+
+# HONORING THE JEWISH FAMILY SERVICE MIGRANT FAMILY SHELTER
+
+**Speaking:** Vargas, Juan (V000130) [D-CA]
+
+```
+       HONORING THE JEWISH FAMILY SERVICE MIGRANT FAMILY SHELTER
+
+  (Mr. VARGAS asked and was given permission to address the House for 1 
+minute.)
+  Mr. VARGAS. Mr. Speaker, I rise today on behalf of the migrants and 
+asylum-seekers who have been sheltered by Jewish Family Service of San 
+Diego.
+  On October 1, 2018, Jewish Family Service, along with other members 
+of the San Diego Rapid Response Network, heeded an important call. 
+These organizations were alerted that, due to a drastic change in 
+policy, women and children were being left on the side of the road. 
+They were released with nowhere to go and no resources to get to their 
+final destination.
+  These nonprofits decided that they would not stand idly by and would 
+assist these deserted families. Despite all the obstacles the 
+organizations faced, they dedicated themselves to welcoming the 
+stranger.
+  Jewish Family Service Shelter is now in its seventh location, where 
+it has served 21,000 individuals. The shelters have provided a safe and 
+welcoming place to sleep, fresh new clothes, warm meals, and travel 
+assistance.
+  I have had the opportunity to tour some of the facilities and believe 
+they follow the teaching of Leviticus 19: ``You shall treat the alien 
+who resides with you no differently than the natives born among you. . 
+. .''
+  I thank Jewish Family Service and the organizations of the San Diego 
+Rapid Response Network for their efforts.
+
+                          ____________________
+```

@@ -1,0 +1,20 @@
+---
+granule: CREC-2020-01-30-pt1-PgH747-15
+date: 2020-01-30
+edition: CREC
+section: HOUSE
+page: H747
+citation: 166 Cong. Rec. H747
+---
+
+# Constitutional Authority Statement for H.R. 5728
+
+**Measures:** H.R. 5728
+
+```
+           By Mr. JOHNSON of South Dakota:
+       H.R. 5728.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 3
+```

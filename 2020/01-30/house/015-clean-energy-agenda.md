@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-01-30-pt1-PgH716-6
+date: 2020-01-30
+edition: CREC
+section: HOUSE
+page: H716
+citation: 166 Cong. Rec. H716
+---
+
+# CLEAN ENERGY AGENDA
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+                          CLEAN ENERGY AGENDA
+
+  (Ms. KUSTER of New Hampshire asked and was given permission to 
+address the House for 1 minute and to revise and extend her remarks.)
+  Ms. KUSTER of New Hampshire. Mr. Speaker, climate change poses a 
+serious threat to virtually every aspect of our lives, particularly in 
+my State of New Hampshire, where our economy is deeply tied to nature.
+  That is why, earlier this week, I was proud to unveil my Clean Energy 
+Agenda with climate experts from across my district to outline policies 
+and bills that Congress can pass this year to move the United States 
+toward a clean energy economy.
+
+[[Page H717]]
+
+  I have prioritized 25 bills, most of them bipartisan, that identify 
+areas where Republicans and Democrats can work together to protect our 
+planet and create good jobs.
+  From investing in energy efficiency to dramatically ramping up the 
+deployment of renewable energy and decarbonizing our transportation 
+sector, my agenda includes a wide range of bills that can be passed if 
+we find the political will to act.
+  I look forward to working with my colleagues on the Energy and 
+Commerce Committee to advance policies that pave a pathway toward a 
+clean energy future.
+
+                          ____________________
+```
