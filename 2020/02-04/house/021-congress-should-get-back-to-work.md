@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-02-04-pt1-PgH757-4
+date: 2020-02-04
+edition: CREC
+section: HOUSE
+page: H757
+citation: 166 Cong. Rec. H757
+---
+
+# CONGRESS SHOULD GET BACK TO WORK
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                    CONGRESS SHOULD GET BACK TO WORK
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, tomorrow will be the culmination of a very 
+predictable series of events.
+  There were never 67 votes to convict the President. There was never 
+any bipartisan support for impeachment. This contrived process was 
+never going to be successful, and everybody knew it.
+  When House Democrats, first in a hurry in December to get the 
+articles through, and then after a month's delay sent the articles over 
+to the Senate, they claimed their case was compelling and overwhelming, 
+yet their case had zero actual evidence and was made only of opinion or 
+speculation or third-hand comments.
+  Then the Democrat impeachment managers asked for more witnesses in 
+order to prove their case that they had rushed through the House. Pure 
+hypocrisy. The same has surrounded this entire so-called process.
+  From quid pro quo to extortion to bribery, they have continuously 
+grasped for straws--the same straws they try to ban in California, by 
+the way--that would make their narrative more compelling.
+  Here we are, over 4 months since this inquiry was announced, yet they 
+found not a way to convince Americans that the President has committed 
+an actual crime.
+  Once the Senate votes to acquit the President, we must get back to 
+work and do actual things.
+
+                          ____________________
+```
