@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-02-05-pt1-PgH774-5
+date: 2020-02-05
+edition: CREC
+section: HOUSE
+page: H774
+citation: 166 Cong. Rec. H774
+---
+
+# NATIONAL GUN VIOLENCE SURVIVORS WEEK
+
+**Speaking:** Quigley, Mike (Q000023) [D-IL]
+
+```
+                  NATIONAL GUN VIOLENCE SURVIVORS WEEK
+
+  (Mr. QUIGLEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. QUIGLEY. Madam Speaker, I rise in recognition of National Gun 
+Violence Survivors Week, a time when we remember the tragic and life-
+altering impact of the gun violence epidemic that continues to affect 
+thousands of families across the country.
+  Every year, 36,000 Americans are killed by gun violence and 100,000 
+Americans are injured. In my city alone, an average of 765 people die 
+of gun violence every year.
+  Too many families have been touched by this violence. Too many young 
+people go to school afraid. Too many Americans live in fear.
+  Last night, the President's State of the Union only mentioned 
+firearms once. And instead of presenting a plan, it defended the NRA.
+  We owe it to every survivor and to everyone who has been touched by 
+gun violence to do more than hold a moment of science or post a hashtag 
+on Twitter. We owe the American people real action.
+
+                          ____________________
+```

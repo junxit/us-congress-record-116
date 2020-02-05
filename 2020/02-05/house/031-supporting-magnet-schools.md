@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-02-05-pt1-PgH775
+date: 2020-02-05
+edition: CREC
+section: HOUSE
+page: H775
+citation: 166 Cong. Rec. H775
+---
+
+# SUPPORTING MAGNET SCHOOLS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       SUPPORTING MAGNET SCHOOLS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Madam Speaker, I am grateful to be 
+recognized by the Magnet Schools of America as a Champion of Magnet 
+School Excellence and to be a steadfast supporter of magnet schools. I 
+appreciate that President Donald Trump's praising of magnet schools was 
+included last night in the State of the Union.
+  Last week, I had the opportunity to visit Dutch Fork Elementary 
+School Academy of Environmental Sciences, a magnet school in Irmo, 
+South Carolina. Dutch Fork is one of many amazing examples of how 
+magnet schools are important for academic excellence. I had the 
+opportunity to meet with students and teachers and talk with them about 
+their unique educational experiences.
+  I was thankful to talk with Katrina Goggins, the Director of 
+Communications for District Five of Lexington and Richland Counties, 
+Principal Julius Scott, Assistant Principal Brandon Gantt, School 
+District Five Magnet Director Sara Wheeler, and Shirley Cope.
+  In conclusion, God bless our troops, and we will never forget 
+September the 11th in the global war on terrorism with the courageous 
+leadership of President Donald Trump.
+
+                          ____________________
+```

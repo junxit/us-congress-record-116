@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-02-05-pt1-PgS871-6
+date: 2020-02-05
+edition: CREC
+section: SENATE
+page: S871
+citation: 166 Cong. Rec. S871
+---
+
+# PRESCRIPTION DRUG COSTS
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                        PRESCRIPTION DRUG COSTS
+
+  Mr. GRASSLEY. Last night, in the State of the Union Address, 
+President Trump called on Congress to put bipartisan legislation to 
+lower prescription drug prices on his desk and that he would sign it.
+  Here are the facts. The House is controlled by Democrats. The Senate 
+requires bipartisanship to get any legislating done. There are only a 
+couple of months left before the campaign season will likely impede 
+anything from being accomplished in this Congress. So the time to act 
+is right now.
+  I am calling on my colleagues on both sides of the aisle to get off 
+the sidelines and to work with me and Senator Wyden, as President Trump 
+already is, to heed the call to action that he gave us last night and 
+pass the Prescription Drug Pricing Reduction Act. It is the only 
+significant bipartisan bill in town. President Trump, the AARP, and the 
+libertarian Cato think tank, to name just a few people involved, have 
+all endorsed the bill.
+  If you are serious about fulfilling promises to lower drug costs, my 
+office door is open, as Senator Wyden's door is open. It is time for 
+the Senate to act and to deliver for the American people.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Oregon.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-02-05-pt1-PgH839
+date: 2020-02-05
+edition: CREC
+section: HOUSE
+page: H839
+citation: 166 Cong. Rec. H839
+---
+
+# HONORING CHIEF DANIEL SPIEGEL
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+                     HONORING CHIEF DANIEL SPIEGEL
+
+  (Mr. VAN DREW asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VAN DREW. Mr. Speaker, I would like to honor Chief Daniel Spiegel 
+on his retirement from the Wildwood Fire Department.
+  Daniel spent 28 faithful years with the fire department, where he had 
+served as chief since 2016. Daniel has the distinct honor of holding 
+every rank in the fire department. Daniel's father also served as fire 
+chief in Wildwood, the second-ever father-son chief in the department's 
+history.
+  Daniel served in the New Jersey Task Force 1 Urban Research and 
+Rescue and responded to the September 11 terrorist attacks, searching 
+for survivors. He was the team leader for the Cape May County Regional 
+Urban Search and Rescue Team, which serves all of Cape May County.
+  Danny was always focused on training. He trained thousands of 
+firefighters in our entire region.
+  He is planning to spend more time with his wife, daughter, and two 
+stepsons in retirement.
+  I thank Daniel for his service; his community thanks him for his 
+service; and his country thanks him for his service.
+  Daniel, may God bless you. You are truly one of our heroes.
+
+                          ____________________
+```
