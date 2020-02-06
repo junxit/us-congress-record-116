@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-02-06-pt1-PgH931
+date: 2020-02-06
+edition: CREC
+section: HOUSE
+page: H931
+citation: 166 Cong. Rec. H931
+---
+
+# CENTRAL VIRGINIAN OF THE WEEK: HANNAH HOWARD
+
+**Speaking:** Spanberger, Abigail Davis (S001209) [D-VA]
+
+```
+              CENTRAL VIRGINIAN OF THE WEEK: HANNAH HOWARD
+
+  (Ms. SPANBERGER asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. SPANBERGER. Mr. Speaker, I rise today in recognition of the 
+perseverance, strength, and compassion of my constituent, Hannah 
+Howard.
+  Hannah is a Gordonsville resident, Orange County High School senior, 
+and Blue Ridge Virtual Governor's School student.
+  On May 8, 2019, Hannah lost her older brother, Devon, to a heroin 
+overdose. In the 9 months since Devon's death, Hannah has shown 
+tremendous courage by studying addiction and educating her peers.
+  As part of her senior project, Hannah interned at a rehabilitation 
+facility where she learned about the recovery process and engaged with 
+patients to understand substance use disorders.
+  Following her internship, Hannah not only became certified to 
+administer Narcan herself, but she led her first Narcan certification 
+course to members of the Orange County Youth Council and plans to hold 
+additional trainings in the future.
+  I admire Hannah's empathy and determination. Through unimaginable 
+loss, she has created a framework within the Orange community to 
+prevent tragedies like the one she and her family have faced.
+  Mr. Speaker, please join me in thanking Hannah for her selflessness 
+and her service to Virginia's Seventh Congressional District.
+
+                          ____________________
+```
