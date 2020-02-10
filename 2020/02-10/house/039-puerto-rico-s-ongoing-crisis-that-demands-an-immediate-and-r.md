@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-02-10-pt1-PgH1001-2
+date: 2020-02-10
+edition: CREC
+section: HOUSE
+page: H1001
+citation: 166 Cong. Rec. H1001
+---
+
+# PUERTO RICO'S ONGOING CRISIS THAT DEMANDS AN IMMEDIATE AND ROBUST RESPONSE
+
+**Speaking:** Crist, Charlie (C001111) [D-FL]
+
+```
+   PUERTO RICO'S ONGOING CRISIS THAT DEMANDS AN IMMEDIATE AND ROBUST 
+                                RESPONSE
+
+  (Mr. CRIST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CRIST. Madam Speaker, I rise in support of our ailing fellow 
+Americans in Puerto Rico as they recover from the devastating 
+earthquakes that hit the island this past month.
+  For weeks, we have heard horror stories from my constituents in the 
+Puerto Rican communities about what they are seeing and hearing from 
+their friends and families on the island: homes reduced to rubble; 
+families living in flooded camps; children sleeping on the streets; and 
+the earthquakes keep coming, one as recently as 2 days ago.
+  This is an ongoing crisis that demands an immediate and robust 
+response. But right now, we are seeing critical aid delayed.
+  We in Florida know that, when we politicize disaster relief, we put 
+people's lives at stake. The House passed a supplemental relief bill 
+Friday. Now it is time for the Senate to act for our Puerto Rican 
+brothers and sisters.
+
+                          ____________________
+```

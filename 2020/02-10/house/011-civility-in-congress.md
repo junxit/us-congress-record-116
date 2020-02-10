@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-02-10-pt1-PgH980
+date: 2020-02-10
+edition: CREC
+section: HOUSE
+page: H980
+citation: 166 Cong. Rec. H980
+---
+
+# CIVILITY IN CONGRESS
+
+**Speaking:** Dingell, Debbie (D000624) [D-MI]
+
+```
+                          CIVILITY IN CONGRESS
+
+  (Mrs. DINGELL asked and was given permission to address the House for 
+1 minute.)
+  Mrs. DINGELL. Madam Speaker, it is a fresh week in Washington. Last 
+week, division infected this Capitol, both sides, Republicans and 
+Democrats.
+  The State of the Union is supposed to be a time of coming together as 
+Americans, coming together to improve jobs, healthcare, the 
+environment, and the lives of hardworking men and women, seniors, and 
+their families.
+  On Friday, I couldn't wait to get home. I went home and spent time 
+with people in my district.
+  People donned costumes in the Michigan Law Enforcement Polar Plunge 
+for Special Olympics. I didn't jump, but I laughed.
+  The University of Michigan won a hard-fought game against Michigan 
+State. Yes, go Blue. And now, we come together as one Michigan.
+  We had serious, important conversations about the division in this 
+country and how we must come together.
+  As we work on the people's business this week, I hope we remember we 
+can disagree agreeably and respect others' opinions and the need to 
+listen to each other and understand different perspectives. We are all 
+Americans.
+
+                          ____________________
+```

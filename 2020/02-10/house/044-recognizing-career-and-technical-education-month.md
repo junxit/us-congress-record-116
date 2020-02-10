@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-02-10-pt1-PgH1001-7
+date: 2020-02-10
+edition: CREC
+section: HOUSE
+page: H1001
+citation: 166 Cong. Rec. H1001
+---
+
+# RECOGNIZING CAREER AND TECHNICAL EDUCATION MONTH
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+            RECOGNIZING CAREER AND TECHNICAL EDUCATION MONTH
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, I rise today to recognize February as 
+Career and Technical Education Month.
+  Our education system should always be tailored to prepare all 
+students, not just those attending a 4-year college. CTE programs 
+ensure graduates have the vocational and technical skills necessary to 
+succeed in the future. In fact, there are 30 million jobs in the United 
+States that pay an average of $55,000 per year that don't require 
+bachelor's degrees.
+  The U.S. Department of Education estimates there will be 68 percent 
+more job openings for transportation occupational careers in the next 5 
+years than there are people training to fill those jobs. With 
+opportunities like these, students shouldn't feel forced to attend one 
+type of institution over another.
+
+[[Page H1002]]
+
+  Not every student is bound for college, but every student should 
+leave high school with the skills and knowledge necessary to join 
+today's workforce.
+
+                          ____________________
+```
