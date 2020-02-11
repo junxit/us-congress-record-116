@@ -1,0 +1,968 @@
+---
+granule: CREC-2020-02-11-pt1-PgH1029-2
+date: 2020-02-11
+edition: CREC
+section: HOUSE
+page: H1029
+citation: 166 Cong. Rec. H1029
+---
+
+# SMITHSONIAN WOMEN'S HISTORY MUSEUM ACT
+
+**Speaking:** Lofgren, Zoe (L000397) [D-CA], Davis, Rodney (D000619) [R-IL], Maloney, Carolyn B. (M000087) [D-NY], Fitzpatrick, Brian K. (F000466) [R-PA], Lawrence, Brenda L. (L000581) [D-MI], Gonzalez-Colon, Jenniffer (G000582) [R-PR], Brooks, Susan W. (B001284) [R-IN], Wagner, Ann (W000812) [R-MO], Van Drew, Jefferson (V000133) [R-NJ], Johnson, Eddie Bernice (J000126) [D-TX], Davis, Susan A. (D000598) [D-CA], Lesko, Debbie (L000589) [R-AZ]
+
+**Measures:** H.R. 1980
+
+```
+                 SMITHSONIAN WOMEN'S HISTORY MUSEUM ACT
+
+  Ms. LOFGREN. Madam Speaker, I move to suspend the rules and pass the 
+bill (H.R. 1980) to establish in the Smithsonian Institution a 
+comprehensive women's history museum, and for other purposes, as 
+amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 1980
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Smithsonian Women's History 
+     Museum Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) Since its founding, the United States has greatly 
+     benefitted from the contributions of women.
+       (2) Historical accounts, monuments, memorials, and museums 
+     disproportionately represent men's achievements and 
+     contributions and often neglect those of women. For example--
+       (A) a study of 18 American history textbooks concluded that 
+     10 percent of the material documented contributions of women;
+       (B) 9 statues out of 91 in the United States Capitol's 
+     National Statuary Hall depict women; and
+       (C) only one of the 44 monuments operated by the National 
+     Park Service specifically honors the achievements of women 
+     after the 2016 designation of the Belmont-Paul Women's 
+     Equality National Monument.
+       (3) There exists no national museum in the United States 
+     that is devoted to the documentation of women's contributions 
+     throughout the Nation's history.
+       (4) Establishing a comprehensive women's history museum 
+     representing a diverse range of viewpoints, experience, and 
+     backgrounds is necessary to more accurately depict the 
+     history of the United States and would add value to the 
+     Smithsonian Institution.
+
+     SEC. 3. ESTABLISHMENT OF MUSEUM.
+
+       (a) Establishment.--There is established within the 
+     Smithsonian Institution a comprehensive women's history 
+     museum, to be named by the Board of Regents in consultation 
+     with the council established under section 4.
+       (b) Purpose.--The purpose of the museum established under 
+     this section shall be to provide for--
+
+[[Page H1030]]
+
+       (1) the collection, study, and establishment of programs 
+     relating to women's contributions to various fields and 
+     throughout different periods of history that have influenced 
+     the direction of the United States;
+       (2) collaboration with other Smithsonian Institution 
+     museums and facilities, outside museums, and educational 
+     institutions; and
+       (3) the creation of exhibitions and programs that recognize 
+     diverse perspectives on women's history and contributions.
+
+     SEC. 4. COUNCIL.
+
+       (a) Establishment.--There is established within the 
+     Smithsonian Institution a council to carry out the duties set 
+     forth under subsection (b) and other provisions of this Act.
+       (b) Duties.--
+       (1) In general.--The council established under this section 
+     shall--
+       (A) make recommendations to the Board of Regents concerning 
+     the planning, design, and construction of the museum 
+     established under section 3;
+       (B) advise and assist the Board of Regents on all matters 
+     relating to the administration, operation, maintenance, and 
+     preservation of the museum;
+       (C) recommend annual operating budgets for the museum to 
+     the Board of Regents;
+       (D) report annually to the Board of Regents on the 
+     acquisition, disposition, and display of objects relating to 
+     women's art, history, and culture; and
+       (E) adopt bylaws for the operation of the council.
+       (2) Principal responsibilities.--The council, subject to 
+     the general policies of the Board of Regents, shall have sole 
+     authority to--
+       (A) purchase, accept, borrow, and otherwise acquire 
+     artifacts for addition to the collections of the museum;
+       (B) loan, exchange, sell, and otherwise dispose of any part 
+     of the collections of the museum, but only if the funds 
+     generated by that disposition are used for additions to the 
+     collections of the museum; or
+       (C) specify criteria with respect to the use of the 
+     collections and resources of the museum, including policies 
+     on programming, education, exhibitions, and research with 
+     respect to--
+       (i) the life, art, history, and culture of women;
+       (ii) the role of women in the history of the United States; 
+     and
+       (iii) the contributions of women to society.
+       (3) Other responsibilities.--The council, subject to the 
+     general policies of the Board of Regents, shall have 
+     authority--
+       (A) to provide for preservation, restoration, and 
+     maintenance of the collections of the museum; and
+       (B) to solicit, accept, use, and dispose of gifts, 
+     bequests, and devises of personal property for the purpose of 
+     aiding and facilitating the work of the museum.
+       (4) Ensuring diversity of political viewpoints in exhibits 
+     and programs.--In carrying out its duties, the council shall 
+     ensure that the exhibits and programs of the museum reflect 
+     the diversity of the political viewpoints held by women of 
+     the United States on the events and issues relating to the 
+     history of women in the United States.
+       (c) Composition and Appointment.--
+       (1) In general.--The council shall be composed of 25 voting 
+     members as provided under paragraph (2).
+       (2) Voting members.--The council shall include the 
+     following voting members:
+       (A) The Secretary of the Smithsonian Institution.
+       (B) One member of the Board of Regents, appointed by the 
+     Board of Regents.
+       (C) 23 individuals appointed by the Board or Regents. In 
+     appointing members under this subparagraph, the Board of 
+     Regents should give special consideration to appointing--
+       (i) members of the Congressional Commission;
+       (ii) board members of the National Women's History Museum, 
+     a nonprofit, educational organization described in section 
+     501(c)(3) of the Internal Revenue Code of 1986 that was 
+     incorporated in 1996 in the District of Columbia and that is 
+     dedicated for the purpose of establishing a women's history 
+     museum; and
+       (iii) scholars and representatives of organizations that 
+     are committed to the study of women's history.
+       (3) Initial appointments.--The Board of Regents shall make 
+     initial appointments to the council under paragraph (2) not 
+     later than 180 days after the date of the enactment of this 
+     Act.
+       (d) Terms.--
+       (1) In general.--Except as provided in this subsection, 
+     each appointed member of the council shall be appointed for a 
+     term of 3 years.
+       (2) Initial appointees.--As designated by the Board of 
+     Regents at the time of appointment, of the voting members 
+     first appointed under subparagraph (C) of subsection (c)(2)--
+       (A) 8 members shall be appointed for a term of 1 year;
+       (B) 8 members shall be appointed for a term of 2 years; and
+       (C) 7 members shall be appointed for a term of 3 years.
+       (3) Reappointment.--A member of the council may be 
+     reappointed, except that no individual may serve on the 
+     council for a total of more than 2 terms. For purposes of 
+     this paragraph, the number of terms an individual serves on 
+     the council shall not include any portion of a term for which 
+     an individual is appointed to fill a vacancy under paragraph 
+     (4)(B).
+       (4) Vacancies.--
+       (A) In general.--A vacancy on the council--
+       (i) shall not affect the powers of the council; and
+       (ii) shall be filled in the same manner as the original 
+     appointment was made.
+       (B) Term.--Any member of the council appointed to fill a 
+     vacancy occurring before the expiration of the term for which 
+     the member's predecessor was appointed shall be appointed for 
+     the remainder of that term.
+       (e) Compensation.--
+       (1) In general.--Except as provided in paragraph (2), a 
+     member of the council shall serve without pay.
+       (2) Travel expenses.--A member of the council shall be 
+     allowed travel expenses, including per diem in lieu of 
+     subsistence, at rates authorized for an employee of an agency 
+     under subchapter I of chapter 57 of title 5, while away from 
+     the home or regular place of business of the member in the 
+     performance of the duties of the council.
+       (f) Chairperson.--By a majority vote of its voting members, 
+     the council shall elect a chairperson from its members.
+       (g) Meetings.--
+       (1) In general.--The council shall meet at the call of the 
+     chairperson or on the written request of a majority of the 
+     voting members of the council, but not fewer than twice each 
+     year.
+       (2) Initial meetings.--During the 1-year period beginning 
+     on the date of the first meeting of the council, the council 
+     shall meet not fewer than 4 times for the purpose of carrying 
+     out the duties of the council under this subchapter.
+       (h) Quorum.--A majority of the voting members of the 
+     council holding office shall constitute a quorum for the 
+     purpose of conducting business, but a lesser number may 
+     receive information on behalf of the council.
+
+     SEC. 5. DIRECTOR AND STAFF OF THE MUSEUM.
+
+       (a) Director.--
+       (1) In general.--The museum established under section 3 
+     shall have a Director who shall be appointed by the 
+     Secretary, taking into consideration individuals recommended 
+     by the council established under section 4.
+       (2) Duties.--The Director shall manage the museum subject 
+     to the policies of the Board of Regents.
+       (b) Staff.--The Secretary may appoint two additional 
+     employees to serve under the Director, except that such 
+     additional employees may be appointed without regard to the 
+     provisions of title 5, United States Code, governing 
+     appointments in the competitive service.
+       (c) Pay.--The employees appointed by the Secretary under 
+     subsection (b) may be paid without regard to the provisions 
+     of chapter 51 and subchapter III of chapter 53 of title 5, 
+     United States Code, relating to classification of positions 
+     and General Schedule pay rates.
+
+     SEC. 6. EDUCATIONAL AND LIAISON PROGRAMS.
+
+       (a) Programs Authorized.--The Director of the museum 
+     established under section 3 may carry out educational and 
+     liaison programs in support of the goals of the museum.
+       (b) Collaboration With Schools.--In carrying out this 
+     section, the Director shall carry out educational programs in 
+     collaboration with elementary schools, secondary schools, and 
+     postsecondary schools.
+
+     SEC. 7. BUILDING.
+
+       (a) In General.--
+       (1) Location.--
+       (A) In general.--Not later than 6 months after the date of 
+     the enactment of this Act, the Board of Regents shall 
+     designate a site for the museum established under section 3.
+       (B) Sites for consideration.--In designating a site under 
+     subparagraph (A), the Board of Regents shall select from 
+     among the following sites in the District of Columbia:
+       (i) The site known as the ``South Monument site'', located 
+     on the National Mall and bordered by 14th Street Northwest, 
+     Jefferson Drive Southwest, Raoul Wallenberg Place Southwest, 
+     and Independence Ave Southwest.
+       (ii) The Northwest United States Capitol site, bordered by 
+     3rd Street Northwest, Constitution Avenue Northwest, 1st 
+     Street Northwest, and Pennsylvania Ave Northwest.
+       (iii) Any other appropriate location as identified by the 
+     Board of Regents in consultation with the council established 
+     under section 4.
+       (C) Availability of site.--
+       (i) In general.--The sites described in clauses (i) and 
+     (ii) of subparagraph (B) shall remain available until the 
+     date on which the Board of Regents designates a site for the 
+     museum under subparagraph (A).
+       (ii) Transfer to smithsonian institution.--If the site 
+     designated for the museum is in an area that is under the 
+     administrative jurisdiction of a Federal agency, as soon as 
+     practicable after the date on which the designation is made, 
+     the head of the Federal agency shall transfer to the 
+     Smithsonian Institution administrative jurisdiction over the 
+     area.
+       (D) Factors considered.--In designating a site under 
+     subparagraph (A), the Board of Regents shall take into 
+     consideration each of the following factors:
+       (i) An estimate of the costs associated with each potential 
+     site.
+       (ii) An assessment of the suitability of the space of each 
+     potential site, including size, proximity to other buildings 
+     and transportation, and other external environmental 
+     conditions, as appropriate.
+
+[[Page H1031]]
+
+       (iii) The recommendations of the Congressional Commission.
+       (E) Consultation.--The Board of Regents shall carry out its 
+     duties under this paragraph in consultation with each of the 
+     following:
+       (i) The Chair of the National Capital Planning Commission.
+       (ii) The Chair of the Commission on Fine Arts.
+       (iii) The Chair of the Congressional Commission.
+       (iv) The chair and ranking minority member of the 
+     Committees on Appropriations and Rules and Administration of 
+     the Senate.
+       (v) The chair and ranking minority member of the Committees 
+     on Appropriations, House Administration, and Transportation 
+     and Infrastructure of the House of Representatives.
+       (F) Priority.--In designating a site under subparagraph 
+     (A), the Board of Regents shall give priority to a site which 
+     is on or near the National Mall.
+       (b) Construction of Building.--The Board of Regents, in 
+     consultation with the council established under section 4, 
+     may plan, design, and construct a building for the museum, 
+     which shall be located at the site designated by the Board of 
+     Regents under subsection (a).
+       (c) Nonapplicability of Provisions Relating to Monuments 
+     and Commemorative Works.--Chapter 89 of title 40, United 
+     States Code, shall not apply with respect to the museum.
+       (d) Cost Sharing.--The Board of Regents shall pay--
+       (1) 50 percent of the costs of carrying out this section 
+     from Federal funds; and
+       (2) 50 percent of the costs of carrying out this section 
+     from non-Federal sources.
+
+     SEC. 8. DEFINITIONS.
+
+       In this Act, the following definitions apply:
+       (1) The term ``Board of Regents'' means the Board of 
+     Regents of the Smithsonian Institution.
+       (2) The term ``Congressional Commission'' means the 
+     Commission to Study the Potential Creation of a National 
+     Women's History Museum, established under section 3056 of the 
+     Military Construction Authorization Act for Fiscal Year 2015 
+     (Public Law 113-291; 128 Stat. 3810).
+       (3) The term ``Secretary'' means the Secretary of the 
+     Smithsonian Institution.
+
+     SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--There are authorized to be appropriated to 
+     the Smithsonian Institution to carry out this Act, including 
+     the planning, design, construction, and operation of the 
+     museum established under section 3, such sums as may be 
+     necessary for fiscal year 2021 and each succeeding fiscal 
+     year.
+       (b) Availability.--Amounts appropriated pursuant to the 
+     authorization under this section shall remain available until 
+     expended.
+       (c) Use of Funds for Fundraising.--Amounts appropriated 
+     pursuant to the authorization under this section may be used 
+     to conduct fundraising in support of the museum established 
+     under section 3 from private sources.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+California (Ms. Lofgren) and the gentleman from Illinois (Mr. Rodney 
+Davis) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from California.
+
+
+                             General Leave
+
+  Ms. LOFGREN. Madam Speaker, I ask unanimous consent that all Members 
+have 5 legislative days in which to revise and extend their remarks and 
+include extraneous material on the measure under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from California?
+  There was no objection.
+  Ms. LOFGREN. Madam Speaker, I yield myself such time as I may 
+consume.
+  Madam Speaker, I rise in strong support of H.R. 1980, the Smithsonian 
+Women's History Museum Act.
+  H.R. 1980 will establish a comprehensive women's history museum 
+within the Smithsonian Institution. We cannot tell the story of America 
+without telling the story of women in America.
+  From the days leading up to our founding through today, the United 
+States has benefited from the contributions, accomplishments, and 
+sacrifices of women.
+  In the 1760s, the Daughters of Liberty came together to protest 
+unjust laws like the Townshend Acts, helping to spark the American 
+Revolution. Soon after the Revolution, Abigail Adams urged her husband, 
+John, and other Members of the First Continental Congress to: 
+``Remember the ladies.'' She would later become one of President Adams' 
+most influential advisers and confidants.
+  In the years leading up to the Civil War, Harriet Tubman escaped from 
+slavery and guided dozens of slaves to freedom throughout the 
+Underground Railroad, and she didn't stop there. She went on to raise 
+money for newly freed slaves and joined other women like Elizabeth Cady 
+Stanton and Susan B. Anthony in their fight for women's suffrage.
+  During World War II, 6.5 million women entered the labor force to 
+support the war effort, including my own late mother, who helped build 
+airplanes in south San Francisco to fight the Nazis. They were 
+exercising new power with jobs outside the home, and this power has 
+continued to grow over time, albeit more slowly than many of us would 
+like.
+  Later in the 20th century, Rosa Parks sparked the Montgomery bus 
+boycott, and Sandra Day O'Connor took the bench as the first woman ever 
+appointed to the Supreme Court.
+  More recently, Speaker Nancy Pelosi became the first and second 
+female Speaker of the House. In 2018, a record 102 women were elected 
+to the House of Representatives.
+  However, these and countless other accomplishments by women 
+notwithstanding, historical accounts, monuments, and museums 
+disproportionately represent the achievements of men while neglecting 
+those of women. Furthermore, studies have shown that history textbooks 
+discuss the accomplishments of men exponentially more often than those 
+of women. This should change.
+  The contributions and experiences of American women deserve 
+celebration and recognition, and I can think of few better ways to 
+celebrate and recognize American women than by establishing a women's 
+history museum at the Smithsonian, our country's preeminent museum and 
+research institution.
+  The Smithsonian Women's History Museum Act mirrors the highly 
+successful National Museum of African American History and Culture Act. 
+Like that bill, this bill calls for a 50-50 split between Federal and 
+non-Federal funding, a model that worked very well for the National 
+Museum of African American History and Culture.
+  The House Administration Committee considered this legislation at a 
+hearing with Secretary Lonnie Bunch in September. During our markup in 
+November, we agreed to an amendment offered by the minority to ensure 
+diversity of political viewpoints in exhibits and programs.
+  Women have come a long way since the Daughters of Liberty began 
+boycotting British goods and organizing protests in the 1760s. But 
+despite how far we have come, we still have a long way to go. I am 
+hopeful that today, a century after women were granted the right to 
+vote, we will take a critical step in creating a museum to recognize 
+these achievements and inspire our daughters and our daughters' 
+daughters to follow in the footsteps of the incredible women who came 
+before them as we continue our unending work to form a more perfect 
+Union.
+  Madam Speaker, I reserve the balance of my time.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield myself such time 
+as I may consume.
+  Madam Speaker, I rise in support of H.R. 1980, which would establish 
+a national women's history museum within the Smithsonian Institution.
+  Throughout our history, women have made enduring and significant 
+contributions to our Nation's scientific, cultural, economic, artistic, 
+and civic life. It is critical to preserve and share these stories 
+because women's history is America's history.
+  That is why I, like the 293 bipartisan cosponsors of this bill, 
+support a museum in our Nation's Capital dedicated to showcasing these 
+contributions.
+  This bill is the result of much hard work. A bipartisan commission 
+extensively studied the complex issues surrounding the establishment of 
+a museum. Their final report, issued in 2016, recommended the creation 
+of a comprehensive national women's history museum and that it be part 
+of the Smithsonian Institution. H.R. 1980 embodies this recommendation.
+  It is critical that the eventual new museum reflects the full 
+spectrum of views among American women, including conservative voices 
+and opinions. During committee markup of this bill, my colleague Mark 
+Walker's amendment to ensure the diversity of political viewpoints in 
+the museum's exhibits and programming was unanimously adopted.
+  The Smithsonian faces a challenging task ahead. Creating a new museum
+
+[[Page H1032]]
+
+takes an enormous amount of effort and resources, with cost estimates 
+approaching $650 million.
+
+  Further, the Smithsonian has ongoing major capital improvement 
+projects, a nearly $1 billion deferred maintenance backlog, and storage 
+capacity issues.
+  As I have stated before, I think it is imperative that we, as 
+policymakers, holistically consider all the multifaceted components 
+with these projects and how they fit into the long-term strategic plan 
+of the Smithsonian.
+  These are challenges but should not be obstacles to moving forward. 
+With strong leadership at the Smithsonian and the partnership of 
+Congress, a Smithsonian women's history museum can become a reality. I 
+look forward to one day visiting it and sharing that experience with my 
+own daughter.
+  Before I yield, I would like to commend my colleague across the 
+aisle, Representative Maloney, and my colleague standing to my right, 
+the lead Republican sponsor, Mr. Fitzpatrick, on their dedication to 
+pushing this bill through the legislative process. I thank both of them 
+and their staffs for their hard work to get here.
+  Madam Speaker, I reserve the balance of my time.
+  Ms. LOFGREN. Madam Speaker, we are fortunate that the author of this 
+bill, the gentlewoman from New York, is here with us today. She is 
+someone who has been pursuing this idea for our country for so many 
+years, and she would never give up until we got to this day.
+  Madam Speaker, I yield 4 minutes to the gentlewoman from New York 
+(Mrs. Carolyn B. Maloney), who has been tireless and persistent. We 
+would not be here today without the effort of Chairwoman Maloney.
+
+                              {time}  1315
+
+  Mrs. CAROLYN B. MALONEY of New York. Madam Speaker, I thank my good 
+friend, Zoe Lofgren, for her leadership in so many ways and for being 
+part of this success today. It would not have happened without the 
+gentlewoman, and I am deeply grateful.
+  There is a saying that women hold up half the sky. I would say that 
+is an understatement. Women have made an incredible, lasting 
+contribution to our country since its founding, yet there is not one 
+comprehensive women's museum dedicated to women's achievements and 
+their contributions to our great country anyplace in America.
+  We have sliver museums like an arts museum or First Ladies museum or 
+an Annie Oakley museum or Women of the West, but not a comprehensive 
+museum, which the Smithsonian is planning with research and the ability 
+to have exhibits across the country to tell the story of American 
+women.
+  Under the leadership of Speaker Nancy Pelosi and Majority Leader 
+Steny Hoyer, we will be changing that today by voting on H.R. 1980, the 
+Smithsonian Women's History Museum Act.
+  This is a bipartisan effort. We have an overwhelming number of 
+cosponsors--293--thanks to the efforts of all of my colleagues, 
+including Congressman Brian Fitzpatrick, who is the lead on the other 
+side of the aisle; Congresswoman Brenda Lawrence; Congresswoman Eleanor 
+Holmes Norton, who is chairing a committee meeting now; and the Problem 
+Solvers Caucus led by Josh Gottheimer and   Tom Reed--bipartisan--
+Congresswoman Susan Brooks; and many, many others.
+  I am particularly grateful to Congressman Fitzpatrick for reaching 
+out to me before this Congress even began to tell me he wanted to be a 
+leader--as his brother was--on this bill and get it across the finish 
+line.
+  I also express my appreciation to Michael Fitzpatrick, Brian's 
+brother, who supported this bill as a leader for many years. He is 
+greatly missed. He was a great statesman, and he is part of the success 
+with us today.
+  The journey of this moment started for me with a walk around the 
+National Mall. I was looking at all the museums, and I saw them 
+dedicated to air, space, spies, law enforcement, textiles, the Postal 
+Service, arts--all enriching institutions.
+  But I found myself asking: Where are the women?
+  Where is half the population of this country?
+  Today, with the passage of H.R. 1980, the House is taking a step 
+toward changing that.
+  Unfortunately, women have been left out of the telling of our 
+Nation's history. Sadly, if you walk around this Capitol, Madam 
+Speaker, and you count the over 100 statues, only nine are of women.
+  If you look at our 2,500 National Historic Landmarks across our 
+Nation, only 5 percent of our national landmarks honor women. And 
+studies have shown women are underrepresented in the textbooks that we 
+use in our public schools.
+  Getting to this point has been a very long road that took from 1998 
+to 2014 for Congress to finally pass my bill that I worked on for years 
+with then-Representative Marsha Blackburn to create a congressional 
+commission to study the establishment of a women's museum.
+  This bipartisan commission was appointed by Republican and Democratic 
+leadership and chaired by Jane Abraham, a Republican, who has become an 
+incredible partner in this effort. Eighteen months later, the 
+commissioners submitted a unanimous report that the U.S. needs and 
+deserves--and it is long past due--a Smithsonian women's history museum 
+and set out a vision of how to build it.
+  We took those recommendations and put them into a bill, with the 
+Smithsonian's input, that is before us today.
+  The SPEAKER pro tempore. The time of the gentlewoman has expired.
+  Ms. LOFGREN. Madam Speaker, I yield the gentlewoman an additional 1 
+minute.
+  Mrs. CAROLYN B. MALONEY of New York. Madam Speaker, today we will 
+pass this important bill, and I hope the Senate will quickly do the 
+same. I am grateful for the leadership of Senators Collins and 
+Feinstein who are leading this effort in the Senate.
+  My response to those who ask why this museum is so important is, if 
+we do not even recognize women, how can we empower them?
+  We need the efforts and the ability to excel, but from all of our 
+residents, male and female, to win in a competitive world. That is why 
+this bill should be supported by every Member of this House and, 
+hopefully, the Senate.
+  This is not about politics, it is not about partisanship, and it is 
+not a Democrat or a Republican issue. It is an American issue 
+recognizing the contributions of our mothers, our sisters, and our 
+daughters. This is about giving all women our rightful place in 
+history.
+  Madam Speaker, I thank Zoe Lofgren so much, and I urge a strong, 
+strong vote in support of this bill.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, again, I thank my 
+colleague, Mrs. Maloney, for making this bill a reality in partnership 
+with my good friend, as I mentioned in my opening statements, Mr. 
+Fitzpatrick.
+  This is the epitome of bipartisanship here on the floor of the House 
+of Representatives today.
+  Madam Speaker, I yield 2 minutes to the gentleman from Levittown, 
+Pennsylvania (Mr. Fitzpatrick), who left his favorite job out in the 
+world as a special agent fighting corruption at the FBI.
+  Mr. FITZPATRICK. Madam Speaker, I thank Ranking Member Davis for 
+yielding, and I thank Chairwoman Maloney for her leadership, her 
+partnership, her friendship, and passion that she has shown to get us 
+here today.
+  Madam Speaker, I rise today to proudly support the Smithsonian 
+Women's History Museum Act. I was proud to join the chairwoman in 
+introducing this legislation last year. I am even happier to be here 
+today to support it on the floor.
+  Madam Speaker, women's contributions to the development of our Nation 
+are immense, however, only 5 percent of the approximately 2,400 
+national monuments honor women, and as the first museum in the United 
+States dedicated to the full story of women's history, this museum will 
+tell the diverse story of the women who helped shape the United States 
+of America.
+
+  H.R. 1980 will finally establish a comprehensive women's history 
+museum in the Smithsonian Institution. The museum will honor and 
+document women's contributions to United States history and exhibit 
+diverse perspectives across our history. For too long the contributions 
+of women and the contributions that they have made to our
+
+[[Page H1033]]
+
+Nation have been overlooked and underappreciated. This is unacceptable. 
+Women have been making contributions to America since our founding, and 
+it is time that they get the recognition they deserve.
+  This bipartisan bill sends a message loud and clear that women 
+deserve an entire museum to show the important role that they have 
+played in building the greatest Nation on Earth. It is time for 
+Congress to authorize the creation of this national museum, and I am 
+proud to stand with Chairwoman Maloney and all my colleagues to support 
+this legislation.
+  Madam Speaker, as the saying goes, if you can see it, you can be it. 
+Let's show women across America, young and old, the contributions that 
+they and their predecessors have made to the United States of America 
+can be theirs as well.
+  Again, I thank Chairwoman Maloney so much for engaging our bipartisan 
+Problem Solvers Caucus to be very instrumental in getting us here 
+today.
+  Ms. LOFGREN. Madam Speaker, I yield 2 minutes to the gentlewoman from 
+Michigan (Mrs. Lawrence), who is a leader for women in Congress and in 
+the country.
+  Mrs. LAWRENCE. Madam Speaker, it is with great excitement today that 
+I stand in strong support of the bill to establish the women's museum 
+in the Smithsonian chain of museums in our country.
+  I want to share a story with you, Madam Speaker. When I walked 
+through the doors of the Smithsonian African American Museum, someone 
+asked me: How do you feel?
+  I said, I feel like this country has finally recognized the 
+contributions and who I am in this country.
+  We have not been able to make that commitment to women. When we all 
+walk into museums in this great country, it is a reflection for the 
+generations to come of the struggles and the accomplishments that 
+different cultures and populations have had on this great country.
+  I stand here today because of the women before me who have struggled 
+and fought. I stand on their shoulders. I want to be a woman of whom 
+the girls behind me will be able to say: Because of her, I can be.
+  This is a vote for our children, the girls who are coming after, and 
+the little boys who need to learn and respect the history of women in 
+this great country.
+  I stand in support, and I ask all my colleagues to please support 
+this. This is a step that we, as women, must not let go of.
+  I want to recognize my colleague, Chairwoman Maloney, who has never 
+given up on this.
+  Madam Speaker, as women, we know we have to work twice as hard, but 
+we get the job done.
+  Vote on this museum.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield 2 minutes to the 
+gentlewoman from Puerto Rico (Miss Gonzalez-Colon), who is a fighter 
+for her whole territory.
+  Miss GONZALEZ-COLON of Puerto Rico. Madam Speaker, I thank the 
+gentleman for yielding.
+  Madam Speaker, I am here today standing in support of H.R. 1980, 
+because I firmly believe in honoring women trailblazers who have shaped 
+history and the story of our country, women who demonstrate leading by 
+example.
+  It is just what Brenda Lawrence was saying: we need to demonstrate 
+how we can achieve that empowerment tool, and I think this museum is 
+going to be just that.
+  Women like our first female Supreme Court Justice from Puerto Rico, 
+Sonia Sotomayor; our first Supreme Court Justice, Sandra Day O'Connor; 
+civil rights activist Rosa Parks; astronaut and astrophysicist, Sally 
+Ride; the first Latina to be elected to Congress, former Representative 
+Ileana Ros-Lehtinen; and Representative Jeannette Rankin, the first 
+woman elected to Congress; are the better examples.
+  Each of them in her respective field illustrated the strength and the 
+commitment of women when they set themselves a goal. They are just a 
+few of the women who transformed the American landscape, making it 
+possible for me to be here today as the first female representative of 
+Puerto Rico and now the vice-chair of the Congressional Women's Caucus.
+  According to the Census, women are 50 percent of the total population 
+of the country--165 million women in America--yet there is not one 
+comprehensive museum dedicated to the history of women in the United 
+States; and of the 2,400 national monuments, only 120--just 5 percent--
+honor women.
+  The role of women in the building of this Nation was not properly 
+recognized while it was happening. We must create a space where that 
+history that was not told in their own time can be studied, propagated, 
+and given the high relief it deserves.
+  Madam Speaker, I support this bill because I think it is time to 
+honor how women shaped what is America today.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, speaking of women 
+leaders in this institution, it is bittersweet because she is not 
+coming back after this year, but I stand here and yield 2 minutes to 
+the gentlewoman from Indiana (Mrs. Brooks), who is my good friend and 
+my classmate from the 2012 and 2013 cycle.
+  Mrs. BROOKS of Indiana. Madam Speaker, I rise today to express my 
+strong support for H.R. 1980, the Smithsonian Women's History Museum 
+Act.
+  I want to thank Representative Maloney for championing this important 
+legislation. Her determination to honor American women, which started 
+back in 1998 and the fact that she has brought this type of legislation 
+forward ever since then is a true testament to her grit.
+
+  I also want to thank the chairwoman of the House Administration 
+Committee. I want to thank the ranking member of the House 
+Administration Committee. I really welcome their leadership, and they 
+have seen the importance of this legislation.
+  The Smithsonian Institution was established in 1846 to increase the 
+diffusion of knowledge, and I can think of no better subject matter on 
+which to increase and diffuse knowledge today in 2020 than educating 
+Americans and those who visit our country about the amazing American 
+women who have come before us.
+  A museum dedicated to American women's history will help ensure that 
+my daughter and my son--future generations--understand the impact that 
+our women have had on our country's past; and with a greater 
+understanding of our country's past we can better navigate the future.
+  Establishing this museum to collect, study, and establish programs 
+covering historical contributions of women will inspire generations of 
+women to come--women like Jeannette Rankin, the first woman to ever 
+come to this body, the U.S. House, from Montana in 1916 before women 
+even had the right to vote.
+
+                              {time}  1330
+
+  Women like Lucille Ball, and we all love Lucy, she was the first 
+woman to run a television studio and capture the attention of viewers 
+around the globe.
+  Women like Dr. Mae Jemison, an engineer and physician, she was the 
+first African American woman to travel to space.
+  Women like these three--and there are thousands more--who deserve to 
+have their stories shared with folks around the world and people here 
+at home.
+  Madam Speaker, I encourage all of my colleagues to support this 
+strong bipartisan piece of legislation to create this national museum 
+dedicated to American women's history. It will celebrate the 
+achievements of American women.
+  The SPEAKER pro tempore. The time of the gentlewoman has expired.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield an additional 30 
+seconds to the gentlewoman.
+  Mrs. BROOKS of Indiana. Madam Speaker, I think it is important to 
+note that in this 116th Congress, where you had a record-breaking 
+number of women come to this body--101 women, more than ever before, 
+and hopefully, even more will be coming in future Congresses--I urge 
+passage of this important piece of legislation.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield 2 minutes to the 
+gentlewoman from Missouri (Mrs. Wagner), my good friend, classmate, a 
+leader on women's issues, and somebody I knew before we both got 
+elected to this institution.
+  Mrs. WAGNER. Madam Speaker, I thank my friend and colleague from
+
+[[Page H1034]]
+
+across the river in Illinois. I have the great privilege of 
+representing Missouri's Second Congressional District, and he is a 
+leader in this Congress, but most of all, he is a wonderful friend and 
+colleague.
+  Madam Speaker, I also commend my good friend, Congresswoman Carolyn 
+Maloney from New York. We have worked in a bipartisan fashion on so 
+many issues, especially when it comes to the scourge of human 
+trafficking, violence against women, taking care of the most vulnerable 
+in our society. I thank her for her commitment.
+  Madam Speaker, I rise today in support of H.R. 1980, the Smithsonian 
+Women's History Museum Act. This important bill will honor the immense 
+contributions that women have made to our country by establishing the 
+first national women's history museum.
+  Women from my hometown of St. Louis have a proud history of service 
+and heroism. During the First World War, a brave group of St. Louis 
+women volunteered to go to war-torn France to start a hospital for 
+injured Allied soldiers. They were among the first Americans to deploy 
+to Europe and some of the very last to leave. When they departed for 
+France in May 1917, the United States had not even entered the war, and 
+many remained in France for a year after the armistice. They treated 
+more than 60,000 patients before they returned home to St. Louis.
+  Through their courage, ingenuity, determination, and integrity, 
+American women have been instrumental in the growth of the United 
+States as a global force for good. I am so proud that their stories 
+will be remembered for the next generation of women leaders.
+  Madam Speaker, I urge my colleagues to support this bipartisan piece 
+of legislation.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I have no further 
+speakers, and I am prepared to close.
+  Ms. LOFGREN. Madam Speaker, our speakers have all been detained at 
+markup so I would invite the gentleman to close, and then I will also 
+close.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield myself such time 
+as I may consume.
+  Madam Speaker, I support this wonderful piece of legislation. It is 
+talking about leadership. You can't get much better leadership than 
+Chairwoman Maloney. This is an issue she has been tenacious on.
+  It is one I am proud to work with the majority party on. At a time 
+when America doesn't think we are a bipartisan institution, I hope 
+today is one of those instances where they can turn on C-SPAN, or maybe 
+it will get reported in the 24-hour news cycle, but we are going to 
+come together to do something that is great, not just for America but 
+America's history.
+  Madam Speaker, since I have some time left, we are talking about 
+women, strong women who have been a part of this institution. She 
+doesn't know I am doing this because she is sitting right next to me, 
+but we are going to see the retirement of an institution here in this 
+House. Come April 1, my House Administration minority staff is going to 
+lose our institution, our institutional knowledge, Ms. Mary Sue 
+Englund.
+  Mary Sue has worked for government for 31 years, 27 years here in the 
+House. Working with the likes of Bill Thomas makes me look easy, I 
+think. I don't know all the rest of them before I got here, but the 
+chairpersons of the committee before I got here, I know Mary Sue, when 
+I met her, she was working for then-Chair Candace Miller, and she 
+worked for Chairman Gregg Harper. For her to stay on and work with us 
+in the minority, I am honored.
+  It is people like Mary Sue who make this institution great. It is 
+people like Mary Sue who are going to be missed. And it is people like 
+Mary Sue who I enjoy embarrassing today because I didn't tell her I was 
+going to do this.
+  Madam Speaker, if the folks in the gallery would rise today to give 
+Mary Sue the sendoff that she deserves.
+  Madam Speaker, may I inquire how much time I have remaining.
+  The SPEAKER pro tempore. The gentleman from Illinois has 7 minutes 
+remaining.
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I yield myself such time 
+as I may consume.
+  Clearly, I will not use that all, but you want to talk about 
+empowered women? I am joined here in this House today by three young 
+ladies who are the daughters of somebody I used to work with when I was 
+a staffer.
+  Ray Fitzgerald died too soon, in 2009. Ray, a former staffer, went 
+back home to Naperville, Illinois. When his youngest daughter, Lucy, 
+was 1, he succumbed to a deadly stomach cancer.
+
+  Those three girls, along with their mom, Kristin, are fighting the 
+fight to eradicate stomach cancer and working with us each and every 
+day.
+  I am proud to see that we are going to have a museum that is going to 
+recognize the people like Mary Sue and the Fitzgeralds--Kristin, Nora, 
+Maggie, and Lucy.
+  We have to make sure that we continue this fight. Even after today's 
+bipartisanship is shown, we have to make sure that we stand together in 
+a bipartisan way, because if we don't, then we don't have the ability 
+to get a brighter future for Nora, Maggie, and Lucy Fitzgerald, along 
+with their mom, Kristin.
+  Madam Speaker, I urge my colleagues to vote for this bill, please, 
+and I yield back the balance of my time.
+  Ms. LOFGREN. Madam Speaker, I yield myself such time as I may 
+consume. I will just say a few words here in closing.
+  First, I again thank Carolyn Maloney, who, for the last 22 years, has 
+worked to be here on this day.
+  I think it took Carolyn 22 years, a female Speaker of the House, 101 
+women in the House, and a female chair of the Committee on House 
+Administration to come together and get to this day where I believe we 
+are going to finally approve this bill and send it over to the Senate. 
+Hopefully, it will be such a large vote that the Senate will feel a 
+degree of pressure to do the right thing.
+  Madam Speaker, just a word of caution on how long it takes after we 
+vote to approve this and the Senate, hopefully, and the President, 
+hopefully, will sign it, if we pass it.
+  Secretary Lonnie Bunch is the secretary for the Smithsonian Museum. 
+He has done a fabulous job. But one of his claims to fame is that he 
+brought the National Museum of African American History from an idea to 
+reality. He knows how to do this. And he cautioned us that from the 
+moment you say go to the moment you open the doors to the museum, it is 
+about 10 years.
+  You have to raise the money. You have to get the scholars to do the 
+scholarship and the exhibition. So unless you take that first step, you 
+don't get there.
+  That is the advice he gave us last September: If you don't take the 
+first step, you never get there. So this is the first step, and it is 
+an important one.
+  Madam Speaker, I want to say that along with the fabulously important 
+and famous women who this museum will honor, it is also going to go to 
+the heart of America, the women who maybe weren't famous but built the 
+country, the women like my mother, who walked out of their homes and 
+built airplanes so the United States could win World War II; the women 
+who raised their children, who worked many jobs, who ran the PTA, who 
+helped form the next generation; the women who are the beating heart of 
+this country will be honored by this museum.
+  Madam Speaker, you really don't know where you are going unless you 
+have some sense of where you came from. That is why this museum will 
+help all American women and men to have a brighter American future.
+  I will just say this: We do not fool ourselves that having this 
+wonderful museum will solve all the problems that American women face. 
+We still have no family leave policy in this country, so women are 
+squeezed between taking care of their children, taking care of aging 
+parents, not having an opportunity to get time off from work to do the 
+things that life calls them to do. We still have pay disparity in this 
+country. We still lack constitutional protections under the equal 
+rights amendment until we resolve the issue on the latest wonderful 
+vote in Virginia. All of those things remain.
+  But this museum will be a point of pride. It will be a touchstone. It 
+will be something that every boy and girl in America will be able to 
+know about because it is not going to be just a building. It is going 
+to be a virtual reality, Secretary Bunch has told us, a virtual reality 
+throughout the United States.
+
+[[Page H1035]]
+
+  Madam Speaker, this is a proud day for this institution. We can 
+support this bill. We can send it to the Senate and look forward to the 
+day when we join Congresswoman Maloney in walking through the doors of 
+the women's history museum.
+  Madam Speaker, I urge that we support this bill, and I yield back the 
+balance of my time.
+  Mr. VAN DREW. Madam Speaker, I rise in support of H.R. 1980, the 
+Smithsonian Women's History Museum Act.
+  On March 31, 1776, future First Lady Abigail Adams wrote to her 
+husband, John Adams, urging him and the other members of the 
+Continental Congress to ``remember the ladies'' when fighting for 
+America's independence from Great Britain and drafting a new form of 
+government.
+  Unfortunately, despite this nation's great history, we were slow to 
+take Abigail Adams' advice to heart. It took 144 years to grant women 
+the right to vote, an historic event I talked about a week ago in a 
+floor speech commemorating the 100th anniversary of New Jersey's 
+ratification of the 19th Amendment.
+  Even this Congress has downplayed the contributions of women in 
+history as evidenced by the treatment of Portrait Monument, the statue 
+in the Capitol of the three greatest leaders of the suffrage movement, 
+Susan B. Anthony, Elizabeth Cady Stanton and Lucretia Mott.
+  The Portrait Monument was unveiled with great fanfare in 1921 shortly 
+after the ratification of the 19th Amendment, but for decades it was 
+relegated to an isolated area of the Crypt without a plaque explaining 
+the contributions of the three women or a description of the female 
+artist who sculpted it.
+  For decades, Congress cited the cost of moving the statue as reason 
+enough for keeping it in the Crypt. In the 1990s, the sponsor of 
+today's bill, Congresswoman Carolyn Maloney of New York, led an effort 
+to raise the funds to move the statue upstairs to the Rotunda. It was 
+not until 1997 that the statue was moved to its current place of honor.
+  That date is significant for our purposes today. Susan Whiting, the 
+chairman of the board for the National Women's History Museum 
+organization has stated that ``[The statue] was the beginning of the 
+entire process of eventually building a museum,''
+  It's been a long road since 1997 to build a Women's History Museum 
+but passing this bill today will be one giant step closer to our goal.
+  Ms. JOHNSON of Texas. Madam Speaker, I rise today in strong support 
+of H.R. 1980, the Smithsonian Women's History Museum Act. This 
+legislation will authorize the Smithsonian Institution to establish a 
+Women's History Museum, which will be located alongside our existing 
+Smithsonian museums in our nation's capital.
+  The contributions by women to the history and advancements of the 
+United States are historic and consequential. Women have always served 
+this nation, from nurses in the Revolutionary War to the ceaseless 
+quest today for equal pay, civil liberties, and equal access to health 
+care.
+  I am particularly determined to ensure that the contributions and 
+perspectives of women of color are reflected in this proposed 
+institution, as our country must demonstrate their historic and 
+unquestionable significance. The creation of the Smithsonian Women's 
+History Museum will allow all people in this nation and the world to 
+better recognize and appreciate the significant contributions women 
+have made throughout history.
+  Madam Speaker, I urge my colleagues to support this legislation.
+  Mrs. DAVIS of California. Madam Speaker, I rise to urge my colleagues 
+to pass the Smithsonian Women's History Museum Act unanimously and 
+immediately.
+  First, I congratulate my friend and colleague, Congresswoman Carolyn 
+Maloney, on her decades of hard and successful work making the case for 
+a women's museum.
+  Women are underrepresented in our nation's historical accounts, 
+monuments, memorials, and museums.
+  Our past, present and as of now, our future are all marked by the 
+absence of women's stories.
+  From Native American women and early pilgrims; to Abigail Adams when 
+she wrote to her husband to ``remember the ladies''; to the suffrage 
+movement; to the one thousand, one hundred, and two Women Airforce 
+Service Pilots that revived our World War II effort; to Rosa Parks to 
+Title Nine.
+  And I could go on and on and on.
+  Clearly, women have transformed the history of our country.
+  But the story of American women is not just in the historical 
+moments. It is also the contributions of women in every aspect of our 
+society.
+  There is a missing contextualization of the enormous impact that 
+women have had in film, literature, science, government, education, 
+culture, sports, and more.
+  We have the opportunity to tell the full story, so why are we only 
+telling half of our history?
+  With these contributions showcased in a museum, we will no longer 
+ask--Why don't we have a woman's National Museum?
+  But instead, we will celebrate how fitting it is for every girl and 
+every woman to identify with our country's past and want to play a 
+significant role in our future.
+  You can't be what you can't see.
+  Frankly, I cannot believe that this museum does not already exist.
+  I urge my colleagues to vote for the passage of this bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from California (Ms. Lofgren) that the House suspend the 
+rules and pass the bill, H.R. 1980, as amended.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. LESKO. Madam Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this motion will be postponed.
+
+                          ____________________
+```
