@@ -1,0 +1,30 @@
+---
+granule: CREC-2020-02-12-pt1-PgS1049-2
+date: 2020-02-12
+edition: CREC
+section: SENATE
+page: S1049
+citation: 166 Cong. Rec. S1049
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 12, 2020:
+
+
+                             THE JUDICIARY
+
+       JOHN FITZGERALD KNESS, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS.
+       PHILIP M. HALPERN, OF NEW YORK, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK.
+       JOSHUA M. KINDRED, OF ALASKA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF ALASKA.
+       MATTHEW THOMAS SCHELP, OF MISSOURI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF MISSOURI.
+
+                          ____________________
+```

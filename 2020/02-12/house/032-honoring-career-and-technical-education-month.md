@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-02-12-pt1-PgH1057-3
+date: 2020-02-12
+edition: CREC
+section: HOUSE
+page: H1057
+citation: 166 Cong. Rec. H1057
+---
+
+# HONORING CAREER AND TECHNICAL EDUCATION MONTH
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+             HONORING CAREER AND TECHNICAL EDUCATION MONTH
+
+  (Mr. COMER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. COMER. Mr. Speaker, February is Career and Technical Education 
+Month, and I rise today to bring attention to the importance of 
+technical skills to our economy and our education system.
+  Teaching our students the skills they need to thrive in the modern 
+economy should be our top education priority. Our economy depends on a 
+workforce that is capable of doing jobs in the fields of welding, 
+automotive, and electrical work, among others.
+  While the current state of our economy is strong, we must strive to 
+remain competitive with the rest of the world. Developing a highly 
+skilled workforce is a key part of that effort and a top priority of 
+mine. That is why I was happy to see President Trump prioritize 
+technical education in his budget with a proposed $900 million 
+increased investment.
+  I am very proud of our high schools and technology centers in 
+Kentucky's First Congressional District that are working to equip our 
+students with crucial vocational skills. I am hopeful that Congress can 
+work to provide them with the support necessary to build on their 
+success in creating a 21st century workforce.
+
+                          ____________________
+```
