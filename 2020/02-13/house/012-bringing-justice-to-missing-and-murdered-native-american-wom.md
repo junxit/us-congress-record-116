@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-02-13-pt1-PgH1128-3
+date: 2020-02-13
+edition: CREC
+section: HOUSE
+page: H1128
+citation: 166 Cong. Rec. H1128
+---
+
+# BRINGING JUSTICE TO MISSING AND MURDERED NATIVE AMERICAN WOMEN
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+     BRINGING JUSTICE TO MISSING AND MURDERED NATIVE AMERICAN WOMEN
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STAUBER. Madam Speaker, in advance of the fifth annual Missing 
+and Murdered Indigenous Women's Memorial March that is taking place in 
+my hometown of Duluth, Minnesota, tomorrow, I rise to bring attention 
+to the violence facing our Native American communities.
+  Everyone has a right to live safely in their communities, but the 
+murder rate of Native American women is currently 10 times the national 
+average. More than half of Native American women have been sexually 
+assaulted, and thousands of Native American women and girls have gone 
+missing.
+  This national crisis has been ignored for far too long, and it is 
+time that Congress acts. That is why I cosponsored Savanna's Act, 
+legislation that would better prepare Tribal law enforcement to respond 
+to these crimes. I believe that this should be one of the easiest bills 
+that we pass this year and call for its quick passage.
+  Madam Speaker, I will be proud to march with our Native American 
+communities this Friday and honor those we have lost. I believe that, 
+together, we can bring justice to the missing and murdered indigenous 
+Native American women and hold the individuals who commit these acts of 
+violence accountable.
+
+                          ____________________
+```
