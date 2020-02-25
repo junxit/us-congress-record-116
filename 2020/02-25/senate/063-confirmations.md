@@ -1,0 +1,31 @@
+---
+granule: CREC-2020-02-25-pt1-PgS1160-6
+date: 2020-02-25
+edition: CREC
+section: SENATE
+page: S1160
+citation: 166 Cong. Rec. S1160
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 25, 2020:
+
+
+                             THE JUDICIARY
+
+       ROBERT ANTHONY MOLLOY, OF THE VIRGIN ISLANDS, TO BE JUDGE 
+     FOR THE DISTRICT COURT OF THE VIRGIN ISLANDS FOR A TERM OF 
+     TEN YEARS.
+       SILVIA CARRENO-COLL, OF PUERTO RICO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF PUERTO RICO.
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       KATHARINE MACGREGOR, OF PENNSYLVANIA, TO BE DEPUTY 
+     SECRETARY OF THE INTERIOR.
+```

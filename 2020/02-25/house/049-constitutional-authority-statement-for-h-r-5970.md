@@ -1,0 +1,22 @@
+---
+granule: CREC-2020-02-25-pt1-PgH1191-15
+date: 2020-02-25
+edition: CREC
+section: HOUSE
+page: H1191
+citation: 166 Cong. Rec. H1191
+---
+
+# Constitutional Authority Statement for H.R. 5970
+
+**Measures:** H.R. 5970
+
+```
+           By Ms. SCANLON:
+       H.R. 5970.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section VIII.
+
+                          ____________________
+```

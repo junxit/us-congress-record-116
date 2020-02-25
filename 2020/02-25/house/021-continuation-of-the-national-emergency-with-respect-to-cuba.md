@@ -1,0 +1,63 @@
+---
+granule: CREC-2020-02-25-pt1-PgH1182-2
+date: 2020-02-25
+edition: CREC
+section: HOUSE
+page: H1182
+citation: 166 Cong. Rec. H1182
+---
+
+# CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO CUBA AND OF THE EMERGENCY AUTHORITY RELATING TO THE REGULATION OF THE ANCHORAGE AND MOVEMENT OF VESSELS--MESSAGE FROM THE PRESIDENT OF THE...
+
+```
+CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO CUBA AND OF THE 
+  EMERGENCY AUTHORITY RELATING TO THE REGULATION OF THE ANCHORAGE AND 
+ MOVEMENT OF VESSELS--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES 
+                         (H. DOC. NO. 116-103)
+
+  The SPEAKER pro tempore (Ms. Garcia of Texas) laid before the House 
+the following message from the President of the United States; which 
+was read and, together with the accompanying papers, referred to the 
+Committee on Foreign Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)) 
+provides for the automatic termination of a national emergency unless, 
+within 90 days before the anniversary date of its declaration, the 
+President publishes in the Federal Register and transmits to the 
+Congress a notice stating that the emergency is to continue in effect 
+beyond the anniversary date. In accordance with this provision, I have 
+sent to the Federal Register for publication the enclosed notice 
+stating that the national emergency with respect to Cuba that was 
+declared on March 1, 1996, in Proclamation 6867, as amended by 
+Proclamation 7757 on February 26, 2004, Proclamation 9398 on February 
+24, 2016, and Proclamation 9699 on February 22, 2018, is to continue in 
+effect beyond March 1, 2020.
+  It continues to be United States policy that a mass migration from 
+Cuba would endanger the security of the United States by posing a 
+disturbance or threatened disturbance of the international relations of 
+the United States. The Cuban government has not demonstrated that it 
+will refrain from the use of excessive force against United States 
+vessels or aircraft that may engage in memorial activities or peaceful 
+protest north of Cuba. Further, the unauthorized entry of United 
+States-registered vessels into Cuban territorial waters continues to be 
+detrimental to United States foreign policy and counter to the purpose 
+of Executive Order 12807 of May 24, 1992, which is to ensure, among 
+other things, safe, orderly, and legal migration. The possibility of 
+large-scale unauthorized entries of United States-registered vessels 
+would disturb the international relations of the United States by 
+facilitating a possible mass migration of Cuban nationals. For these 
+reasons, I have determined that it is necessary to continue the 
+national emergency declared with respect to Cuba and the emergency 
+authority relating to the regulation of the anchorage and movement of 
+vessels set out in Proclamation 6867, as amended by Proclamation 7757, 
+Proclamation 9398, and Proclamation 9699.
+                                                   Donald J. Trump.    
+                                    The White House, February 25, 2020.
+
+[[Page H1183]]
+
+  
+
+                          ____________________
+```
