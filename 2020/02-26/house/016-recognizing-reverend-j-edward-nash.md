@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-02-26-pt1-PgH1195-8
+date: 2020-02-26
+edition: CREC
+section: HOUSE
+page: H1195
+citation: 166 Cong. Rec. H1195
+---
+
+# RECOGNIZING REVEREND J. EDWARD NASH
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                  RECOGNIZING REVEREND J. EDWARD NASH
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, I rise today as we celebrate 
+Black History Month and adopt antilynching legislation to recognize 
+civil rights trailblazer Reverend J. Edward Nash.
+  The son of slaves, Reverend Nash served as pastor of the Michigan 
+Street Baptist Church in Buffalo, New York, which opened its doors up 
+as a meeting place for abolitionists and antilynching activists and as 
+a stop on the Underground Railroad.
+  Last week, I visited the Nash House, a site on the National Register 
+of Historic Places and a testament to his work as part of our national 
+story. Our gracious hosts, former Buffalo Council President George K. 
+Arthur and Sharon Jordan Holley, shared with me their vision, 
+enthusiasm, and dedication to Nash, his home, and his legacy.
+  Among his papers are notes from the 1939 Urban League meeting 
+benediction in which he applauds those working to ``free us from the 
+shackles that hold us in the bondage of narrowness, selfishness, and 
+prejudice.''
+  Let us heed the advice of Reverend Nash.
+
+                          ____________________
+```

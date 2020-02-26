@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-02-26-pt1-PgH1196-6
+date: 2020-02-26
+edition: CREC
+section: HOUSE
+page: H1196
+citation: 166 Cong. Rec. H1196
+---
+
+# HONORING MS. RACHEL O'KELLEY
+
+**Speaking:** Murphy, Gregory (M001210) [R-NC]
+
+```
+                      HONORING MS. RACHEL O'KELLEY
+
+  (Mr. MURPHY of North Carolina asked and was given permission to 
+address the House for 1 minute.)
+  Mr. MURPHY of North Carolina. Madam Speaker, I rise today in 
+recognition of Rachel O'Kelley, the chair of the science department and 
+a biology teacher at John A. Holmes High School in Edenton, North 
+Carolina. Earlier this month, she was awarded the prestigious Milken 
+Educator Award. This national honor is given to teachers who display 
+distinguished service and commitment to their communities.
+
+[[Page H1197]]
+
+  Rachel O'Kelley is 1 of only 40 teachers around the country to 
+receive this award and the sole honoree for North Carolina. Each and 
+every day, she goes above and beyond the status quo to challenge and 
+engage her students through thoughtful, creative, and demanding 
+activities.
+  As we strive to entice students to follow the STEM course of study, 
+it is wonderful to have bright and driven teachers like Rachel who 
+inspire students to fulfill their potential and form the minds of 
+future generations.
+  It is my pleasure to honor Ms. O'Kelley here on the House floor for 
+her continued devotion to eastern North Carolina's next generation of 
+leaders.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-02-26-pt1-PgH1196-2
+date: 2020-02-26
+edition: CREC
+section: HOUSE
+page: H1196
+citation: 166 Cong. Rec. H1196
+---
+
+# REFLECTING ON THE LIFE OF JO ALLISON SMITH
+
+**Speaking:** Budd, Ted (B001305) [R-NC]
+
+```
+               REFLECTING ON THE LIFE OF JO ALLISON SMITH
+
+  (Mr. BUDD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BUDD. Madam Speaker, I rise today to reflect on the life of Jo 
+Allison Smith, a dear friend to many and lifelong North Carolinian who 
+passed away Saturday, February 15.
+  Jo was the devoted wife to Eddie Smith, Jr., for over 57 years, as 
+well as a loving mother to their son, Chris.
+  Beyond family, Jo was passionate about her faith and served as an 
+active member of St. James United Methodist Church in Greenville, North 
+Carolina. She will no doubt be remembered for her extraordinary voice, 
+which graced the music program for years.
+  She was also a strong supporter of women in need. She helped found 
+and lead Women for Women's Power of the Purse and served on the board 
+of many other local charities.
+  Jo was a passionate supporter of the UNC Tar Heels, where she served 
+on the Board of Visitors for the UNC Comprehensive Cancer Center and 
+graced UNC football fans with a wonderful rendition of our national 
+anthem.
+  Our State was blessed by Jo's presence, and our family was blessed to 
+call her friend. Please join me in giving thanks for Jo's life and 
+praying for the entire Smith family during this time.
+
+                          ____________________
+```
