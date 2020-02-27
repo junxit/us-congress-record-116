@@ -1,0 +1,83 @@
+---
+granule: CREC-2020-02-27-pt1-PgH1229-3
+date: 2020-02-27
+edition: CREC
+section: HOUSE
+page: H1229
+citation: 166 Cong. Rec. H1229
+---
+
+# RECOGNIZING BUCKS COUNTY COMMUNITY COLLEGE
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+**Measures:** H.R. 2339
+
+```
+               RECOGNIZING BUCKS COUNTY COMMUNITY COLLEGE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Fitzpatrick) for 5 minutes.
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize the Bucks 
+County Community College, which recently received a $200,000 grant to 
+raise awareness and promote its metal working apprenticeship program.
+  This 12-week program provides entry-level training, forklift 
+certification, and other skills necessary to begin a career in 
+manufacturing. The Pennsylvania Department of Community and Economic 
+Development grant will be used to promote Bucks County Community 
+College's manufacturing preapprenticeship training programs.
+  Mr. Speaker, earlier this week I partnered with Bucks County native, 
+Congressman Ro Khanna, to introduce the Student Apprenticeship Act, a 
+bill that would close the gap between higher education and labor by 
+modernizing workforce training and catalyzing the growth of registered 
+apprenticeships nationwide.
+  Apprenticeship programs provide skills and education for high-paying 
+jobs and vital careers, and we need to be sure we give them the 
+attention that they deserve.
+
+
+                      Recognizing Aileen Torrente
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize Sergeant 
+Aileen
+
+[[Page H1230]]
+
+Torrente of the Middletown Township Police Department.
+  Sergeant Torrente was the first woman in the history of the police 
+department to be promoted from patrol officer to detective in 2014. 
+Recently Aileen was promoted again; this time from detective to her 
+current rank of sergeant.
+  Sergeant Torrente's success will set a great example for current and 
+future officers at my hometown township police department in 
+Middletown. Aileen's hard work, determination, and diligence led to her 
+promotion. She is a great role model for our community, and I look 
+forward to seeing more promotions in the future as she works her way up 
+to her dream job of chief of police. Mr. Speaker, I wish her well.
+
+
+                 Recognizing Bensalem Township Council
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize the Bensalem 
+Township Council, who took a huge step to ensure the safety and well-
+being of their residents by prohibiting vaping in public township 
+facilities, including parks and other recreational areas.
+  The health and safety of our children should be our top priority, and 
+the recent youth vaping epidemic has been a huge health issue in our 
+community and across our Nation.
+  I recently had the opportunity to meet with students from New Hope 
+Solebury Cares who expressed their concerns with how prevalent vaping 
+has become in their schools, and they talked about solutions that we 
+can work on to bring attention to this issue.
+  Part of the rise in youth vaping has been attributed to flavored 
+nicotine. Flavors such as mango, cucumber, and other types of flavors 
+undoubtedly target our children.
+  Tomorrow the House will vote on final passage of H.R. 2339, the 
+Protecting American Lungs and Reversing the Youth Tobacco Epidemic Act. 
+This legislation would ban all flavored vaping products, e-cigarette 
+ads targeting youth, and remote cigarette sales. As a cosponsor of this 
+bill, I look forward to voting in favor of this bill and taking a much-
+needed step to mitigate tobacco use among our children.
+
+                          ____________________
+```

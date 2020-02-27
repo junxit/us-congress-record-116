@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-02-27-pt1-PgS1166
+date: 2020-02-27
+edition: CREC
+section: SENATE
+page: S1166
+citation: 166 Cong. Rec. S1166
+---
+
+# Tribute to Laura Dove (Executive Session)
+
+**Speaking:** Portman, Rob (P000449) [R-OH], Sullivan, Dan (S001198) [R-AK]
+
+```
+                         Tribute to Laura Dove
+
+  Mr. PORTMAN. Mr. President, I would like to start this morning by 
+talking about a friend of ours who has chosen to move on and leave the 
+Senate and spend more time with her wonderful family. I certainly 
+understand that because the job she has, which is Secretary for the 
+Majority, is more than a full-time job; it is living, breathing, 
+sleeping this place, and she does a great job at it.
+  Her name is Laura Dove. She has been doing this particular job for 7 
+years. Prior to that, she actually was here on three different 
+occasions, as I understand it, working for the Senate. She grew up with 
+it. Her dad was the Parliamentarian here for 36 years.
+  Laura is a consummate professional. I work with her a lot on 
+legislation. She helps me to get things through the process here, which 
+is not always easy, but as significant, she works very closely with her 
+counterpart on the Democratic side of the aisle and figures out how to 
+get stuff done, how to keep this place operating so that the world's 
+greatest deliberative body, as they call the U.S. Senate, can meet its 
+great potential and expectation.
+  So, to Laura Dove, we are going to miss you. As much as we understand 
+why you need some time with your family right now and your great, great 
+kids, we are going to miss you a lot.
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2020-02-27-pt1-PgH1229-2
+date: 2020-02-27
+edition: CREC
+section: HOUSE
+page: H1229
+citation: 166 Cong. Rec. H1229
+---
+
+# TAKING STRONG ACTION TO STOP THE EPIDEMIC OF YOUTH TOBACCO USE
+
+**Speaking:** Underwood, Lauren (U000040) [D-IL]
+
+```
+     TAKING STRONG ACTION TO STOP THE EPIDEMIC OF YOUTH TOBACCO USE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Illinois (Ms. Underwood) for 5 minutes.
+  Ms. UNDERWOOD. Mr. Speaker, this week the House is taking strong 
+action to stop the epidemic of youth tobacco use.
+  We have watched as the use of tobacco and vape products by kids has 
+exploded in our community over the past months. It has become a full-
+blown public health crisis affecting more than 5 million kids.
+  More than 200 Illinoisans have suffered respiratory illness from 
+dangerous vape products since last year. Eight of them have died. This 
+shouldn't be happening.
+  Thanks to decades of public health work and education, youth tobacco 
+use was actually going down until the introduction of sophisticated 
+vape products.
+  Let's be clear, these products are targeted at kids. They are made 
+with flavors like cotton candy and gummy bears. They are marketed 
+directly to children, and they are designed to keep children hooked.
+  This is a crisis that we will be dealing with for decades because 95 
+percent of adult tobacco users started when they were kids, and there 
+is still so much that we don't know about how the high doses of 
+nicotine and other chemicals in these products affect kids' bodies and 
+their minds.
+  Given the FDA's failure to effectively regulate these products, 
+Congress needs to act now before it is too late. It is time to stand up 
+and refuse to let our kids be hurt. It is time to pass the Protecting 
+American Lungs and Reversing the Youth Tobacco Epidemic Act of 2019.
+
+                          ____________________
+```
