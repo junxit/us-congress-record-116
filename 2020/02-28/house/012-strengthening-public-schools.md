@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-02-28-pt1-PgH1256-4
+date: 2020-02-28
+edition: CREC
+section: HOUSE
+page: H1256
+citation: 166 Cong. Rec. H1256
+---
+
+# STRENGTHENING PUBLIC SCHOOLS
+
+**Speaking:** Bonamici, Suzanne (B001278) [D-OR]
+
+```
+                      STRENGTHENING PUBLIC SCHOOLS
+
+  (Ms. BONAMICI asked and was given permission to address the House for 
+1 minute.)
+  Ms. BONAMICI. Madam Speaker, Benjamin Franklin said: ``An investment 
+in knowledge pays the best interest.'' I agree.
+  I am proud to lead the Public Schools Week resolution with my 
+colleagues, Representatives Pocan, Graves, and Thompson. This 
+resolution recognizes the importance of and contributions of our public 
+schools to the country and to our Nation's young people.
+  I came to Congress to strengthen public education and to make sure 
+that all students, regardless of their race, color, national origin, 
+ZIP Code, or family wealth, have an equal opportunity to obtain a high-
+quality, well-rounded public education.
+  At the State of the Union, I was disappointed to hear the President 
+dismiss public schools as failing government schools. Public schools 
+are not disconnected from the communities around them. They are our 
+schools, our children, our students in our communities; and it is our 
+collective responsibility to do all we can to strengthen, not weaken, 
+our system of public education.
+  I will continue to fight for public schools every day, and I am proud 
+to honor them this week.
+
+                          ____________________
+```
