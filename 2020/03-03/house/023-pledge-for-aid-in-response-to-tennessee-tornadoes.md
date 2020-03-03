@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-03-03-pt1-PgH1446-8
+date: 2020-03-03
+edition: CREC
+section: HOUSE
+page: H1446
+citation: 166 Cong. Rec. H1446
+---
+
+# PLEDGE FOR AID IN RESPONSE TO TENNESSEE TORNADOES
+
+**Speaking:** Rose, John W. (R000612) [R-TN]
+
+```
+           PLEDGE FOR AID IN RESPONSE TO TENNESSEE TORNADOES
+
+  (Mr. JOHN W. ROSE of Tennessee asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHN W. ROSE of Tennessee. Madam Speaker, today, I rise with my 
+colleague from Tennessee, Mr. Cooper. As he has already indicated, 
+earlier today, a devastating tornado tore through Middle Tennessee, 
+including much of the area that I represent and call home.
+  While rescue workers are still in the critical phase of sorting 
+through debris and accounting for those who are still missing, we know 
+already that many lives have been lost and dozens of people were rushed 
+to emergency rooms.
+  I, along with countless Tennesseans, are lifting those people up in 
+prayer, and we hope that everybody will join us.
+  I am working diligently alongside my fellow Representatives, the 
+administration, Governor Lee, Senators Alexander and Blackburn, and 
+emergency officials to get much-needed Federal aid to the affected 
+areas.
+  Homes, schools, businesses, churches, farms, and other buildings and 
+numerous communities have suffered serious and, in some cases, 
+overwhelming damage.
+  I stand today with those affected by this disaster and pledge every 
+effort will be made to give shelter to those who need it, give care to 
+those who are hurt, and give assistance in the critical effort to 
+recover and rebuild.
+
+                          ____________________
+```

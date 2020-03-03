@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-03-03-pt1-PgH1447-3
+date: 2020-03-03
+edition: CREC
+section: HOUSE
+page: H1447
+citation: 166 Cong. Rec. H1447
+---
+
+# EXTEND PAID FAMILY LEAVE TO MORE FEDERAL EMPLOYEES
+
+**Speaking:** Balderson, Troy (B001306) [R-OH]
+
+**Measures:** H.R. 5993
+
+```
+           EXTEND PAID FAMILY LEAVE TO MORE FEDERAL EMPLOYEES
+
+  (Mr. BALDERSON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. BALDERSON. Mr. Speaker, I rise today to speak on an issue that 
+touches the lives of countless Ohioans because it affects everyone with 
+loved ones and family members.
+  When a hardworking Federal employee gives birth to a child, has a 
+parent is in the hospital, or needs to take leave for any medical or 
+family-related reason, they are able to do so through paid family 
+leave.
+  Sadly, thousands of Federal employees, many of whom live and work in 
+Ohio's 12th Congressional District, were left out of the most recent 
+reauthorization of paid family leave for Federal employees.
+  These TSA agents; FAA workers, including air traffic controllers at 
+John Glenn Airport; and VA healthcare providers, such as doctors, 
+dentists, and nurses, work hard. They deserve to take time off for 
+medical and family reasons without affecting their pay. That is why I 
+introduced the VAlue FAAmily Act, which would correct this oversight 
+and extend 12 weeks of paid family leave to these forgotten employees.
+  FMLA, and the lives of Federal employees, should not be compromised.
+  Mr. Speaker, I urge my colleagues to cosponsor H.R. 5993, the VAlue 
+FAAmily Act.
+
+                          ____________________
+```
