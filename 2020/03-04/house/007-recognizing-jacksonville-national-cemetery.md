@@ -1,0 +1,52 @@
+---
+granule: CREC-2020-03-04-pt1-PgH1474-2
+date: 2020-03-04
+edition: CREC
+section: HOUSE
+page: H1474
+citation: 166 Cong. Rec. H1474
+---
+
+# RECOGNIZING JACKSONVILLE NATIONAL CEMETERY
+
+**Speaking:** Rutherford, John H. (R000609) [R-FL]
+
+```
+               RECOGNIZING JACKSONVILLE NATIONAL CEMETERY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Florida (Mr. Rutherford) for 5 minutes.
+  Mr. RUTHERFORD. Mr. Speaker, I rise today to recognize the many 
+national cemeteries in Florida, especially the Jacksonville National 
+Cemetery, which is in my district.
+  These hallowed grounds are sacred to the families of those who have 
+served our country honorably, many of whom paid the ultimate sacrifice 
+for our freedom.
+  Recently, the Department of Veterans Affairs ranked the top national 
+cemeteries in the country, and I am proud to report that the 
+Jacksonville National Cemetery of the Southeast District has earned the 
+highest award, which was accepted by Al Richburg, the director of the 
+Jacksonville National Cemetery.
+  Mr. Speaker, I thank Al and his wonderful team for all the work they 
+do to preserve the final resting places of our Nation's military and 
+creating a beautiful, peaceful, and memorable place for loved ones to 
+visit.
+
+
+        Congratulating West Nassau High School Cheerleading Team
+
+  Mr. RUTHERFORD. Mr. Speaker, I rise today to congratulate the West 
+Nassau High School Cheerleading Team, who recently won the State, 
+National, and World Championships in Orlando.
+  With nine State titles, the Warriors are tied for the second most 
+championships in the State of Florida. In fact, this is the second year 
+in a row that they have claimed the State, National, and World titles, 
+and they are the first high school in Florida to do so.
+  The team is spearheaded by Coach Samantha Beazley, who has led West 
+Nassau to now five State championships, three National championships, 
+and two World championships.
+  On behalf of Florida's Fourth Congressional District, I want to 
+congratulate the West Nassau Warriors on a cheerleading dynasty.
+
+                          ____________________
+```

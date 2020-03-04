@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-03-04-pt1-PgH1475-2
+date: 2020-03-04
+edition: CREC
+section: HOUSE
+page: H1475
+citation: 166 Cong. Rec. H1475
+---
+
+# FLIGHT 3407 FAMILIES' ADVOCACY IMPROVING AIRLINE SAFETY
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+        FLIGHT 3407 FAMILIES' ADVOCACY IMPROVING AIRLINE SAFETY
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, for 11 years now, the 
+families of Continental Flight 3407 have come to Capitol Hill with the 
+heart-driven goal of improving airline safety.
+  Thanks to their efforts, and with bipartisan support from Congress, 
+the Federal Aviation Administration reauthorization bill of 2010 
+included measures to improve transparency and safety for the flying 
+public.
+  At long last, the Pilot Records Database, one of the final elements 
+to be implemented, is moving forward.
+  The captain of Flight 3407 had only 600 hours of flight experience 
+and failed three practical tests known as check rides. Still, 
+Continental and its regional carrier, Colgan Air, hired him.
+  The National Transportation Safety Board found that pilot error had 
+caused the crash.
+  Led by the courageous family and friends of the victims of Flight 
+3407 and their tragic yet awe-inspiring public advocacy to protect the 
+flying public, this success, in a deeply personal way, belongs to them 
+and those they loved and lost.
+
+                          ____________________
+```

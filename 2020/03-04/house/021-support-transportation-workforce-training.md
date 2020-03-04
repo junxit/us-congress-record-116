@@ -1,0 +1,48 @@
+---
+granule: CREC-2020-03-04-pt1-PgH1475-8
+date: 2020-03-04
+edition: CREC
+section: HOUSE
+page: H1475
+citation: 166 Cong. Rec. H1475
+---
+
+# SUPPORT TRANSPORTATION WORKFORCE TRAINING
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+**Measures:** H.R. 6032
+
+```
+               SUPPORT TRANSPORTATION WORKFORCE TRAINING
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today in support 
+of H.R. 6032, the Transportation Workforce Centers of Excellence Act.
+  I recently introduced this bill alongside my colleague, Congressman  
+Jim Langevin. As co-chairs of the bipartisan Career and Technical 
+Education
+
+[[Page H1476]]
+
+Caucus, we are constantly looking for new ways to support a skilled 
+workforce.
+  A skilled workforce is critically necessary to support a 21st century 
+economy, and the individuals who pursue a skills-based career, as well 
+as the institutions that train them, deserve to be rewarded for their 
+commitment to closing our Nation's skills gap.
+  The Transportation Workforce Centers of Excellence Act would 
+establish a competitive $50 million grant program to strengthen 
+education and training programs in critical industries.
+  A highly skilled workforce is necessary to revitalize our national 
+transportation system. The demand for qualified workers is greater than 
+ever. This bill will help us meet infrastructure demands, close our 
+Nation's skills gap, and reward schools that have gone above and beyond 
+by establishing centers of excellence.
+  Madam Speaker, I would like to encourage my colleagues to join our 
+efforts in supporting career and technical education centers of 
+excellence and increased transportation workforce training.
+
+                          ____________________
+```
