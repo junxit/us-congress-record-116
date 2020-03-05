@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-03-05-pt1-PgS1612
+date: 2020-03-05
+edition: CREC
+section: SENATE
+page: S1612
+citation: 166 Cong. Rec. S1612
+---
+
+# CITIZENSHIP FOR CHILDREN OF MILITARY MEMBERS AND CIVIL SERVANTS ACT
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** H.R. 4803
+
+```
+  CITIZENSHIP FOR CHILDREN OF MILITARY MEMBERS AND CIVIL SERVANTS ACT
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+H.R. 4803 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (H.R. 4803) to facilitate the automatic acquisition 
+     of citizenship for lawful permanent resident children of 
+     military and Federal Government personnel residing abroad, 
+     and for other purposes.
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the bill.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the bill 
+be considered read a third time and passed and that the motion to 
+reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (H.R. 4803) was ordered to a third reading, was read the 
+third time, and passed.
+
+                          ____________________
+```
