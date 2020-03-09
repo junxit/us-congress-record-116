@@ -1,0 +1,32 @@
+---
+granule: CREC-2020-03-09-pt1-PgH1540-4
+date: 2020-03-09
+edition: CREC
+section: HOUSE
+page: H1540
+citation: 166 Cong. Rec. H1540
+---
+
+# HONORING EMILY J. ALPERT
+
+**Speaking:** Vela, Filemon (V000132) [D-TX]
+
+```
+                        HONORING EMILY J. ALPERT
+
+  (Mr. VELA asked and was given permission to address the House for 1 
+minute.)
+  Mr. VELA. Mr. Speaker, I rise today to honor Emily J. Alpert for her 
+22 years of extraordinary work and dedication to the Brownsville 
+Community Health Center Corporation as the director of operations.
+  Emily has been instrumental in transforming the Brownsville Community 
+Health Center into the beacon of excellent healthcare services it is 
+today. Her work embodies the philosophy of providing quality care that 
+preserves the dignity of all human beings, a philosophy engrained in 
+the Rio Grande Valley.
+  For these reasons, I would like to ask my colleagues to join the 
+Brownsville Community Health Center and me in congratulating Emily on 
+her retirement and wishing her well in all of her future endeavors.
+
+                          ____________________
+```

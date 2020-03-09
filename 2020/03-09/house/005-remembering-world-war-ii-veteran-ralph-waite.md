@@ -1,0 +1,44 @@
+---
+granule: CREC-2020-03-09-pt1-PgH1539-4
+date: 2020-03-09
+edition: CREC
+section: HOUSE
+page: H1539
+citation: 166 Cong. Rec. H1539
+---
+
+# REMEMBERING WORLD WAR II VETERAN RALPH WAITE
+
+**Speaking:** Gonzalez, Anthony (G000588) [R-OH]
+
+```
+              REMEMBERING WORLD WAR II VETERAN RALPH WAITE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from Ohio 
+(Mr. Gonzalez) for 5 minutes.
+  Mr. GONZALEZ of Ohio. Mr. Speaker, today, I rise to honor the life 
+and legacy of World War II veteran Ralph Waite, a Medina native and 
+northeast Ohio icon who died on February 18 at age 93.
+  Ralph joined the Army in June 1944, immediately after his graduation 
+from Medina High School. He served in the U.S. Army, 924th Field 
+Artillery Battalion, in the European theater and took part in the 
+Battle of the Bulge.
+  When he came home from the war in 1946, Ralph married his high school 
+sweetheart, Helen Clark, in 1948. Together, they raised their twin 
+sons, Harold and Darrell.
+  He lived a life committed to serving his community and our Nation. 
+Ralph was Scoutmaster of Boy Scout Troop 501 for 36 years and active in 
+Buckeye Boys State for 40 years, and he led the Medina Rotary Youth 
+Exchange Program.
+  Ralph's crowning honor in the community was the naming of Ralph E. 
+Waite Elementary School in 2009.
+  Ralph was an icon in the Medina community, known for his outstanding 
+service to his church, our youth, and our veterans. Ralph's life motto 
+was: ``We occupy space on this Earth, and community service is the rent 
+that we pay for the space that we are permitted to occupy.''
+  Ralph lived by these words throughout his life, and his legacy and 
+example will live on in his children, grandchildren, great-
+grandchildren, and the entire community of Medina long into the future.
+
+                          ____________________
+```

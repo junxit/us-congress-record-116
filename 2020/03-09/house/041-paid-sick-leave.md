@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-03-09-pt1-PgH1550-6
+date: 2020-03-09
+edition: CREC
+section: HOUSE
+page: H1550
+citation: 166 Cong. Rec. H1550
+---
+
+# PAID SICK LEAVE
+
+**Speaking:** Levin, Mike (L000593) [D-CA]
+
+```
+                            PAID SICK LEAVE
+
+  (Mr. LEVIN of California asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. LEVIN of California. Mr. Speaker, as we confront the coronavirus 
+epidemic, one thing is clear: Everyone should follow the CDC's 
+recommendations to stay healthy and safe. That means staying home if 
+you are feeling sick.
+  If we want people to follow that important guidance, though, we must
+
+[[Page H1551]]
+
+make it economically viable to do so. That is why I rise today in 
+support of critical legislation introduced by Congresswoman DeLauro to 
+ensure that working families receive paid sick leave in the event of a 
+public health emergency like the coronavirus epidemic.
+  The concept is simple: We want people to stay home if they are 
+feeling sick so they don't spread the coronavirus or other illnesses to 
+others. But not everyone can afford to do that. Many families live 
+paycheck to paycheck, struggling to pay their bills each month. Taking 
+unpaid sick leave simply isn't an option for them.
+  With the severity of the crisis we are facing, we cannot force 
+working people to choose between going to work and spreading their 
+illness to others or staying home and getting behind on their bills.
+  Mr. Speaker, I urge my colleagues to support Congresswoman DeLauro's 
+bill.
+
+                          ____________________
+```
