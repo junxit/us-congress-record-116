@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-03-10-pt1-PgH1579
+date: 2020-03-10
+edition: CREC
+section: HOUSE
+page: H1579
+citation: 166 Cong. Rec. H1579
+---
+
+# RECOGNIZING 10TH ANNIVERSARY OF AFFORDABLE CARE ACT
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+```
+          RECOGNIZING 10TH ANNIVERSARY OF AFFORDABLE CARE ACT
+
+  (Ms. ESCOBAR asked and was given permission to address the House for 
+1 minute.)
+  Ms. ESCOBAR. Madam Speaker, this month marks the 10-year anniversary 
+of the Affordable Care Act, which expanded healthcare coverage to 
+millions of Americans, including those with preexisting conditions.
+  However, the ACA has also been attacked and undermined over the last 
+decade, with the latest attempt originating from my home State of 
+Texas. Texas, which has refused to expand Medicaid even though the 
+State has the highest uninsured rate in the Nation, and the Trump 
+administration argue that the entire law should be dismantled.
+  With the Supreme Court announcing they will hear the case this fall, 
+over 44,000 El Pasoans are again living with the threat of having their 
+healthcare coverage taken away from them. If the Supreme Court does 
+invalidate the ACA, nearly 20 million Americans will lose their 
+coverage.
+  At a time when we are confronting a public health emergency because 
+of the coronavirus, a pandemic, we should be looking for ways to 
+bolster healthcare coverage and protect community clinics and 
+healthcare providers, not tear it away from El Pasoans and other 
+communities around the Nation that need it the most.
+
+                          ____________________
+```

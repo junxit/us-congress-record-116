@@ -1,0 +1,19 @@
+---
+granule: CREC-2020-03-10-pt1-PgH1563-6
+date: 2020-03-10
+edition: CREC
+section: HOUSE
+page: H1563
+citation: 166 Cong. Rec. H1563
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. The Chair will entertain up to 15 requests 
+for 1-minute speeches on each side of the aisle.
+
+                          ____________________
+```
