@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-03-11-pt1-PgH1598-7
+date: 2020-03-11
+edition: CREC
+section: HOUSE
+page: H1598
+citation: 166 Cong. Rec. H1598
+---
+
+# CHINESE ENTITIES RECEIVING AMERICAN INVESTMENTS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+            CHINESE ENTITIES RECEIVING AMERICAN INVESTMENTS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, China considers the United States their 
+biggest threat in their search for global dominance. However, the truth 
+is that China's recent rise is being enabled by institutional and 
+individual investors in the United States, including Federal, State, 
+and public pension funds like the TSP and CalPERS in California.
+  A number of Chinese entities, which are receiving American 
+investments, are engaged in activities that violate U.S. law and hurt 
+our national security interests, especially our military, like China 
+Telecom's social credit score system and their repression of the 
+Uighurs, which the House voted to condemn earlier this year.
+  Our public pensions should not be allowed to become a new funding 
+vehicle for Communist China, which serves as a threat to current and 
+retired Federal and State employees who are unknowingly enabling their 
+aggression against U.S. interests.
+
+                          ____________________
+```

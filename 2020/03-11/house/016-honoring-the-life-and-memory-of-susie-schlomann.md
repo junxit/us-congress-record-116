@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-03-11-pt1-PgH1596
+date: 2020-03-11
+edition: CREC
+section: HOUSE
+page: H1596
+citation: 166 Cong. Rec. H1596
+---
+
+# HONORING THE LIFE AND MEMORY OF SUSIE SCHLOMANN
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+            HONORING THE LIFE AND MEMORY OF SUSIE SCHLOMANN
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Smucker) for 5 minutes.
+  Mr. SMUCKER. Mr. Speaker, I rise today to honor the life and memory 
+of Mrs. Susie Schlomann of Shrewsbury, Pennsylvania, who suddenly 
+passed away unexpectedly last week.
+  Mr. Speaker, after Pennsylvania's Congressional District boundaries 
+changed, I had the privilege to represent southern York County. I 
+quickly came to know Susie. Susie was passionate and proud of her 
+conservative, political beliefs, volunteering much of her time 
+furthering the causes which she supported, and she was never shy to 
+share her thoughts about what was happening here in Washington.
+  Susie came to Shrewsbury from Long Island, where she raised her 
+family, including her three children, Tristan, Ted, and Rebecca, and 
+where, in 1978, she married the love of her life, her late husband, 
+Rick. In addition to her three children, Susie is survived by five 
+grandchildren, her brother Andrew, and her sister, Amanda.
+  Mr. Speaker, we wish all those who are grieving, comfort. And we give 
+thanks for having had the opportunity to know Susie, who filled so many 
+people's lives with happiness.
+
+                          ____________________
+```
