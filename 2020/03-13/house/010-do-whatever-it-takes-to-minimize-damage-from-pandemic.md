@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-03-13-pt1-PgH1674
+date: 2020-03-13
+edition: CREC
+section: HOUSE
+page: H1674
+citation: 166 Cong. Rec. H1674
+---
+
+# DO WHATEVER IT TAKES TO MINIMIZE DAMAGE FROM PANDEMIC
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+         DO WHATEVER IT TAKES TO MINIMIZE DAMAGE FROM PANDEMIC
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Madam Speaker, today, the House will vote on the 
+Families First Coronavirus Response Act.
+  This critical legislation provides much-needed support for working 
+people across America.
+  It includes funding for free coronavirus tests for everyone who needs 
+it; 14 days of paid sick leave and up to 3 months of paid family and 
+medical leave; enhanced unemployment insurance that will protect 
+furloughed workers; food security through SNAP, student meals, senior 
+nutrition, and food banks; and increased Federal funds for Medicaid.
+  We are facing an enormous crisis in our country right now.
+  Once we pass this bill, the Senate and the President need to act 
+swiftly so these resources are made available to the American people.
+  Madam Speaker, I thank Speaker Nancy Pelosi and all of our colleagues 
+who worked so hard on this over the last several days. Nothing is more 
+important than protecting the health and well-being of the American 
+people.
+  There is more work to be done, and we will do whatever it takes, bear 
+any burden, confront any obstacle in order to minimize the damage that 
+this pandemic will do to our country, and we will do all that we can to 
+keep our country and our constituents safe.
+
+                          ____________________
+```

@@ -1,0 +1,28 @@
+---
+granule: CREC-2020-03-13-pt1-PgH1691
+date: 2020-03-13
+edition: CREC
+section: HOUSE
+page: H1691
+citation: 166 Cong. Rec. H1691
+---
+
+# LEGISLATIVE PROGRAM
+
+**Speaking:** Hoyer, Steny H. (H000874) [D-MD]
+
+```
+                          LEGISLATIVE PROGRAM
+
+  Mr. HOYER. Mr. Speaker, the House has now spoken in a clear voice and 
+approved this bipartisan bill. If there are any developments that would 
+require Members to return before our scheduled return date of March 23, 
+24 hours' notice will be provided.
+  I want to thank all Members for their patience as leaders on both 
+sides worked hard to negotiate the coronavirus response legislation the 
+House has now adopted. Much remains to be done, but we have done good 
+work last week on behalf of the American people and good work this week 
+on behalf of the American people.
+
+                          ____________________
+```

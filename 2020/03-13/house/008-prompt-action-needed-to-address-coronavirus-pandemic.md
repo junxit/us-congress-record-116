@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-03-13-pt1-PgH1673-7
+date: 2020-03-13
+edition: CREC
+section: HOUSE
+page: H1673
+citation: 166 Cong. Rec. H1673
+---
+
+# PROMPT ACTION NEEDED TO ADDRESS CORONAVIRUS PANDEMIC
+
+**Speaking:** Dingell, Debbie (D000624) [D-MI]
+
+```
+          PROMPT ACTION NEEDED TO ADDRESS CORONAVIRUS PANDEMIC
+
+  (Mrs. DINGELL asked and was given permission to address the House for 
+1 minute.)
+  Mrs. DINGELL. Madam Speaker, I rise in support of the Families First 
+Coronavirus Response Act.
+  Our Nation is confronting an unprecedented pandemic, unlike what any 
+of us can remember.
+  Our role in the Congress is to be proactive and ensure public health 
+officials have the resources and tools that they need to keep our 
+communities safe in the coming weeks and months.
+  Prompt action is needed to address this extraordinary situation, and 
+the Families First Coronavirus Response Act begins to meet the needs of 
+many people in our communities.
+  The legislation ensures testing is 100 percent covered and paid sick 
+leave. It ensures that food and economic assistance goes directly to 
+hardworking men, women, and families deeply affected by the outbreak.
+  It also provides much-needed financial assistance to the States to 
+meet this critical public health challenge that they are facing right 
+now.
+  Leaders must lead. People are legitimately afraid, but we have to 
+work together to address this issue.
+
+                          ____________________
+```

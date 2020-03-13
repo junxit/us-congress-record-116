@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-03-13-pt1-PgH1692-4
+date: 2020-03-13
+edition: CREC
+section: HOUSE
+page: H1692
+citation: 166 Cong. Rec. H1692
+---
+
+# NO WAY TO HANDLE BILLIONS OF DOLLARS
+
+**Speaking:** Gohmert, Louie (G000552) [R-TX]
+
+```
+                              {time}  0100
+                  NO WAY TO HANDLE BILLIONS OF DOLLARS
+
+  (Mr. GOHMERT asked and was given permission to address the House for 
+1 minute.)
+  Mr. GOHMERT. Mr. Speaker, it is quite sad that something this 
+important had this kind of procedure.
+  Now, I got a bill at around 9 o'clock or so. I was told it was the 
+most recent draft. I read through that, and I got through it in time to 
+have a number of questions highlighted, tagged.
+  I wasn't able--my staff was trying--to get a copy of the bill we were 
+going to vote on. I got it right before the buzzer goes off that we are 
+going to have a vote in 15 minutes.
+  This is no way to handle something so important. Part of my problem, 
+my concerns and questions I couldn't get answered: Is this going to put 
+some people out of business? I get over here, and people hadn't read 
+it, so they can't answer my questions.
+  This is no way to handle billions and billions of dollars when we are 
+trying to help people, and we don't even know whether we will help them 
+or hurt them.
+
+                          ____________________
+```
