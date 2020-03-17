@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-03-17-pt1-PgS1765-6
+date: 2020-03-17
+edition: CREC
+section: SENATE
+page: S1765
+citation: 166 Cong. Rec. S1765
+---
+
+# CORONAVIRUS
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                              CORONAVIRUS
+
+  Mr. GRASSLEY. Madam President, as the coronavirus spreads, U.S. 
+Federal health and intelligence agencies are working hard to protect 
+the public. It is critical that their hard work not go to waste. 
+Federal health agencies must have access to all intelligence community 
+information that could help combat this pandemic. To help with that 
+access, the intelligence community must guard against overclassifying 
+information. In situations like this, information is power. Our Federal 
+health and intelligence agencies are the best in the world. Let's show 
+the world that America can stop the spread of this virus.
+  My tweet for the morning is this:
+
+       2day at 948AM we just received the bill from the House the 
+     ``Families First Coronavirus Response Act'' What business do 
+     democrats hv blaming McConnell all wknd for not calling a 
+     vote when we can't do anything until the House sends it over? 
+     They know better Stop the politics!
+
+  This is in response to 172 calls my office got yesterday wondering 
+why we have not voted on this important bill. So it is important for me 
+to remind everybody that the Senate can't pass this bill or even debate 
+this bill until the House sends it over. We have now received it, and I 
+assume we will soon do that.
+  I yield the floor.
+
+                          ____________________
+```
