@@ -1,0 +1,1573 @@
+---
+granule: CREC-2020-03-18-pt1-PgS1807-3
+date: 2020-03-18
+edition: CREC
+section: SENATE
+page: S1807
+citation: 166 Cong. Rec. S1807
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** H.R. 6201
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 1556. Mr. PAUL proposed an amendment to the bill H.R. 6201, making 
+emergency supplemental appropriations for the fiscal year ending 
+September 30, 2020, and for other purposes; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. SOCIAL SECURITY NUMBER REQUIREMENT FOR CHILD TAX 
+                   CREDIT.
+
+       (a) In General.--Paragraph (1) of section 24(e) of the 
+     Internal Revenue Code of 1986 is amended to read as follows:
+       ``(1) Social security number required.--No credit shall be 
+     allowed under this section to a taxpayer with respect to any 
+     qualifying child unless the taxpayer includes the social 
+     security number of such child on the return of tax for the 
+     taxable year. For purposes of the preceding sentence, the 
+     term `social security number' means a social security number 
+     issued to an individual by the Social Security 
+     Administration, but only if the social security number is 
+     issued--
+       ``(A) to a citizen of the United States or pursuant to 
+     subclause (I) (or that portion of subclause (III) that 
+     relates to subclause (I)) of section 205(c)(2)(B)(i) of the 
+     Social Security Act, and
+       ``(B) before the due date for such return.''.
+       (b) Conforming Amendments.--
+       (1) Subsection (h) of section 24 of such Code is amended--
+       (A) by striking ``paragraph (7)'' in paragraph (4)(C) and 
+     inserting ``subsection (e)(1)'',
+       (B) by striking paragraph (7), and
+       (C) by striking ``(2) through (7)'' in paragraph (1) and 
+     inserting ``(2) through (6)''.
+       (2) Section 6213(g)(2)(I) of such Code is amended by 
+     striking ``TIN'' and inserting ``social security number''.
+
+[[Page S1808]]
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. ___. TRANSFER AUTHORITY.
+
+       (a) In General.--Notwithstanding any other provision of 
+     law, the President may transfer, as necessary and without 
+     limitation, amounts from any account in the Treasury to any 
+     other account in the Treasury being used for the purpose of 
+     combating, addressing, or ameliorating the coronavirus 
+     pandemic.
+       (b) Congressional Notification.--The President shall submit 
+     to Congress, on each of the following dates, a notification 
+     detailing each transfer made under subsection (a) during the 
+     time period preceding the notification:
+       (1) July 1, 2020.
+       (2) October 1, 2020.
+       (3) January 1, 2021.
+       (c) Expiration.--The transfer authority in subsection (a) 
+     shall expire on December 31, 2020.
+
+     SEC. ___. TERMINATION OF UNITED STATES MILITARY OPERATIONS 
+                   AND RECONSTRUCTION ACTIVITIES IN AFGHANISTAN.
+
+       (a) Termination.--Military operations of the United States 
+     Armed Forces and reconstruction activities of the United 
+     States Government in Afghanistan are hereby terminated.
+       (b) Deadline for Complete Cessation.--Not later than 
+     December 31, 2020--
+       (1) all United States Armed Forces shall be removed from 
+     Afghanistan; and
+       (2) all reconstruction activities of the United States 
+     Government in Afghanistan shall be wound up.
+       (c) Prohibition on Use of Funds.--Appropriated funds may 
+     not be obligated or expended in connection with military 
+     operations and reconstruction activities described in 
+     subsection (a) after December 31, 2020.
+                                 ______
+                                 
+  SA 1557. Mr. KENNEDY submitted an amendment intended to be proposed 
+by him to the bill H.R. 6201, making emergency supplemental 
+appropriations for the fiscal year ending September 30, 2020, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in division A, insert the 
+     following:
+
+                               TITLE ___
+
+                          DEPARTMENT OF ENERGY
+
+                         SPR Petroleum Account
+
+       For an additional amount for the SPR Petroleum Account 
+     established under section 167(a) of the Energy Policy and 
+     Conservation Act (42 U.S.C. 6247(a)), $3,000,000,000, to be 
+     derived by transfer from the amounts provided by section 
+     129(a) of the Consolidated Security, Disaster Assistance, and 
+     Continuing Appropriations Act, 2009 (Public Law 110-329; 122 
+     Stat. 3578), to remain available until September 30, 2020.
+                                 ______
+                                 
+  SA 1558. Mr. JOHNSON (for himself, Mr. Toomey, Mr. Braun, Mr. Scott 
+of Florida, Mr. Lee, Mrs. Blackburn, Mr. Cotton, Mr. Cruz, Mrs. 
+Loeffler, Mr. Perdue, Mr. Sasse, and Mr. Barrasso) proposed an 
+amendment to the bill H.R. 6201, making emergency supplemental 
+appropriations for the fiscal year ending September 30, 2020, and for 
+other purposes; as follows:
+
+       Strike divisions C, E, and G.
+       At the end of division D, add the following:
+
+     SEC. __. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) it is the intention of Congress and the administration 
+     to provide immediate financial support to workers who will be 
+     idled and lose pay and benefits because of COVID-19;
+       (2) Federally mandated sick pay and paid family leave will 
+     prompt some employers who cannot afford this mandate to 
+     preemptively terminate the employment of workers they no 
+     longer have work for due to circumstances surrounding COVID-
+     19;
+       (3) even without that negative incentive, the COVID-19 will 
+     cause many Americans to lose their jobs, and not be eligible 
+     for Federally mandated sick pay or family and medical leave, 
+     so the only income support will be unemployment insurance; 
+     and
+       (4) it would be more efficient to administer this Federal 
+     financial support for workers using only one, rather than two 
+     or more programs.
+
+     SEC. __. TEMPORARY EMERGENCY FEDERAL CORONAVIRUS UNEMPLOYMENT 
+                   INSURANCE BENEFIT PROGRAM.
+
+       (a) In General.--In order to receive the credit against the 
+     Federal Unemployment Tax Act (26 U.S.C. 23), States shall 
+     provide temporary emergency Federal coronavirus unemployment 
+     insurance benefits to any individual who has worked for pay 
+     at any time in the last 30 days and who for any calendar day 
+     is not able to engage in employment due to any of the 
+     following reasons:
+       (1) The individual is subject to a Federal, State, or local 
+     quarantine or isolation order related to COVID-19.
+       (2) The individual has been advised by a health care 
+     provider to self-quarantine due to concerns related to COVID-
+     19.
+       (3) The individual is experiencing symptoms of COVID-19 and 
+     seeking medical diagnosis;
+       (4) The individual is caring for an individual who is 
+     subject to an order as described in paragraph (1) or has been 
+     advised as described in paragraph (2);
+       (5) The individual is caring for a son or daughter under 
+     the age of 18 years of such individual if the school or place 
+     of care of the son or daughter has been closed, or the child 
+     care provider of such son of daughter is unavailable, due to 
+     COVID-19 precautions.
+       (6) The individual is subject to a temporary lay-off under 
+     section 604.5(a)(3) of title 20, Code of Federal Regulations, 
+     due to COVID-19.
+       (b) Waiting Period.--States shall not require any waiting 
+     period in order to receive benefits for those individuals 
+     described in subsection (a).
+       (c) Benefits.--
+       (1) In general.--States shall pay benefits to those 
+     individuals described in subsection (a) on a weekly basis for 
+     each calendar day an individual is not able to engage in 
+     employment for up to 14 weeks.
+       (2) Calculation.--
+       (A) Amount.--The weekly benefit shall be the lesser of--
+       (i) two-thirds of the individual's average weekly earnings; 
+     or
+       (ii) $1,000.
+       (B) Determinations.--The amount of an individual's average 
+     weekly earnings shall be determined by the State.
+       (d) Retroactive Application.--States shall make temporary 
+     emergency Federal coronavirus unemployment insurance benefits 
+     under this section retroactively available to March 1, 2020.
+       (e) Work Requirements.--Individuals receiving temporary 
+     emergency Federal coronavirus unemployment insurance benefits 
+     under this section shall not be required to search for work.
+       (f) Federal Reimbursements.--The Federal government shall--
+       (1) reimburse States for the full cost of complying with 
+     the requirements under this section that are above and beyond 
+     the benefits currently provided under each State's current 
+     unemployment insurance law for benefits paid under this 
+     program; and
+       (2) reimburse any employer who employs fewer than 500 
+     employees and who voluntarily provides paid leave to an 
+     employee for the reasons described in subsection (a) an 
+     amount equal to two-thirds of the actual payment made up to 
+     $1,000 per week and not to exceed $10,000 per employee.
+       (g) National Unemployment Rate.--For purposes of 
+     calculating the National unemployment rate, the Bureau of 
+     Labor Statistics of the Department of Labor shall not include 
+     workers obtaining temporary emergency Federal coronavirus 
+     unemployment insurance benefits.
+       (h) Regulatory Authorities.--
+       (1) Labor.--The Secretary of Labor (or the Secretary's 
+     delegate) shall prescribe such regulations or other guidance 
+     as may be necessary to carry out the purposes of this 
+     section.
+       (2) Treasury.--The Secretary of Treasury (or the 
+     Secretary's delegate) shall prescribe such regulations or 
+     other guidance as may be necessary to carry out the purpose 
+     of this section.
+       (i) Sunset.--The temporary emergency Federal coronavirus 
+     unemployment insurance benefit program under this section 
+     shall expire on the earlier of the date of the termination of 
+     the national emergency declared by the President under the 
+     National Emergencies Act (50 U.S.C. 1601 et seq.) with 
+     respect to the Coronavirus Disease 2019 (COVID-19) or 
+     December 31, 2020.
+                                 ______
+                                 
+  SA 1559. Mrs. MURRAY (for herself, Mrs. Gillibrand, and Ms. Harris) 
+proposed an amendment to the bill H.R. 6201, making emergency 
+supplemental appropriations for the fiscal year ending September 30, 
+2020, and for other purposes; as follows:
+
+       At the appropriate place, insert the following:
+
+               DIVISION __--PAID SICK TIME AND PAID LEAVE
+
+     SECTION _001. SHORT TITLE.
+
+       This division may be cited as the ``Providing Americans 
+     Insured Days of Leave Act of 2020''.
+
+                      TITLE I--GENERAL PROVISIONS
+
+     SEC. _101. ADJUSTMENT TO THE FAMILIES FIRST CORONAVIRUS 
+                   RESPONSE ACT.
+
+       Notwithstanding any other provision of this Act, divisions, 
+     C, E, and G shall have no force or effect.
+
+ TITLE II--IMMEDIATE REIMBURSEMENT OF EMPLOYERS FOR PAID SICK DAYS AND 
+                PAID LEAVE FOR PUBLIC HEALTH EMERGENCIES
+
+     SEC. _201. IMMEDIATE REIMBURSEMENT OF EMPLOYERS FOR PAID SICK 
+                   DAYS AND PAID LEAVE FOR PUBLIC HEALTH 
+                   EMERGENCIES.
+
+       (a) Definitions.--In this title, the terms ``covered 
+     individual'', ``employer'', ``paid sick time'', and 
+     ``Secretary'' have the meanings given the terms in section 
+     _301.
+       (b) General Authority.--
+       (1) Reimbursement.--An employer of a covered individual who 
+     uses paid sick time or emergency paid leave under title III 
+     during 2020 or 2021 shall be reimbursed by the Secretary of 
+     the Treasury out of the Treasury of the United States for the 
+     wages paid to the covered individual for the period during 
+     which the covered individual used the paid sick time or 
+     emergency paid leave.
+       (2) Process.--
+       (A) Information.--To be eligible to receive such 
+     reimbursement, the employer shall submit to the Secretary of 
+     Labor an affidavit
+
+[[Page S1809]]
+
+     that attests that the employer provided such paid sick time 
+     or emergency paid leave, and related records showing the 
+     period of and wages associated with the paid sick time or 
+     emergency paid leave.
+       (B) Determination.--The Secretary shall review the 
+     information in the affidavit and records and come to a 
+     determination regarding the validity of such information 
+     within 5 business days after receipt. If the Secretary does 
+     not make a determination within the 5-business-day period, on 
+     the sixth business day after receipt of such information the 
+     Secretary shall be deemed to have determined the information 
+     to be valid.
+       (C) Reimbursement.--Upon the Secretary's determination that 
+     the information is valid and that the employer provided an 
+     amount of such paid sick time or emergency paid leave to a 
+     covered individual, the Secretary shall transmit the 
+     determination, affidavit, and records to the Secretary of the 
+     Treasury, and the Secretary of the Treasury shall provide 
+     timely reimbursement out of the Treasury of the United 
+     States. The Secretary of the Treasury shall provide that 
+     reimbursement not later than 2 business days after receipt of 
+     the determination from the Secretary of Labor.
+       (c) Fraud.--The Secretary of Labor and the Secretary of the 
+     Treasury shall both have authority to investigate fraud under 
+     this section and to seek recovery of fraudulently obtained 
+     funds and related penalties in any court of competent 
+     jurisdiction.
+
+ TITLE III--PAID SICK DAYS AND PAID LEAVE FOR PUBLIC HEALTH EMERGENCIES
+
+     SEC. _301. DEFINITIONS.
+
+       In this title:
+       (1) Child.--The term ``child'' means a biological, foster, 
+     or adopted child, a stepchild, a child of a domestic partner, 
+     a legal ward, or a child of a person standing in loco 
+     parentis.
+       (2) Covered individual.--The term ``covered individual'' 
+     means an individual who is--
+       (A) an employee; or
+       (B) an individual performing any services or labor for 
+     remuneration for an employer, regardless of whether the 
+     individual is classified as an independent contractor by the 
+     employer.
+       (3) Domestic partner.--
+       (A) In general.--The term ``domestic partner'', with 
+     respect to an individual, means another individual with whom 
+     the individual is in a committed relationship.
+       (B) Committed relationship defined.--The term ``committed 
+     relationship'' means a relationship between 2 individuals, 
+     each at least 18 years of age, in which each individual is 
+     the other individual's sole domestic partner and both 
+     individuals share responsibility for a significant measure of 
+     each other's common welfare. The term includes any such 
+     relationship between 2 individuals, including individuals of 
+     the same sex, that is granted legal recognition by a State or 
+     political subdivision of a State as a marriage or analogous 
+     relationship, including a civil union or domestic 
+     partnership.
+       (4) Domestic violence.--The term ``domestic violence'' has 
+     the meaning given the term in section 40002(a) of the 
+     Violence Against Women Act of 1994 (34 U.S.C. 12291(a)), 
+     except that the reference in such section to the term 
+     ``jurisdiction receiving grant monies'' shall be deemed to 
+     mean the jurisdiction in which the victim lives or the 
+     jurisdiction in which the employer involved is located. Such 
+     term also includes dating violence, as that term is defined 
+     in such section.
+       (5) Employee.--The term ``employee'' means an individual 
+     who is--
+       (A)(i) an employee, as defined in section 3(e) of the Fair 
+     Labor Standards Act of 1938 (29 U.S.C. 203(e)), who is not 
+     covered under subparagraph (E), except that a reference in 
+     such section to an employer shall be considered to be a 
+     reference to an employer described in clauses (i)(I) and (ii) 
+     of paragraph (6)(A); or
+       (ii) an employee of the Government Accountability Office;
+       (B) a State employee described in section 304(a) of the 
+     Government Employee Rights Act of 1991 (42 U.S.C. 2000e-
+     16c(a));
+       (C) a covered employee, as defined in section 101 of the 
+     Congressional Accountability Act of 1995 (2 U.S.C. 1301), 
+     other than an applicant for employment;
+       (D) a covered employee, as defined in section 411(c) of 
+     title 3, United States Code; or
+       (E) a Federal officer or employee covered under subchapter 
+     V of chapter 63 of title 5, United States Code, or any other 
+     individual occupying a position in the civil service (as that 
+     term is defined in section 2102(1) of title 5, United States 
+     Code).
+       (6) Employer.--
+       (A) In general.--The term ``employer'' means a person who 
+     is--
+       (i)(I) a covered employer, as defined in subparagraph (B), 
+     who is not covered under subclause (V);
+       (II) an entity employing a State employee described in 
+     section 304(a) of the Government Employee Rights Act of 1991;
+       (III) an employing office, as defined in section 101 of the 
+     Congressional Accountability Act of 1995;
+       (IV) an employing office, as defined in section 411(c) of 
+     title 3, United States Code; or
+       (V) an employing agency covered under subchapter V of 
+     chapter 63 of title 5, United States Code; and
+       (ii) engaged in commerce (including government), or an 
+     industry or activity affecting commerce (including 
+     government), as defined in subparagraph (B)(iii).
+       (B) Covered employer.--
+       (i) In general.--In subparagraph (A)(i)(I), the term 
+     ``covered employer''--
+
+       (I) means any person engaged in commerce or in any industry 
+     or activity affecting commerce who employs 1 or more 
+     employees;
+       (II) includes--
+
+       (aa) any person who acts directly or indirectly in the 
+     interest of (within the meaning of section 3(d) of the Fair 
+     Labor Standards Act of 1938 (29 U.S.C. 203(d)) an employer in 
+     relation to any of the employees of such employer; and
+       (bb) any successor in interest of an employer;
+
+       (III) includes any ``public agency'', as defined in section 
+     3(x) of the Fair Labor Standards Act of 1938 (29 U.S.C. 
+     203(x)); and
+       (IV) includes the Government Accountability Office.
+
+       (ii) Public agency.--For purposes of subclause (III) or 
+     (IV) of clause (i), a public agency shall be considered to be 
+     a person engaged in commerce or in an industry or activity 
+     affecting commerce.
+       (iii) Definitions.--For purposes of this subparagraph:
+
+       (I) Commerce.--The terms ``commerce'' and ``industry or 
+     activity affecting commerce'' mean any activity, business, or 
+     industry in commerce or in which a labor dispute would hinder 
+     or obstruct commerce or the free flow of commerce, and 
+     include ``commerce'' and any ``industry affecting commerce'', 
+     as defined in paragraphs (1) and (3) of section 501 of the 
+     Labor Management Relations Act, 1947 (29 U.S.C. 142 (1) and 
+     (3)).
+       (II) Employee.--The term ``employee'' has the same meaning 
+     given such term in section 3(e) of the Fair Labor Standards 
+     Act of 1938 (29 U.S.C. 203(e)).
+       (III) Person.--The term ``person'' has the same meaning 
+     given such term in section 3(a) of the Fair Labor Standards 
+     Act of 1938 (29 U.S.C. 203(a)).
+
+       (C) Predecessors.--Any reference in this paragraph to an 
+     employer shall include a reference to any predecessor of such 
+     employer.
+       (7) Employment benefits.--The term ``employment benefits'' 
+     means all benefits provided or made available to covered 
+     individuals by an employer, including group life insurance, 
+     health insurance, disability insurance, sick leave, annual 
+     leave, educational benefits, and pensions, regardless of 
+     whether such benefits are provided by a practice or written 
+     policy of an employer or through an ``employee benefit 
+     plan'', as defined in section 3(3) of the Employee Retirement 
+     Income Security Act of 1974 (29 U.S.C. 1002(3)).
+       (8) FLSA terms.--The terms ``employ'' and ``State'' have 
+     the meanings given the terms in section 3 of the Fair Labor 
+     Standards Act of 1938 (29 U.S.C. 203).
+       (9) Health care provider.--The term ``health care 
+     provider'' means a provider who--
+       (A)(i) is a doctor of medicine or osteopathy who is 
+     authorized to practice medicine or surgery (as appropriate) 
+     by the State in which the doctor practices; or
+       (ii) is any other person determined by the Secretary to be 
+     capable of providing health care services; and
+       (B) is not employed by an employer for whom the provider 
+     issues certification under this title.
+       (10) Paid sick time.--The term ``paid sick time'' means an 
+     increment of compensated leave that--
+       (A) can be--
+       (i) earned by a covered individual for use during an 
+     absence from employment or work for a reason described in any 
+     paragraph of section _302(b); or
+       (ii) provided by an employer during a public health 
+     emergency for use during an absence from employment or work 
+     for a reason described in any paragraph of section _302(b); 
+     and
+       (B) is compensated at a rate that is not less than the 
+     greatest of--
+       (i) the covered individual's regular rate of pay;
+       (ii) the minimum wage rate provided for in section 6(a)(1) 
+     of the Fair Labor Standards Act of 1938 (29 U.S.C. 
+     206(a)(1)); or
+       (iii) the minimum wage rate provided for in the applicable 
+     State or local law for the State or locality in which the 
+     covered individual is employed or works.
+       (11) Parent.--The term ``parent'' means a biological, 
+     foster, or adoptive parent of a covered individual, a 
+     stepparent of a covered individual, a parent-in-law of a 
+     covered individual, a parent of a domestic partner of a 
+     covered individual, or a legal guardian or other person who 
+     stood in loco parentis to a covered individual when the 
+     covered individual was a child.
+       (12) Public health emergency.--The term ``public health 
+     emergency'' means--
+       (A) a public health emergency--
+       (i) declared by the Secretary of Health and Human Services 
+     for a jurisdiction, or by a State or local public health 
+     official with authority to declare such an emergency for the 
+     State or jurisdiction within the State; and
+       (ii) due to a public health condition that is--
+
+       (I) emergent and acute;
+       (II) not a longstanding, chronic public health condition; 
+     and
+
+       (B) an emergency with respect to coronavirus, as defined in 
+     section 506 of the Coronavirus Preparedness and Response 
+     Supplemental Appropriations Act, 2020 (Public Law 116-123), 
+     declared by a Federal, State, or local public official.
+       (13) Qualified caregiving.--
+
+[[Page S1810]]
+
+       (A) In general.--The term ``qualified caregiving'' means 
+     any activity engaged in by an individual, other than regular 
+     employment, for a reason for which an eligible employee would 
+     be entitled to leave under subparagraphs (A) through (E) of 
+     paragraph (1) of section 102(a) of the Family and Medical 
+     Leave Act of 1993 (29 U.S.C. 2612(a)).
+       (B) Determination of whether an activity constitutes 
+     qualified caregiving.--For purposes of determining whether an 
+     activity engaged in by an individual constitutes qualified 
+     caregiving under subparagraph (A)--
+       (i) the term ``spouse'' (as used in section 102(a) of the 
+     Family and Medical Leave Act (29 U.S.C. 2612(a))) includes 
+     the individual's domestic partner; and
+       (ii) the term ``son or daughter'' (as used in such section) 
+     includes a son or daughter (as defined in section 101 of such 
+     Act (29 U.S.C. 2611) of the individual's domestic partner.
+       (14) Secretary.--The term ``Secretary'' means the Secretary 
+     of Labor.
+       (15) Sexual assault.--The term ``sexual assault'' has the 
+     meaning given the term in section 40002(a) of the Violence 
+     Against Women Act of 1994 (34 U.S.C. 12291(a)).
+       (16) Spouse.--The term ``spouse'', with respect to a 
+     covered individual, has the meaning given such term by the 
+     marriage laws of the State in which the marriage was 
+     celebrated.
+       (17) Stalking.--The term ``stalking'' has the meaning given 
+     the term in section 40002(a) of the Violence Against Women 
+     Act of 1994 (34 U.S.C. 12291(a)).
+       (18) Victim services organization.--The term ``victim 
+     services organization'' means a nonprofit, nongovernmental 
+     organization that provides assistance to victims of domestic 
+     violence, sexual assault, or stalking or advocates for such 
+     victims, including a rape crisis center, an organization 
+     carrying out a domestic violence, sexual assault, or stalking 
+     prevention or treatment program, an organization operating a 
+     shelter or providing counseling services, or a legal services 
+     organization or other organization providing assistance 
+     through the legal process.
+       (19) Work.--The term ``work'' means to be employed or to be 
+     engaged in providing labor or services for an employer.
+
+     SEC. _302. PAID SICK TIME AND EMERGENCY PAID LEAVE.
+
+       (a) Earning of Paid Sick Time.--
+       (1) In general.--
+       (A) Earning.--Subject to subsection (c) and paragraph (2), 
+     an employer shall provide each covered individual employed by 
+     or working for the employer not less than 1 hour of earned 
+     paid sick time for every 30 hours worked, to be used as 
+     described in subsection (b).
+       (B) Limit.--An employer shall not be required to permit a 
+     covered individual to earn, under this subsection, more than 
+     56 hours of paid sick time in a year, unless the employer 
+     chooses to set a higher limit.
+       (2) Exempt employees.--
+       (A) In general.--Except as provided in paragraph (3), for 
+     purposes of this subsection, an employee who is exempt from 
+     overtime requirements under section 13(a)(1) of the Fair 
+     Labor Standards Act of 1938 (29 U.S.C. 213(a)(1)) shall be 
+     assumed to work 40 hours in each workweek.
+       (B) Shorter normal workweek.--If the normal workweek of 
+     such an employee is less than 40 hours, the employee shall 
+     earn paid sick time under this subsection based upon that 
+     normal workweek.
+       (3) Dates for beginning to earn paid sick time and use.--
+       (A) In general.--Covered individuals shall begin to earn 
+     paid sick time under this subsection at the commencement of 
+     their employment or work. A covered individual shall be 
+     entitled to use the earned paid sick time beginning on the 
+     60th calendar day following commencement of the covered 
+     individual's employment or work. After that 60th calendar 
+     day, the covered individual may use the paid sick time as the 
+     time is earned. An employer may, at the discretion of the 
+     employer, loan paid sick time to a covered individual for use 
+     by such covered individual in advance of the covered 
+     individual earning such sick time as provided in this 
+     subsection and may permit use before the 60th day of 
+     employment or work.
+       (B) Public health emergency.--Subparagraph (A) shall not 
+     apply with respect to additional paid sick time provided 
+     under subsection (c). In the event of a public health 
+     emergency, a covered individual may immediately use the 
+     accrued or additional paid sick time described in subsection 
+     (c), regardless of how long the covered individual has been 
+     employed by or working for an employer.
+       (4) Carryover.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     paid sick time earned under this subsection shall carry over 
+     from 1 year to the next.
+       (B) Construction.--This subsection shall not be construed 
+     to require an employer to permit a covered individual to earn 
+     more than 56 hours of earned paid sick time at a given time.
+       (5) Employers with existing policies.--Any employer with a 
+     paid leave policy who makes available an amount of paid leave 
+     that is sufficient to meet the requirements of this 
+     subsection and that may be used for the same purposes and 
+     under the same conditions as the purposes and conditions 
+     outlined in subsection (b) shall not be required to permit a 
+     covered individual to earn more paid sick time under this 
+     subsection.
+       (6) Construction.--Nothing in this section shall be 
+     construed as requiring financial or other reimbursement to a 
+     covered individual from an employer upon the covered 
+     individual's termination, resignation, retirement, or other 
+     separation from employment or work for paid sick time that 
+     has not been used.
+       (7) Reinstatement.--If a covered individual is separated 
+     from employment or work with an employer and is rehired or 
+     reengaged for work, within 12 months after that separation, 
+     by the same employer, the employer shall reinstate the 
+     covered individual's previously earned paid sick time under 
+     this subsection. The covered individual shall be entitled to 
+     use the earned paid sick time and earn more paid sick time at 
+     the recommencement of employment or work with the employer.
+       (8) Prohibition.--An employer may not require, as a 
+     condition of providing paid sick time under this title, that 
+     the covered individual involved search for or find a 
+     replacement covered individual to cover the hours during 
+     which the covered individual is using paid sick time.
+       (9) Scheduling.--A covered individual shall make a 
+     reasonable effort to schedule a period of accrued paid sick 
+     time under this subsection in a manner that does not unduly 
+     disrupt the operations of the employer.
+       (b) Uses.--Paid sick time or emergency paid leave under 
+     this section may be used by a covered individual for any of 
+     the following:
+       (1) An absence resulting from a physical or mental illness, 
+     injury, or medical condition of the covered individual.
+       (2) An absence resulting from obtaining professional 
+     medical diagnosis or care, or preventive medical care, for 
+     the covered individual.
+       (3) An absence resulting from the closure of a covered 
+     individual's place of employment or work by order of a 
+     Federal or State public official with jurisdiction, or at the 
+     employer's discretion, due to a public health emergency.
+       (4) An absence because a Federal or State public official 
+     with jurisdiction or a health care provider has determined, 
+     or the covered individual has independently determined, that 
+     the covered individual's presence in the community may 
+     jeopardize the health of others because of the covered 
+     individual's exposure to a communicable disease during a 
+     public health emergency or the exhibition of symptoms of a 
+     communicable disease during a public health emergency, 
+     regardless of whether the covered individual has actually 
+     contracted the communicable disease.
+       (5) An absence for the purpose of caring for a child, a 
+     parent, a spouse, a domestic partner, or any other individual 
+     related by blood or affinity whose close association with the 
+     covered individual is the equivalent of a family 
+     relationship--
+       (A) who has any of the conditions or needs for diagnosis or 
+     care described in paragraph (4);
+       (B) who is a child, if the child's school or place of care 
+     has been closed by order of a Federal or State public 
+     official with jurisdiction or at the discretion of the school 
+     or place of care due to a public health emergency, including 
+     if a school or entity operating the place of care is 
+     physically closed but is providing education or care to the 
+     child remotely; or
+       (C) because a Federal or State public official with 
+     jurisdiction or a health care provider has determined that 
+     the presence in the community of the person receiving care 
+     may jeopardize the health of others because of the person's 
+     exposure to a communicable disease during a public health 
+     emergency, regardless of whether the person has actually 
+     contracted the communicable disease.
+       (6) An absence for the purpose of caring for a child, a 
+     parent, a spouse, a domestic partner, or any other individual 
+     related by blood or affinity whose close association with the 
+     covered individual is the equivalent of a family 
+     relationship--
+       (A) who has any of the conditions or needs for diagnosis or 
+     care described in paragraph (1) or (2);
+       (B) who is a child, if the covered individual is required 
+     to attend a school meeting or a meeting at a place where the 
+     child is receiving care necessitated by the child's health 
+     condition or disability; or
+       (C) who is otherwise in need of care.
+       (7) An absence resulting from domestic violence, sexual 
+     assault, or stalking, if the time is to--
+       (A) seek medical attention for the covered individual or 
+     the covered individual's child, parent, spouse, domestic 
+     partner, or an individual related to the covered individual 
+     as described in paragraph (6), to recover from physical or 
+     psychological injury or disability caused by domestic 
+     violence, sexual assault, or stalking;
+       (B) obtain or assist a related person described in 
+     paragraph (6) in obtaining services from a victim services 
+     organization;
+       (C) obtain or assist a related person described in 
+     paragraph (6) in obtaining psychological or other counseling;
+       (D) seek relocation; or
+       (E) take legal action, including preparing for or 
+     participating in any civil or criminal legal proceeding 
+     related to or resulting from domestic violence, sexual 
+     assault, or stalking.
+       (c) Additional Paid Sick Time for Public Health 
+     Emergency.--
+       (1) Additional paid sick time.--On the date of a 
+     declaration of a public health emergency, an employer in the 
+     jurisdiction involved shall provide each covered individual
+
+[[Page S1811]]
+
+     of the employer in that jurisdiction with additional paid 
+     sick time, in addition to any amount of paid sick time 
+     accrued by the covered individual under subsection (a) 
+     (including paid leave referred to in subsection (a)(5)).
+       (2) Amount of paid sick time.--In receiving additional paid 
+     sick time under paragraph (1), the covered individual shall 
+     receive--
+       (A) for a full-time salaried covered individual, a 
+     specified amount of paid sick time that is sufficient to 
+     provide the covered individual with 14 continuous days away 
+     from work without a reduction in pay; and
+       (B) subject to paragraph (3), for a part-time, hourly, or 
+     piece-rate covered individual, a specified amount of paid 
+     sick time equal to the number of hours that the covered 
+     individual was scheduled to work or, if not so scheduled, 
+     regularly works in a 14-day period.
+       (3) Varying schedule hours calculation.--
+       (A) In general.--In the case of a part-time, hourly, or 
+     piece-rate covered individual described in paragraph (2)(B) 
+     whose schedule varies from week to week to such an extent 
+     that an employer is unable to determine with certainty the 
+     number of hours the covered individual regularly works, the 
+     employer shall use the rules specified in subparagraph (B) to 
+     calculate the amount of additional paid sick time that the 
+     covered individual shall receive under paragraph (2)(B).
+       (B) Special calculation rules.--The employer shall 
+     calculate that amount as--
+       (i) subject to clause (ii), a number equal to the average 
+     number of hours that the covered individual was scheduled to 
+     work per 14-day period over the 6-month period ending on the 
+     date on which the covered individual takes such additional 
+     paid sick time, including hours for which the covered 
+     individual took leave of any type; or
+       (ii) if the covered individual did not work over such 6-
+     month period, the reasonable expectation of the covered 
+     individual at the time of hiring or engagement of the average 
+     number of hours per 14-day period that the covered individual 
+     would regularly be scheduled to work.
+       (4) Guidelines.--Not later than 5 days after the date of 
+     the enactment of this Act, the Secretary of Labor shall issue 
+     guidelines to assist employers in calculating the amount of 
+     additional paid sick time that a covered individual shall 
+     receive under this subsection.
+       (5) Use of leave.--The additional sick time and accrued 
+     sick time described in this subsection shall be available for 
+     immediate use by the covered individual for the purposes 
+     described in any paragraph of subsection (b) beginning on the 
+     date a public health emergency is declared, regardless of how 
+     long the covered individual has been employed by or working 
+     for an employer.
+       (6) Periods.--A covered individual may take the additional 
+     sick time on the schedule that meets the covered individual's 
+     needs, consistent with subsection (b), including taking the 
+     additional sick time intermittently or on a reduced leave 
+     schedule, and an employer may not require a covered 
+     individual to take the additional sick time in a single 
+     period or on any other schedule specified by the employer.
+       (d) Emergency Paid Leave for Public Health Emergency.--
+       (1) In general.--During a public health emergency, an 
+     employer in the jurisdiction involved shall provide each 
+     covered individual of the employer in that jurisdiction with 
+     emergency paid leave, in addition to any amount of paid sick 
+     time accrued by the covered individual under subsection (a) 
+     (including paid leave referred to in subsection (a)(5)) and 
+     in addition to additional paid sick time under subsection 
+     (c).
+       (2) Amount of paid leave.--In receiving emergency paid 
+     leave under paragraph (1), the covered individual shall 
+     receive 12 weeks of such paid leave.
+       (3) Amount of benefit.--In receiving emergency paid leave 
+     under paragraph (1), the covered individual shall be 
+     compensated at a rate that is not less than the greatest of--
+       (A) two-thirds of the covered individual's regular rate of 
+     pay;
+       (B) the minimum wage rate provided for in section 6(a)(1) 
+     of the Fair Labor Standards Act of 1938 (29 U.S.C. 
+     206(a)(1)); or
+       (C) the minimum wage rate provided for in the applicable 
+     State or local law for the State or locality in which the 
+     covered individual is employed or working.
+       (4) Use of leave.--The emergency paid leave described in 
+     this subsection shall be available for immediate use by the 
+     covered individual for the purposes described in any 
+     paragraph of subsection (b), and for qualified caregiving, 
+     beginning on the date a public health emergency is declared, 
+     regardless of how long the covered individual has been 
+     employed by or working for an employer.
+       (5) Periods.--A covered individual may take the emergency 
+     paid leave on the schedule that meets the covered 
+     individual's needs, consistent with subsection (b) and the 
+     definition of qualified caregiving, including taking the 
+     emergency paid leave intermittently or on a reduced leave 
+     schedule, and an employer may not require a covered 
+     individual to take the emergency paid leave in a single 
+     period or on any other schedule specified by the employer.
+       (6) Sequencing.--During a public health emergency, a 
+     covered individual may first use the additional sick time for 
+     the purposes described in any paragraph of subsection (b). 
+     The covered individual may then use the emergency paid leave 
+     during a public health emergency. A covered individual may 
+     elect to use accrued sick time before additional sick time or 
+     emergency paid leave. An employer may not require a covered 
+     individual to use accrued sick time or any other paid leave 
+     provided by the employer to the covered individual, before 
+     using additional sick time or emergency paid leave.
+       (7) Construction.--Nothing in this section shall be 
+     construed as requiring financial or other reimbursement to a 
+     covered individual from an employer upon the covered 
+     individual's termination, resignation, retirement, or other 
+     separation from employment or work for emergency paid leave 
+     that has not been used.
+       (8) Prohibition.--An employer may not require, as a 
+     condition of providing emergency paid leave under this title, 
+     that the covered individual involved search for or find a 
+     replacement covered individual to cover the hours during 
+     which the covered individual is using emergency paid leave.
+       (e) Procedures.--
+       (1) In general.--Paid sick time and emergency paid leave 
+     shall be provided upon the oral or written request of a 
+     covered individual. Such request shall--
+       (A) include the expected duration of the period of such 
+     time or leave;
+       (B) in a case in which the need for such period of time is 
+     foreseeable at least 7 days in advance of such period, be 
+     provided at least 7 days in advance of such period; and
+       (C) otherwise, be provided as soon as practicable after the 
+     covered individual is aware of the need for such period.
+       (2) Certification in general.--
+       (A) Provision.--
+       (i) In general.--Subject to subparagraphs (C) and (D), an 
+     employer may require that a request for paid sick time under 
+     this section for a purpose described in paragraph (1), (2), 
+     or (6) of subsection (b) be supported by a certification 
+     issued by the health care provider of the covered individual 
+     or of an individual described in subsection (b)(6), as 
+     appropriate, if the period of such time covers more than 3 
+     consecutive workdays.
+       (ii) Timeliness.--The covered individual shall provide a 
+     copy of such certification to the employer in a timely 
+     manner, not later than 30 days after the first day of the 
+     period of time. The employer shall not delay the commencement 
+     of the period of time on the basis that the employer has not 
+     yet received the certification.
+       (B) Sufficient certification.--
+       (i) In general.--A certification provided under 
+     subparagraph (A) shall be sufficient if it states--
+
+       (I) the date on which the period of time will be needed;
+       (II) the probable duration of the period of time;
+       (III) the appropriate medical facts within the knowledge of 
+     the health care provider regarding the condition involved, 
+     subject to clause (ii); and
+       (IV)(aa) for purposes of paid sick time under subsection 
+     (b)(1), a statement that absence from work is medically 
+     necessary;
+       (bb) for purposes of such time under subsection (b)(2), the 
+     dates on which testing for a medical diagnosis or care is 
+     expected to be given and the duration of such testing or 
+     care; and
+       (cc) for purposes of such time under subsection (b)(6), in 
+     the case of time to care for someone who is not a child, a 
+     statement that care is needed for an individual described in 
+     such subsection, and an estimate of the amount of time that 
+     such care is needed for such individual.
+
+       (ii) Limitation.--In issuing a certification under 
+     subparagraph (A), a health care provider shall make 
+     reasonable efforts to limit the medical facts described in 
+     clause (i)(III) that are disclosed in the certification to 
+     the minimum necessary to establish a need for the covered 
+     individual to utilize paid sick time.
+       (C) Public health emergencies.--No certification or other 
+     documentation may be required under this title by an employer 
+     during any public health emergency.
+       (D) Regulations.--Regulations prescribed under section _311 
+     shall specify the manner in which a covered individual who 
+     does not have health insurance shall provide a certification 
+     for purposes of this paragraph.
+       (E) Confidentiality and nondisclosure.--
+       (i) Protected health information.--Nothing in this title 
+     shall be construed to require a health care provider to 
+     disclose information in violation of section 1177 of the 
+     Social Security Act (42 U.S.C. 1320d-6) or the regulations 
+     promulgated pursuant to section 264(c) of the Health 
+     Insurance Portability and Accountability Act of 1996 (42 
+     U.S.C. 1320d-2 note).
+       (ii) Health information records.--If an employer possesses 
+     health information about a covered individual or a covered 
+     individual's child, parent, spouse, domestic partner, or an 
+     individual related to the covered individual as described in 
+     subsection (b)(6), such information shall--
+
+       (I) be maintained on a separate form and in a separate file 
+     from other personnel information;
+       (II) be treated as a confidential medical record; and
+       (III) not be disclosed except to the affected covered 
+     individual or with the permission of the affected covered 
+     individual.
+
+       (3) Certification in the case of domestic violence, sexual 
+     assault, or stalking.--
+
+[[Page S1812]]
+
+       (A) In general.--An employer may require that a request for 
+     paid sick time for a purpose described in subsection (b)(7) 
+     be supported by any one of the following forms of 
+     documentation, but the employer may not specify the 
+     particular form of documentation to be provided:
+       (i) A police report indicating that the covered individual, 
+     or a member of the covered individual's family described in 
+     subsection (b)(7), was a victim of domestic violence, sexual 
+     assault, or stalking.
+       (ii) A court order protecting or separating the covered 
+     individual or a member of the covered individual's family 
+     described in subsection (b)(7) from the perpetrator of an act 
+     of domestic violence, sexual assault, or stalking, or other 
+     evidence from the court or prosecuting attorney that the 
+     covered individual or a member of the covered individual's 
+     family described in subsection (b)(7) has appeared in court 
+     or is scheduled to appear in court in a proceeding related to 
+     domestic violence, sexual assault, or stalking.
+       (iii) Other documentation signed by a covered individual or 
+     volunteer working for a victim services organization, an 
+     attorney, a police officer, a medical professional, a social 
+     worker, an antiviolence counselor, or a member of the clergy, 
+     affirming that the covered individual or a member of the 
+     covered individual's family described in subsection (b)(7) is 
+     a victim of domestic violence, sexual assault, or stalking.
+       (B) Requirements.--The requirements of paragraph (2) shall 
+     apply to certifications under this paragraph, except that--
+       (i) subclauses (III) and (IV) of subparagraph (B)(i) and 
+     subparagraph (B)(ii) of such paragraph shall not apply;
+       (ii) the certification shall state the reason that the 
+     leave is required with the facts to be disclosed limited to 
+     the minimum necessary to establish a need for the covered 
+     individual to be absent from work, and the covered individual 
+     shall not be required to explain the details of the domestic 
+     violence, sexual assault, or stalking involved; and
+       (iii) with respect to confidentiality under subparagraph 
+     (E) of such paragraph, any information provided to the 
+     employer under this paragraph shall be confidential, except 
+     to the extent that any disclosure of such information is--
+
+       (I) requested or consented to in writing by the covered 
+     individual; or
+       (II) otherwise required by applicable Federal or State law.
+
+       (f) Restoration to Position.--The provisions of section 
+     104(a) of the Family and Medical Leave Act of 1993 (29 U.S.C. 
+     2614(a)) or section 6384 of title 5, United States Code, as 
+     the case may be, shall apply to a covered individual taking 
+     accrued or additional paid sick time, or emergency paid 
+     leave, under this title, and to the employer of the covered 
+     individual. Such provisions shall be enforced in accordance 
+     with this title.
+       (g) Maintenance of Health Benefits.--The provisions of 
+     section 104(c)(1) of the Family and Medical Leave Act of 1993 
+     (29 U.S.C. 2614(c)(1)) shall apply to a covered individual 
+     taking accrued or additional paid sick time, or emergency 
+     paid leave, under this title, and to the employer of the 
+     covered individual. Such provisions shall be enforced in 
+     accordance with this title.
+       (h) No Effect on Eligibility for Supplemental Security 
+     Income.--Any paid sick time or emergency paid leave provided 
+     to a covered individual under this title shall not be 
+     regarded as income or resources for any month, for purposes 
+     of determining the eligibility of the recipient (or the 
+     recipient's spouse or family) for benefits or assistance, or 
+     the amount or extent of benefits or assistance, under the 
+     supplemental security income program established under title 
+     XVI of the Social Security Act (42 U.S.C. 1381 et seq.).
+
+     SEC. _303. EMPLOYMENT UNDER MULTIEMPLOYER COLLECTIVE 
+                   BARGAINING AGREEMENTS.
+
+       (a) Employers.--An employer signatory to a multiemployer 
+     collective bargaining agreement may, consistent with its 
+     bargaining obligations and its collective bargaining 
+     agreement, fulfill its obligations under this title by making 
+     contributions to a multiemployer fund, plan, or program based 
+     on the hours of paid sick time, and of emergency paid leave, 
+     each of its employees is entitled to under this title while 
+     working under the multiemployer collective bargaining 
+     agreement, provided that the fund, plan, or program enables 
+     employees to secure pay from such fund, plan, or program 
+     based on the hours the employees have worked under the 
+     multiemployer collective bargaining agreement and for the 
+     amount of time and uses specified under this title.
+       (b) Employees.--Employees who work under a multiemployer 
+     collective bargaining agreement into which their employers 
+     make contributions as provided in subsection (a) may secure 
+     pay from such fund, plan, or program based on hours the 
+     employees have worked under the multiemployer collective 
+     bargaining agreement for the amount of time and uses 
+     specified under this title.
+
+     SEC. _304. NOTICE REQUIREMENT.
+
+       (a) In General.--Each employer shall notify each covered 
+     individual and include in any covered individual handbook the 
+     information described in paragraphs (1) through (4). Each 
+     employer shall post and keep posted a notice, to be prepared 
+     or approved in accordance with procedures specified in 
+     regulations prescribed under section _311, setting forth 
+     excerpts from, or summaries of, the pertinent provisions of 
+     this title including--
+       (1) information describing paid sick time and paid 
+     emergency leave available to covered individuals under this 
+     title;
+       (2) information pertaining to the filing of an action under 
+     this title;
+       (3) the details of the notice requirement for a foreseeable 
+     period of time under section _302(e)(1)(B); and
+       (4) information that describes--
+       (A) the protections that a covered individual has in 
+     exercising rights under this title; and
+       (B) how the covered individual can contact the Secretary 
+     (or other appropriate authority as described in section _306) 
+     if any of the rights are violated.
+       (b) Location.--The notice described under subsection (a) 
+     shall be posted--
+       (1) in conspicuous places on the premises of the employer, 
+     where notices to covered individuals (including applicants) 
+     are customarily posted; or
+       (2) in covered individual handbooks.
+       (c) Model Notice.--Not later than 5 days after the date of 
+     enactment of this Act, the Secretary of Labor shall make 
+     publicly available a model notice that meets the requirements 
+     of subsection (a).
+       (d) Violation; Penalty.--Any employer who willfully 
+     violates the posting requirements of this section shall be 
+     subject to a civil fine in an amount not to exceed $100 for 
+     each separate offense.
+
+     SEC. _305. PROHIBITED ACTS.
+
+       (a) Interference With Rights.--
+       (1) Exercise of rights.--It shall be unlawful for any 
+     employer to interfere with, restrain, or deny the exercise 
+     of, or the attempt to exercise, any right provided under this 
+     title, including--
+       (A) discharging or discriminating against (including 
+     retaliating against) any individual, including a job 
+     applicant, for exercising, or attempting to exercise, any 
+     right provided under this title;
+       (B) using the taking of paid sick time or emergency paid 
+     leave under this title as a negative factor in an employment 
+     action or work-related action, such as hiring, promotion, 
+     reducing hours or number of shifts, or a disciplinary action; 
+     or
+       (C) counting the paid sick time or emergency paid leave 
+     under a no-fault attendance policy or any other absence 
+     control policy.
+       (2) Discrimination.--It shall be unlawful for any employer 
+     to discharge or in any other manner discriminate against 
+     (including retaliating against) any individual, including a 
+     job applicant, for opposing any practice made unlawful by 
+     this title.
+       (b) Interference With Proceedings or Inquiries.--It shall 
+     be unlawful for any person to discharge or in any other 
+     manner discriminate against (including retaliating against) 
+     any individual, including a job applicant, because such 
+     individual--
+       (1) has filed an action, or has instituted or caused to be 
+     instituted any proceeding, under or related to this title;
+       (2) has given, or is about to give, any information in 
+     connection with any inquiry or proceeding relating to any 
+     right provided under this title; or
+       (3) has testified, or is about to testify, in any inquiry 
+     or proceeding relating to any right provided under this 
+     title.
+       (c) Construction.--Nothing in this section shall be 
+     construed to state or imply that the scope of the activities 
+     prohibited by section 105 of the Family and Medical Leave Act 
+     of 1993 (29 U.S.C. 2615) is less than the scope of the 
+     activities prohibited by this section.
+
+     SEC. _306. ENFORCEMENT AUTHORITY.
+
+       (a) In General.--
+       (1) Definition.--In this subsection--
+       (A) the term ``employee'' means an employee described in 
+     subparagraph (A) or (B) of section _301(5) or a corresponding 
+     covered individual; and
+       (B) the term ``employer'' means an employer described in 
+     subclause (I) or (II) of section _301(6)(A)(i).
+       (2) Investigative authority.--
+       (A) In general.--To ensure compliance with the provisions 
+     of this title, or any regulation or order issued under this 
+     title, the Secretary shall have, subject to subparagraph (C), 
+     the investigative authority provided under section 11(a) of 
+     the Fair Labor Standards Act of 1938 (29 U.S.C. 211(a)), with 
+     respect to employers, employees, and other individuals 
+     affected.
+       (B) Obligation to keep and preserve records.--An employer 
+     shall make, keep, and preserve records pertaining to 
+     compliance with this title in accordance with section 11(c) 
+     of the Fair Labor Standards Act of 1938 (29 U.S.C. 211(c)) 
+     and in accordance with regulations prescribed by the 
+     Secretary.
+       (C) Required submissions generally limited to an annual 
+     basis.--The Secretary shall not require, under the authority 
+     of this paragraph, an employer to submit to the Secretary any 
+     books or records more than once during any 12-month period, 
+     unless the Secretary has reasonable cause to believe there 
+     may exist a violation of this title or any regulation or 
+     order issued pursuant to this title, or is investigating a 
+     charge pursuant to paragraph (4).
+       (D) Subpoena authority.--For the purposes of any 
+     investigation provided for in this paragraph, the Secretary 
+     shall have the subpoena authority provided for under section 
+     9 of the Fair Labor Standards Act of 1938 (29 U.S.C. 209).
+       (3) Civil action by employees or individuals.--
+       (A) Right of action.--An action to recover the damages or 
+     equitable relief prescribed in subparagraph (C) may be 
+     maintained against any employer in any Federal or State court
+
+[[Page S1813]]
+
+     of competent jurisdiction by one or more employees or 
+     individuals or their representative for and on behalf of--
+       (i) the employees or individuals; or
+       (ii) the employees or individuals and others similarly 
+     situated.
+       (B) No waiver.--In such an action brought by one or more 
+     employees or individuals or their representative for and on 
+     behalf of the persons described in clause (i) or (ii) of 
+     subparagraph (A), to enforce the rights in this title, no 
+     court of competent jurisdiction may grant an employer's 
+     motion to compel arbitration, under chapter 1 of title 9, 
+     United States Code, or any analogous State arbitration 
+     statute, of the claims involved. An employee's right to bring 
+     an action on behalf of similarly situated employees to 
+     enforce such rights may not be subject to any private 
+     agreement that purports to require the employees to pursue 
+     claims on an individual basis.
+       (C) Liability.--Any employer who violates section _305 
+     (including a violation relating to rights provided under 
+     section _302) shall be liable to any employee or individual 
+     affected--
+       (i) for damages equal to--
+
+       (I) the amount of--
+
+       (aa) any wages, salary, employment benefits, or other 
+     compensation denied or lost by reason of the violation; or
+       (bb) in a case in which wages, salary, employment benefits, 
+     or other compensation have not been denied or lost, any 
+     actual monetary losses sustained as a direct result of the 
+     violation up to a sum equal to 56 hours of wages or salary 
+     for the employee or individual, or the specified period 
+     described in subsection (c)(2) or (d)(2) of section _302, or 
+     a combination of those hours and that period, as the case may 
+     be;
+
+       (II) the interest on the amount described in subclause (I) 
+     calculated at the prevailing rate; and
+       (III) an additional amount as liquidated damages; and
+
+       (ii) for such equitable relief as may be appropriate, 
+     including employment, reinstatement, and promotion.
+       (D) Fees and costs.--The court in an action under this 
+     paragraph shall, in addition to any judgment awarded to the 
+     plaintiff, allow a reasonable attorney's fee, reasonable 
+     expert witness fees, and other costs of the action to be paid 
+     by the defendant.
+       (4) Action by the secretary.--
+       (A) Administrative action.--The Secretary shall receive, 
+     investigate, and attempt to resolve complaints of violations 
+     of section _305 (including a violation relating to rights 
+     provided under section _302) in the same manner that the 
+     Secretary receives, investigates, and attempts to resolve 
+     complaints of violations of sections 6 and 7 of the Fair 
+     Labor Standards Act of 1938 (29 U.S.C. 206 and 207).
+       (B) Civil action.--The Secretary may bring an action in any 
+     court of competent jurisdiction to recover the damages 
+     described in paragraph (3)(C)(i).
+       (C) Sums recovered.--Any sums recovered by the Secretary 
+     pursuant to subparagraph (B) shall be held in a special 
+     deposit account and shall be paid, on order of the Secretary, 
+     directly to each employee or individual affected. Any such 
+     sums not paid to an employee or individual affected because 
+     of inability to do so within a period of 3 years shall be 
+     deposited into the Treasury of the United States as 
+     miscellaneous receipts.
+       (5) Limitation.--
+       (A) In general.--Except as provided in subparagraph (B), an 
+     action may be brought under paragraph (3), (4), or (6) not 
+     later than 2 years after the date of the last event 
+     constituting the alleged violation for which the action is 
+     brought.
+       (B) Willful violation.--In the case of an action brought 
+     for a willful violation of section _305 (including a willful 
+     violation relating to rights provided under section _302), 
+     such action may be brought within 3 years of the date of the 
+     last event constituting the alleged violation for which such 
+     action is brought.
+       (C) Commencement.--In determining when an action is 
+     commenced under paragraph (3), (4), or (6) for the purposes 
+     of this paragraph, it shall be considered to be commenced on 
+     the date when the complaint is filed.
+       (6) Action for injunction by secretary.--The district 
+     courts of the United States shall have jurisdiction, for 
+     cause shown, in an action brought by the Secretary--
+       (A) to restrain violations of section _305 (including a 
+     violation relating to rights provided under section _302), 
+     including the restraint of any withholding of payment of 
+     wages, salary, employment benefits, or other compensation, 
+     plus interest, found by the court to be due to employees or 
+     individuals eligible under this title; or
+       (B) to award such other equitable relief as may be 
+     appropriate, including employment, reinstatement, and 
+     promotion.
+       (7) Solicitor of labor.--The Solicitor of Labor may appear 
+     for and represent the Secretary on any litigation brought 
+     under paragraph (4) or (6).
+       (8) Government accountability office.--Notwithstanding any 
+     other provision of this subsection, in the case of the 
+     Government Accountability Office, the authority of the 
+     Secretary of Labor under this subsection shall be exercised 
+     by the Comptroller General of the United States.
+       (b) Employees Covered by Congressional Accountability Act 
+     of 1995.--The powers, remedies, and procedures provided in 
+     the Congressional Accountability Act of 1995 (2 U.S.C. 1301 
+     et seq.) including section 401(d) of such Act (2 U.S.C. 
+     1401(d)), to the Board (as defined in section 101 of that Act 
+     (2 U.S.C. 1301)), the corresponding Federal agency described 
+     in that section 401(d), or any person, alleging a violation 
+     of subsection (a)(1) of section 202 of that Act (2 U.S.C. 
+     1312) shall be the powers, remedies, and procedures this 
+     title provides to that Board, the corresponding Federal 
+     agency, or any person, alleging an unlawful employment 
+     practice in violation of this title against an employee 
+     described in section _301(5)(C) or a corresponding covered 
+     individual.
+       (c) Employees Covered by Chapter 5 of Title 3, United 
+     States Code.--The powers, remedies, and procedures provided 
+     in chapter 5 of title 3, United States Code, to the 
+     President, the Merit Systems Protection Board, or any person, 
+     alleging a violation of section 412(a)(1) of that title, 
+     shall be the powers, remedies, and procedures this title 
+     provides to the President, that Board, or any person, 
+     respectively, alleging an unlawful employment practice in 
+     violation of this title against an employee described in 
+     section _301(5)(D) or a corresponding covered individual.
+       (d) Employees Covered by Chapter 63 of Title 5, United 
+     States Code.--The powers, remedies, and procedures provided 
+     in title 5, United States Code, to an employing agency, 
+     provided in chapter 12 of that title to the Merit Systems 
+     Protection Board, or provided in that title to any person, 
+     alleging a violation of chapter 63 of that title shall be the 
+     powers, remedies, and procedures this title provides to that 
+     agency, that Board, or any person, respectively, alleging an 
+     unlawful employment practice in violation of this title 
+     against an employee described in section _301(5)(E) or a 
+     corresponding covered individual.
+       (e) Remedies for State Employees.--
+       (1) Waiver of sovereign immunity.--A State's receipt or use 
+     of Federal financial assistance for any program or activity 
+     of a State shall constitute a waiver of sovereign immunity, 
+     under the 11th Amendment to the Constitution or otherwise, to 
+     a suit brought by a covered individual of that program or 
+     activity under this title for equitable, legal, or other 
+     relief authorized under this title.
+       (2) Official capacity.--An official of a State may be sued 
+     in the official capacity of the official by any covered 
+     individual who has complied with the procedures under 
+     subsection (a)(3), for injunctive relief that is authorized 
+     under this title. In such a suit the court may award to the 
+     prevailing party those costs authorized by section 722 of the 
+     Revised Statutes (42 U.S.C. 1988).
+       (3) Applicability.--With respect to a particular program or 
+     activity, paragraph (1) applies to conduct occurring on or 
+     after the day, after the date of enactment of this Act, on 
+     which a State first receives or uses Federal financial 
+     assistance for that program or activity.
+       (4) Definition of program or activity.--In this subsection, 
+     the term ``program or activity'' has the meaning given the 
+     term in section 606 of the Civil Rights Act of 1964 (42 
+     U.S.C. 2000d-4a).
+
+     SEC. _307. EDUCATION AND OUTREACH.
+
+       The Secretary may conduct a public awareness campaign to 
+     educate and inform the public of the requirements for paid 
+     sick time and paid emergency leave required by this title.
+
+     SEC. _308. EFFECT ON OTHER LAWS.
+
+       (a) Federal and State Antidiscrimination Laws.--Nothing in 
+     this title shall be construed to modify or affect any Federal 
+     or State law prohibiting discrimination on the basis of race, 
+     religion, color, national origin, sex, age, disability, 
+     sexual orientation, gender identity, marital status, familial 
+     status, or any other protected status.
+       (b) State and Local Laws.--Nothing in this title shall be 
+     construed to supersede (including preempting) any provision 
+     of any State or local law that provides greater paid sick 
+     time or leave rights (including greater amounts of paid sick 
+     time or leave, or greater coverage of those eligible for paid 
+     sick time or leave) than the rights established under this 
+     title.
+
+     SEC. _309. EFFECT ON EXISTING EMPLOYMENT BENEFITS.
+
+       (a) More Protective.--Nothing in this title shall be 
+     construed to diminish the obligation of an employer to comply 
+     with any contract, collective bargaining agreement, or any 
+     employment benefit program or plan that provides greater paid 
+     sick leave or other leave rights to covered individuals than 
+     the rights established under this title.
+       (b) Less Protective.--The rights established for covered 
+     individuals under this title shall not be diminished by any 
+     contract, collective bargaining agreement, or any employment 
+     benefit program or plan.
+
+     SEC. _310. ENCOURAGEMENT OF MORE GENEROUS LEAVE POLICIES.
+
+       Nothing in this title shall be construed to discourage 
+     employers from adopting or retaining leave policies more 
+     generous than policies that comply with the requirements of 
+     this title.
+
+     SEC. _311. REGULATIONS.
+
+       (a) In General.--
+       (1) Authority.--Except as provided in paragraph (2) and 
+     subject to subsection (e), not later than 180 days after the 
+     date of enactment of this Act, the Secretary shall prescribe 
+     such regulations as are necessary to carry out this title 
+     with respect to employees described in subparagraph (A) or 
+     (B) of section _301(5), corresponding covered individuals, 
+     and other individuals affected by employers described in 
+     subclause (I) or (II) of section _301(6)(A)(i).
+
+[[Page S1814]]
+
+       (2) Government accountability office.--Subject to 
+     subsection (e), the Comptroller General of the United States 
+     shall prescribe the regulations with respect to employees of 
+     the Government Accountability Office, corresponding covered 
+     individuals, and other individuals affected by the 
+     Comptroller General of the United States.
+       (b) Employees Covered by Congressional Accountability Act 
+     of 1995.--
+       (1) Authority.--Subject to subsection (e), not later than 
+     90 days after the Secretary prescribes regulations under 
+     subsection (a), the Board of Directors of the Office of 
+     Congressional Workplace Rights shall prescribe (in accordance 
+     with section 304 of the Congressional Accountability Act of 
+     1995 (2 U.S.C. 1384)) and the corresponding Federal agency 
+     described in section 401(d) of such Act (2 U.S.C. 1401(d)) 
+     shall prescribe such regulations as are necessary to carry 
+     out this title with respect to employees described in section 
+     _301(5)(C), corresponding covered individuals, and other 
+     individuals affected by employers described in section 
+     _301(6)(A)(i)(III).
+       (2) Agency regulations.--The regulations prescribed under 
+     paragraph (1) shall be the same as substantive regulations 
+     promulgated by the Secretary to carry out this title except 
+     insofar as the Board may determine, for good cause shown and 
+     stated together with the regulations prescribed under 
+     paragraph (1), that a modification of such regulations would 
+     be more effective for the implementation of the rights and 
+     protections involved under this section.
+       (c) Employees Covered by Chapter 5 of Title 3, United 
+     States Code.--
+       (1) Authority.--Subject to subsection (e), not later than 
+     90 days after the Secretary prescribes regulations under 
+     subsection (a), the President (or the designee of the 
+     President) shall prescribe such regulations as are necessary 
+     to carry out this title with respect to employees described 
+     in section _301(5)(D), corresponding covered individuals, and 
+     other individuals affected by employers described in section 
+     _301(6)(A)(i)(IV).
+       (2) Agency regulations.--The regulations prescribed under 
+     paragraph (1) shall be the same as substantive regulations 
+     promulgated by the Secretary to carry out this title except 
+     insofar as the President (or designee) may determine, for 
+     good cause shown and stated together with the regulations 
+     prescribed under paragraph (1), that a modification of such 
+     regulations would be more effective for the implementation of 
+     the rights and protections involved under this section.
+       (d) Employees Covered by Chapter 63 of Title 5, United 
+     States Code.--
+       (1) Authority.--Subject to subsection (e), not later than 
+     90 days after the Secretary prescribes regulations under 
+     subsection (a), the Director of the Office of Personnel 
+     Management shall prescribe such regulations as are necessary 
+     to carry out this title with respect to employees described 
+     in section _301(5)(E), corresponding covered individuals, and 
+     other individuals affected by employers described in section 
+     _301(6)(A)(i)(V).
+       (2) Agency regulations.--The regulations prescribed under 
+     paragraph (1) shall be the same as substantive regulations 
+     promulgated by the Secretary to carry out this title except 
+     insofar as the Director may determine, for good cause shown 
+     and stated together with the regulations prescribed under 
+     paragraph (1), that a modification of such regulations would 
+     be more effective for the implementation of the rights and 
+     protections involved under this section.
+       (e) Immediate Compliance by Employers.--The rights and 
+     responsibilities specified in this title shall apply to 
+     employers on the first Sunday following enactment of this Act 
+     and employers shall comply on such date, without regard to 
+     whether regulations have been prescribed under this section.
+
+     SEC. _312. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to carry out this 
+     division such sums as may be necessary for fiscal years 2020 
+     through 2022.
+
+     SEC. _313. EFFECTIVE DATES.
+
+       (a) In General.--This division takes effect on the date of 
+     enactment of this Act.
+       (b) Previous Declarations.--If a public health emergency 
+     was declared before and remains in effect on the date of 
+     enactment of this Act, for purposes of this division (and in 
+     particular section _302(c) of this division) the public 
+     health emergency shall be considered to have been declared on 
+     the date of enactment of this Act, including an emergency 
+     described in section _301(12)(B).
+
+     SEC. _314. REPEAL.
+
+       This division is repealed, effective December 31, 2021.
+                                 ______
+                                 
+  SA 1560. Mr. MORAN submitted an amendment intended to be proposed by 
+him to the bill H.R. 6201, making emergency supplemental appropriations 
+for the fiscal year ending September 30, 2020, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. COVERAGE FOR ALLERGY DIAGNOSTIC TESTING SERVICES 
+                   UNDER MEDICARE AND MEDICAID.
+
+       (a) Findings.--Congress finds the following:
+       (1) Allergies, when not properly diagnosed, cannot be 
+     effectively treated.
+       (2) Allergies to food, inhaled particles, or other sources 
+     can cause debilitating and, in some cases, fatal reactions.
+       (3) Allergies can substantially compound other illnesses, 
+     including asthma, emphysema, and adult obstructive pulmonary 
+     diseases, leading to social and economic costs for families 
+     and our Nation's health care system.
+       (4) According to clinical guidelines from the National 
+     Institutes of Health and recommendations from peer-reviewed 
+     literature, in vitro specific IgE tests and percutaneous 
+     tests are considered equivalent as confirmatory tests in 
+     terms of their sensitivity and accuracy.
+       (5) Despite these recommendations, some current Medicare 
+     local coverage determinations and Medicaid coverage policies 
+     deny equal access to in vitro specific IgE tests and 
+     percutaneous tests.
+       (6) In vitro specific IgE tests and percutaneous tests must 
+     be equally accessible for clinicians and patients to improve 
+     health outcomes, reduce system costs, and reduce current 
+     health care disparities caused by the lack of equal coverage.
+       (b) Medicaid Coverage for Allergy Diagnostic Testing 
+     Services.--
+       (1) In general.--Title XIX of the Social Security Act (42 
+     U.S.C. 1396 et seq.) is amended--
+       (A) in section 1902(a)--
+       (i) in paragraph (85), by striking ``and'' at the end;
+       (ii) in paragraph (86), by striking the period at the end 
+     and inserting ``; and''; and
+       (iii) by inserting after paragraph (86) the following new 
+     paragraph:
+       ``(87) provide, with respect to the provision of allergy 
+     diagnostic testing services (as defined in section 1905(gg)) 
+     under the State plan, for equality in the treatment of in 
+     vitro specific IgE tests and percutaneous tests with respect 
+     to--
+       ``(A) any medical necessity or other coverage requirements 
+     established for such in vitro specific IgE and percutaneous 
+     tests;
+       ``(B) any frequency limits established for such tests; and
+       ``(C) any allergen unit limits established for such 
+     tests.''; and
+       (B) in section 1905--
+       (i) in subsection (r)--
+
+       (I) by redesignating paragraph (5) as paragraph (6); and
+       (II) by inserting after paragraph (4) the following new 
+     paragraph:
+
+       ``(5) Allergy diagnostic testing services (as defined in 
+     subsection (gg)).''; and
+       (ii) by adding at the end the following new subsection:
+       ``(gg) Allergy Diagnostic Testing Services Defined.--The 
+     term `allergy diagnostic testing services' means in vitro 
+     specific IgE tests and percutaneous tests that--
+       ``(1) have been cleared under section 501(k), classified 
+     under section 513(f)(2), or approved under section 515 of the 
+     Federal Food, Drug, and Cosmetic Act; and
+       ``(2) are provided to individuals for the purpose of 
+     evaluating immunologic response to certain antigens.''.
+       (2) Effective date.--
+       (A) In general.--Subject to subparagraph (B), the 
+     amendments made by this subsection shall apply with respect 
+     to items and services provided on or after January 1, 2021.
+       (B) Exception for state legislation.--In the case of a 
+     State plan under title XIX of the Social Security Act (42 
+     U.S.C. 1396 et seq.) that the Secretary of Health and Human 
+     Services determines requires State legislation in order for 
+     the respective plan to meet any requirement imposed by 
+     amendments made by this subsection, the respective plan shall 
+     not be regarded as failing to comply with the requirements of 
+     such title solely on the basis of its failure to meet such an 
+     additional requirement before the first day of the first 
+     calendar quarter beginning after the close of the first 
+     regular session of the State legislature that begins after 
+     the date of the enactment of this subsection. For purposes of 
+     the previous sentence, in the case of a State that has a 2-
+     year legislative session, each year of the session shall be 
+     considered to be a separate regular session of the State 
+     legislature.
+       (c) Medicare Coverage for Allergy Diagnostic Testing 
+     Services.--
+       (1) Coverage.--Section 1861 of the Social Security Act (42 
+     U.S.C. 1395x) is amended--
+       (A) in subsection (s)(2)--
+       (i) in subparagraph (GG), by striking ``and'' at the end;
+       (ii) in subparagraph (HH), by striking the period at the 
+     end and inserting ``; and''; and
+       (iii) by adding at the end the following new subparagraph:
+       ``(II) allergy diagnostic testing services (as defined in 
+     subsection (kkk));''; and
+       (B) by adding at the end the following new subsection:
+       ``(kkk) Allergy Diagnostic Testing Services.--
+       ``(1) In general.--The term `allergy diagnostic testing 
+     services' means in vitro specific IgE tests and percutaneous 
+     tests--
+       ``(A) that have been cleared under section 501(k), 
+     classified under section 513(f)(2), or approved under section 
+     515 of the Federal Food, Drug, and Cosmetic Act; and
+       ``(B) which are furnished to individuals for the purpose of 
+     evaluating immunologic response to certain antigens, as 
+     determined appropriate by the practitioner ordering such 
+     test.
+       ``(2) Equal access to testing methods.--The Secretary shall 
+     ensure equality in the treatment of in vitro specific IgE 
+     tests and percutaneous tests described in paragraph (1) with 
+     respect to--
+       ``(A) any medical necessity or other coverage requirements 
+     established for such in vitro specific IgE and percutaneous 
+     tests;
+
+[[Page S1815]]
+
+       ``(B) any frequency limits established for such tests; and
+       ``(C) any allergen unit limits established for a year for 
+     such tests.''.
+       (2) Payment.--Section 1834 of the Social Security Act (42 
+     U.S.C. 1395m) is amended by adding at the end the following 
+     new subsection:
+       ``(x) Allergy Diagnostic Testing Services.--For purposes of 
+     payment only, in the case of allergy diagnostic testing 
+     services (as defined in section 1861(kkk))--
+       ``(1) in vitro specific IgE tests shall be treated as 
+     clinical diagnostic laboratory tests; and
+       ``(2) percutaneous tests shall be treated as physicians' 
+     services.''.
+       (3) Effective date.--The amendments made by this subsection 
+     shall apply with respect to items and services furnished on 
+     or after January 1, 2021.
+
+                          ____________________
+```
