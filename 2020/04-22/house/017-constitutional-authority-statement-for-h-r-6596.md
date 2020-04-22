@@ -1,0 +1,22 @@
+---
+granule: CREC-2020-04-22-pt1-PgH1904-8
+date: 2020-04-22
+edition: CREC
+section: HOUSE
+page: H1904
+citation: 166 Cong. Rec. H1904
+---
+
+# Constitutional Authority Statement for H.R. 6596
+
+**Measures:** H.R. 6596
+
+```
+           By Mr. FOSTER:
+       H.R. 6596.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       This bill is enacted pursuant to the power granted to 
+     Congress under Article I, Section 8 of the United States 
+     Constitution.
+```
