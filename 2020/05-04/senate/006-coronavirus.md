@@ -1,0 +1,34 @@
+---
+granule: CREC-2020-05-04-pt1-PgS2195-6
+date: 2020-05-04
+edition: CREC
+section: SENATE
+page: S2195
+citation: 166 Cong. Rec. S2195
+---
+
+# CORONAVIRUS
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                              CORONAVIRUS
+
+  Mr. GRASSLEY. Mr. President, Americans from coast to coast hunkered 
+down to stop the spread of the virus. Office workers, including my 
+staff in Washington, adapted to work from home. But not all Americans 
+can do their jobs from home. Many must work away from home to provide 
+essential services for our communities. I am talking about workers who 
+harvest, process, and deliver our food; the crews who provide 
+sanitation services and keep our communications, transportation, and 
+energy grids running around the clock; America's postal workers and 
+truckdrivers who deliver mail and transport goods across the country; 
+the grocery store clerks and factory workers who make toilet paper, 
+diapers, and consumer products we can't live without.
+  On behalf of Iowans and the rest of America, I thank the frontline 
+workers who are on the job, working away from home, in the line of 
+duty. Thank you all for your service and sacrifice.
+  I yield the floor.
+
+                          ____________________
+```
