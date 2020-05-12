@@ -1,0 +1,28 @@
+---
+granule: CREC-2020-05-12-pt1-PgS2385-2
+date: 2020-05-12
+edition: CREC
+section: SENATE
+page: S2385
+citation: 166 Cong. Rec. S2385
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 12, 2020:
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       TROY D. EDGAR, OF CALIFORNIA, TO BE CHIEF FINANCIAL 
+     OFFICER, DEPARTMENT OF HOMELAND SECURITY.
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       BRIAN D. MONTGOMERY, OF TEXAS, TO BE DEPUTY SECRETARY OF 
+     HOUSING AND URBAN DEVELOPMENT
+```
