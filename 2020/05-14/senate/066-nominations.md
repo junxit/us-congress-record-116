@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-05-14-pt1-PgS2468-2
+date: 2020-05-14
+edition: CREC
+section: SENATE
+page: S2468
+citation: 166 Cong. Rec. S2468
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+        KEITH W. DAYTON, OF WASHINGTON, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO UKRAINE.
+
+
+                             THE JUDICIARY
+
+        JOHN C. TRUONG, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT OF 
+     COLUMBIA FOR THE TERM OF FIFTEEN YEARS, VICE WENDELL P. 
+     GARDNER, JR., RETIRED.
+        DANNY LAM NGUYEN, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT OF 
+     COLUMBIA FOR THE TERM OF FIFTEEN YEARS, VICE CAROL A. DALTON, 
+     RETIRED
+
+                          ____________________
+```
