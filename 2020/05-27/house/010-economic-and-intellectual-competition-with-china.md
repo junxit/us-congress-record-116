@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-05-27-pt1-PgH2288
+date: 2020-05-27
+edition: CREC
+section: HOUSE
+page: H2288
+citation: 166 Cong. Rec. H2288
+---
+
+# ECONOMIC AND INTELLECTUAL COMPETITION WITH CHINA
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+            ECONOMIC AND INTELLECTUAL COMPETITION WITH CHINA
+
+  The SPEAKER pro tempore. The Chair recognize the gentleman from 
+Pennsylvania (Mr. Joyce) for 5 minutes.
+  Mr. JOYCE of Pennsylvania. Mr. Speaker, for far too long, the Chinese 
+Communist Party has taken advantage of innocent people in its own 
+country and around the world.
+  Now, America is engaged in an economic and intellectual competition 
+with China that existed long before the coronavirus crossed our 
+borders. The current pandemic merely has exposed the Chinese Communist 
+Party's sinister lies, and the depths to which it will reach.
+  There is no question that we must hold this regime accountable for 
+all of its actions. As a member of the China Task Force, I am committed 
+to combating the Chinese Government's threats to our great Nation. We 
+must be focused on strengthening and protecting our supply chains to 
+ensure that we are never beholden to this regime for critical medicines 
+and critical supplies.
+  Americans must once again lead in innovation. We must, and we will.
+
+                          ____________________
+```

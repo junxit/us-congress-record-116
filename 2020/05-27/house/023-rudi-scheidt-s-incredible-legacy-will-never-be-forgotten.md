@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-05-27-pt1-PgH2291-3
+date: 2020-05-27
+edition: CREC
+section: HOUSE
+page: H2291
+citation: 166 Cong. Rec. H2291
+---
+
+# RUDI SCHEIDT'S INCREDIBLE LEGACY WILL NEVER BE FORGOTTEN
+
+**Speaking:** Kustoff, David (K000392) [R-TN]
+
+```
+        RUDI SCHEIDT'S INCREDIBLE LEGACY WILL NEVER BE FORGOTTEN
+
+  (Mr. KUSTOFF of Tennessee asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. KUSTOFF of Tennessee. Madam Speaker, I rise today to recognize 
+the incredible 95 years of life of Rudi Scheidt. Although born in 
+Germany and raised in San Francisco, Rudi spent most of his life in 
+Memphis.
+  Through Rudi and his wife, Honey's, active philanthropy and 
+dedication to the arts, he touched almost every aspect of cultural life 
+in the Memphis community.
+  Rudi and Honey helped expand the University of Memphis Music School, 
+now known as the Rudi E. Scheidt School of Music. They aided the 
+Memphis Wonders Series to both evolve and prosper.
+  Rudi was committed to the Jewish community, serving as President of 
+Temple Israel. He remained a true leader for his synagogue.
+  Tony Bennett's lyrics were wrong on this occasion, for, you see, Rudi 
+Scheidt didn't leave his heart in San Francisco. Rudi left his heart in 
+Memphis.
+  I feel lucky to be able to call Rudi a friend. I know the city of 
+Memphis and the Jewish community will feel his impact for years to 
+come. Roberta and I will miss him.
+  My thoughts are with his wife, Honey, as well as their children: 
+Susan; Helen; Rudi, Jr.; and Elkan during this difficult time.
+
+                          ____________________
+```
