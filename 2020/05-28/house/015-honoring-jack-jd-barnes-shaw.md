@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-05-28-pt1-PgH2326-6
+date: 2020-05-28
+edition: CREC
+section: HOUSE
+page: H2326
+citation: 166 Cong. Rec. H2326
+---
+
+# HONORING JACK ``JD'' BARNES SHAW
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                    HONORING JACK ``JD'' BARNES SHAW
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to 
+congratulate Jack ``JD'' Barnes Shaw of Russell, Pennsylvania, for 
+accepting a fully qualified appointment to the United States Naval 
+Academy.
+  Jack is the son of James and Ruth Shaw and a senior at Agora Cyber 
+Charter School. During his time in school, Jack was very involved with 
+the Boy Scouts, Civil Air Patrol, and fencing.
+
+[[Page H2327]]
+
+  Over the years, Jack has held many leadership positions, including 
+senior patrol leader in his Boy Scout troop and a Sea Scout National 
+Quarterdeck, a representative on the Sea Scout National Committee. He 
+is an Eagle Scout and has been recognized as the 2018 Northeast Region 
+Sea Scout of the Year.
+  Jack's dedication and discipline are two traits that will lead to his 
+success at the U.S. Naval Academy. Jack is a proven leader. I wish him 
+the best in this exciting new chapter of his life.
+
+                          ____________________
+```

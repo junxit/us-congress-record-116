@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-05-28-pt1-PgH2327-2
+date: 2020-05-28
+edition: CREC
+section: HOUSE
+page: H2327
+citation: 166 Cong. Rec. H2327
+---
+
+# QUALITY HEALTHCARE FOR VETERANS
+
+**Speaking:** Watkins, Steve (W000824) [R-KS]
+
+**Measures:** S. 3084
+
+```
+                    QUALITY HEALTHCARE FOR VETERANS
+
+  (Mr. WATKINS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. WATKINS. Mr. Speaker, today I rise in support of S. 3084, the 
+Competitive Pay for Leaders in Veterans Healthcare Act. This 
+legislation was introduced by my good friend and fellow Kansan, the 
+chairman of the Senate Committee on Veterans' Affairs, Senator Jerry 
+Moran.
+  Our Nation's veterans deserve the best care possible. We must ensure 
+that the VA can recruit and retain high-quality talented leaders. The 
+Competitive Pay for Leaders in Veterans Healthcare Act is less about 
+the leaders, actually, it is more about the veterans as the quality of 
+their care is the direct result of the quality of the VA leadership.
+  Mr. Speaker, that is why I support the Competitive Pay for Leaders in 
+Veterans Healthcare Act and encourage my colleagues to do the same. No 
+one fights harder for our veterans than President Trump. He has always 
+made us a top priority, and I am glad that he and the VA Secretary will 
+support this measure, and I look forward to its passage.
+
+                          ____________________
+```
