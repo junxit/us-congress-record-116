@@ -1,0 +1,322 @@
+---
+granule: CREC-2020-06-16-pt1-PgS3016-2
+date: 2020-06-16
+edition: CREC
+section: SENATE
+page: S3016
+citation: 166 Cong. Rec. S3016
+---
+
+# SUPPORTING THE ROLE OF THE UNITED STATES IN HELPING SAVE THE LIVES OF CHILDREN AND PROTECTING THE HEALTH OF PEOPLE IN DEVELOPING COUNTRIES WITH VACCINES AND IMMUNIZATION THROUGH GAVI, THE VACCINE...
+
+**Speaking:** Gardner, Cory (G000562) [R-CO]
+
+**Measures:** S.Res. 511
+
+```
+ SUPPORTING THE ROLE OF THE UNITED STATES IN HELPING SAVE THE LIVES OF 
+ CHILDREN AND PROTECTING THE HEALTH OF PEOPLE IN DEVELOPING COUNTRIES 
+   WITH VACCINES AND IMMUNIZATION THROUGH GAVI, THE VACCINE ALLIANCE
+
+  Mr. GARDNER. I ask unanimous consent that the Senate proceed to the 
+consideration of Calendar No. 469, S. Res. 511.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The bill clerk read as follows:
+
+       A resolution (S. Res. 511) supporting the role of the 
+     United States in helping save the lives of children and 
+     protecting the health of people in developing countries with 
+     vaccines and immunization through GAVI, the Vaccine Alliance.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, with an amendment to strike all after the resolving clause 
+and insert the part printed in italic, and with an amendment to strike 
+the preamble and insert the part printed in italic, as follows
+       Whereas access to vaccines and routine immunizations can 
+     protect children from deadly but preventable diseases, reduce 
+     poverty, and contribute to economic growth by enabling people 
+     to live longer, healthier, and more productive lives;
+       Whereas investments in the development and deployment of 
+     vaccines and immunizations can also help enhance global 
+     health security by reducing the incidence of deadly and 
+     debilitating diseases and containing the spread of infectious 
+     diseases before they become pandemic health threats;
+       Whereas, prior to 2000, resources for and access to 
+     vaccines for children in the developing world were declining, 
+     immunization rates were stagnant or decreasing, and nearly 
+     10,000,000 children were dying each year before reaching 
+     their 5th birthday;
+       Whereas, prior to 2000, it was common for new life-saving 
+     vaccines to take up to 15 years to be introduced in the 
+     world's least developed countries;
+       Whereas, in 2000, the United States Government joined 
+     forces with the Bill & Melinda Gates Foundation, the United 
+     Nations Children's Fund (UNICEF), the World Health 
+     Organization, the World Bank, other donor governments, and 
+     representatives of developing countries, faith-based 
+     organizations, civil society, and the private sector, 
+     including the vaccine industry, to create the Global Alliance 
+     for Vaccines and Immunization (now known as GAVI or GAVI, the 
+     Vaccine Alliance), a public-private partnership to expand 
+     access to new and underused vaccines, reduce the incidence of 
+     deadly and debilitating diseases, prevent epidemics, and save 
+     lives;
+       Whereas GAVI has since supported country-led vaccine 
+     initiatives in 73 countries, enabled immunizations for more 
+     than 760,000,000 of the world's most vulnerable children, 
+     helped avert an estimated 13,000,000 deaths, and contributed 
+     to a 70-percent reduction in the number of deaths due to 
+     vaccine-preventable diseases;
+       Whereas country ownership and sustainability are at the 
+     core of the GAVI model, which requires each eligible country 
+     to commit their own domestic resources to vaccination and 
+     immunization programs;
+       Whereas 15 countries have transitioned from GAVI support 
+     and are now self-financing their own vaccination and 
+     immunization programs, 3 more are expected to transition by 
+     the end of 2020, and an additional 10 countries are expected 
+     to transition by 2025 (in total, 40 percent of the original 
+     set of GAVI-eligible countries);
+       Whereas GAVI has transformed the market for vaccines by 
+     pooling demand from developing countries, securing 
+     predictable financing, expanding the global supplier base, 
+     enhancing the competitiveness and security of supply chains, 
+     and creating efficiencies that are expected to generate an 
+     estimated $900,000,000 in savings between 2021 and 2025;
+       Whereas, in addition to its current portfolio of vaccines, 
+     GAVI is working to support the roll-out and scale-up of newly 
+     approved vaccines for diphtheria, tetanus and pertussis (DTP) 
+     boosters, hepatitis B birth dose, multivalent meningococcal, 
+     respiratory syncytia (RSV), routine oral cholera, and rabies;
+       Whereas GAVI also collaborates with the Global Polio 
+     Eradication Initiative to bring polio vaccines into routine 
+     immunization programs, strengthen health systems, and 
+     implement additional polio protections;
+       Whereas GAVI has made significant progress in supporting 
+     the development and stockpiling of an effective vaccine to 
+     combat Ebola;
+       Whereas GAVI is participating in efforts to test and 
+     implement an effective vaccine to prevent malaria, a disease 
+     that kills more than 270,000 children a year;
+       Whereas GAVI is already helping countries maintain life-
+     saving immunization programs in the midst of the ongoing 
+     COVID-19 pandemic to prevent multiple outbreaks and further 
+     loss of life from vaccine-preventable diseases;
+       Whereas GAVI also is working to help countries meet the 
+     threat of COVID-19 by providing vital resources, training, 
+     and supplies to help protect health workers and expand access 
+     to diagnostic testing;
+       Whereas GAVI will play a critical role in helping to 
+     rebuild immunization systems so that once the immediate 
+     crisis is over, catch-up immunization campaigns can begin and 
+     COVID-19 vaccines can be introduced;
+       Whereas, in April 2020, GAVI joined the Access to COVID-19 
+     Tools Accelerator, a collaboration of global health 
+     organizations aimed at accelerating development, production, 
+     and equitable access to new COVID-19 technologies, serving as 
+     the co-lead of the vaccines work stream within the 
+     initiative;
+       Whereas, on June 4, 2020, the United Kingdom will host an 
+     online virtual Global Vaccine Summit, GAVI's third 
+     replenishment conference, with an ambitious goal to raise 
+     $7,400,000,000 in new donor commitments;
+       Whereas, with these additional resources, GAVI plans to 
+     support the immunization of 300,000,000 children against 
+     potentially fatal diseases and save an additional 7,000,000 
+     to 8,000,000 lives between 2021 and 2025; and
+       Whereas the United States has been a leading supporter of 
+     GAVI since its inception, and its continued commitment will 
+     be essential to the achievement of the alliance's goals for 
+     2021 through 2025: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the work of GAVI and its partners for their 
+     efforts to expand access to vaccines and immunizations for 
+     the most vulnerable men, women, and children in developing 
+     countries;
+       (2) affirms the continued support of the United States 
+     Government for GAVI as an efficient and effective mechanism 
+     to advance global health security and save lives by--
+       (A) reducing the incidence of deadly and debilitating 
+     diseases;
+       (B) leveraging donor, partner country, and private sector 
+     investments in health systems capable of sustainably 
+     delivering vaccines and immunizations; and
+       (C) reducing the cost of vaccines while promoting supply 
+     chain security and sustainability;
+       (3) affirms the support of the United States Government for 
+     the goal of securing at least $7,400,000,000 in donor 
+     commitments for GAVI's third replenishment conference, to be 
+     held on June 4, 2020, hosted by the United Kingdom;
+       (4) urges donor countries and private sector partners to 
+     step up the fight against vaccine-preventable deaths and 
+     increase their pledges for the third replenishment 
+     conference;
+       (5) urges GAVI partner countries to continue to make and 
+     meet ambitious co-financing commitments to sustain progress 
+     in ending vaccine-preventable deaths; and
+       (6) encourages the United States Agency for International 
+     Development (USAID) and the Centers for Disease Control and 
+     Prevention, in cooperation with GAVI, to continue their work 
+     to strengthen public health capacity to introduce and sustain 
+     the use of new and underused vaccines in routine immunization 
+     programs.
+
+  Mr. GARDNER. I ask unanimous consent that the committee-reported 
+substitute amendment to the resolution be agreed to.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment, in the nature of a substitute, was 
+agreed to.
+  Mr. GARDNER. I know of no further debate on the resolution, as 
+amended.
+  The PRESIDING OFFICER. Is there further debate?
+  Hearing no further debate, the question is on agreeing to the 
+resolution, as amended.
+  The resolution (S. Res. 511), as amended, was agreed to.
+  Mr. GARDNER. I ask unanimous consent that the committee-reported 
+amendment to the preamble be agreed to; that the preamble, as amended, 
+be
+
+[[Page S3017]]
+
+agreed to; and that the motions to reconsider be considered made and 
+laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment to the preamble was agreed to.
+  The preamble, as amended, was agreed to.
+  The resolution, with its preamble, as amended, was agreed to as 
+follows:
+
+                              S. Res. 511
+
+       Whereas access to vaccines and routine immunizations can 
+     protect children from deadly but preventable diseases, reduce 
+     poverty, and contribute to economic growth by enabling people 
+     to live longer, healthier, and more productive lives;
+       Whereas investments in the development and deployment of 
+     vaccines and immunizations can also help enhance global 
+     health security by reducing the incidence of deadly and 
+     debilitating diseases and containing the spread of infectious 
+     diseases before they become pandemic health threats;
+       Whereas, prior to 2000, resources for and access to 
+     vaccines for children in the developing world were declining, 
+     immunization rates were stagnant or decreasing, and nearly 
+     10,000,000 children were dying each year before reaching 
+     their 5th birthday;
+       Whereas, prior to 2000, it was common for new life-saving 
+     vaccines to take up to 15 years to be introduced in the 
+     world's least developed countries;
+       Whereas, in 2000, the United States Government joined 
+     forces with the Bill & Melinda Gates Foundation, the United 
+     Nations Children's Fund (UNICEF), the World Health 
+     Organization, the World Bank, other donor governments, and 
+     representatives of developing countries, faith-based 
+     organizations, civil society, and the private sector, 
+     including the vaccine industry, to create the Global Alliance 
+     for Vaccines and Immunization (now known as GAVI or GAVI, the 
+     Vaccine Alliance), a public-private partnership to expand 
+     access to new and underused vaccines, reduce the incidence of 
+     deadly and debilitating diseases, prevent epidemics, and save 
+     lives;
+       Whereas GAVI has since supported country-led vaccine 
+     initiatives in 73 countries, enabled immunizations for more 
+     than 760,000,000 of the world's most vulnerable children, 
+     helped avert an estimated 13,000,000 deaths, and contributed 
+     to a 70-percent reduction in the number of deaths due to 
+     vaccine-preventable diseases;
+       Whereas country ownership and sustainability are at the 
+     core of the GAVI model, which requires each eligible country 
+     to commit their own domestic resources to vaccination and 
+     immunization programs;
+       Whereas 15 countries have transitioned from GAVI support 
+     and are now self-financing their own vaccination and 
+     immunization programs, 3 more are expected to transition by 
+     the end of 2020, and an additional 10 countries are expected 
+     to transition by 2025 (in total, 40 percent of the original 
+     set of GAVI-eligible countries);
+       Whereas GAVI has transformed the market for vaccines by 
+     pooling demand from developing countries, securing 
+     predictable financing, expanding the global supplier base, 
+     enhancing the competitiveness and security of supply chains, 
+     and creating efficiencies that are expected to generate an 
+     estimated $900,000,000 in savings between 2021 and 2025;
+       Whereas, in addition to its current portfolio of vaccines, 
+     GAVI is working to support the roll-out and scale-up of newly 
+     approved vaccines for diphtheria, tetanus and pertussis (DTP) 
+     boosters, hepatitis B birth dose, multivalent meningococcal, 
+     respiratory syncytia (RSV), routine oral cholera, and rabies;
+       Whereas GAVI also collaborates with the Global Polio 
+     Eradication Initiative to bring polio vaccines into routine 
+     immunization programs, strengthen health systems, and 
+     implement additional polio protections;
+       Whereas GAVI has made significant progress in supporting 
+     the development and stockpiling of an effective vaccine to 
+     combat Ebola;
+       Whereas GAVI is participating in efforts to test and 
+     implement an effective vaccine to prevent malaria, a disease 
+     that kills more than 270,000 children a year;
+       Whereas GAVI is already helping countries maintain life-
+     saving immunization programs in the midst of the ongoing 
+     COVID-19 pandemic to prevent multiple outbreaks and further 
+     loss of life from vaccine-preventable diseases;
+       Whereas GAVI also is working to help countries meet the 
+     threat of COVID-19 by providing vital resources, training, 
+     and supplies to help protect health workers and expand access 
+     to diagnostic testing;
+       Whereas GAVI will play a critical role in helping to 
+     rebuild immunization systems so that once the immediate 
+     crisis is over, catch-up immunization campaigns can begin and 
+     COVID-19 vaccines can be introduced;
+       Whereas, in April 2020, GAVI joined the Access to COVID-19 
+     Tools Accelerator, a collaboration of global health 
+     organizations aimed at accelerating development, production, 
+     and equitable access to new COVID-19 technologies, serving as 
+     the co-lead of the vaccines work stream within the 
+     initiative;
+       Whereas, on June 4, 2020, the United Kingdom will host an 
+     online virtual Global Vaccine Summit, GAVI's third 
+     replenishment conference, with an ambitious goal to raise 
+     $7,400,000,000 in new donor commitments;
+       Whereas, with these additional resources, GAVI plans to 
+     support the immunization of 300,000,000 children against 
+     potentially fatal diseases and save an additional 7,000,000 
+     to 8,000,000 lives between 2021 and 2025; and
+       Whereas the United States has been a leading supporter of 
+     GAVI since its inception, and its continued commitment will 
+     be essential to the achievement of the alliance's goals for 
+     2021 through 2025: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the work of GAVI and its partners for their 
+     efforts to expand access to vaccines and immunizations for 
+     the most vulnerable men, women, and children in developing 
+     countries;
+       (2) affirms the continued support of the United States 
+     Government for GAVI as an efficient and effective mechanism 
+     to advance global health security and save lives by--
+       (A) reducing the incidence of deadly and debilitating 
+     diseases;
+       (B) leveraging donor, partner country, and private sector 
+     investments in health systems capable of sustainably 
+     delivering vaccines and immunizations; and
+       (C) reducing the cost of vaccines while promoting supply 
+     chain security and sustainability;
+       (3) affirms the support of the United States Government for 
+     the goal of securing at least $7,400,000,000 in donor 
+     commitments for GAVI's third replenishment conference, to be 
+     held on June 4, 2020, hosted by the United Kingdom;
+       (4) urges donor countries and private sector partners to 
+     step up the fight against vaccine-preventable deaths and 
+     increase their pledges for the third replenishment 
+     conference;
+       (5) urges GAVI partner countries to continue to make and 
+     meet ambitious co-financing commitments to sustain progress 
+     in ending vaccine-preventable deaths; and
+       (6) encourages the United States Agency for International 
+     Development (USAID) and the Centers for Disease Control and 
+     Prevention, in cooperation with GAVI, to continue their work 
+     to strengthen public health capacity to introduce and sustain 
+     the use of new and underused vaccines in routine immunization 
+     programs.
+
+                          ____________________
+```

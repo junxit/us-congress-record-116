@@ -1,0 +1,374 @@
+---
+granule: CREC-2020-06-16-pt1-PgS3017
+date: 2020-06-16
+edition: CREC
+section: SENATE
+page: S3017
+citation: 166 Cong. Rec. S3017
+---
+
+# EXPRESSING THE SENSE OF THE SENATE THAT THE UNITED STATES SHOULD CONTINUE TO SUPPORT THE PEOPLE OF NICARAGUA IN THEIR PEACEFUL EFFORTS TO PROMOTE THE RESTORATION OF DEMOCRACY AND THE DEFENSE OF...
+
+**Speaking:** Gardner, Cory (G000562) [R-CO]
+
+**Measures:** S.Res. 525
+
+```
+   EXPRESSING THE SENSE OF THE SENATE THAT THE UNITED STATES SHOULD 
+ CONTINUE TO SUPPORT THE PEOPLE OF NICARAGUA IN THEIR PEACEFUL EFFORTS 
+   TO PROMOTE THE RESTORATION OF DEMOCRACY AND THE DEFENSE OF HUMAN 
+RIGHTS, AND USE THE TOOLS UNDER UNITED STATES LAW TO INCREASE POLITICAL 
+        AND ECONOMIC PRESSURE ON THE GOVERNMENT OF DANIEL ORTEGA
+
+  Mr. GARDNER. Madam President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 471, S. Res. 525.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The bill clerk read as follows:
+
+       A resolution (S. Res. 525) expressing the sense of the 
+     Senate that the United States should continue to support the 
+     people of Nicaragua in their peaceful efforts to promote the 
+     restoration of democracy and the defense of human rights, and 
+     use the tools under United States law to increase political 
+     and economic pressure on the government of Daniel Ortega.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, with amendments and an amendment to the preamble, as 
+follows:
+  (The parts of the resolution intended to be stricken are shown in 
+boldface brackets and the parts of the resolution intended to be 
+inserted are shown in italics.
+  (The part of the preamble intended to be inserted is shown in 
+italic.)
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S3017, June 16, 2020, third column, the following 
+appears: There being no objection, the Senate proceeded to 
+consider the resolution, which had been reported from the 
+Committee on Foreign Relations, with an amendment, as follows: 
+(The parts of the resolution intended to be stricken are shown in 
+boldface brackets and the parts of the resolution intended to be 
+inserted are shown in italic.)
+  
+  The online Record has been corrected to read: There being no 
+objection, the Senate proceeded to consider the resolution, which 
+had been reported from the Committee on Foreign Relations, with 
+amendments and an amendment to the preamble, as follows: (The 
+parts of the resolution intended to be stricken are shown in 
+boldface brackets and the parts of the resolution intended to be 
+inserted are shown in italic.) (The part of the preamble intended 
+to be inserted is shown in italic.)
+
+
+ ========================= END NOTE ========================= 
+
+
+                              S. Res. 525
+
+       Whereas the government of Daniel Ortega has concentrated 
+     power and brought about the progressive deterioration of 
+     democratic conditions in Nicaragua;
+       Whereas recent elections in Nicaragua, including the 2016 
+     presidential election, have been marred by irregularities and 
+     characterized by significant restrictions on the 
+     participation of opposition political parties and the absence 
+     of credible international and local electoral observers;
+       Whereas Nicaraguan security forces, paramilitary, police, 
+     and other actors working under the direction of the Ortega 
+     regime committed gross violations of human rights and acts of 
+     repression, resulting in more than 325 deaths, over 2,000 
+     injuries, and at least 800 arbitrary detentions during the 
+     peaceful protests that took place in 2018, according to the 
+     Organization of American States;
+       Whereas a report by the Interdisciplinary Group of 
+     Independent Experts, appointed by the Organization of 
+     American States Inter-American Commission on Human Rights, 
+     determined that the Ortega regime used deliberate, lethal 
+     force against protesters and committed acts of torture that 
+     meet the international legal standard of crimes against 
+     humanity;
+
+[[Page S3018]]
+
+       Whereas an estimated 82,000 Nicaraguans fled the country 
+     between April 2018 and October 2019, according to the United 
+     Nations High Commissioner for Refugees;
+       Whereas the Government and people of Costa Rica have 
+     graciously accepted nearly 70,000 Nicaraguans, including 
+     enrolling children in public primary schools, allowing access 
+     to legal employment, and making efforts to strengthen the 
+     capacity of Costa Rica's asylum system;
+       Whereas the Ortega government failed to comply with its 
+     commitment to release all political prisoners, releasing just 
+     392 people, of which 286 were released to house arrest with 
+     charges still pending;
+       Whereas Nicaragua's Civic Alliance for Justice and 
+     Democracy alleges that there remain over 150 political 
+     prisoners held in Nicaraguan prisons as of November 29, 2019;
+       Whereas a United States citizen and Navy veteran, 57-year-
+     old Eddy Montes, was shot and killed while in the custody of 
+     the Nicaraguan police at La Modelo Prison on May 16, 2019;
+       Whereas the Government of Nicaragua has failed in its 
+     national response to prevent the spread and transmission of 
+     COVID-19, including through its refusal to implement COVID-19 
+     precautions or allow widespread testing for local 
+     transmission;
+       Whereas, on May 8, 2020, according to Amnesty 
+     International, over a dozen people who remain in detention 
+     after being arrested for participating in the 2018 protests 
+     have now demonstrated symptoms consistent with COVID-19;
+       Whereas the government of Daniel Ortega has severely 
+     restricted freedom of the press by closing five local 
+     television stations, attacking independent radio stations, 
+     arbitrarily detaining journalists, and arbitrarily 
+     restricting print supplies from entering the country;
+       Whereas, beginning on November 14, 2019, Nicaraguan police 
+     conducted attacks on churches throughout the country, cut 
+     water to hunger strikers barricaded inside a church in 
+     Masaya, and arrested 13 people attempting to bring them 
+     water;
+       Whereas doctors, lawyers, academics, and other 
+     professionals in Nicaragua face persecution and, in some 
+     cases torture, based on suspicion of aiding or sympathizing 
+     with protestors;
+       Whereas the Ortega regime has violated the economic and 
+     political rights of indigenous communities, Afro-descendent 
+     populations, rural campesinos, land rights defenders, and 
+     individuals living in the Caribbean Autonomous Regions of 
+     Nicaragua;
+       Whereas, on November 27, 2018, Executive Order 13851 was 
+     issued, which blocks the property of certain persons involved 
+     in the Nicaraguan crisis, and its application was expanded by 
+     the Office of Foreign Asset Control of the Department of the 
+     Treasury on September 4, 2019;
+       Whereas the bipartisan Nicaragua Human Rights and 
+     Anticorruption Act of 2018 (Public Law 115-335; commonly 
+     referred to as the ``NICA Act'') was signed into law on 
+     December 20, 2018, imposing restrictions on lending to the 
+     Nicaraguan government by international financial institutions 
+     and requiring the President to sanction non-United States 
+     persons implicated in egregious human rights abuses and 
+     corruption in Nicaragua;
+       Whereas the NICA Act expresses the support of Congress for 
+     a negotiated solution to the Nicaraguan crisis and includes 
+     an annual certification to waive sanctions if the Ortega 
+     government takes steps to restore democratic governance and 
+     uphold human rights;
+       Whereas, in the absence of such steps, the Department of 
+     State and the Department of the Treasury have imposed 
+     targeted sanctions on Nicaraguan officials and entities, 
+     including First Lady and Vice President Rosario Murillo, 
+     Daniel Ortega's sons, Rafael Ortega Murillo and Laureano 
+     Ortega Murillo, and Nicaragua's Banco Corporativo (Bancorp);
+       Whereas, in June 2019, the Government of Canada imposed 
+     sanctions on 12 members of the Government of Nicaragua 
+     engaged in gross and systemic human rights violations; and
+       Whereas, in advance of any future election, the Government 
+     of Nicaragua urgently needs to undertake electoral reforms, 
+     including the appointment of independent new magistrates to 
+     the Supreme Electoral Council, the restoration of a 50 
+     percent plus one threshold for the presidential election, the 
+     establishment of a second round of voting if the electoral 
+     threshold is not reached, the establishment of a detailed 
+     electoral calendar, and stronger observation by political 
+     parties: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) calls on the Government of Nicaragua to immediately 
+     release all political prisoners without conditions and cease 
+     all acts of violence, repression, and intimidation against 
+     dissenting voices in Nicaragua;
+       (2) urges the Ortega government to respect Nicaraguans' 
+     constitutional rights and implement the electoral reforms 
+     mentioned above in order to permit the holding of free, fair, 
+     and transparent elections;
+       (3) encourages the United States Government to align United 
+     States sanctions with diplomatic efforts to advance electoral 
+     reforms that could lead to free, fair, and transparent 
+     elections in Nicaragua;
+       (4) expresses full support for the people of Nicaragua, 
+     Nicaraguan independent media, and Nicaraguan civil society 
+     organizations that are working for a peaceful return to 
+     democratic order in Nicaragua;
+       (5) supports the efforts of the United States Government to 
+     apply pressure on the Ortega government in order to hold 
+     accountable those actors involved in human rights abuses, 
+     acts of significant corruption, and the undermining of 
+     democratic institutions in Nicaragua;
+       (6) urges the international community to hold the Ortega 
+     government accountable for human rights abuses and to 
+     restrict its access to foreign financing unless or until it 
+     allows for free, fair, and transparent elections monitored by 
+     credible international and local electoral [observers; and] 
+     observers;
+       (7) urges the United States Government to investigate and 
+     hold accountable those responsible for the death of Eddy 
+     Montes, a United States citizen and Navy veteran, who was 
+     shot and killed while in the custody of the Nicaraguan police 
+     at La Modelo Prison on May 16, [2019.] 2019; and
+       (8) urges the Ortega government to implement measures 
+     consistent with public health guidance to limit the spread of 
+     coronavirus in Nicaragua.
+  Mr. GARDNER. I ask unanimous consent that the committee-reported 
+amendments to the resolution be agreed to; that the resolution, as 
+amended, be agreed to; that the preamble, as amended, be agreed to; and 
+that the motions to reconsider be considered made and laid upon the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendments were agreed to.
+  The resolution (S. Res. 525), as amended, was agreed to.
+  The committee-reported amendment to the preamble was agreed to.
+  The preamble, as amended, was agreed to.
+  The resolution, as amended, with its preamble, as amended, reads as 
+follows
+
+                              S. Res. 525
+
+       Whereas the government of Daniel Ortega has concentrated 
+     power and brought about the progressive deterioration of 
+     democratic conditions in Nicaragua;
+       Whereas recent elections in Nicaragua, including the 2016 
+     presidential election, have been marred by irregularities and 
+     characterized by significant restrictions on the 
+     participation of opposition political parties and the absence 
+     of credible international and local electoral observers;
+       Whereas Nicaraguan security forces, paramilitary, police, 
+     and other actors working under the direction of the Ortega 
+     regime committed gross violations of human rights and acts of 
+     repression, resulting in more than 325 deaths, over 2,000 
+     injuries, and at least 800 arbitrary detentions during the 
+     peaceful protests that took place in 2018, according to the 
+     Organization of American States;
+       Whereas a report by the Interdisciplinary Group of 
+     Independent Experts, appointed by the Organization of 
+     American States Inter-American Commission on Human Rights, 
+     determined that the Ortega regime used deliberate, lethal 
+     force against protesters and committed acts of torture that 
+     meet the international legal standard of crimes against 
+     humanity;
+       Whereas an estimated 82,000 Nicaraguans fled the country 
+     between April 2018 and October 2019, according to the United 
+     Nations High Commissioner for Refugees;
+       Whereas the Government and people of Costa Rica have 
+     graciously accepted nearly 70,000 Nicaraguans, including 
+     enrolling children in public primary schools, allowing access 
+     to legal employment, and making efforts to strengthen the 
+     capacity of Costa Rica's asylum system;
+       Whereas the Ortega government failed to comply with its 
+     commitment to release all political prisoners, releasing just 
+     392 people, of which 286 were released to house arrest with 
+     charges still pending;
+       Whereas Nicaragua's Civic Alliance for Justice and 
+     Democracy alleges that there remain over 150 political 
+     prisoners held in Nicaraguan prisons as of November 29, 2019;
+       Whereas a United States citizen and Navy veteran, 57-year-
+     old Eddy Montes, was shot and killed while in the custody of 
+     the Nicaraguan police at La Modelo Prison on May 16, 2019;
+       Whereas the Government of Nicaragua has failed in its 
+     national response to prevent the spread and transmission of 
+     COVID-19, including through its refusal to implement COVID-19 
+     precautions or allow widespread testing for local 
+     transmission;
+       Whereas, on May 8, 2020, according to Amnesty 
+     International, over a dozen people who remain in detention 
+     after being arrested for participating in the 2018 protests 
+     have now demonstrated symptoms consistent with COVID-19;
+       Whereas the government of Daniel Ortega has severely 
+     restricted freedom of the press by closing five local 
+     television stations, attacking independent radio stations, 
+     arbitrarily detaining journalists, and arbitrarily 
+     restricting print supplies from entering the country;
+       Whereas, beginning on November 14, 2019, Nicaraguan police 
+     conducted attacks on churches throughout the country, cut 
+     water to hunger strikers barricaded inside a church in 
+     Masaya, and arrested 13 people attempting to bring them 
+     water;
+       Whereas doctors, lawyers, academics, and other 
+     professionals in Nicaragua face persecution and, in some 
+     cases torture, based on suspicion of aiding or sympathizing 
+     with protestors;
+
+[[Page S3019]]
+
+       Whereas the Ortega regime has violated the economic and 
+     political rights of indigenous communities, Afro-descendent 
+     populations, rural campesinos, land rights defenders, and 
+     individuals living in the Caribbean Autonomous Regions of 
+     Nicaragua;
+       Whereas, on November 27, 2018, Executive Order 13851 was 
+     issued, which blocks the property of certain persons involved 
+     in the Nicaraguan crisis, and its application was expanded by 
+     the Office of Foreign Asset Control of the Department of the 
+     Treasury on September 4, 2019;
+       Whereas the bipartisan Nicaragua Human Rights and 
+     Anticorruption Act of 2018 (Public Law 115-335; commonly 
+     referred to as the ``NICA Act'') was signed into law on 
+     December 20, 2018, imposing restrictions on lending to the 
+     Nicaraguan government by international financial institutions 
+     and requiring the President to sanction non-United States 
+     persons implicated in egregious human rights abuses and 
+     corruption in Nicaragua;
+       Whereas the NICA Act expresses the support of Congress for 
+     a negotiated solution to the Nicaraguan crisis and includes 
+     an annual certification to waive sanctions if the Ortega 
+     government takes steps to restore democratic governance and 
+     uphold human rights;
+       Whereas, in the absence of such steps, the Department of 
+     State and the Department of the Treasury have imposed 
+     targeted sanctions on Nicaraguan officials and entities, 
+     including First Lady and Vice President Rosario Murillo, 
+     Daniel Ortega's sons, Rafael Ortega Murillo and Laureano 
+     Ortega Murillo, and Nicaragua's Banco Corporativo (Bancorp);
+       Whereas, in June 2019, the Government of Canada imposed 
+     sanctions on 12 members of the Government of Nicaragua 
+     engaged in gross and systemic human rights violations; and
+       Whereas, in advance of any future election, the Government 
+     of Nicaragua urgently needs to undertake electoral reforms, 
+     including the appointment of independent new magistrates to 
+     the Supreme Electoral Council, the restoration of a 50 
+     percent plus one threshold for the presidential election, the 
+     establishment of a second round of voting if the electoral 
+     threshold is not reached, the establishment of a detailed 
+     electoral calendar, and stronger observation by political 
+     parties: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) calls on the Government of Nicaragua to immediately 
+     release all political prisoners without conditions and cease 
+     all acts of violence, repression, and intimidation against 
+     dissenting voices in Nicaragua;
+       (2) urges the Ortega government to respect Nicaraguans' 
+     constitutional rights and implement the electoral reforms 
+     mentioned above in order to permit the holding of free, fair, 
+     and transparent elections;
+       (3) encourages the United States Government to align United 
+     States sanctions with diplomatic efforts to advance electoral 
+     reforms that could lead to free, fair, and transparent 
+     elections in Nicaragua;
+       (4) expresses full support for the people of Nicaragua, 
+     Nicaraguan independent media, and Nicaraguan civil society 
+     organizations that are working for a peaceful return to 
+     democratic order in Nicaragua;
+       (5) supports the efforts of the United States Government to 
+     apply pressure on the Ortega government in order to hold 
+     accountable those actors involved in human rights abuses, 
+     acts of significant corruption, and the undermining of 
+     democratic institutions in Nicaragua;
+       (6) urges the international community to hold the Ortega 
+     government accountable for human rights abuses and to 
+     restrict its access to foreign financing unless or until it 
+     allows for free, fair, and transparent elections monitored by 
+     credible international and local electoral observers;
+       (7) urges the United States Government to investigate and 
+     hold accountable those responsible for the death of Eddy 
+     Montes, a United States citizen and Navy veteran, who was 
+     shot and killed while in the custody of the Nicaraguan police 
+     at La Modelo Prison on May 16, 2019; and
+       (8) urges the Ortega government to implement measures 
+     consistent with public health guidance to limit the spread of 
+     coronavirus in Nicaragua.
+
+                          ____________________
+```
