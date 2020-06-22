@@ -1,0 +1,31 @@
+---
+granule: CREC-2020-06-22-pt1-PgS3130
+date: 2020-06-22
+edition: CREC
+section: SENATE
+page: S3130
+citation: 166 Cong. Rec. S3130
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+        ERIC J. SOSKIN, OF VIRGINIA, TO BE INSPECTOR GENERAL, 
+     DEPARTMENT OF TRANSPORTATION, VICE CALVIN L. SCOVEL, 
+     RESIGNED.
+
+
+                          DEPARTMENT OF STATE
+
+        DAVID REIMER, OF OHIO, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF SIERRA LEONE
+```
