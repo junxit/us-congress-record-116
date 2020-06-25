@@ -1,0 +1,266 @@
+---
+granule: CREC-2020-06-25-pt1-PgS3622
+date: 2020-06-25
+edition: CREC
+section: SENATE
+page: S3622
+citation: 166 Cong. Rec. S3622
+---
+
+# Text of Senate Amendment 2210
+
+**Speaking:** Schatz, Brian (S001194) [D-HI]
+
+```
+  SA 2210. Mr. SCHATZ (for himself and Mr. Thune) submitted an 
+amendment intended to be proposed by him to the bill S. 4049, to 
+authorize appropriations for fiscal year 2021 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of title X, add the following:
+
+                         Subtitle H--READI Act
+
+     SEC. 1091. SHORT TITLE.
+
+       This subtitle may be cited as the ``Reliable Emergency 
+     Alert Distribution Improvement Act of 2020'' or ``READI 
+     Act''.
+
+     SEC. 1092. DEFINITIONS.
+
+       In this subtitle--
+       (1) the term ``Administrator'' means the Administrator of 
+     the Federal Emergency Management Agency;
+       (2) the term ``Commission'' means the Federal 
+     Communications Commission;
+       (3) the term ``Emergency Alert System'' means the national 
+     public warning system, the rules for which are set forth in 
+     part 11 of title 47, Code of Federal Regulations (or any 
+     successor regulation); and
+       (4) the term ``Wireless Emergency Alerts System'' means the 
+     wireless national public warning system established under the 
+     Warning, Alert, and Response Network Act (47 U.S.C. 1201 et 
+     seq.), the rules for which are set forth in part 10 of title 
+     47, Code of Federal Regulations (or any successor 
+     regulation).
+
+     SEC. 1093. WIRELESS EMERGENCY ALERTS SYSTEM OFFERINGS.
+
+       (a) Amendment.--Section 602(b)(2)(E) of the Warning, Alert, 
+     and Response Network Act (47 U.S.C. 1201(b)(2)(E)) is 
+     amended--
+       (1) by striking the second and third sentences; and
+       (2) by striking ``other than an alert issued by the 
+     President.'' and inserting the following: ``other than an 
+     alert issued by--
+       ``(i) the President; or
+       ``(ii) the Administrator of the Federal Emergency 
+     Management Agency.''.
+       (b) Regulations.--Not later than 180 days after the date of 
+     enactment of this Act, the Commission, in consultation with 
+     the Administrator, shall adopt regulations to implement the 
+     amendment made by subsection (a)(2).
+
+     SEC. 1094. STATE EMERGENCY ALERT SYSTEM PLANS AND EMERGENCY 
+                   COMMUNICATIONS COMMITTEES.
+
+       (a) Definitions.--In this section--
+       (1) the term ``SECC'' means a State Emergency 
+     Communications Committee;
+       (2) the term ``State'' means any State of the United 
+     States, the District of Columbia, the Commonwealth of Puerto 
+     Rico, the United States Virgin Islands, Guam, American Samoa, 
+     the Commonwealth of the Northern Mariana Islands, and any 
+     possession of the United States; and
+       (3) the term ``State EAS Plan'' means a State Emergency 
+     Alert System Plan.
+       (b) State Emergency Communications Committee.--Not later 
+     than 180 days after the date of enactment of this Act, the 
+     Commission shall adopt regulations that--
+       (1) encourage the chief executive of each State--
+       (A) to establish an SECC if the State does not have an 
+     SECC; or
+       (B) if the State has an SECC, to review the composition and 
+     governance of the SECC;
+       (2) provide that--
+       (A) each SECC, not less frequently than annually, shall--
+       (i) meet to review and update its State EAS Plan;
+       (ii) certify to the Commission that the SECC has met as 
+     required under clause (i); and
+       (iii) submit to the Commission an updated State EAS Plan; 
+     and
+       (B) not later than 60 days after the date on which the 
+     Commission receives an updated State EAS Plan under 
+     subparagraph (A)(iii), the Commission shall--
+       (i) approve or disapprove the updated State EAS Plan; and
+       (ii) notify the chief executive of the State of the 
+     Commission's findings; and
+       (3) establish a State EAS Plan content checklist for SECCs 
+     to use when reviewing and updating a State EAS Plan for 
+     submission to the Commission under paragraph (2)(A).
+       (c) Consultation.--The Commission shall consult with the 
+     Administrator regarding the adoption of regulations under 
+     subsection (b)(3).
+
+     SEC. 1095. INTEGRATED PUBLIC ALERT AND WARNING SYSTEM 
+                   GUIDANCE.
+
+       (a) In General.--Not later than 1 year after the date of 
+     enactment of this Act, the Administrator shall develop and 
+     issue guidance on how State, Tribal, and local governments 
+     can participate in the integrated public alert and warning 
+     system of the United States described in section 526 of the 
+     Homeland Security Act of 2002 (6 U.S.C. 321o) (referred to in 
+     this section as the ``public alert
+
+[[Page S3623]]
+
+     and warning system'') while maintaining the integrity of the 
+     public alert and warning system, including--
+       (1) guidance on the categories of public emergencies and 
+     appropriate circumstances that warrant an alert and warning 
+     from State, Tribal, and local governments using the public 
+     alert and warning system;
+       (2) the procedures for State, Tribal, and local government 
+     officials to authenticate civil emergencies and initiate, 
+     modify, and cancel alerts transmitted through the public 
+     alert and warning system, including protocols and technology 
+     capabilities for--
+       (A) the initiation, or prohibition on the initiation, of 
+     alerts by a single authorized or unauthorized individual;
+       (B) testing a State, Tribal, or local government incident 
+     management and warning tool without accidentally initiating 
+     an alert through the public alert and warning system; and
+       (C) steps a State, Tribal, or local government official 
+     should take to mitigate the possibility of the issuance of a 
+     false alert through the public alert and warning system;
+       (3) the standardization, functionality, and 
+     interoperability of incident management and warning tools 
+     used by State, Tribal, and local governments to notify the 
+     public of an emergency through the public alert and warning 
+     system;
+       (4) the annual training and recertification of emergency 
+     management personnel on requirements for originating and 
+     transmitting an alert through the public alert and warning 
+     system;
+       (5) the procedures, protocols, and guidance concerning the 
+     protective action plans that State, Tribal, and local 
+     governments should issue to the public following an alert 
+     issued under the public alert and warning system;
+       (6) the procedures, protocols, and guidance concerning the 
+     communications that State, Tribal, and local governments 
+     should issue to the public following a false alert issued 
+     under the public alert and warning system;
+       (7) a plan by which State, Tribal, and local government 
+     officials may, during an emergency, contact each other as 
+     well as Federal officials and participants in the Emergency 
+     Alert System and the Wireless Emergency Alerts System, when 
+     appropriate and necessary, by telephone, text message, or 
+     other means of communication regarding an alert that has been 
+     distributed to the public; and
+       (8) any other procedure the Administrator considers 
+     appropriate for maintaining the integrity of and providing 
+     for public confidence in the public alert and warning system.
+       (b) Coordination With National Advisory Council Report.--
+     The Administrator shall ensure that the guidance developed 
+     under subsection (a) does not conflict with recommendations 
+     made for improving the public alert and warning system 
+     provided in the report submitted by the National Advisory 
+     Council under section 2(b)(7)(B) of the Integrated Public 
+     Alert and Warning System Modernization Act of 2015 (Public 
+     Law 114-143; 130 Stat. 332).
+       (c) Public Consultation.--In developing the guidance under 
+     subsection (a), the Administrator shall ensure appropriate 
+     public consultation and, to the extent practicable, 
+     coordinate the development of the guidance with stakeholders 
+     of the public alert and warning system, including--
+       (1) appropriate personnel from Federal agencies, including 
+     the National Institute of Standards and Technology, the 
+     Federal Emergency Management Agency, and the Commission;
+       (2) representatives of State and local governments and 
+     emergency services personnel, who shall be selected from 
+     among individuals nominated by national organizations 
+     representing those governments and personnel;
+       (3) representatives of federally recognized Indian Tribes 
+     and national Indian organizations;
+       (4) communications service providers;
+       (5) vendors, developers, and manufacturers of systems, 
+     facilities, equipment, and capabilities for the provision of 
+     communications services;
+       (6) third-party service bureaus;
+       (7) the national organization representing the licensees 
+     and permittees of noncommercial broadcast television 
+     stations;
+       (8) technical experts from the broadcasting industry, 
+     including representatives of both the non-commercial and 
+     commercial radio broadcast industries and non-commercial and 
+     commercial television broadcast industries;
+       (9) educators from the Emergency Management Institute; and
+       (10) other individuals with technical expertise as the 
+     Administrator determines appropriate.
+       (d) Inapplicability of FACA.--The Federal Advisory 
+     Committee Act (5 U.S.C. App.) shall not apply to the public 
+     consultation with stakeholders under subsection (c).
+       (e) Rule of Construction.--Nothing in subsection (a) shall 
+     be construed to amend, supplement, or abridge the authority 
+     of the Commission under the Communications Act of 1934 (47 
+     U.S.C. 151 et seq.) or in any other manner give the 
+     Administrator authority over communications service providers 
+     participating in the Emergency Alert System or the Wireless 
+     Emergency Alerts System.
+
+     SEC. 1096. FALSE ALERT REPORTING.
+
+       Not later than 180 days after the date of enactment of this 
+     Act, the Commission, in consultation with the Administrator, 
+     shall complete a rulemaking proceeding to establish a system 
+     to receive from the Administrator or State, Tribal, or local 
+     governments reports of false alerts under the Emergency Alert 
+     System or the Wireless Emergency Alerts System for the 
+     purpose of recording such false alerts and examining their 
+     causes.
+
+     SEC. 1097. REPEATING EMERGENCY ALERT SYSTEM MESSAGES FOR 
+                   NATIONAL SECURITY.
+
+       (a) In General.--Not later than 180 days after the date of 
+     enactment of this Act, the Commission, in consultation with 
+     the Administrator, shall complete a rulemaking proceeding to 
+     modify the Emergency Alert System to provide for repeating 
+     Emergency Alert System messages while an alert remains 
+     pending that is issued by--
+       (1) the President;
+       (2) the Administrator; or
+       (3) any other entity under specified circumstances as 
+     determined by the Commission, in consultation with the 
+     Administrator.
+       (b) Scope of Rulemaking.--Subsection (a)--
+       (1) shall apply to warnings of national security events, 
+     meaning emergencies of national significance, such as a 
+     missile threat, terror attack, or other act of war; and
+       (2) shall not apply to more typical warnings, such as a 
+     weather alert, AMBER Alert, or disaster alert.
+
+     SEC. 1098. INTERNET AND ONLINE STREAMING SERVICES EMERGENCY 
+                   ALERT EXAMINATION.
+
+       (a) Study.--Not later than 180 days after the date of 
+     enactment of this Act, and after providing public notice and 
+     opportunity for comment, the Commission shall complete an 
+     inquiry to examine the feasibility of updating the Emergency 
+     Alert System to enable or improve alerts to consumers 
+     provided through the internet, including through streaming 
+     services.
+       (b) Report.--Not later than 90 days after completing the 
+     inquiry under subsection (a), the Commission shall submit a 
+     report on the findings and conclusions of the inquiry to--
+       (1) the Committee on Commerce, Science, and Transportation 
+     of the Senate; and
+       (2) the Committee on Energy and Commerce of the House of 
+     Representatives.
+                                 ______
+```

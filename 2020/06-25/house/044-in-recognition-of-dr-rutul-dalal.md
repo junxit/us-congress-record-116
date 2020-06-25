@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-06-25-pt1-PgH2506-3
+date: 2020-06-25
+edition: CREC
+section: HOUSE
+page: H2506
+citation: 166 Cong. Rec. H2506
+---
+
+# IN RECOGNITION OF DR. RUTUL DALAL
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                              {time}  2045
+                   IN RECOGNITION OF DR. RUTUL DALAL
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. KELLER. Mr. Speaker, as Pennsylvania's 12th Congressional 
+District continues to emerge from the COVID-19 virus pandemic, we can 
+recognize the people in our community that have played a uniquely 
+outstanding role in this unprecedented time.
+  Today, I recognize the work of Dr. Rutul Dalal, the head of the 
+infectious diseases unit at UPMC Williamsport. In the early days of the 
+pandemic, Dr. Dalal, along with the administration of UPMC 
+Williamsport, provided a critical voice of reason, calm, and 
+thoughtfulness in reassuring our community of local health providers' 
+ability to deal with COVID-19.
+  Dr. Dalal was a participant in a rural health roundtable our team 
+held in March that discussed COVID-19 testing capabilities, surge 
+capacity, and what government can do to ensure the medical community 
+has the tools it needs.
+  Dr. Dalal later joined me for a telephone townhall on COVID-19, where 
+he spoke to over 10,000 residents in Central and Northeastern 
+Pennsylvania about how to protect themselves in the pandemic and 
+answered their questions. Throughout the pandemic, Dr. Dalal has spoken 
+with many area lawmakers, community leaders, and others, while 
+maintaining his hospital responsibilities on the front lines of 
+fighting this terrible virus.
+  For his work, professionalism, and expertise, Dr. Dalal is truly a 
+PA-12 COVID-19 hero.
+
+                          ____________________
+```
