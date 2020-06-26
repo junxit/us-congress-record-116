@@ -1,0 +1,1648 @@
+---
+granule: CREC-2020-06-26-pt1-PgH2582-2
+date: 2020-06-26
+edition: CREC
+section: HOUSE
+page: H2582
+citation: 166 Cong. Rec. H2582
+---
+
+# UNITE AMERICA
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ], Shimkus, John (S000364) [R-IL], Lesko, Debbie (L000589) [R-AZ], Bishop, Dan (B001311) [R-NC], Weber, Randy K., Sr. (W000814) [R-TX], LaMalfa, Doug (L000578) [R-CA], Posey, Bill (P000599) [R-FL], Yoho, Ted S. (Y000065) [R-FL]
+
+```
+                             UNITE AMERICA
+
+  The SPEAKER pro tempore (Ms. Dean). Under the Speaker's announced 
+policy of January 3, 2019, the gentleman from Arizona (Mr. Biggs) is 
+recognized for 60 minutes as the designee of the minority leader.
+  Mr. BIGGS. Madam Speaker, I yield to the gentleman from Illinois (Mr. 
+Shimkus).
+
+
+                     In Memory of Mary Ellen Witter
+
+  Mr. SHIMKUS. Madam Speaker, I thank my colleague for the time and 
+courtesy.
+  Madam Speaker, I rise to speak about my West Point mom, who just 
+recently passed away. Mary Ellen Witter of Bluffton, South Carolina, 
+passed away peacefully Sunday, June 21, 2020, with her family around 
+her.
+  My West Point mom, who loved me even though I ate her food, broke her 
+chairs, and disobeyed a rule now and then. She was the definition of 
+grace.
+  She was preceded in death by her husband, the love of her life, 
+Colonel Lee Witter. They were married 61 years. She was the daughter of 
+the late Allan and Alma Imse, born in Milwaukee, Wisconsin in 1937.
+  Mary Ellen went to the University of Wisconsin, Milwaukee, for her 
+bachelor's degree in Elementary Education. She received her masters 
+from C.W. Post Center, Long Island University, New York, in Library 
+Science.
+  She was a dedicated military wife. She represented America while 
+being an embassy military wife in Indonesia. She was a longtime 
+educator, both here and abroad.
+  Mary Ellen was a pianist, singer, and a devout Christian, who was 
+very active in her church and was part of the Stephen Ministries and 
+prayer groups. For those who knew her, she was a soft-spoken woman who 
+loved traveling, reading, gardening, camping, bird-watching, and going 
+to the beach. But most of all, she loved her family and her friends.
+  She was preceded in death by her son, Mathew. She is survived by her 
+two daughters, Nanette Jordan of Norwalk, Connecticut, and Dorinda 
+Selby of Beaufort, South Carolina. She is survived by her sister, 
+Sharon Quade of Crandon, Wisconsin, and her brother, Robert Imse of 
+Naples, Florida. She dearly loved her five grandchildren: Ashley Benusa 
+of Hong Kong; Taylor Jordan of Boston, Massachusetts; Zachary Jordan of 
+Waterbury, Connecticut; Senior Airman Mathew Selby of Davis Monthan Air 
+Force Base, Tucson, Arizona; and Thomas Selby of Beaufort, South 
+Carolina.
+  Madam Speaker, I look forward to attending the burial service, which 
+will take place at West Point Military Academy National Cemetery at a 
+later date. There, she will be laid next to her husband, Colonel 
+Witter, and her son, Mathew.
+  First Thessalonians 4:14 states: ``For we believe that Jesus died and 
+rose again and so we believe that God will bring with Jesus those who 
+have fallen asleep in him.'' May we find comfort in this promise.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman for his words and 
+express condolences for his loss of his dear friend.
+  Madam Speaker, I yield to the gentlewoman from Arizona (Mrs. Lesko), 
+my colleague and longtime friend.
+  Mrs. LESKO. Madam Speaker, I thank the gentleman from Arizona (Mr. 
+Biggs) for yielding me the time.
+  Lawlessness has broken out across our Nation. It is absolutely 
+outrageous, and it has to be stopped. Mobs are taking over parts of the 
+city of Seattle. They took over a police precinct.
+  Just last Saturday, people were shot, and one man was killed. 
+Criminals are looting stores and businesses all over the Nation, 
+including in Arizona in the upscale Scottsdale Fashion Square. 
+Protestors are throwing bricks at police officers. They are throwing 
+water bottles at police officers. And I have seen them shine 
+flashlights right up close into the police officers' eyes and call them 
+all kinds of names. Rioters are burning the flag, the American flag. 
+And the Lincoln Memorial and World War II Memorial have been defaced.
+  Madam Speaker, a few days ago, St. Serra, the patron saint of peace, 
+was torn down in San Francisco.
+  Francis Scott Key's statue was torn down.
+  The statue of Ulysses Grant, who was the general for the Union was 
+torn down by thugs in San Francisco.
+
+                              {time}  1730
+
+  And then we saw the other night how they were trying so hard, these 
+criminals, to tear down the statue in Lafayette Park. And they almost 
+had it torn down, if it wasn't for the Trump administration sending in 
+the National Guard to stop.
+  And do you know what they wrote and spray-painted on that statue, 
+that Federal statue? ``Killer scum.''
+  Does any of this show tribute to George Floyd? No.
+  Does any of this help? Absolutely not.
+  Now, I was really surprised to see that one of our colleagues, 
+Congresswoman Norton, who is a nonvoting Member but represents 
+Washington, D.C., has introduced legislation to have a statue of 
+Abraham Lincoln taken down, a statue that was funded by the freed 
+slaves.
+  What has our country come to? We need to return to a semblance of 
+civility in our country. And so that is why I call on Democrat-run 
+cities to clamp down on these criminals. No more autonomous zones. No 
+more looting. No more destructing statues. Let's bring back law and 
+order.
+  That is why I stand with President Trump and his calls to arrest and 
+prosecute criminals. Let's stop the lawlessness. Let's try to heal our 
+country.
+  Mr. BIGGS. Madam Speaker, I thank the gentlewoman, and I appreciate 
+her comments.
+  We do see an increase in the amount of lawlessness. We have moved 
+from peaceful protests, which I support, I understand. That is what the 
+guarantee of the First Amendment is for. We all get a right to assemble 
+with whom we want to assemble with. We get a right to speak. We get a 
+right to seek redress of grievances from the government. All of those 
+are important rights that we support, we stand for.
+  But we move into rioting, looting, mayhem. There has been murder. 
+There has been assaults. There has been brutal violence.
+  I have heard some of my colleagues in this body call those protests. 
+It is not protesting. That is lawless rioting, and it needs to be 
+curbed and checked.
+  I yield to the gentleman from North Carolina (Mr. Bishop).
+  Mr. BISHOP of North Carolina. Madam Speaker, the coronavirus pandemic 
+reminded us that we are in this together. Despite serious and, as yet, 
+unresolved ongoing questions about policy responses to that event, we 
+have stayed home and sacrificed for our neighbors' health. We have seen 
+the best of us.
+  But in the past month, we are seeing the worst of us: violent mobs 
+stoning business owners, Federal agents shot to death, looting 
+occurring nationwide, and avowed Marxist activists openly defending and 
+promoting it, six blocks of a major U.S. city ceded to anarchists.
+  I don't recognize this America. People experience fear repeatedly of 
+the
+
+[[Page H2583]]
+
+wanton destruction of their livelihoods, their cities on fire or being 
+canceled by social media mobs; government buildings attacked; monuments 
+and memorials spanning the breadth of our history, from Washington to 
+Lincoln to Roosevelt, torn down or threatened by riotous mobs.
+  And this is not impassioned, heat-of-the-moment destruction. It is a 
+targeted, organized, and methodical purge of figures who represent 
+ideas they wish to bury, ideas such as all people are endowed by our 
+creator with inalienable rights to life, liberty, and property, and 
+that government by, for, and of the people shall not perish from the 
+Earth.
+  We have seen this deliberate tactic throughout history, in communist 
+China's cultural revolution, in the theocratic purge of Afghanistan's 
+Taliban, even in the terror campaigns of the Reconstruction and Jim 
+Crow South.
+  What distinguishes America is how this Nation responds to such 
+lawless and purposeful attacks. We hold, it is declared, that 
+government's very purpose is to secure the inalienable rights of all of 
+us and that, when order falls apart, so, too, does our Nation.
+  What we have seen in recent weeks begs the question: How is 
+government serving its core purpose?
+  Local and State officials have flouted that purpose, abandoned that 
+responsibility. But in those circumstances, the Federal Government has 
+the tools to secure the rights of the people.
+  Attorney General Barr, chapter 13 of the United States Criminal Code, 
+provides all the authority you may need. FBI Director Wray, the 
+evidence of criminal conspiracies is in plain sight.
+  The Department of Justice and the FBI must act without delay. This 
+government must restore the America we know.
+  Word is the Department of Justice is leading over 500 investigations, 
+and that is good news. We are counting on them, and we know they are up 
+to the task.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman from North Carolina 
+for his comments, and I echo his sentiment that what needs to happen to 
+restore order here is one must arrest malefactors who are committing 
+crimes. We must then charge them and prosecute them and give them due 
+process. But without a restoration of order, no one in this country has 
+freedom.
+  Madam Speaker, I yield to the gentleman from Texas (Mr. Weber).
+  Mr. WEBER of Texas. Madam Speaker, some history from our country.
+  Yesterday was June 25. On June 25, 1788, the State of Virginia 
+ratified the U.S. Constitution and thereby became the 10th State of the 
+United States. Virginia willingly joined the Union. Virginia willingly 
+left the Union and then willingly eventually rejoined the Union, a 
+reminder from our past. Do we take down everything about Virginia? 
+Certainly not.
+  Madam Speaker, on June 25, 1868, Florida, Alabama, Louisiana, 
+Georgia, North Carolina, and South Carolina were readmitted to the 
+Union. Again, they had willingly joined the Union; they willingly left 
+the Union; and, yes, they willingly rejoined that same Union. Reminders 
+from the past. Do we do away with all reminders?
+  On May 18, 1896, the Supreme Court in Plessy v. Ferguson upheld the 
+constitutionality of racial segregation for public facilities as long 
+as they were separate but equal. In 1962, the Supreme Court ruled that 
+the use of unofficial nondenominational prayer in public schools was 
+unconstitutional. They got it wrong twice, just two examples. Do we do 
+away with any mention of the Supreme Court?
+
+  Madam Speaker, in 1973, June 25, again, yesterday, John Dean, White 
+House Counsel for President Richard Nixon, admitted that President 
+Nixon was involved in the coverup. Do we do away with all mention of 
+President Nixon?
+  Madam Speaker, how about President Bill Clinton, who was accused of 
+several sexual harassments and was found guilty of lying under oath 
+and, as I recall, tampering with a witness or obstruction of justice? 
+Are all mentions of President Clinton gone? No, not him, not Nixon. 
+They were Presidents of this United States.
+  Madam Speaker, in 1999, on June 25, Germany's Parliament approved a 
+national Holocaust memorial to be built in Berlin, a painful but 
+necessary reminder from the past.
+  And we could go on. We could talk about professional entertainers--
+and I use the word ``professional'' loosely--who have been accused. And 
+the list is Bill Cosby, Harvey Weinstein, and on down. You go right 
+down that list. Do we demand any and all of their works, their 
+mentions, their movies, their shows be blotted out from memory?
+  We could talk about professional athletes--and again, I use the word 
+``professional'' loosely--who have been accused of sexual assault, 
+beating their wives up, their girlfriends up, caught with drugs, 
+performance-enhancing drugs, gambling, cheating. Do we blot them out 
+from all memory and all mentions? No.
+  Madam Speaker, even churches--the Catholic Church, the Baptist 
+Church, the Methodists, other churches, other denominations--scandals, 
+military sex scandals, Boy Scouts, congressional sex scandals, every 
+occupation, every race, color, creed, and religion, none is perfect. 
+Where does it end?
+  Should we pull down and attempt to erase all mentions of countries 
+like Japan, Germany, France, Spain, Italy, China? The list is endless.
+  Madam Speaker, George Floyd had a criminal record, but he did not 
+deserve execution at the hands of an errant police officer. And then 
+again, those whose lives and/or their livelihoods are being destroyed 
+by vandals, looters, and rioters don't deserve to have their families 
+and their livelihoods and their lives ruined either.
+  It is time for the violence to stop. Peaceful protests, yes; 
+violence, no. The Governors and the President should send in troops 
+when requested and needed. I stand with the President in that.
+  These criminals and lawbreakers deserve to be dealt with in a manner 
+consistent with their behavior and the law. They are pulling down 
+statues that were paid for with tax dollars, erected with the consent 
+of the governed, no matter what community or timeframe. These thugs 
+simply think they can tear them down.
+  Do we acknowledge there are those who have an improper mindset? Of 
+course. Those are thugs tearing things down. Of course we do.
+  Do we also acknowledge that Black lives matter? You bet we do. I 
+cannot even begin to understand the fear of parents and their children 
+who live in that fear that some day they may suffer that same fate.
+  But let's have that conversation within the framework of a civilized 
+people who earnestly desire what President Lincoln called ``a more 
+perfect Union.''
+  Violence, property destruction, vandalism, arson, looting, and, yes, 
+killing others is hardly what I think we would want or call a more 
+perfect Union, Madam Speaker.
+  So how about a new reset? Looking backwards will only leave us hating 
+everyone and everything. Statues and symbols of our great country 
+should remind us how far we have come, but, more importantly, how far 
+we have got to go still.
+  We should be taking pride in how far we have come. Actually, let us 
+hope in the promises of where we can go, while being saddened as to 
+some of the things that have had to happen to get us to this point.
+  Madam Speaker, how about a reset?
+
+                              {time}  1745
+
+  George Orwell once said:
+
+       The most effective way to destroy people is to deny and 
+     obliterate their own understanding of their history.
+
+  Madam Speaker, as we reassess our shared experience, let us learn 
+from the past in order to make a better, brighter future. America's 
+history is imperfect. But projecting contemporary norms through 
+violence while rejecting the experiences of our past does a disservice 
+to the sacrifices of the great men and women like President Lincoln, 
+who fought for equality for all.
+  We must not erase our history. We must learn from it. This is one of 
+the promises and the highest callings of America the beautiful.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman for his comments, 
+particularly relating to history. I am reminded, as I was pondering 
+that, that each of us has a history. Each of us has a personal history. 
+None of us are perfect. Sometimes, we have flaws that seem almost 
+insurmountable in our own lives. But if we deny our history,
+
+[[Page H2584]]
+
+then we deny who we are and who we can become.
+  When I hear folks out there attacking our history and saying, let's 
+bring down this statue or let's do this or let's do that, some of it is 
+so acontextual. By that, I mean it is as if there was no history to 
+learn from. And I think, how in the world can we be so narcissistic 
+that we don't accept the flaws of our own past and build upon the 
+promise of the future?
+  We have problems, for sure, but it does not inure to lawlessness, 
+rioting, murder, and mayhem. It should, instead, inure to the better 
+angels within us.
+  Madam Speaker, I am pleased to yield to the gentleman from California 
+(Mr. LaMalfa).
+  Mr. LaMALFA. Madam Speaker, I appreciate my colleague from Arizona 
+(Mr. Biggs) for leading this tonight and for what he has been standing 
+up for.
+  I just have to say that I am really grieved by the strife we have in 
+this country, especially trying to exit out of this Wuhan virus 
+situation and the horrific things we saw happening in Minneapolis. That 
+was the moment when we saw George Floyd being abused and ultimately 
+killed by that.
+  There was unity among 99.9 percent of the population of the people in 
+this country saying that is wrong. We had a moment to learn from that, 
+to build upon that.
+  Indeed, it seemed to be a short moment. Peaceful protests immediately 
+followed. We agree with those. And then that has been co-opted by these 
+forces coming out of the ground that have been looking for an 
+opportunity to divide us, divide our Nation, whether it is antifa or 
+other groups that are forming and now seeking political power with 
+this. It is now beyond racism. It is something completely different.
+  The violence that we are seeing, the mayhem, the destruction, the 
+vandalism has nothing to do with the good conversation we should have 
+been having in that spirit of unity that I think most Americans felt in 
+that window of time right after the George Floyd killing.
+  How are we going to come out of this? How are we going to have a good 
+conversation about how we can improve things with law enforcement but 
+not impugn law enforcement for what they are doing? They are out there 
+every day trying to find the balance between how to defend the public, 
+how to defend their own life when they knock on a door or walk up to a 
+car--they don't know what is going on inside there--and also being a 
+good ambassador for somebody who they just need to talk to.
+  How are we going to find this balance again amidst all of this 
+mayhem, amidst all of this violence? Well, certainly, the signal needs 
+to be sent that we are not going to tolerate the violence, the mayhem, 
+the destruction, the vandalism. Severe penalties need to be coming down 
+upon those who we already have on camera or other ways to identify in 
+anything going forward.
+  I just came from Lincoln Park about 10 blocks east of here, and they 
+have to put fencing and have guards out there for the statue of Abraham 
+Lincoln, who is shown there putting a hand up for a slave depicted in 
+that statue, an emancipated slave. He is still wearing the chains. He 
+is looking up at Mr. Lincoln, who is lifting him and going to take him 
+to a better place.
+  Yet, that is being misinterpreted in 2020 as something that is 
+hateful. That same statue was paid for by emancipated slaves back then 
+who were inspired by what Mr. Lincoln had done.
+  They even have a fence around Mary McLeod Bethune right next-door 
+because they are afraid that might get vandalized because there is 
+indiscriminate vandalism happening to any statue, to any memorial, to 
+any monument just because it is a mayhem out there.
+  That doesn't even make sense. It is not even logical that you would 
+tear down the ones, General Grant or whoever, who were actually in the 
+fight to end slavery. We are not going to have a very good conversation 
+about racism when frauds like this go on.
+  Even something so simple or silly as a garage at a raceway here a 
+while back where somebody said it was a noose in the garage, and the 
+media ran with it immediately without taking at least 12 hours to check 
+out and find out that it was a pull handle for shutting a garage door. 
+In no way does it meet the specifications for a noose. Unfortunately, 
+the driver doubled down on that and continued in interviews saying 
+definitely a noose.
+  That doesn't do anything to bring the harmony we should be having, 
+especially when that driver was shown an incredible amount of harmony 
+by his colleagues there when first that incident was reported.
+  Where are we going with all of this? I grieve for our country, the 
+one that had imperfect roots but always has strived to build upon 
+itself to do better, to improve.
+  Slavery came in with the country, but the Founders knew it wasn't 
+right. There were compromises made to at least form this country to be 
+something better than the monarchy that England had, compromises but 
+still building until finally in the 1860s when Mr. Lincoln came and 
+said enough. You had more than half the country that was already ready 
+to do that.
+  We don't get a lot of talk about that because you think the whole 
+country was racist. Most of the country was not. It was eradicated. 
+Then we had the 13th, 14th, and 15th Amendments to grant rights to 
+those who originally did not have them. The Civil Rights Act of the 
+1960s continued on that path, the Voting Rights Act.
+
+  Yet, all we hear around here is, Republicans are against all that, 
+when you find out that, actually, Republicans were leading in greater 
+numbers on all of those things all the way back at that time. Now, 
+Democrats are trying to co-opt that and turn it into something else 
+completely. Indeed, the first 20 Members of Congress who were Black 
+were also Republican because they saw who was really trying to lead 
+them toward freedom.
+  What we have going on right now is not going to keep this great 
+country in a place that is free. We have lost a lot of freedom already 
+by the virus, first--something we have to handle--but also the freedom 
+to actually assemble downtown in a large city or to go visit a statue 
+or do anything.
+  Our freedoms are being eroded. Our freedoms are being eroded by 
+roving bands of people who--mayors in large cities, Democrat mayors, 
+and some Democrat Governors that govern States aren't doing anything 
+about it.
+  What are we supposed to do? Stand and watch what is going on here? 
+No, we are not going to watch this anymore. We are not going to put up 
+with it. Severe penalties need to be had for these people inflicting 
+this mayhem upon their own Nation, upon their own neighbors, upon 
+neighborhoods. It needs to be harsh.
+  Then, once we can get the violence stopped, maybe we can get back to 
+the table and have a real conversation about how we are going to 
+improve the situations with race.
+  It grieves me that young Black males feel like they are going to be 
+victimized by the term ``driving while Black.'' That is an awful 
+feeling for them and for us, I think, to see that happen.
+  Our great colleague over on the other side, Senator Tim Scott, when 
+he brought forth a bill he has been working on very hard for a long 
+time, looking for bipartisan efforts, his JUSTICE Act, and then someone 
+tells him it is a token effort.
+  What the heck does that mean? That really struck him deeply, that 
+people would say that about that and not even give him the opportunity 
+to have that bill developed further in the Senate. What a shameful 
+moment that was.
+  Yet, now we have legislation here that is trying to eviscerate the 
+ability of cops to operate how they need to, to have a little bit of 
+immunity because a cop doesn't know what he is walking into or what she 
+is walking into. They need a little latitude, not the latitude we saw 
+in Minneapolis, but one to simply operate.
+  Doctors need latitude in order to work on patients and not be sued to 
+death. Yet, we have this legislation that is going to be, basically, 
+sue a cop. That is not going to help anything.
+  What is that going to do for morale for keeping cops on the force, 
+for recruiting new ones? Do we want this mayhem we keep seeing 
+happening right here in D.C., Minneapolis, L.A., any other large city, 
+and we don't have some kind of law enforcement there?
+  Social workers do have their place in certain situations, and they 
+can be
+
+[[Page H2585]]
+
+helpful. But we don't take money away. We don't defund the cops who are 
+already shorthanded in rural areas like mine, sheriffs, police, in 
+order to try and change the whole game.
+  We have a lot of listening to do to each other on both sides. Not 
+everybody with light-colored skin is a racist, and I think a lot of 
+people around this country are really feeling, after the unity we had, 
+after the George Floyd ugly incident in Minneapolis, this is a time to 
+get together and listen to each other.
+  If this is allowed to continue to happen, it is going to make it 
+awful hard for people to listen to each other because they are feeling 
+under fire themselves for something they never did, never stood for. 
+Instead, they have always stood for the greatness of that flag right up 
+there. In God we trust.
+  I appreciate the time.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman from California for 
+his passionate and heartfelt words.
+  It is my pleasure now to yield to the gentleman from Florida (Mr. 
+Posey).
+  Mr. POSEY. Madam Speaker, I thank the gentleman for yielding.
+  ``We want America back.'' Those were just a few of the lyrics of a 
+song written by a group named The Steeles in 1996. Some of the lyrics 
+said:
+
+     Something is wrong with America.
+     This Nation is like a runaway train,
+     Headed down the wrong track.
+
+  And it concludes, in part, with:
+
+     I love America. But I do not love what she has become.
+
+  Circumstances seemed pretty despairing back then, but they pale in 
+comparison to what we are seeing going on across our country today, 
+perpetrated by Marxists, anarchists, and those malcontents who are 
+funding them.
+  Today, the miscreants are using George Floyd's death to neuter the 
+ability of the police to enforce the law. So far, they have been 
+successful in getting the police out of the way.
+  Without law enforcement, their mobs are free to move in, smash 
+businesses, injure people, and cause chaos. Those aren't peaceful 
+protesters, and they are not peaceful protests.
+  Their outcry for justice makes sympathetic, or perhaps even cowardly, 
+corporations and stupid movie stars send money to them. Now they are 
+tearing down the statues, intimidating the public and politicians into 
+accepting their farfetched demands, and giving them even more power.
+  Circumstances are advantageous for them right now because we are in 
+the midst of a pandemic so they have a freer rein of the streets.
+  Who could have ever imagined sanctuary cities where America's rule of 
+law is ruefully ignored by government officials?
+
+  Who would have ever imagined some elected officials would allow 
+domestic terrorists or wannabe revolutionaries to commandeer a complete 
+takeover and rule of both public and private property and have dominion 
+over other unwilling citizens of the United States in so-called 
+autonomous zones.
+  Give me a break.
+  Then, the lawbreakers have the audacity to demand our police be 
+defunded or reimagined, whatever the heck that means. It sounds insane.
+  It is really a campaign to drive our duly-elected President Donald 
+Trump from office. Anyone who stands in their way they think should be 
+destroyed.
+  We can expect it to get worse and worse until November 3, when they 
+hope to put an end to the prosperity created by the President. You have 
+to suffer from the world's worst case of Potomac fever, or beltway 
+brain drain, to think they are fooling anybody.
+  Meanwhile, the leadership and majority in this Chamber have been 
+silent. I have not heard a single word, syllable, or letter uttered by 
+them in opposition to the miscreants. It is past time for them to 
+condemn their activities, and it is time for law enforcement across 
+this Nation in every State, in every county, in every city, in every 
+little burgh, community, and the rural areas in-between to put an end 
+to this lawlessness.
+  If you don't start acting soon, there wouldn't be anything left to 
+tear down. I would like to take a bunch of these wannabe 
+revolutionaries to South or Central America for a few days to see how 
+their game would end if they were successful in having it their way.
+
+                              {time}  1800
+
+  If you have ever traveled throughout those socialist countries there, 
+it is a very eye-opening experience. The State Department, and even 
+their own officials, warn you, don't wear any jewelry; don't carry much 
+cash, because there is a good chance you are going to get robbed. And 
+if you are approached by a robber, hand over everything, hold back 
+nothing, because they would just as soon shoot you and kill you as not 
+shoot you and kill you.
+  There is a lot of lawlessness, and they don't fear justice. They 
+don't fear the police. They are going to take, and you are going to 
+give, or you are going to die. And you know what the State Department 
+and the local officials tell you next? If you get robbed, don't call 
+the police. It is not like in our country where, if there is a problem, 
+you call the police. There, they tell you not to call the police 
+because they are all corrupt and they will shake you down for anything 
+the robbers missed.
+  One common denominator of the countries that I visited, which was 
+Brazil, French Guiana, Suriname, and Trinidad, was a common denominator 
+that every single house that I saw, large or small, urban or suburban, 
+no matter how far out you went into the country, every single house 
+that was more than a cardboard box had bars on every window and most of 
+the doors. Why? Because that is what lawlessness brings.
+  They truly go to bed every night in those socialist countries with 
+the expectation that if they did not have bars, they wouldn't wake up 
+in the morning; or if they did, every possession that they had that was 
+worth anything would be gone.
+  Very little police, high crime, high unemployment, bars on all the 
+windows. Is that what we really want for our future?
+  We have been blessed to live in the land of opportunity, the most 
+free and prosperous nation in the history of the world. Many, many, 
+many people have risked their lives and the lives of their wives, their 
+grandparents, their parents, their children, family members to come 
+here. This place is really that good that people would risk their life 
+just to come here, a chance at coming here. We cannot stand back and 
+let it be destroyed. We want America back.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman for his thoughts and 
+taking time to share those with us.
+  Madam Speaker, I yield to the gentleman from Florida (Mr. Yoho).
+  Mr. YOHO. Madam Speaker, I thank my good colleague from Arizona (Mr. 
+Biggs) for putting this on. I really do appreciate it because it is so 
+timely.
+  Growing pains, I think that is what we can say we are going through 
+is growing pains again as a nation, a nation birthed over 200 years 
+ago.
+  And for anybody who watched yesterday's debate, Madam Speaker, on the 
+House floor, I think it was interesting to see the amount of, I guess, 
+race-baiting that was coming from the other side, from my colleagues, 
+which I found very unreasonable that, for some reason, if you are a 
+Black man, you have to tell your children how to act with the police.
+  My mom and dad had that talk with me, probably for good reason, too, 
+and they said: If you get pulled over, ``Yes, sir,'' ``No, sir,'' and 
+then when you get home we want to know what happened and why you got 
+pulled over. I had to have that talk with my children. So that is 
+nothing new, and I think that we sometimes overplay that.
+  Does it happen maybe more with minority communities? Yes, I think it 
+does, but nobody is immune to that. When I came into Congress, I got 
+stopped multiple times to see if I had the right credentials. That has 
+happened to me.
+  Since we have been up here, the divide in this country has gotten so 
+much worse, and it has been since Donald Trump has gotten elected. And 
+people will blame the President for doing this, but we can go back to 
+other Presidents where we have seen this happen. We are Americans. We 
+need to come together as a nation.
+  I have had the great fortune of being in Congress. This is my last 
+term. I will have served 8 years. I was the chairman of the Asia-
+Pacific Subcommittee last year, last Congress; I am the ranking member 
+this year. I have bean able to travel the world. I have been in the 
+Democratic Republic of the Congo.
+
+[[Page H2586]]
+
+  Africa is a continent of 1.2 billion, yet today, in the 21st century, 
+650 million people do not have electricity. I suppose they have a 
+reason to protest. I suppose they have a reason to complain. But do 
+they have the right to protest?
+  Being on the Asia-Pacific Subcommittee we got to travel to a lot of 
+the Asian countries. We all know what is going on in Hong Kong today. 
+Hong Kong is a province of China. There was an agreement of one 
+country, two systems, where Hong Kong was supposed to be a semi- or a 
+self-ruling area with an independent judiciary committee. Yet, 23 years 
+into that agreement, Xi Jinping, the leader of the Communist Party, 
+said that is null and void, and they have put the heavy hand of the 
+Communist Party in there.
+  These young students are out there holding up that flag behind you, 
+Madam Speaker, holding up that flag for liberty and freedom because 
+they have tasted that. That is all they have ever known. Yet the 
+Chinese Communist Party wants to take that away because it scares them. 
+Free thought, independent thinking, freedom, they know the Communist 
+Party cannot survive, so they are going in there to squash that.
+  These students are holding those signs up. Our flag is up. They have 
+been in my office here in the Washington Capitol. They have a reason to 
+protest, but they do not have the right.
+  You talk about Venezuela, somebody talked about it. Go down to Cuba 
+and talk against the Castro regime. You don't have the right. Talk 
+about religion in those countries. You do not have the right.
+  But then I look at this country, and I am as guilty as anybody else 
+in this country. We have the right to protest, the First Amendment, but 
+sometimes I think--and this is where I feel like I am guilty, like a 
+lot of us. I think we take it for granted what we have in this country.
+
+  It was interesting because I was with the Ambassadors of both 
+Malaysia and Indonesia, and they talked about the founding of their 
+country. When they got their independence, when they broke away and 
+they formed those countries, they told me that their founding fathers 
+could have picked any system in the world. They could have taken Great 
+Britain's system of government. They could have taken Germany's, 
+Russia's, China's. But you know who they took? They took the principles 
+of America because they had read our history, they had read those 
+documents and what those documents meant.
+  And I heard people over and over here today, since I have been in 
+Congress, America is not a perfect country because people are in it, 
+and people are not perfect, but the ideals laid out there were the best 
+ideals that have ever been laid out. If not, why are other countries 
+adopting them? Why do people in Cuba come across the ocean, a 90-mile 
+stretch, on inner tubes, on rafts, on surfboards to get to this 
+country? It is called freedom. It is called justice.
+  But do you know what? We are not going to fix it if this side is 
+accusing this side, and this side over here is accusing that side of 
+pandering to our audience.
+  So what that meant to me when I was with those Ambassadors from 
+Indonesia and Malaysia, what it meant to me was: Do you know what? 
+America is bigger than a Presidency. It is bigger than the Democratic 
+Party. It is bigger than the Republican Party. It is those ideals that 
+this country stands for that we all need to fight to hold on to.
+  I want to read something that one of my constituents sent me. It 
+says: ``The lesson taught at this point by human experience is simply 
+this, that the man who will get up will be helped up, and the man who 
+will not get up will be allowed to stay down. . . . Personal 
+independence is a virtue and it is the soul of which comes the 
+sturdiest manhood. But there can be no independence without a large 
+share of self-dependence, and this virtue cannot be bestowed. It must 
+be developed from within.''
+  I had an African-American man, a conservative Republican who is 
+afraid to tell people he is a conservative Republican because he gets 
+labeled Uncle Tom. You have been put on the plantation.
+  These are not my words. These are words coming from him.
+  But that quote came from somebody I wish we could go back and meet, 
+Mr. Frederick Douglass, a person born into slavery who picked himself 
+up by the bootstraps, who educated himself. He stood beside President 
+Lincoln when they dedicated the Emancipation statue.
+  And I have got these people out here who loathe, despise, disdain 
+this country, and it is being flamed by people--and I can't blame just 
+people, the Democrats. There are people out there who just hate this 
+country, but they are using that to tear this country apart instead of 
+remembering the ideals that this country is built on. And those are 
+American ideologies--not conservative, not liberal, not Republican or 
+Democrat, American--and I think it is time that we all come together 
+and realize we are Americans and we are on the same team.
+  Mr. BIGGS. Madam Speaker, I thank the gentleman for his passionate 
+comments about freedom.
+  Madam Speaker, those of us who have had the good fortune of studying 
+history, we know that it bumps and claws along. We do see progress 
+sometimes, and we also see devolution sometimes.
+  What we are seeing today, though, reminds me an awful lot of a 
+revolution that took place in the early part of the 20th century. It 
+was not a large revolution; it was a small revolution. It was the 
+Bolshevik Revolution. It was funded by some of the bourgeoisie who did 
+not like the form of government in then-Russia. It was not a massive 
+revolution. It wasn't widespread, but it changed that entire nation's 
+form of government.
+  I am reminded that it was Trotsky who prevented the military from 
+intervening against the lawless revolution. What I am seeing here today 
+reminds me an awful lot of that. This is a small revolution that is 
+violent in nature, is anti-American in nature.
+  And so when my colleagues mention the police and what they need to 
+do, what happens is there has been an emasculation of the police. They 
+don't really want to get involved because, should they get involved, 
+there is a legitimate concern that they will be sued, arrested, et 
+cetera. So when you get rid of the blue line of defense against 
+lawlessness, then you basically destroy the foundation of the 
+protection of your freedoms.
+  President Trump called certain groups antifa, domestic terrorists. In 
+our debate in the Judiciary Committee, some of my colleagues said 
+antifa is a fiction. So I said: Well, you know, is it a fiction?
+  So I went to CNN, because I knew that if I went to FOX and referred 
+to FOX, nobody was going to believe that that was not biased. So I went 
+to CNN because I wanted to find out what they said, and you can go 
+through and find extensive interviews where the conclusion is clear: 
+antifa is a real organization. It is a group. And the group sometimes 
+chooses to resort to violence.
+  So what do you have? They are definitely domestic. They are 
+committing terrorist activity in this country. Thus, they are domestic.
+  And what would terrorism be? Terrorism is the use of force, 
+intimidation, violence to change or alter behavior for a particular 
+purpose.
+  So you begin to see you have domestic terrorism going on.
+
+                              {time}  1815
+
+  18 U.S. Code, Section 2339A, I call on FBI Director Wray to begin 
+using that statute, make the arrests necessary to restore order. And I 
+call on Attorney General William Barr to use that same section to 
+charge and prosecute these individuals who are attempting to intimidate 
+Americans out of their freedom.
+  A lot of these Federal monuments and statues that are coming down, 
+these memorials that are being ripped to shreds, destroyed are on 
+Federal property.
+  And you know what? 18 U.S. Code 1369 is the statute that Director 
+Wray should be having his Federal agency make arrests under. And then I 
+call on Attorney General Barr to have his U.S. attorneys charge and 
+prosecute under 18 U.S. Code 1369 for destruction of veterans' 
+memorials. And we can go forward.
+  But why do I even bring that up? It is because I believe sincerely 
+that this country is built on the idea that each
+
+[[Page H2587]]
+
+of us should have agency, will, choice. It hasn't always worked out 
+really well or perfectly. There are those who have had their choices 
+and will taken away from them. That is inexcusable, of course.
+  But if we are going to have will and choice and freedom, then we are 
+part of this great social contract where I delegate my right to defend 
+myself because I can't do it all the time. There are people who are 
+stronger or more vicious or are more malevolent who want to compel me 
+to do something or take something from me.
+  We delegate police authority to police. It is not carte blanche. It 
+is reasonable.
+  We have got to restore respect for the law, for the police, for the 
+courts, and for process.
+  It is imperfect. I worked in that system for a lot of years on both 
+sides, prosecuting and defending. It is not a perfect process.
+  The reality is, though, it is as Winston Churchill said, Democracy is 
+the worst form of government except for all those others.
+  It is the best humankind has come up with.
+  To destroy our history seems so antithetical to making progress, 
+eradicating our history, erasing it.
+  College professors are now saying we have got to go through and 
+remove books from the library.
+  Remove them from the library, because why? They have unpopular ideas 
+in them. They may be unpopular ideas, but you know what is better than 
+taking them out and burning them or removing them and trashing them ala 
+Adolph Hitler and the Nazis? It is letting us read them, discuss them, 
+and point out their flaws, and rehabilitate us, our hearts.
+  Artwork being removed from museums, being removed from this House. 
+Why? Because some were not 2020 politically correct. What they did was, 
+to some, unconscionable and abominable. Let's have the discussion.
+  Removing your history allows you to repeat the mistakes of your 
+history. I simply don't understand it.
+  We have now moved beyond a motivational or some kind of philosophical 
+attempt to remove historical items. Now we are seeing indiscriminate 
+action.
+  Madam Speaker, I include in the Record a series of articles.
+
+                         [From Breitbart News]
+
+       A greater percentage of U.S. registered voters believe 
+     Confederate statues, which have been targeted by protesters 
+     in recent weeks, should remain standing despite activists' 
+     demands to remove them, a Morning Consult poll released this 
+     week revealed.
+       The survey, taken June 6-7, showed that a greater number of 
+     Americans believe Confederate statues should remain standing, 
+     44 percent, as opposed to the 32 percent who say they should 
+     be removed. Twenty-three percent expressed no opinion on the 
+     matter.
+       The fundings reflect a slight shift in opinion over the 
+     last three years. In August 2017, 52 percent of voters 
+     indicated that the statues should be left alone, with just 
+     over a quarter, 26 percent, indicating otherwise.
+       However, Morning Consult reported that the purported 
+     increase in support over the years is largely driven by 
+     Democrats:
+       The rise in support for removing the statues was driven by 
+     Democrats, a majority of whom now take that position, and 
+     independents, who still favor keeping those statues standing 
+     by a 10-point margin. Eleven percent of GOP voters say the 
+     statues should be removed, virtually unchanged since 2017.
+       The vast majority of Republicans, 71 percent, believe the 
+     Confederate statues should remain standing, whereas the 
+     majority of Democrats, 53 percent, believe they should be 
+     taken down. Forty percent of independents believe they should 
+     remain standing, with 30 percent vying for their removal and 
+     30 percent expressing no opinion.
+       The survey was taken among ``roughly'' 1,900 voters, with a 
+     margin of error of +/- two percent.
+       The survey comes as protesters vandalize and, in some 
+     cases, tear down Confederate statues and others they deem 
+     offensive, including statues of Christopher Columbus.
+       House Speaker Nancy Pelosi (D-CA) has also embraced the 
+     calls for change, requesting in a letter on Wednesday the 
+     removal of Confederate statues occupying the U.S. Capitol, or 
+     as she called them, ``monuments to men who advocated cruelty 
+     and barbarism to achieve such a plainly racist end.''
+       ``Monuments to men who advocated cruelty and barbarism to 
+     achieve such a plainly racist end are a grotesque affront to 
+     these ideals,'' she said in a letter to Committee Chair Roy 
+     Blunt (R-MO) and Vice Chair Zoe Lofgren (D-CA). ``Their 
+     statues pay homage to hate, not heritage. They must be 
+     removed.''
+       Interestingly, Pelosi has remained silent on her own 
+     father's role in the dedication of a Confederate statue in 
+     Baltimore's Wyman Park in 1948.
+       As Breitbart News detailed:
+       However, her father, Thomas D'Alesandro, Jr., oversaw the 
+     dedication of such a statue in Baltimore's Wyman Park--the 
+     Stonewall Jackson and Robert E. Lee Monument--as mayor of the 
+     city in 1948. At the time, the Speaker's father said people 
+     could look to Jackson's and Lee's lives as inspiration and 
+     urged Americans to ``emulate Jackson's example and stand like 
+     a stone wall against aggression in any form that would seek 
+     to destroy the liberty of the world.''
+       World Wars I and II found the North and South fighting for 
+     a common cause, and the generalship and military science 
+     displayed by these two great men in the War between the 
+     States lived on and were applied in the military plans of our 
+     nation in Europe and the Pacific areas,'' D'Alesandro said at 
+     the dedication ceremony, as detailed by the Baltimore Sun. He 
+     continued:
+       Today with our nation beset by subversive groups and 
+     propaganda which seeks to destroy our national unity, we can 
+     look for inspiration to the lives of Lee and Jackson to 
+     remind us to be resolute and determined in preserving our 
+     sacred institutions . . . remain steadfast in our 
+     determination to preserve freedom, not only for ourselves, 
+     but for other liberty-loving nations who are striving to 
+     preserve their national unity as free nations.
+       Pelosi's office did not return Breitbart News's request for 
+     comment.
+                                  ____
+
+
+                     [From Fox News, Aug. 21, 2018]
+
+         Which Confederate statues were removed? A running list
+
+                        (By Christopher Carbone)
+
+       More than 30 cities across the United States have removed 
+     or relocated Confederate statues and monuments amid an 
+     intense nationwide debate about race and history.
+       After a ``Unite the Right'' rally in Virginia in August to 
+     protest against the removal of a statue of Robert E. Lee 
+     resulted in the death of a woman who was demonstrating 
+     against white supremacy, other cities have decided to remove 
+     Confederate statues.
+       Many of the controversial monuments were dedicated in the 
+     early twentieth century or during the height of the Civil 
+     Rights Movement. Discussions are under way about the removal 
+     of monuments in Houston, Atlanta, Nashville, Pensacola, 
+     Florida, Jacksonville, Florida, Richmond, Virginia, 
+     Birmingham, Alabama, and Charlottesville, Virginia.
+       Here is a running list of all the monuments and statues 
+     that have been removed and the cities that have taken them 
+     down:
+
+
+                             Annapolis, Md.
+
+       Under cover of darkness, city workers removed a statue in 
+     August 2017 of former Supreme Court Justice Roger Taney that 
+     had been on the State House's front lawn for 145 years. Taney 
+     authored the Supreme Court's 1857 Dred Scott decision, which 
+     held that African-Americans could not be U.S. citizens. The 
+     city's Republican mayor said through a spokesman that it was 
+     removed ``as a matter of public safety.''
+
+
+                             Austin, Texas
+
+       The statues of four people with ties to the Confederacy--
+     Robert E. Lee, Albert Sidney Johnson, John H. Reagan and 
+     former Texas Gov. James Stephen Hogg--were removed from 
+     pedestals on the University of Texas campus on Aug. 17, 2017. 
+     UT's president said in a written statement the deadly clashes 
+     in Charlottesville made it clear ``Confederate monuments have 
+     become symbols of modern white supremacy and neo-Nazism.'' 
+     Separately, a 1,200-pound bronze statue of Confederate 
+     President Jefferson Davis that was removed from UT's campus 
+     in 2015 has now returned to the campus, at the Briscoe Center 
+     for American History.
+       The Austin school board voted to strip Confederate names 
+     from five district schools, though they haven't been renamed 
+     yet. The board had previously renamed Robert E. Lee 
+     Elementary School in 2016.
+       The Austin City Council approved renaming Robert E. Lee 
+     Road and Jeff Davis Avenue.
+
+
+                             Baltimore, Md.
+
+       Baltimore Mayor Catherine Pugh told reporters she wanted to 
+     move ``quickly and quietly'' to take down four Confederate 
+     statues or monuments--statues of Lee and Thomas, J. 
+     ``Stonewall'' Jackson and monuments for Confederate Soldiers 
+     and Sailors and Confederate Women--from the city's public 
+     spaces. Although the plan had been in the works since June 
+     2017, the Baltimore City Council approved it only two days 
+     after the deadly events in Charlottesville. On March 10, 
+     2018, the space where the Confederate statues had stood was 
+     rededicated to abolitionist and civil rights pioneer Harriet 
+     Tubman.
+
+
+                            Bradenton, Fla.
+
+       Mantee County removed a Confederate soldiers memorial 
+     obelisk on Aug. 24 after the city commission voted 4-3 to 
+     take it down and place it in storage. The monument, which had 
+     stood there for more than 90 years, was accidentally broken 
+     into two pieces when city workers removed it. The removal 
+     came after days of protests from residents and activists, 
+     most of whom were in favor of taking it down, and it cost 
+     $12,700 to remove.
+
+
+                             Brooklyn, N.Y.
+
+       Plaques honoring Lee were removed from an episcopal 
+     church's property on Aug. 16,
+
+[[Page H2588]]
+
+     2017 and the governor called on the Army to remove the names 
+     of Lee and another Confederate general from the streets 
+     around a nearby fort. ``It was very easy for us to say, `OK, 
+     we'll take the plaques down,' '' said Bishop Lawrence 
+     Provenzano, of the Episcopal Diocese of Long Island, who 
+     called them ``offensive to the community.'' New York City 
+     Mayor Bill de Blasio has called for a review of all the 
+     city's public art to identify ``symbols of hate'' for 
+     possible removal.
+
+
+                             Dallas, Texas
+
+       A bronze statue of Robert E. Lee, formally called the 
+     Robert Edward Lee Sculpture, was removed in mid-September 
+     2017 from Robert E. Lee Park, which was also named in honor 
+     of the Confederate general. The Dallas City Council voted 13-
+     1 to remove the statue, which has stood in Lee Park for 81 
+     years.
+       The park was dedicated to Lee by President Franklin Delano 
+     Roosevelt in 1936 during a renaming ceremony of the park.
+
+
+                          Daytona Beach, Fla.
+
+       Three Confederate monuments were removed from a city park 
+     Friday morning. A city spokesperson said the plaques were 
+     going to be cleaned up and taken to a nearby museum. The 
+     decision to remove them did not require public input, the 
+     spokes-person told FOX35, because they were donated and not 
+     purchased with taxpayer funds.
+
+
+                           Chapel Hill, N.C.
+
+       Protesters toppled the ``Silent Sam'' statue that has stood 
+     on the University of North Carolina's Chapel Hill campus 
+     since 1913 on Aug. 20. More than 200 people had gathered and 
+     were chanting ``hey, hey, ho, ho, this racist statue has got 
+     to go.'' In a statement, UNC Chancellor Carol Folt called the 
+     act ``unlawful and dangerous,'' adding that law enforcement 
+     were investigating the incident. The statue had been a source 
+     of controversy, with school officials claiming that state law 
+     prevented them from removing it.
+
+
+                              Durham, N.C.
+
+       A nearly-century old statue of a Confederate soldier was 
+     toppled not long after Charlottesville by protesters 
+     associated with the Workers World party. North Carolina 
+     Central University student Takiyah Thompson, along with three 
+     others, were arrested and charged with felonies in the days 
+     following. As the bronze statue lay crumpled on the ground, 
+     protesters could be seen kicking it on social media. A 
+     Worthington assistant city manager said the community seeks 
+     to be one that ``promotes tolerance, respect and inclusion.''
+       A statue of Lee was removed from the entrance to Duke 
+     University Chapel on Aug. 19, 2017 and is set to be preserved 
+     in some way to study the university's ``complex past.''
+       ``I took this course of action to protect Duke Chapel, to 
+     ensure the vital safety of students and community members who 
+     worship there, and above all to express the deep and abiding 
+     values of our university,'' university President Vincent 
+     Price wrote in statement to the school.
+
+
+                             Franklin, Ohio
+
+       A monument to Lee was removed in August 2017 by Franklin 
+     workers. Gainesville, Fla.
+       A chapter of the United Daughters of the Confederacy paid 
+     for the removal of a monument to Confederate soldiers known 
+     locally as ``Old Joe'' that stood in front a building in 
+     downtown Gainesville for 113 years. It was moved to a private 
+     cemetery outside the city in August 2017.
+
+
+                             Helena, Mont.
+
+       The state's capital city on Aug. 18, 2017 removed a 
+     memorial to Confederate soldiers that had been in a public 
+     park since 1916. The granite fountain, which was dismantled, 
+     had been donated by the United Daughters of the Confederacy. 
+     City Parks and Recreation Director Amy Teegarden told the 
+     Spokesman-Review that the fountain initially will be stored 
+     in a city warehouse--but it could be reassembled at a future 
+     date.
+
+
+                            Kansas City, Mo.
+
+       A Confederate monument was boxed up in summer 2017 and is 
+     slated to be removed. The Missouri division of the United 
+     Daughters of the Confederacy had asked Kansas City Parks and 
+     Recreation to find a new home for it.
+
+
+                             Lexington, Ky.
+
+       Two 130-year-old Confederate statues were removed from 
+     downtown Lexington on October 18 after the state's attorney 
+     general issued an opinion giving the city permission to take 
+     them down and move them to a private cemetery. Lexington used 
+     private funds to take the statues, of Confederate General 
+     John Hunt Morgan and John Breckinridge, a former U.S. Vice 
+     President and the last Confederate Secretary of War. Private 
+     funds will cover the cost of their upkeep in the cemetery.
+
+
+                          Los Angeles, Calif.
+
+       A large stone monument commemorating Confederate veterans 
+     was taken down Aug. 16 from the Hollywood Forever Cemetery 
+     after hundreds of people demanded its removal. The 6-foot 
+     granite marker was loaded into a pickup truck and taken to a 
+     storage facility. A petition calling for it to be taken down 
+     had garnered 1,3000 signatures.
+
+
+                            Louisville, Ky.
+
+       A statue of a Confederate soldier was removed from the 
+     University of Louisville campus after a legal battle between 
+     the city residents, the mayor and the Sons of Confederate 
+     Veterans. It was relocated to Brandenburg, Kentucky, which 
+     hosts Civil War Reenactments.
+
+
+                             Madison, Wis.
+
+       A plaque honoring Confederate soldiers were removed Aug. 17 
+     from a cemetery not long after residents and city leaders 
+     began calling for it to be taken down. ``The Civil War was an 
+     act of insurrection and treason and a defense of the 
+     deplorable practice of slavery,'' said Mayor Paul Soglin in a 
+     statement. ``The monuments in question were connected to that 
+     action and we do not need them on city property.''
+
+
+                             Memphis, Tenn.
+
+       Crews removed two Confederate statues from Memphis parks on 
+     Dec. 20 after the city sold them to a private entity. The 
+     City Council voted unanimously earlier in the day to sell 
+     both Health Sciences and fourth Bluff Parks where the 
+     Confederate statues, of Confederate General Nathan Bedford 
+     Forrest and Confederate President Jefferson Davis, were 
+     located.
+
+
+                            Nashville, Tenn.
+
+       The Legendary Ryman Auditorium, where stars like Dolly 
+     Parton, Patsy Cline and Loretta Lynn made their Grand Ole 
+     Opry debuts, quietly moved a sign on Sept 21 hanging the 
+     venue's upper level that read ``1897 Confederate Gallery.'' 
+     Honoring an 1897 reunion of Confederate veterans at the 
+     Ryman, the sign had been shrouded over the years but has now 
+     been permanently removed from the main auditorium and added 
+     to a museum exhibit that explains the history of the 125-
+     year-old music hall.
+
+
+                            New Orleans, La.
+
+       New Orleans city workers removed four monuments in April 
+     dedicated to the Confederacy and opponents of Reconstruction. 
+     The city council had declared the monuments a public 
+     nuisance. The monuments removed were of Confederate General 
+     P.G.T. Beauregard, Davis and Lee. Also removed was the 
+     Liberty Place Monument, which commemorated a Reconstruction 
+     Era white supremacist attack on the city's integrated police 
+     force. The mayor plans to replace with new fountains and an 
+     American flag.
+
+
+                             New York, N.Y.
+
+       Busts of Lee and Jackson were removed overnight on Aug. 17 
+     from the Hall of Fame for Great Americans at Bronx Community 
+     College. Prior to its removal, Bro x Borough president Ruben 
+     Siaz Jr. had said ``there is nothing great about two men who 
+     committed treason against the United States to fight to keep 
+     the institution of slavery in tact.''
+
+
+                             Orlando, Fla.
+
+       A Confederate statue known as ``Johnny Reb'' was moved in 
+     June 2017 by officials from Lake Eola Park to Greenwood 
+     Cemetery in response to public outcry about it being symbolic 
+     of hate and white supremacy. A spokesperson for Orlando's 
+     mayor told Fox News that city officials are working with 
+     historians on a new inscription to put the monument ``in 
+     proper historical perspective.''
+
+
+                             Richmond, Va.
+
+       The Richmond school board voted 6-1 on June 18, 2018 to 
+     rename J.E.B. Stuart Elementary School to Barack Obama 
+     Elementary School. The process began several months prior and 
+     involved input from students, teachers, administrators and 
+     local stakeholders. Virginia is home to the largest number of 
+     Confederate monuments and symbols in the country.
+
+
+                             Rockville, Md.
+
+       A 13-ton bronze Confederate statue that had stood for 
+     decades next to Rockville's Red Brick Courthouse was 
+     relocated in July next to a privately run Potomac River ferry 
+     named for a Confederate general. The relocation cost about 
+     $100,000, according to the Washington Post.
+
+
+                           San Diego, Calif.
+
+       A plaque honoring Davis was quietly removed Aug. 16, 2017 
+     from a downtown park. ``This morning I ordered the immediate 
+     removal of a plaque honoring the Confederacy at Horton Plaza 
+     Park,'' Mayor Kevin
+       Faulconer told the Los Angeles Times. ``San Diegans stand 
+     together against Confederate symbols of division.''
+
+
+                           San Antonio, Texas
+
+       A Confederate statue was removed from Travis Park overnight 
+     Sept. 1, 2017 after the City Council voted 10-1 in favor of 
+     taking it down the previous day. There were no protesters 
+     during or after the removal, according to local media 
+     reports. ``This is, without context, a monument that 
+     glorifies the causes of the Confederacy, and that's not 
+     something that a modern city needs to have in a public 
+     square,'' said San Antonio Mayor Ron Nirenberg following the 
+     council vote.
+
+
+                           San Antonio, Texas
+
+       A Jefferson Davis highway marker was removed in 2016.
+
+
+                             St. Louis, Mo.
+
+       The Missouri Civil War Museum oversaw the removal in late 
+     June 2017 of a 32-foot granite and bronze monument from 
+     Forest Park, where it had stood for 103 years. It shouldered 
+     the costs of removal and will hold the monument in storage 
+     until a new home can be found for it. The agreement 
+     stipulates the monument can be re-displayed at a Civil War 
+     museum, battlefield or cemetery. In Boone County, a rock with 
+     a plaque honoring Confederate soldiers that had been removed 
+     from the University of Missouri campus was relocated a second 
+     time after the Charleston AEM church massacre to a historic 
+     site commemorating a nearby Civil War battle.
+
+[[Page H2589]]
+
+  
+
+
+
+                          St. Petersburg, Fla.
+
+       St. Petersburg Mayor Rick Kriseman ordered city workers to 
+     remove a bronze Confederate marker at noon on Aug. 15, 2017 
+     after determining that it was on city property. It's being 
+     held in storage until a new home can be found for it. ``The 
+     plaque recognizing a highway named after Stonewall Jackson 
+     has been removed and we will attempt to locate its owner,'' 
+     Kriseman said in a statement to the Tampa Bay Times.
+
+
+                            Washington, D.C.
+
+       The stewards of the National Mall announced this week that 
+     the exhibit alongside the Thomas Jefferson Memorial will be 
+     updated to showcase his status as both one of the country's 
+     founders and a slaveholder. ``We can reflect the momentous 
+     contributions of someone like Thomas Jefferson, but also 
+     consider carefully the complexity of who he was,'' an 
+     official with the Trust told the Washington Examiner. ``And 
+     that's not reflected right now in the exhibits.''
+       New Jersey Sen. Cory Booker introduced a bill in Sept. 2017 
+     to remove Confederate statues from the U.S. Capitol Building.
+       The National Cathedral voted that same month to take down 
+     two stained-glass windows of Confederate generals. The 
+     removal could take a few days and workers seen putting up 
+     scaffolding around the windows to start the process-
+       Florida Gov. Rick Scott, a Republican, signed a bill to 
+     replace a statue of a Confederate general at the U.S. Capitol 
+     with one of Mary McLeod Bethune, a black woman who founded a 
+     school that became BethuneCookman University in Daytona 
+     Beach, Florida. She'll become the first black female to be 
+     honored in Statuary Hall.
+
+
+                           Worthington, Ohio
+
+       Worthington removed a historic marker Aug. 18 outside the 
+     former home of a Confederate general.
+
+               [From the Huffington Post, Aug. 23, 2017]
+
+ Polls Find Little Support for Confederate Statue Removal--But How You 
+                              Ask Matters
+
+                        (By Ariel Edwards-Levy)
+
+       Americans are generally unsupportive of attempts to remove 
+     memorials honoring Confederate leaders, new polling shows--
+     although the way the question is framed may make a 
+     significant difference.
+       In a new HuffPost/YouGov poll, a third of Americans favor 
+     removing statues and memorials of Confederate leaders, with 
+     49 percent opposed. Just 29 percent of Americans favor 
+     changing the names of streets, schools and buildings 
+     commemorating Confederate leaders, while half are opposed.
+       Those surveyed are effectively split on whether the 
+     Confederate flag is more a symbol of Southern pride (36 
+     percent) or racism (35 percent), with the rest unsure or 
+     saying it represents neither. But even if Americans don't 
+     overwhelmingly recognize the flag as a symbol of racism, 
+     there's also little widespread enthusiasm for its use. Just 
+     34 percent of Americans say they approve of displaying the 
+     Confederate flag in public, while 47 percent disapprove.
+       Opinions on the Confederate memorials are divided along 
+     racial lines, but to an even greater degree along political 
+     ones. Black Americans are 18 percentage points likelier than 
+     white Americans to favor removing statues of Confederate 
+     leaders--but the gap between Democrats and Republicans on the 
+     question is 46 points. And the difference between Hillary 
+     Clinton voters and those who supported President Donald Trump 
+     in last year's election is a full 58 points.
+       Within the Democratic Party, white and black people are 
+     about equally likely to favor removing the statues: 64 
+     percent and 63 percent, respectively, say they'd like to see 
+     them taken down. There are differences, however, by ideology 
+     among the party's members--77 percent of self-described 
+     liberal Democrats, but just 40 percent of self-described 
+     moderates or conservatives--want to see the statues removed.
+       Most other surveys released in the past few weeks find at 
+     best modest support for removing Confederate memorials, 
+     although two distinctively-worded questions stand out in 
+     these results.
+       The strongest support for keeping memorials in place came 
+     in the poll conducted by Marist for NPR and PBS NewsHour, 
+     which gave respondents a choice between letting statues 
+     ``remain as a historical symbol'' and removing them ``because 
+     they are offensive to some people.'' (Arguably, the question 
+     might have been better balanced had the first option been 
+     written as ``because some people view them as a historical 
+     symbol.'')
+       The only poll to find majority support for removing some 
+     monuments, conducted by the Democratic firm Public Policy 
+     Polling, adopted a framework far more sympathetic to the 
+     monuments' opponents, asking about their ``relocation'' 
+     rather than their ``removal.''
+       PPP found voters split--39 percent to 34 percent--on 
+     whether they ``support or oppose monuments honoring the 
+     Confederacy.'' But those voters were largely willing to 
+     relocate Confederate monuments if the issue was instead 
+     presented as an attempt to move them ``to museums or other 
+     historic sites where they can be viewed in proper historical 
+     context.'' Unlike other questions, PPP also asked 
+     specifically about memorials on government property, rather 
+     than a broader question about public spaces.
+       Opinions surrounding Confederate symbols have also proved 
+     to be fairly mutable in response to current events. After a 
+     white supremacist killed nine members of a black church in 
+     Charleston, South Carolina, two years ago, support for the 
+     Confederate flag dropped quickly and significantly.
+       That doesn't appear to have happened yet following the 
+     violence earlier this month in Charlottesville, Virginia, 
+     sparked by a white nationalist rally opposing efforts to 
+     remove a statue of Confederate Gen. Robert E. Lee. But if the 
+     issue remains a flashpoint in the days to come, its 
+     prominence could possibly polarize views even further than 
+     they already are. (Charlottesville on Wednesday draped black 
+     shrouds over the Lee statue and one for Confederate Gen. 
+     Thomas ``Stonewall'' Jackson.)
+       Since Trump took office, Democrats have repeatedly rallied 
+     around opinions that serve as anti-Trump shibboleths, 
+     expressing sharply increased alarm about global warming, 
+     mistrust of Russia and support for immigration. While 
+     Democrats are already generally in favor of taking down the 
+     Confederate statues, their level of support for doing so 
+     ranges between 45 percent and 72 percent in recent surveys--
+     far lower than the party's almost unanimous dislike for the 
+     president.
+                                  ____
+
+
+                  [From the Federalist, June 12, 2020]
+
+Abolitionist Monuments Defaced by Anti-Racism' Rioters Is What Teaching 
+                       Fake History Gets America
+
+                           (By Joy Pullmann)
+
+       The imagery couldn't be more direct. Across the nation, 
+     rioting and unrest that has killed black Americans and 
+     destroyed black neighborhoods has included the defacement of 
+     historic monuments, including those to abolitionists.
+       The last wave of monument destruction, in 2017, largely 
+     focused on Confederates and slave holders, erasing all the 
+     accomplishments of figures such as George Washington and 
+     Thomas Jefferson with a scarlet S, for slave-holder. This 
+     time, the ignorance has descended even further.
+       The rioters are now tearing down and defacing memorials 
+     wantonly, apparently assuming that if someone is being 
+     celebrated that person is ``probably a racist,'' as the image 
+     below says.
+       This prejudiced ignorance appears to be widespread, and 
+     unchecked by local authorities. Several of the defaced 
+     monuments are of abolitionists, including the Great 
+     Emancipator Abraham Lincoln, as Tristan Justice reported 
+     Thursday. For example:
+       ``[I]n Boston, demonstrators also vandalized a monument to 
+     the 54th Massachusetts regiment, the second all-black 
+     volunteer regiment of the Union Army,'' Justice writes.'' . . 
+     . Add to the growing list of civil rights freedom fighters 
+     defaced by social justice protestors a Minnesota memorial to 
+     three black men who were lynched in 1920 following false rape 
+     accusations from a white woman.''
+       These mob actions are not the result of accidental 
+     ignorance, but of cultivated prejudice. One month ago, I 
+     collected just a few pieces of evidence pointing in this 
+     direction:
+
+       A 2019 poll found . . . that ``more than 80 percent of 
+     Americans ages 39 and younger could not say what rights the 
+     First Amendment protects, and three-quarters or more couldn't 
+     name any authors of The Federalist Papers.'' Another 2019 
+     poll found ``just 57 percent of millennials believe the 
+     Declaration of Independence `better guarantees freedom and 
+     equality' than the Communist Manifesto.'' A 2016 Federalist 
+     article notes, ``40 percent of recent grads were unaware that 
+     Congress has the right to declare war and 10 percent think 
+     Judge Judy is on the Supreme Court.''
+
+       In February, I presented more such evidence:
+
+       Today, 4 in 10 Americans who are younger than 39 disagree 
+     that the United States ``has a history we should be proud 
+     of,'' according to a 2019 poll by FLAG/YouGov. The poll also 
+     found that half of all Americans agree the United States is a 
+     sexist and racist country, including two-thirds of 
+     millennials. Millennials showed the lowest level of agreement 
+     with the statement, ``I'm proud to be an American.'' Thirty-
+     eight percent of ``younger Americans do not agree that 
+     `America has a history that we should be proud of,' '' 
+     according to the poll. 2019's annual poll from the Victims of 
+     Communism Memorial Foundation found that 37 percent of 
+     millennials think the United States is ``among the most 
+     unequal societies in the world.''
+
+       The anti-American group of recent graduates is not a fringe 
+     element. It is a substantial and ominously growing group of 
+     voting-age adults.
+       The recent riots have given us many more indications that 
+     America's education institutions do not merely keep kids 
+     ignorant, but actively teach them to hate their country. Just 
+     refer to any of the emails and website banners you've been 
+     subjected to from every company you've ever purchased from 
+     online, detailing about how they're all ``fighting racism'' 
+     by frantically donating to people and organizations that make 
+     a living off heightened racial tensions.
+       These messages reveal that the nation's leadership class 
+     has all been re-educated extremely successfully to believe a 
+     pack of things that just aren't true about American history 
+     and ideals. They are well-catechized in what is billed as 
+     antiracist attitudes and activities that are rooted in false 
+     information and more likely to instead increase racial 
+     tensions.
+       Hardly a one of them, or any other American, can tell you 
+     much about George Washington besides he was a slave owner. 
+     Hardly
+
+[[Page H2590]]
+
+     one of them can identify Woodrow Wilson and Franklin Delano 
+     Roosevelt as bona fide, deep-dyed racists. Not one of them 
+     know one of the first acts of Congress--the Congress that 
+     existed before today's Congress, the one that pre-dates the 
+     Constitution--was to pass a massive document outlawing 
+     slavery in territory newly acquired from Great Britain during 
+     postwar negotiations.
+       But they all have heard of Audre Lorde, whose great 
+     contribution to society is basically being black and gay. 
+     They are all up on movies directed by black women like Ava 
+     DuVernay and books by pathos-filled but fact-challenged black 
+     writers like Ta-Nehisi Coates. They all know Michael Brown 
+     put his hands up and said ``Don't shoot'' even though he 
+     didn't. They're passing around discredited fake history like 
+     The New York Times's 1619 Project as if it were accurate, and 
+     using it to justify supporting totalitarian thought policing 
+     because a black guy says this will solve racism.
+       These people's heads aren't empty. Their hate isn't blind. 
+     It's very well-formed. And it's been deliberately aimed at 
+     the very country that has paid for and overseen their 
+     indoctrination into political violence.
+       I've now spent about a decade tracking information like 
+     this, and have researched and written about it in more detail 
+     than most, and therefore can assure you there is much more to 
+     find. Entire books have and could be written to detail more. 
+     Each generation of American children has learned less real 
+     history than the generation before it. Each generation of 
+     American children has instead been subject to greater levels 
+     of indoctrination in place of genuine education. The alarms 
+     have been sounded for decades, even a century, and nothing 
+     effective has been done.
+       So now we have riots and unfettered monument smashing. This 
+     is no accident. It is a logical consequence of convincing 
+     ourselves, against all evidence, that America's public 
+     education institutions are largely sound outside a few 
+     crazies who never happen to be in one's own school district, 
+     and even if they were, one's own children would of course be 
+     impervious. Not like their stupid dupes of classmates, who in 
+     just a few short years will go on to vote and tear down 
+     monuments to American abolitionists in the name of anti-
+     racism.
+       This is what happens when conservatives spend 120 years 
+     complaining about the left controlling academia while the 
+     politicians conservatives vote for and cheerily profile in 
+     our publications keep increasing funding for these 
+     intellectual enemies of our country. Seventy years later, God 
+     and man are still objects of scorn at Yale, and so is our 
+     nation, but still we keep sending them our kids and money, 
+     hiring their graduates to teach our children and rule us, and 
+     funding their students.
+       The postwar convention of Minnesota niceness in politics 
+     has been a disaster. That's because cowardice ultimately is 
+     not nice. It leaves the innocent and the vulnerable 
+     defenseless. And, as with Stockholm Syndrome, some of the 
+     preyed upon ultimately turn predator themselves after 
+     identifying too strongly with their captors.
+       How many more statues and American minds have to get 
+     smashed before people who genuinely love their country gain 
+     the courage to start fighting effectively for her restoration 
+     before it's too late? Here's part of what that would look 
+     like: Civil authorities first stopping vandalism and pursuing 
+     the vandals to mete out their just, legally determined 
+     penalties; second, politicians who claim to love America 
+     fighting for her by refusing to send public funds to 
+     institutions that fail to prove their graduates honor the 
+     country that pays for their education. At this point, that's 
+     just about all of them.
+       It's time for a new, non-racist boycott, divest, sanction 
+     movement--for taxpayer-funded education. Liberate public 
+     funds from these institutions with a century-long record of 
+     failure. Return it to families. At least half of them will be 
+     delighted to choose pro-America schools. That's a lot more 
+     than pick proAmerica schools now. It would give this country 
+     a chance to strive toward its ideals once more rather than 
+     burn them in chaos.
+                                  ____
+
+
+                  [From the Federalist, Aug. 17, 2017]
+
+  Here's a List of All the Monuments Liberals Want To Tear Down So Far
+
+                            (By Bre Payton)
+
+       In the wake of the violence that took place in 
+     Charlottesville over last weekend, numerous activists and 
+     politicians have called for the destruction of more 
+     historical monuments, although a significant majority of 
+     Americans (62 percent) think the monuments should stay put. 
+     Only 27 percent of Americans think these statues should be 
+     removed for fear of offending some people. As usual, public 
+     opinion's not stopping liberals from pursuing an unpopular 
+     agenda.
+       Though by no means comprehensive, here's a list of the 
+     monuments that are facing calls for removal or have already 
+     been torn down.
+
+
+               1. The Jefferson Memorial in Washington DC
+
+       In a PBS interview, Al Sharpton called for the Jefferson 
+     Memorial in Washington DC to be abandoned because the third 
+     president of the United States and author of the Declaration 
+     of Independence was a slave owner.
+
+
+                       2. Statues In The Capitol
+
+       Rep. Nancy Pelosi (D-Calif.) and Sen. Cory Booker (D-N.J.) 
+     have both called for statues commemorating Confederates to be 
+     removed from the U.S. Capitol.
+
+
+                           3. Mount Rushmore
+
+       Vice News's Wilbert L. Cooper called for Mount Rushmore to 
+     be destroyed because the U.S. presidents whose visages are 
+     carved into the mountainside are problematic by today's 
+     standards.
+
+
+                       4. Monuments In Baltimore
+
+       Baltimore Mayor Catherine Pugh had Civil War monuments 
+     removed from the city in the cover of night, without any 
+     public hearings or any public discussion process. Pugh told 
+     The New York Times that she used her emergency powers as 
+     mayor to take down statues of Robert E. Lee and Stonewall 
+     Jackson from a public park--surprising even some members of 
+     the city council.
+       Maryland Gov. Larry Hogan also called for a statue 
+     memorializing Roger B. Taney, a Supreme Court justice who 
+     penned the infamous Dred Scott decision. which determined 
+     that anyone descended from a slave could not be an American 
+     citizen, be removed from the pedestal where it had been 
+     erected since 1887.
+
+
+                           5. Stone Mountain
+
+       Democratic gubernatorial candidate Stacey Abrams called for 
+     a frieze depicting Confederate soldiers to be removed from 
+     Stone Mountain in Georgia.
+
+
+                 6. Albert Pike Statue In Washington DC
+
+       In Washington DC, a group of protestors gathered on Sunday 
+     to call for the statue of Albert Pike, a Confederate general, 
+     to be torn down.
+
+
+          7. Chicago Parks Named After Washington And Jackson
+
+       A Chicago pastor has asked the mayor to remove the names of 
+     two former presidents--George Washington and Andrew Jackson--
+     from city parks because both men owned slaves.
+
+
+       8. Confederate Soldiers Monument In Durham, North Carolina
+
+       The Confederate Soldiers Monument was torn down by 
+     protesters from its spot in front of the old Durham County 
+     Courthouse on Monday. Four have been arrested in connection 
+     to this instance of vandalism. The Workers World Party 
+     released a statement claiming that it should be their right 
+     to tear the monuments down.
+
+
+          9. Monuments Throughout The State of North Carolina
+
+       North Carolina Gov. Roy Cooper has called for additional 
+     monuments to be torn down and is asking the state legislature 
+     to repeal a 2015 law that prevents the destruction of Civil 
+     War monuments.
+
+
+             10. Monuments Throughout The State of Virginia
+
+       In a statement released Wednesday afternoon, Virginia Gov. 
+     Terry McAuliffe is asking state legislators and city 
+     officials to tear down monuments throughout the Old Dominion.
+
+
+              11. `Old Joe' Statue In Gainesville, Florida
+
+       In Gainesville, Florida, a statue of a Confederate soldier 
+     was removed Monday from outside a county administrative 
+     building.
+
+
+                   12. Statues In Lexington, Kentucky
+
+       The City Council of Lexington, Kentucky voted unanimously 
+     on Tuesday to remove Confederate statues from the lawn in 
+     front of an old county courthouse. In response, a white 
+     nationalist group is reportedly planning a protest.
+
+
+                  13. Statues In Louisville, Kentucky
+
+       On Monday, protesters gathered in favor of removing a 
+     statue of Civil War officer John B. Castleman from 
+     Louisville, Kentucky.
+
+
+ 14. Statues In Nashville Tennessee, Including One On Private Property
+
+       In Nashville, Tennessee, protestors gathered to call for 
+     the removal of a monument depicting Nathan Bedford Forrest, a 
+     lieutenant in the Confederate army, from the state capitol on 
+     Monday. People have also called for a memorial of Forrest, 
+     which sits on private property, to be hidden from view of the 
+     nearby highway.
+
+
+        15. Two Statues Vandalized In Wilmington, North Carolina
+
+       ``A white flag was hung on the gun of the statue and its 
+     head and feet were spray painted,'' WECT reports. ``Officers 
+     were called back to the scene and found a rope tied to the 
+     statue's neck. Upon examination, officers said they believe 
+     it was likely tied to a vehicle in an attempt to pull the 
+     statue over.'' Another statue was marked with graffiti.
+
+
+                  16. A Cemetery Marker In Los Angeles
+
+       A statue that stood in the Confederate section of Hollywood 
+     Forever Cemetery for more than 90 years was toppled on 
+     Wednesday, Los Angeles Times reports. A plaque commemorating 
+     Jefferson Davis was also removed from a park this week.
+  Mr. BIGGS. Madam Speaker, I will say that as we go forward, if we 
+continue to denigrate all police officers because of a few police 
+officers, if we denigrate all of our society because of a few in our 
+society, we will see this Nation, the ideals of individual freedom, 
+erased from this Earth.
+  I used to do work at multilateral institutions and at the United 
+Nations, and I will tell you this: This country, to me, is special and 
+unique; imperfect, but the idea, the ideals, the people who have gone 
+before us, how can we erase what they have done? Some made magnificent 
+sacrifices that we might enjoy the freedoms we enjoy today, and yet 
+they were wrong on other issues in their lives.
+
+[[Page H2591]]
+
+  How can we erase our history? We must face our history squarely and 
+openly and build upon that history to the great promise of the ideals 
+of this Nation if we are going to persist as a Nation.
+  Madam Speaker, I yield back the balance of my time.
+
+                          ____________________
+```

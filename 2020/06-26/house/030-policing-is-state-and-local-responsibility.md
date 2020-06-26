@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-06-26-pt1-PgH2581
+date: 2020-06-26
+edition: CREC
+section: HOUSE
+page: H2581
+citation: 166 Cong. Rec. H2581
+---
+
+# POLICING IS STATE AND LOCAL RESPONSIBILITY
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+                              {time}  1715
+               POLICING IS STATE AND LOCAL RESPONSIBILITY
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Madam Speaker, the vast majority of law enforcement 
+across the country are good. They are competent. They are professional. 
+And they serve with integrity. And when they don't, with the immense 
+power they have over their fellow citizens, they must be held 
+accountable, but that starts at the local level.
+  Policing is a State and local responsibility, not a Federal 
+responsibility. When local leaders fail to do their job and citizens 
+fail to hold them accountable, the system breaks down. You have 
+incidences of abuse and, sometimes, cultures of corruption.
+  So what is the solution? It is not another top-down, one-size-fits-
+all from Washington, D.C.
+  We don't need to Federalize policing. We need to hold our local 
+leaders accountable. We need to come alongside of them at all levels of 
+government to make sure that we don't recycle the bad actors. So we get 
+rid of them. And if we do, then the 1 percent won't take the 99 percent 
+that are protecting and serving us and risking their lives to do so.
+
+                          ____________________
+```

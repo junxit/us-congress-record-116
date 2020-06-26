@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-06-26-pt1-PgH2520
+date: 2020-06-26
+edition: CREC
+section: HOUSE
+page: H2520
+citation: 166 Cong. Rec. H2520
+---
+
+# SENATE MUST PASS JUSTICE IN POLICING ACT
+
+**Speaking:** Meng, Grace (M001188) [D-NY]
+
+```
+                SENATE MUST PASS JUSTICE IN POLICING ACT
+
+  (Ms. MENG asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. MENG. Mr. Speaker, I rise today because our Nation is screaming 
+out, grieving for those killed by police brutality and racial 
+injustice.
+  I rise today because, for 8 minutes and 46 seconds, a police officer 
+pressed his knee on George Floyd's neck, slowly killing him, but we 
+know there are countless more who will forever remain faceless and 
+nameless because their stories were never recorded.
+  I rise today because Black lives matter.
+  Last night, I proudly voted to pass this historic, transformative 
+bill, the Justice in Policing Act.
+  This bill would finally put in place unprecedented and bold reforms 
+to curb police brutality and racial profiling and combat the epidemic 
+of racial injustice.
+  Mr. Speaker, we cannot turn our backs on the cries for justice. We 
+cannot go back to a system that would look the other way when faced 
+with police brutality.
+  The Senate must follow the House's lead and immediately pass this 
+bill because this moment of national anguish demands nothing less.
+
+                          ____________________
+```

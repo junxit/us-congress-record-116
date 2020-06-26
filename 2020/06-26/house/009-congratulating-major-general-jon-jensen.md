@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-06-26-pt1-PgH2519-8
+date: 2020-06-26
+edition: CREC
+section: HOUSE
+page: H2519
+citation: 166 Cong. Rec. H2519
+---
+
+# CONGRATULATING MAJOR GENERAL JON JENSEN
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+                CONGRATULATING MAJOR GENERAL JON JENSEN
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STAUBER. Mr. Speaker, it is my honor to stand here today and 
+congratulate Major General Jon Jensen of the Minnesota National Guard 
+on his recent nomination to become the next Director of the Army 
+National Guard.
+  Major General Jensen is a proven leader with an extraordinary record 
+of
+
+[[Page H2520]]
+
+service to the great State of Minnesota and our Nation.
+  Currently, Major General Jensen serves as the adjutant general of the 
+Minnesota National Guard, meaning that he is the highest ranking 
+guardsman in our State. Major General Jensen has also held numerous 
+other leadership positions during his 37 years with the National Guard.
+  Throughout his entire career, Major General Jensen has served with 
+the highest level of dedication. His service has earned him the respect 
+of the public; countless government officials; and, most importantly, 
+his fellow guardsmen.
+  On behalf of the entire State of Minnesota, I thank Major General Jon 
+Jensen for his service and congratulate him on this well-deserved 
+nomination.
+  Major General Jensen's rich experience makes him the perfect fit for 
+the position, and I look forward to seeing him confirmed by the United 
+States Senate soon.
+
+                          ____________________
+```
