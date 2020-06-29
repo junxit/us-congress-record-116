@@ -1,0 +1,251 @@
+---
+granule: CREC-2020-06-29-pt1-PgS3719
+date: 2020-06-29
+edition: CREC
+section: SENATE
+page: S3719
+citation: 166 Cong. Rec. S3719
+---
+
+# Text of Senate Amendment 2275
+
+**Speaking:** Peters, Gary C. (P000595) [D-MI]
+
+```
+  SA 2275. Mr. PETERS (for himself, Mr. Johnson, Mr. King, and Mr. 
+Sasse) submitted an amendment intended to be proposed by him to the 
+bill S. 4049, to authorize appropriations for fiscal year 2021 for 
+military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. CONTINUITY OF THE ECONOMY PLAN.
+
+       (a) Requirement.--
+       (1) In general.--The President shall develop and maintain a 
+     plan to maintain and restore the economy of the United States 
+     in response to a significant event.
+       (2) Principles.--The plan required under paragraph (1) 
+     shall--
+       (A) be consistent with--
+       (i) a free market economy; and
+       (ii) the rule of law; and
+       (B) respect private property rights.
+       (3) Contents.--The plan required under paragraph (1) 
+     shall--
+       (A) examine the distribution of goods and services across 
+     the United States necessary for the reliable functioning of 
+     the United States during a significant event;
+       (B) identify the economic functions of relevant actors, the 
+     disruption, corruption, or dysfunction of which would have a 
+     debilitating effect in the United States on--
+       (i) security;
+       (ii) economic security;
+       (iii) defense readiness; or
+       (iv) public health or safety;
+       (C) identify the critical distribution mechanisms for each 
+     economic sector that should be prioritized for operation 
+     during a significant event, including--
+       (i) bulk power and electric transmission systems;
+       (ii) national and international financial systems, 
+     including wholesale payments, stocks, and currency exchanges;
+       (iii) national and international communications networks, 
+     data-hosting services, and cloud services;
+       (iv) interstate oil and natural gas pipelines; and
+       (v) mechanisms for the interstate and international trade 
+     and distribution of materials, food, and medical supplies, 
+     including road, rail, air, and maritime shipping;
+       (D) identify economic functions of relevant actors, the 
+     disruption, corruption, or dysfunction of which would cause--
+       (i) catastrophic economic loss;
+       (ii) the loss of public confidence; or
+       (iii) the widespread imperilment of human life;
+       (E) identify the economic functions of relevant actors that 
+     are so vital to the economy of the United States that the 
+     disruption, corruption, or dysfunction of those economic 
+     functions would undermine response, recovery, or mobilization 
+     efforts during a significant event;
+       (F) incorporate, to the greatest extent practicable, the 
+     principles and practices contained within Federal plans for 
+     the continuity of Government and continuity of operations;
+       (G) identify--
+       (i) industrial control networks on which the interests of 
+     national security outweigh the benefits of dependence on 
+     internet connectivity, including networks that are required 
+     to maintain defense readiness; and
+       (ii) for each industrial control network described in 
+     clause (i), the most feasible and optimal locations for the 
+     installation of--
+
+       (I) parallel services;
+       (II) stand-alone analog services; and
+       (III) services that are otherwise hardened against failure;
+
+       (H) identify critical economic sectors for which the 
+     preservation of data in a protected, verified, and 
+     uncorrupted status would be required for the quick recovery 
+     of the economy of the United States in the face of a 
+     significant disruption following a significant event;
+       (I) include a list of raw materials, industrial goods, and 
+     other items, the absence of which would significantly 
+     undermine the ability of the United States to sustain the 
+     functions described in subparagraphs (B), (D), and (E);
+       (J) provide an analysis of supply chain diversification for 
+     the items described in subparagraph (I) in the event of a 
+     disruption caused by a significant event;
+       (K) include--
+       (i) a recommendation as to whether the United States should 
+     maintain a strategic reserve of 1 or more of the items 
+     described in subparagraph (I); and
+       (ii) for each item described in subparagraph (I) for which 
+     the President recommends maintaining a strategic reserve 
+     under clause (i), an identification of mechanisms for 
+     tracking inventory and availability of the item in the 
+     strategic reserve;
+       (L) identify mechanisms in existence on the date of 
+     enactment of this Act and mechanisms that can be developed to 
+     ensure that the swift transport and delivery of the items 
+     described in subparagraph (I) is feasible in the event of a 
+     distribution network disturbance or degradation, including a 
+     distribution network disturbance or degradation caused by a 
+     significant event;
+       (M) include guidance for determining the prioritization for 
+     the distribution of the items described in subparagraph (I), 
+     including distribution to States and Indian Tribes;
+       (N) consider the advisability and feasibility of mechanisms 
+     for extending the credit of the United States or providing 
+     other financial support authorized by law to key participants 
+     in the economy of the United States if the extension or 
+     provision of other financial support--
+       (i) is necessary to avoid severe economic degradation; or
+       (ii) allows for the recovery from a significant event;
+       (O) include guidance for determining categories of 
+     employees that should be prioritized to continue to work in 
+     order to sustain the functions described in subparagraphs 
+     (B), (D), and (E) in the event that there are limitations on 
+     the ability of individuals to travel to workplaces or to work 
+     remotely, including considerations for defense readiness;
+       (P) identify critical economic sectors necessary to provide 
+     material and operational support to the defense of the United 
+     States;
+       (Q) determine whether the Secretary of Homeland Security, 
+     the National Guard, and the Secretary of Defense have 
+     adequate authority to assist the United States in a recovery 
+     from a severe economic degradation caused by a significant 
+     event;
+       (R) review and assess the authority and capability of heads 
+     of other agencies that the President determines necessary to 
+     assist the United States in a recovery from a severe economic 
+     degradation caused by a significant event; and
+       (S) consider any other matter that would aid in protecting 
+     and increasing the resilience of the economy of the United 
+     States from a significant event.
+       (b) Coordination.--In developing the plan required under 
+     subsection (a)(1), the President shall--
+       (1) receive advice from--
+       (A) the Secretary of Homeland Security;
+       (B) the Secretary of Defense;
+       (C) the Secretary of the Treasury;
+       (D) the Secretary of Health and Human Services;
+       (E) the Secretary of Commerce;
+
+[[Page S3720]]
+
+       (F) the Secretary of Transportation;
+       (G) the Secretary of Energy;
+       (H) the Administrator of the Small Business Administration; 
+     and
+       (I) the head of any other agency that the President 
+     determines necessary to complete the plan;
+       (2) consult with economic sectors relating to critical 
+     infrastructure through sector-coordinated councils, as 
+     appropriate;
+       (3) consult with relevant State, Tribal, and local 
+     governments and organizations that represent those 
+     governments; and
+       (4) consult with any other non-Federal entity that the 
+     President determines necessary to complete the plan.
+       (c) Submission to Congress.--
+       (1) In general.--Not later than 2 years after the date of 
+     enactment of this Act, and not less frequently than every 3 
+     years thereafter, the President shall submit the plan 
+     required under subsection (a)(1) and the information 
+     described in paragraph (2) to--
+       (A) the majority and minority leaders of the Senate;
+       (B) the Speaker and the minority leader of the House of 
+     Representatives;
+       (C) the Committee on Armed Services of the Senate;
+       (D) the Committee on Armed Services of the House of 
+     Representatives;
+       (E) the Committee on Homeland Security and Governmental 
+     Affairs of the Senate;
+       (F) the Committee on Homeland Security of the House of 
+     Representatives;
+       (G) the Committee on Health, Education, Labor, and Pensions 
+     of the Senate;
+       (H) the Committee on Commerce, Science, and Transportation 
+     of the Senate;
+       (I) the Committee on Energy and Commerce of the House of 
+     Representatives;
+       (J) the Committee on Banking, Housing, and Urban Affairs of 
+     the Senate;
+       (K) the Committee on Finance of the Senate;
+       (L) the Committee on Financial Services of the House of 
+     Representatives;
+       (M) the Committee on Small Business and Entrepreneurship of 
+     the Senate;
+       (N) the Committee on Small Business of the House of 
+     Representatives;
+       (O) the Committee on Energy and Natural Resources of the 
+     Senate;
+       (P) the Committee on Environment and Public Works of the 
+     Senate; and
+       (Q) any other committee of the Senate or the House of 
+     Representatives that has jurisdiction over the subject of the 
+     plan.
+       (2) Additional information.--The information described in 
+     this paragraph is--
+       (A) any change to Federal law that would be necessary to 
+     carry out the plan required under subsection (a)(1); and
+       (B) any proposed changes to the funding levels provided in 
+     appropriation Acts for the most recent fiscal year that can 
+     be implemented in future appropriation Acts or additional 
+     resources necessary to--
+       (i) implement the plan required under subsection (a)(1); or
+       (ii) maintain any program offices and personnel necessary 
+     to--
+
+       (I) maintain the plan required under subsection (a)(1) and 
+     the plans described in subsection (a)(3)(F); and
+       (II) conduct exercises, assessments, and updates to the 
+     plans described in subclause (I) over time.
+
+       (3) Budget of the president.--The President may include the 
+     information described in paragraph (2)(B) in the budget 
+     required to be submitted by the President under section 
+     1105(a) of title 31, United States Code.
+       (d) Definitions.--In this section:
+       (1) The term ``agency'' has the meaning given the term in 
+     section 551 of title 5, United States Code.
+       (2) The term ``economic sector'' means a sector of the 
+     economy of the United States.
+       (3) The term ``relevant actor'' means--
+       (A) the Federal government;
+       (B) a State, local, or Tribal government; or
+       (C) the private sector.
+       (4) The term ``significant event'' means an event that 
+     causes severe degradation to economic activity in the United 
+     States due to--
+       (A) a cyber attack; or
+       (B) another significant event that is natural or human-
+     caused.
+       (5) The term ``State'' means any State of the United 
+     States, the District of Columbia, the Commonwealth of Puerto 
+     Rico, the Virgin Islands, Guam, American Samoa, the 
+     Commonwealth of the Northern Mariana Islands, and any 
+     possession of the United States.
+                                 ______
+```
