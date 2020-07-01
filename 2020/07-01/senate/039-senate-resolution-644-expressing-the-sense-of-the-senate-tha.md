@@ -1,0 +1,87 @@
+---
+granule: CREC-2020-07-01-pt1-PgS4146
+date: 2020-07-01
+edition: CREC
+section: SENATE
+page: S4146
+citation: 166 Cong. Rec. S4146
+---
+
+# SENATE RESOLUTION 644--EXPRESSING THE SENSE OF THE SENATE THAT THE UNITED STATES POSTAL SERVICE SHOULD REMAIN A STRONG AND UNIVERSAL SERVICE FOR THE PEOPLE OF THE UNITED STATES, AND SHOULD RECEIVE...
+
+**Measures:** S.Res. 644
+
+```
+  SENATE RESOLUTION 644--EXPRESSING THE SENSE OF THE SENATE THAT THE 
+   UNITED STATES POSTAL SERVICE SHOULD REMAIN A STRONG AND UNIVERSAL 
+  SERVICE FOR THE PEOPLE OF THE UNITED STATES, AND SHOULD RECEIVE AN 
+  APPROPRIATION TO OFFSET REVENUES LOST DUE TO THE COVID-19 EMERGENCY
+
+  Mr. BOOKER (for himself, Mr. Schumer, Mr. Peters, Mr. Blumenthal, Mr. 
+Whitehouse, Mr. Carper, Mrs. Gillibrand, Mr. Jones, Mr. Coons, Mr. 
+Reed, Ms. Baldwin, Mr. Sanders, Ms. Smith, Mr. Menendez, Ms. Rosen, Mr. 
+Bennet, Mr. Udall, Mrs. Feinstein, Ms. Harris, Mr. Merkley, Mr. King, 
+Ms. Sinema, Mr. Markey, Mrs. Murray, Mr. Tester, Mr. Durbin, Mr. 
+Murphy, Ms. Hirono, Mr. Manchin, Mr. Cardin, Ms. Stabenow, Ms. 
+Klobuchar, Mr. Brown, Ms. Duckworth, Ms. Warren, Mr. Van Hollen, Mr. 
+Wyden, Ms. Cantwell, Ms. Hassan, Ms. Cortez Masto, Mrs. Shaheen, Mr. 
+Heinrich, Mr. Schatz, Mr. Kaine, Mr. Casey, Mr. Leahy, and Mr. Warner) 
+submitted the following resolution; which was referred to the Committee 
+on Homeland Security and Governmental Affairs:
+
+                              S. Res. 644
+
+       Whereas the United States Postal Service is, by law, ``a 
+     basic and fundamental service provided to the people by the 
+     Government of the United States, authorized by the 
+     Constitution, created by Act of Congress, and supported by 
+     the people'';
+       Whereas the United States Postal Service is obligated under 
+     the law to ``provide prompt, reliable, and efficient services 
+     to patrons in all areas'' and ``render services to all 
+     communities'', in such a way so that ``the costs of the 
+     Postal Service shall not be apportioned to impair the overall 
+     value of such service to the people'';
+       Whereas the United States Postal Service maintains a 
+     universal network that connects all rural, suburban, and 
+     urban communities in the United States;
+       Whereas the United States Postal Service carries necessary 
+     correspondence and goods to each community, including 
+     prescriptions and critical medications;
+       Whereas the United States Postal Service uniquely serves 
+     ``the last mile'', delivering to every business and 
+     residential customer not fewer than 6 days per week;
+       Whereas the United States Postal Service helps small 
+     businesses stay connected with their customers no matter 
+     where they live;
+       Whereas more than 630,000 employees work for the United 
+     States Postal Service, including more than 97,000 military 
+     veterans, to carry out this mission; and
+       Whereas the United States Postal Service is at the center 
+     of the mailing industry, which generates $1,600,000,000,000 
+     annually and employs approximately 7,300,000 individuals in 
+     the United States: Now, therefore, be it
+       Resolved, That it is the sense of the Senate--
+       (1) that the United States Postal Service--
+       (A) should not close post offices or facilities, especially 
+     in areas that would otherwise lack access to the services 
+     these facilities provide;
+       (B) should not reduce its standards of service, or prevent 
+     individuals and businesses in every community from receiving 
+     their mail expediently and predictably;
+       (C) should not unduly or excessively raise the prices of 
+     its products or services in such a way as to jeopardize the 
+     affordability and accessibility of such products and services 
+     in each community across the nation; and
+       (D) should maintain prompt, reliable, and efficient 
+     services to all patrons affordably, as required under the law 
+     and by the people of the United States; and
+       (2) that Congress should appropriate funds to offset lost 
+     revenues of the United States Postal Service during the 
+     COVID-19 emergency and should take all appropriate measures 
+     to ensure the United States Postal Service maintains its 
+     services and remains an accessible, independent establishment 
+     of the Federal Government.
+
+                          ____________________
+```

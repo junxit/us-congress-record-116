@@ -1,0 +1,49 @@
+---
+granule: CREC-2020-07-01-pt1-PgH3044-5
+date: 2020-07-01
+edition: CREC
+section: HOUSE
+page: H3044
+citation: 166 Cong. Rec. H3044
+---
+
+# ONE $1,200 CHECK IS NOT ENOUGH
+
+**Speaking:** Clarke, Yvette D. (C001067) [D-NY]
+
+```
+                     ONE $1,200 CHECK IS NOT ENOUGH
+
+  (Ms. CLARKE of New York asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. CLARKE of New York. Madam Speaker, I rise today to reemphasize 
+the urgent need for the U.S. Senate to pass the HEROES Act.
+  Communities across the country have been and continue to be ravaged 
+by the health and economic impacts of the COVID-19 pandemic. One $1,200 
+check is not enough to cover 3 months of expenses for millions of out-
+of-work Americans, and many families are still missing a check.
+  Millions of Americans are behind on rent and unable to pay their 
+bills, worried they may be evicted from their homes. Frontline workers 
+are risking their lives and the lives of their loved ones to ensure 
+that our communities and our people can continue to thrive.
+  The coronavirus is resurging across the country, and this 
+administration is shutting down Federal testing sites in impacted 
+communities.
+  The HEROES Act will provide payments to families, create a national 
+moratorium on evictions and foreclosures, provide hazard pay for 
+frontline workers, and provide billions for testing and contact 
+tracing.
+  While Americans suffer from this crisis, the leadership on the Senate 
+side sits behind his desk, refusing to hold votes on a bill that will 
+provide support and relief for millions of Americans in need.
+  Madam Speaker, it is time for Senator McConnell to lead with empathy 
+and pass this legislation.
+  As a representative of one of the hardest hit communities by the
+
+[[Page H3045]]
+
+coronavirus, I know, now more than ever, we must pass this landmark 
+bill into law, and do it now.
+
+                          ____________________
+```
