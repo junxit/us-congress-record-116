@@ -1,0 +1,51 @@
+---
+granule: CREC-2020-07-02-pt1-PgS4241-3
+date: 2020-07-02
+edition: CREC
+section: SENATE
+page: S4241
+citation: 166 Cong. Rec. S4241
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+        THOMPSON MICHAEL DIETZ, OF NEW JERSEY, TO BE A JUDGE OF 
+     THE UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF 
+     FIFTEEN YEARS, VICE VICTOR J. WOLSKI, TERM EXPIRED.
+        TAYLOR B. MCNEEL, OF MISSISSIPPI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF MISSISSIPPI, VICE 
+     LOUIS GUIROLA, JR. , RETIRED.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. TONY D. BAUERNFEIND
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES MARINE CORPS TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be brigadier general
+
+COL. DAVID NATHANSON
+
+                          ____________________
+```
