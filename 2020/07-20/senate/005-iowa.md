@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-07-20-pt1-PgS4251-4
+date: 2020-07-20
+edition: CREC
+section: SENATE
+page: S4251
+citation: 166 Cong. Rec. S4251
+---
+
+# IOWA
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA], McConnell, Mitch (M000355) [R-KY]
+
+```
+                                  IOWA
+
+  Mr. GRASSLEY. Mr. President, representative government is a two-way 
+street. To hold up my part of that commitment, I am on my 40th year of 
+holding at least one Q&A in every county every year. Over the past 2 
+weeks, I had Q&As in 29 counties. Iowans raised their concerns about 
+the virus, unemployment insurance, the rising cost of prescription 
+drugs, China, and access to rural broadband.
+  Iowans applauded Congress's swift action on programs like the 
+Paycheck Protection Program and getting much needed resources to our 
+rural healthcare workers.
+  As always, I will continue to bring Iowans' voices to the 
+policymaking tables, and I look forward to finishing my annual 99 
+county meetings later this year.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

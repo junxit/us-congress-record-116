@@ -1,0 +1,442 @@
+---
+granule: CREC-2020-07-20-pt1-PgS4302
+date: 2020-07-20
+edition: CREC
+section: SENATE
+page: S4302
+citation: 166 Cong. Rec. S4302
+---
+
+# Text of Senate Amendment 2477
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+```
+  SA 2477. Mr. LEE (for himself, Mr. Peters, Mr. Johnson, Mr. Udall, 
+Mr. Toomey, Mr. Romney, Mr. Cornyn, and Mr. Portman) submitted an 
+amendment intended to be proposed to amendment SA 2301 proposed by Mr. 
+Inhofe to the bill S. 4049, to authorize appropriations for fiscal year 
+2021 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+        At appropriate place, insert the following:
+
+            TITLE ___--LEADERSHIP OVER NATIONAL EMERGENCIES
+
+     SEC. ___. SHORT TITLE.
+
+       This title may be cited as the ``Assuring that Robust, 
+     Thorough, and Informed Congressional Leadership is Exercised 
+     Over National Emergencies Act'' or the ``ARTICLE ONE Act''.
+
+     SEC. ___. CONGRESSIONAL REVIEW OF NATIONAL EMERGENCIES.
+
+       Title II of the National Emergencies Act (50 U.S.C. 1621 et 
+     seq.) is amended by striking sections 201 and 202 and 
+     inserting the following:
+
+     ``SEC. 201. DECLARATIONS OF NATIONAL EMERGENCIES.
+
+       ``(a) Authority To Declare National Emergencies.--With 
+     respect to Acts of Congress authorizing the exercise, during 
+     the period of a national emergency, of any special or 
+     extraordinary power, the President is authorized to declare 
+     such a national emergency by proclamation. Such proclamation 
+     shall immediately be transmitted to Congress and published in 
+     the Federal Register.
+       ``(b) Specification of Provisions of Law To Be Exercised.--
+     No powers or authorities made available by statute for use 
+     during the period of a national emergency shall be exercised 
+     unless and until the President specifies the provisions of 
+     law under which the President proposes that the President or 
+     other officers will act in--
+       ``(1) a proclamation declaring a national emergency under 
+     subsection (a); or
+       ``(2) one or more Executive orders relating to the 
+     emergency published in the Federal Register and transmitted 
+     to Congress.
+       ``(c) Prohibition on Subsequent Actions if Emergencies Not 
+     Approved.--
+       ``(1) Subsequent declarations.--If a joint resolution of 
+     approval is not enacted under section 203 with respect to a 
+     national emergency before the expiration of the 30-day period 
+     described in section 202(a), or with respect to a national 
+     emergency proposed to be renewed under section 202(b), the 
+     President may not, during the remainder of the term of office 
+     of that President, declare a subsequent national emergency 
+     under subsection (a) with respect to the same circumstances.
+       ``(2) Exercise of authorities.--If a joint resolution of 
+     approval is not enacted under section 203 with respect to a 
+     power or authority specified by the President in a 
+     proclamation under subsection (a) or an Executive order under 
+     subsection (b)(2) with respect to a national emergency, the 
+     President may not, during the remainder of the term of office 
+     of that President, exercise that power or authority with 
+     respect to that emergency.
+       ``(d) Effect of Future Laws.--No law enacted after the date 
+     of the enactment of this Act shall supersede this title 
+     unless it does so in specific terms, referring to this title, 
+     and declaring that the new law supersedes the provisions of 
+     this title.
+
+     ``SEC. 202. EFFECTIVE PERIODS OF NATIONAL EMERGENCIES.
+
+       ``(a) Temporary Effective Periods.--
+       ``(1) In general.--A declaration of a national emergency 
+     shall remain in effect for 30 days from the issuance of the 
+     proclamation under section 201(a) (not counting the day on 
+     which the proclamation was issued) and shall terminate when 
+     that 30-day period expires unless there is enacted into law a 
+     joint resolution of approval under section 203 with respect 
+     to the proclamation.
+       ``(2) Exercise of powers and authorities.--Any emergency 
+     power or authority made available under a provision of law 
+     specified pursuant to section 201(b) may be exercised 
+     pursuant to a declaration of a national emergency for 30 days 
+     from the issuance of the proclamation or Executive order (not 
+     counting the day on which such proclamation or Executive 
+     order was issued). That power or authority may not be 
+     exercised after that 30-day period expires unless there is 
+     enacted into law a joint resolution of approval under section 
+     203 approving--
+       ``(A) the proclamation of the national emergency or the 
+     Executive order; and
+       ``(B) the exercise of the power or authority specified by 
+     the President in such proclamation or Executive order.
+       ``(3) Exception if congress is unable to convene.--If 
+     Congress is physically unable to convene as a result of an 
+     armed attack upon the United States or another national 
+     emergency, the 30-day periods described in paragraphs (1) and 
+     (2) shall begin on the first day Congress convenes for the 
+     first time after the attack or other emergency.
+       ``(b) Renewal of National Emergencies.--A national 
+     emergency declared by the President under section 201(a) or 
+     previously renewed under this subsection, and not already 
+     terminated pursuant to subsection (a) or (c), shall terminate 
+     on the date that is one year after the President transmitted 
+     to Congress the proclamation declaring the emergency or 
+     Congress approved a previous renewal pursuant to this 
+     subsection, unless--
+       ``(1) the President publishes in the Federal Register and 
+     transmits to Congress an Executive order renewing the 
+     emergency; and
+       ``(2) there is enacted into law a joint resolution of 
+     approval renewing the emergency pursuant to section 203 
+     before the termination of the emergency or previous renewal 
+     of the emergency.
+       ``(c) Termination of National Emergencies.--
+       ``(1) In general.--Any national emergency declared by the 
+     President under section 201(a) shall terminate on the 
+     earliest of--
+       ``(A) the date provided for in subsection (a);
+       ``(B) the date provided for in subsection (b);
+       ``(C) the date specified in an Act of Congress terminating 
+     the emergency; or
+       ``(D) the date specified in a proclamation of the President 
+     terminating the emergency.
+       ``(2) Effect of termination.--
+       ``(A) In general.--Effective on the date of the termination 
+     of a national emergency under paragraph (1)--
+       ``(i) except as provided by subparagraph (B), any powers or 
+     authorities exercised by reason of the emergency shall cease 
+     to be exercised;
+       ``(ii) any amounts reprogrammed or transferred under any 
+     provision of law with respect to the emergency that remain 
+     unobligated on that date shall be returned and made available 
+     for the purpose for which such amounts were appropriated; and
+       ``(iii) any contracts entered into under any provision of 
+     law for construction relating to the emergency shall be 
+     terminated.
+       ``(B) Savings provision.--The termination of a national 
+     emergency shall not affect--
+       ``(i) any legal action taken or pending legal proceeding 
+     not finally concluded or determined on the date of the 
+     termination under paragraph (1);
+       ``(ii) any legal action or legal proceeding based on any 
+     act committed prior to that date; or
+       ``(iii) any rights or duties that matured or penalties that 
+     were incurred prior to that date.
+
+     ``SEC. 203. REVIEW BY CONGRESS OF NATIONAL EMERGENCIES.
+
+       ``(a) Joint Resolution of Approval Defined.--In this 
+     section, the term `joint resolution of approval' means a 
+     joint resolution that contains only the following provisions 
+     after its resolving clause:
+       ``(1) A provision approving--
+       ``(A) a proclamation of a national emergency made under 
+     section 201(a);
+       ``(B) an Executive order issued under section 201(b)(2); or
+       ``(C) an Executive order issued under section 202(b).
+       ``(2) A provision approving a list of all or a portion of 
+     the provisions of law specified by the President under 
+     section 201(b) in the proclamation or Executive order that is 
+     the subject of the joint resolution.
+       ``(b) Procedures for Consideration of Joint Resolutions of 
+     Approval.--
+       ``(1) Introduction.--After the President transmits to 
+     Congress a proclamation declaring a national emergency under 
+     section 201(a), or an Executive order specifying emergency 
+     powers or authorities under section 201(b)(2) or renewing a 
+     national emergency under section 202(b), a joint resolution 
+     of approval may be introduced in either House of Congress by 
+     any member of that House.
+       ``(2) Requests to convene congress during recesses.--If, 
+     when the President transmits to Congress a proclamation 
+     declaring a national emergency under section 201(a), or an 
+     Executive order specifying emergency powers or authorities 
+     under section 201(b)(2)
+
+[[Page S4303]]
+
+     or renewing a national emergency under section 202(b), 
+     Congress has adjourned sine die or has adjourned for any 
+     period in excess of 3 calendar days, the majority leader of 
+     the Senate and the Speaker of the House of Representatives, 
+     or their respective designees, acting jointly after 
+     consultation with and with the concurrence of the minority 
+     leader of the Senate and the minority leader of the House, 
+     shall notify the Members of the Senate and House, 
+     respectively, to reassemble at such place and time as they 
+     may designate if, in their opinion, the public interest shall 
+     warrant it.
+       ``(3) Committee referral.--A joint resolution of approval 
+     shall be referred in each House of Congress to the committee 
+     or committees having jurisdiction over the emergency 
+     authorities invoked by the proclamation or Executive order 
+     that is the subject of the joint resolution.
+       ``(4) Consideration in senate.--In the Senate, the 
+     following shall apply:
+       ``(A) Reporting and discharge.--If the committee to which a 
+     joint resolution of approval has been referred has not 
+     reported it at the end of 10 calendar days after its 
+     introduction, that committee shall be automatically 
+     discharged from further consideration of the resolution and 
+     it shall be placed on the calendar.
+       ``(B) Proceeding to consideration.--Notwithstanding Rule 
+     XXII of the Standing Rules of the Senate, when the committee 
+     to which a joint resolution of approval is referred has 
+     reported the resolution, or when that committee is discharged 
+     under subparagraph (A) from further consideration of the 
+     resolution, it is at any time thereafter in order (even 
+     though a previous motion to the same effect has been 
+     disagreed to) for a motion to proceed to the consideration of 
+     the joint resolution, and all points of order against the 
+     joint resolution (and against consideration of the joint 
+     resolution) are waived. The motion to proceed is subject to 4 
+     hours of debate divided equally between those favoring and 
+     those opposing the joint resolution of approval. The motion 
+     is not subject to amendment, or to a motion to postpone, or 
+     to a motion to proceed to the consideration of other 
+     business.
+       ``(C) Floor consideration.--A joint resolution of approval 
+     shall be subject to 10 hours of consideration, to be divided 
+     evenly between the proponents and opponents of the 
+     resolution.
+       ``(D) Amendments.--
+       ``(i) In general.--Except as provided in clause (ii), no 
+     amendments shall be in order with respect to a joint 
+     resolution of approval.
+       ``(ii) Amendments to strike or add specified provisions of 
+     law.--Clause (i) shall not apply with respect to any 
+     amendment--
+
+       ``(I) to strike a provision or provisions of law from the 
+     list required by subsection (a)(2); or
+       ``(II) to add to that list a provision or provisions of law 
+     specified by the President under section 201(b) in the 
+     proclamation or Executive order that is the subject of the 
+     joint resolution of approval.
+
+       ``(E) Motion to reconsider final vote.--A motion to 
+     reconsider a vote on passage of a joint resolution of 
+     approval shall not be in order.
+       ``(F) Appeals.--Points of order, including questions of 
+     relevancy, and appeals from the decision of the Presiding 
+     Officer, shall be decided without debate.
+       ``(5) Consideration in house of representatives.--In the 
+     House of Representatives, if any committee to which a joint 
+     resolution of approval has been referred has not reported it 
+     to the House at the end of 10 calendar days after its 
+     introduction, such committee shall be discharged from further 
+     consideration of the joint resolution, and it shall be placed 
+     on the appropriate calendar. On Thursdays it shall be in 
+     order at any time for the Speaker to recognize a Member who 
+     favors passage of a joint resolution that has appeared on the 
+     calendar for at least 3 calendar days to call up that joint 
+     resolution for immediate consideration in the House without 
+     intervention of any point of order. When so called up a joint 
+     resolution shall be considered as read and shall be debatable 
+     for 1 hour equally divided and controlled by the proponent 
+     and an opponent, and the previous question shall be 
+     considered as ordered to its passage without intervening 
+     motion. It shall not be in order to reconsider the vote on 
+     passage. If a vote on final passage of the joint resolution 
+     has not been taken on or before the close of the tenth 
+     calendar day after the resolution is reported by the 
+     committee or committees to which it was referred, or after 
+     such committee or committees have been discharged from 
+     further consideration of the resolution, such vote shall be 
+     taken on that day.
+       ``(6) Receipt of resolution from other house.--If, before 
+     passing a joint resolution of approval, one House receives 
+     from the other a joint resolution of approval from the other 
+     House, then--
+       ``(A) the joint resolution of the other House shall not be 
+     referred to a committee and shall be deemed to have been 
+     discharged from committee on the day it is received; and
+       ``(B) the procedures set forth in paragraphs (3), (4), and 
+     (5), as applicable, shall apply in the receiving House to the 
+     joint resolution received from the other House to the same 
+     extent as such procedures apply to a joint resolution of the 
+     receiving House.
+       ``(c) Rule of Construction.--The enactment of a joint 
+     resolution of approval under this section shall not be 
+     interpreted to serve as a grant or modification by Congress 
+     of statutory authority for the emergency powers of the 
+     President.
+       ``(d) Rules of the House and Senate.--This section is 
+     enacted by Congress--
+       ``(1) as an exercise of the rulemaking power of the Senate 
+     and the House of Representatives, respectively, and as such 
+     is deemed a part of the rules of each House, respectively, 
+     but applicable only with respect to the procedure to be 
+     followed in the House in the case of joint resolutions 
+     described in this section, and supersedes other rules only to 
+     the extent that it is inconsistent with such other rules; and
+       ``(2) with full recognition of the constitutional right of 
+     either House to change the rules (so far as relating to the 
+     procedure of that House) at any time, in the same manner, and 
+     to the same extent as in the case of any other rule of that 
+     House.
+
+     ``SEC. 204. EXCLUSION OF CERTAIN NATIONAL EMERGENCIES 
+                   INVOKING INTERNATIONAL EMERGENCY ECONOMIC 
+                   POWERS ACT.
+
+       ``(a) In General.--In the case of a national emergency 
+     described in subsection (b), the provisions of this Act, as 
+     in effect on the day before the date of the enactment of the 
+     Assuring that Robust, Thorough, and Informed Congressional 
+     Leadership is Exercised Over National Emergencies Act, shall 
+     continue to apply on and after such date of enactment.
+       ``(b) National Emergency Described.--
+       ``(1) In general.--A national emergency described in this 
+     subsection is a national emergency pursuant to which the 
+     President proposes to exercise emergency powers or 
+     authorities made available under the International Emergency 
+     Economic Powers Act (50 U.S.C. 1701 et seq.), supplemented as 
+     necessary by a provision of law specified in paragraph (2).
+       ``(2) Provisions of law specified.--The provisions of law 
+     specified in this paragraph are--
+       ``(A) the United Nations Participation Act of 1945 (22 
+     U.S.C. 287 et seq.);
+       ``(B) section 212(f) of the Immigration and Nationality Act 
+     (8 U.S.C. 1182(f)); or
+       ``(C) any provision of law that authorizes the 
+     implementation, imposition, or enforcement of economic 
+     sanctions with respect to a foreign country.
+       ``(c) Effect of Additional Powers and Authorities.--
+     Subsection (a) shall not apply to a national emergency or the 
+     exercise of emergency powers and authorities pursuant to the 
+     national emergency if, in addition to the exercise of 
+     emergency powers and authorities described in subsection (b), 
+     the President proposes to exercise, pursuant to the national 
+     emergency, any emergency powers and authorities under any 
+     other provision of law.''.
+
+     SEC. ___. REPORTING REQUIREMENTS.
+
+       Section 401 of the National Emergencies Act (50 U.S.C. 
+     1641) is amended by adding at the end the following:
+       ``(d) Report on Emergencies.--The President shall transmit 
+     to Congress, with any proclamation declaring a national 
+     emergency under section 201(a) or any Executive order 
+     specifying emergency powers or authorities under section 
+     201(b)(2) or renewing a national emergency under section 
+     202(b), a report, in writing, that includes the following:
+       ``(1) A description of the circumstances necessitating the 
+     declaration of a national emergency, the renewal of such an 
+     emergency, or the use of a new emergency authority specified 
+     in the Executive order, as the case may be.
+       ``(2) The estimated duration of the national emergency, or 
+     a statement that the duration of the national emergency 
+     cannot reasonably be estimated at the time of transmission of 
+     the report.
+       ``(3) A summary of the actions the President or other 
+     officers intend to take, including any reprogramming or 
+     transfer of funds, and the statutory authorities the 
+     President and such officers expect to rely on in addressing 
+     the national emergency.
+       ``(4) In the case of a renewal of a national emergency, a 
+     summary of the actions the President or other officers have 
+     taken in the preceding one-year period, including any 
+     reprogramming or transfer of funds, to address the emergency.
+       ``(e) Provision of Information to Congress.--The President 
+     shall provide to Congress such other information as Congress 
+     may request in connection with any national emergency in 
+     effect under title II.
+       ``(f) Periodic Reports on Status of Emergencies.--If the 
+     President declares a national emergency under section 201(a), 
+     the President shall, not less frequently than every 6 months 
+     for the duration of the emergency, report to Congress on the 
+     status of the emergency and the actions the President or 
+     other officers have taken and authorities the President and 
+     such officers have relied on in addressing the emergency.''.
+
+     SEC. ___. EXCLUSION OF IMPOSITION OF DUTIES AND IMPORT QUOTAS 
+                   FROM PRESIDENTIAL AUTHORITIES UNDER 
+                   INTERNATIONAL EMERGENCY ECONOMIC POWERS ACT.
+
+       Section 203 of the International Emergency Economic Powers 
+     Act (50 U.S.C. 1702) is amended--
+       (1) by redesignating subsection (c) as subsection (d); and
+       (2) by inserting after subsection (b) the following:
+       ``(c)(1) The authority granted to the President by this 
+     section does not include the authority to impose duties or 
+     tariff-rate quotas or (subject to paragraph (2)) other quotas 
+     on articles entering the United States.
+
+[[Page S4304]]
+
+       ``(2) The limitation under paragraph (1) does not prohibit 
+     the President from excluding all articles imported from a 
+     country from entering the United States.''.
+
+     SEC. ___. CONFORMING AMENDMENTS.
+
+       (a) National Emergencies Act.--Title III of the National 
+     Emergencies Act (50 U.S.C. 1631) is repealed.
+       (b) International Emergency Economic Powers Act.--Section 
+     207 of the International Emergency Economic Powers Act (50 
+     U.S.C. 1706) is amended--
+       (1) in subsection (b), by striking ``concurrent 
+     resolution'' and inserting ``joint resolution''; and
+       (2) by adding at the end the following:
+       ``(e) In this section, the term `National Emergencies Act' 
+     means the National Emergencies Act, as in effect on the day 
+     before the date of the enactment of the Assuring that Robust, 
+     Thorough, and Informed Congressional Leadership is Exercised 
+     Over National Emergencies Act.''.
+
+     SEC. ___. EFFECTIVE DATE; APPLICABILITY.
+
+       (a) In General.--This title and the amendments made by this 
+     title shall--
+       (1) take effect on the date of the enactment of this Act; 
+     and
+       (2) except as provided in subsection (b), apply with 
+     respect to national emergencies declared under section 201 of 
+     the National Emergencies Act on or after that date.
+       (b) Applicability to Renewals of Existing Emergencies.--
+     When a national emergency declared under section 201 of the 
+     National Emergencies Act before the date of the enactment of 
+     this Act would expire or be renewed under section 202(d) of 
+     that Act (as in effect on the day before such date of 
+     enactment), that national emergency shall be subject to the 
+     requirements for renewal under section 202(b) of that Act, as 
+     amended by section ___.
+                                 ______
+```
