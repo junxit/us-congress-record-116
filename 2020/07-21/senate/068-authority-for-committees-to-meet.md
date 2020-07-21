@@ -1,0 +1,69 @@
+---
+granule: CREC-2020-07-21-pt1-PgS4359-2
+date: 2020-07-21
+edition: CREC
+section: SENATE
+page: S4359
+citation: 166 Cong. Rec. S4359
+---
+
+# AUTHORITY FOR COMMITTEES TO MEET
+
+```
+                    AUTHORITY FOR COMMITTEES TO MEET
+
+  Mr. BARASSO. Mr. President, I have 6 requests for committees to meet 
+during today's session of the Senate. They have the approval of the 
+Majority and Minority leaders.
+  Pursuant to rule XXVI, paragraph 5(a), of the Standing Rules of the 
+Senate, the following committees are authorized to meet during today's 
+session of the Senate:
+
+
+            Committee on Banking, Housing, and Urban Affairs
+
+       The Committee on Banking, Housing, and Urban Affairs is 
+     authorized to meet during the session of the Senate on 
+     Tuesday, July 21, 2020, at 10 a.m., to conduct a hearing on 
+     nominations.
+
+
+            Committee on Banking, Housing, and Urban Affairs
+
+       The Committee on Banking, Housing, and Urban Affairs is 
+     authorized to meet during the session of the Senate on 
+     Tuesday, July 21, 2020, at 2 p.m., to conduct a hearing on 
+     nominations.
+
+
+                          Committee on Finance
+
+       The Committee on Finance is authorized to meet during the 
+     session of the Senate on Tuesday, July 21, 2020, at 10 a.m., 
+     to conduct a hearing on nominations.
+
+
+                     Committee on Foreign Relations
+
+       The Committee on Foreign Relations is authorized to meet 
+     during the session of the Senate on Tuesday, July 21, 2020, 
+     at l O a.m., to conduct a hearing on nominations.
+
+
+                       Special Committee on Aging
+
+       The Special Committee on Aging is authorized to meet during 
+     the session of the Senate on Tuesday, July 21, 2020, at 9 :3 
+     0 a.m., to conduct a hearing.
+
+
+     Subcommittee on Manufacturing, Trade, and Consumer Protection
+
+       The Subcommittee on Manufacturing, Trade, and Consumer 
+     Protection of the Committee on Commerce, Science, and 
+     Transportation is authorized to meet during the session of 
+     the Senate on Tuesday, July 21, 2020, at 2:30 p.m., to 
+     conduct a hearing.
+
+                          ____________________
+```
