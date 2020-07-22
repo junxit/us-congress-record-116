@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-07-22-pt1-PgH3669-4
+date: 2020-07-22
+edition: CREC
+section: HOUSE
+page: H3669
+citation: 166 Cong. Rec. H3669
+---
+
+# REMEMBERING THE LIFE AND LEGACY OF CHARLES EVERS
+
+**Speaking:** Guest, Michael (G000591) [R-MS]
+
+```
+            REMEMBERING THE LIFE AND LEGACY OF CHARLES EVERS
+
+  (Mr. GUEST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. GUEST. Mr. Speaker, this evening, I rise to honor the life of 
+Charles Evers, who passed away earlier today.
+  Charles and his brother, Medgar, dedicated their time on this Earth 
+to the advancement of civil rights for all Americans. Following the 
+tragic murder of his brother, Charles assumed Medgar's position as head 
+of the NAACP in Mississippi, to continue his efforts to expand civil 
+rights for African Americans in the Magnolia State.
+  In 1969, he became the first African American mayor elected in 
+Mississippi since Reconstruction, making Mr. Evers a symbol of the 
+civil rights that he and his brother fought to advance.
+  He served as an adviser and mentor to many public officials, from 
+local governments, to the President of the United States.
+  Today, I join our Mississippi family in thankful prayer for his time 
+on Earth, and that he returned to our Heavenly Father having 
+accomplished his goal of creating a better nation for all people.
+  Please join me in a moment of silence as we remember his service to 
+our State and our Nation.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-07-22-pt1-PgH3622
+date: 2020-07-22
+edition: CREC
+section: HOUSE
+page: H3622
+citation: 166 Cong. Rec. H3622
+---
+
+# IN SUPPORT OF THE GREAT AMERICAN OUTDOORS ACT
+
+**Speaking:** Gianforte, Greg (G000584) [R-MT]
+
+```
+             IN SUPPORT OF THE GREAT AMERICAN OUTDOORS ACT
+
+  (Mr. GIANFORTE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. GIANFORTE. Madam Speaker, I rise today in support of the Great 
+American Outdoors Act.
+  My friend, Senator Daines, deserves a lot of credit. He has 
+successfully advanced this historic legislation, historic because of 
+its long-term dedication to our public lands.
+  People from around the world come to tour our outstanding National 
+Parks, including millions of visitors every year to Yellowstone and 
+Glacier. Unfortunately, too many of our parks have fallen into 
+disrepair. This bill begins to rebuild and repair our parks.
+  It is also a fitting complement to our successful efforts to 
+permanently reauthorize the Land and Water Conservation Fund. It 
+provides dedicated funding to increase public access to public lands 
+across Montana.
+  I know how important LWCF is to Montana, and I will continue working 
+to keep public lands in public hands and increase access.
+  I urge my colleagues to join me today in voting for the Great 
+American Outdoors Act.
+
+                          ____________________
+```
