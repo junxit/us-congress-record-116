@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-07-24-pt1-PgH3841-7
+date: 2020-07-24
+edition: CREC
+section: HOUSE
+page: H3841
+citation: 166 Cong. Rec. H3841
+---
+
+# HONORING JUDGE MICHAEL W. KWAN
+
+**Speaking:** McAdams, Ben (M001209) [D-UT]
+
+```
+                     HONORING JUDGE MICHAEL W. KWAN
+
+  (Mr. McADAMS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McADAMS. Madam Speaker, today I wish to recognize the treasured 
+life and significant contributions of Judge Michael W. Kwan, a pillar 
+of our community, who passed away on July 21, 2020.
+  Judge Kwan was a trailblazer in my State, known for leading on 
+innovative judicial programs that respect the rights of the accused and 
+improve public safety for Utahns.
+  A pioneer in his field through offering a drug court, Judge Kwan's 
+forward-thinking approach emphasized rehabilitation. This has served as 
+a model for other courts across the United States.
+  Judge Kwan stood as an example to many of those dedicated to public 
+service, holding fast to our common ideal of justice for all.
+  Judge Kwan was a stalwart voice in Utah's Asian-American community, 
+fighting for the full story and to recognize the significant 
+contribution of Chinese workers to the completion of the 
+transcontinental railroad over 150 years ago.
+  As the great-grandson of one of those workers, Judge Kwan helped 
+found the Chinese Railroad Workers Descendants Association.
+  I was privileged to have known Judge Kwan. I mourn the loss of this 
+extraordinary public servant together with his
+
+[[Page H3842]]
+
+family, loved ones, and our entire community. I am certain that his 
+impact will be felt for decades to come.
+
+                          ____________________
+```
