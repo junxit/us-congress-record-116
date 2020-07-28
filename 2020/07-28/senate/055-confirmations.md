@@ -1,0 +1,28 @@
+---
+granule: CREC-2020-07-28-pt1-PgS4551
+date: 2020-07-28
+edition: CREC
+section: SENATE
+page: S4551
+citation: 166 Cong. Rec. S4551
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 28, 2020:
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       DANA T. WADE, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSISTANT SECRETARY OF HOUSING AND URBAN DEVELOPMENT.
+
+
+                             THE JUDICIARY
+
+       DAVID CLEVELAND JOSEPH, OF LOUISIANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF LOUISIANA.
+```
