@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-07-30-pt1-PgH4179-3
+date: 2020-07-30
+edition: CREC
+section: HOUSE
+page: H4179
+citation: 166 Cong. Rec. H4179
+---
+
+# HONORING THE LIFE OF DENNIS SHACKELFORD
+
+**Speaking:** Davis, Rodney (D000619) [R-IL]
+
+```
+                HONORING THE LIFE OF DENNIS SHACKELFORD
+
+  (Mr. RODNEY DAVIS of Illinois asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. RODNEY DAVIS of Illinois. Madam Speaker, I rise today to honor 
+the life of Dennis Shackelford, who passed away last week.
+  I got to know Dennis very well during my first campaign for Congress 
+when he ran for State Representative in 2012. Though he was 
+unsuccessful in his campaign, our friendship continued.
+  Dennis was a small business owner for 30 years, running Hallmark 
+stores across central Illinois, including in my hometown of 
+Taylorville. After that successful career as a small business owner, he 
+continued working in the banking industry in the Springfield, Illinois, 
+area.
+  Dennis served his community being elected to the Lincoln Land 
+Community College board in 2013, and later he rose to chairman while 
+serving students across central Illinois. Dennis was also elected a 
+trustee for Rochester Township.
+  Dennis was a great friend, deeply involved in his community, whether 
+it was coaching baseball, youth baseball, or mentoring high schoolers, 
+and countless others throughout his life.
+  My condolences extend to his wife, Judy, his son, Andrew, and his 
+three daughters, Amy, Lindsey, and Emily as well as his extended 
+family. Dennis was one of a kind and will be deeply missed by all.
+
+                          ____________________
+```
