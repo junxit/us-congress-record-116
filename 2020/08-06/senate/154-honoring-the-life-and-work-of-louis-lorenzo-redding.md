@@ -1,0 +1,346 @@
+---
+granule: CREC-2020-08-06-pt1-PgS5347
+date: 2020-08-06
+edition: CREC
+section: SENATE
+page: S5347
+citation: 166 Cong. Rec. S5347
+---
+
+# HONORING THE LIFE AND WORK OF LOUIS LORENZO REDDING
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S.Con.Res. 37
+
+```
+          HONORING THE LIFE AND WORK OF LOUIS LORENZO REDDING
+
+  Mr. McCONNELL. Mr. President, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+S. Con. Res 37 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the concurrent resolution by title.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 37) honoring the life 
+     and work of Louis Lorenzo Redding, whose lifelong dedication 
+     to civil rights and service stand as an example of leadership 
+     for all people.
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the concurrent resolution.
+  Mr. McCONNELL. Mr. President, I further ask that the concurrent 
+resolution be agreed to; the Coons amendment to the preamble at the 
+desk be considered and agreed to; the preamble, as amended, be agreed 
+to; and the motions to reconsider be considered made and laid upon the 
+table with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (S. Con. Res. 37) was agreed to.
+  The amendment (No. 2638) was agreed to, as follows:
+
+                    (Purpose: To amend the preamble)
+
+       Strike the preamble and insert the following:
+       Whereas Louis Lorenzo Redding (referred to in this preamble 
+     as ``Louis L. Redding'') was born on October 25, 1901, in 
+     Alexandria, Virginia, the eldest of 5 children born to Lewis 
+     Alfred and Mary Ann Holmes Redding;
+       Whereas Louis L. Redding was an educator, attorney, and 
+     lifelong activist who worked on civil rights and educational 
+     issues;
+       Whereas Louis L. Redding graduated from Howard High School 
+     in 1919, which, at that time, was the only public high school 
+     for African-American students in Delaware;
+       Whereas Louis L. Redding received a bachelor's degree from 
+     Brown University in 1923;
+       Whereas, while at Brown University, Louis L. Redding and 7 
+     other men established a chapter of the Alpha Phi Alpha 
+     fraternity in Providence, Rhode Island;
+       Whereas, in 1923, Louis L. Redding was the first African 
+     American awarded the prestigious William Gaston Prize for 
+     excellence in oratory and, as a result, delivered a 
+     commencement speech at Brown University;
+       Whereas Louis L. Redding became an English instructor and 
+     the vice principal of Fessenden Academy outside of Ocala, 
+     Florida, the oldest continuously operated school originally 
+     for African-American students in Florida;
+       Whereas Louis L. Redding left Fessenden Academy to teach 
+     English in the high school division of Morehouse College, a 
+     historically Black college in Atlanta, Georgia;
+       Whereas, after 2 years of teaching, Louis L. Redding 
+     enrolled in Harvard Law School in 1925;
+       Whereas, in 1926, as a law student at Harvard Law School, 
+     Louis L. Redding was ejected from the Wilmington, Delaware, 
+     municipal court while protesting segregation of the 
+     courtroom;
+       Whereas that municipal court was the first court in 
+     Wilmington, Delaware, to desegregate its gallery;
+       Whereas Louis L. Redding graduated from Harvard Law School 
+     in 1928 as the only African American in a class of about 200 
+     students;
+       Whereas, in 1929, Louis L. Redding became the first African 
+     American to pass the Delaware bar;
+       Whereas Louis L. Redding remained the only African-American 
+     lawyer in Delaware for 26 years;
+       Whereas, in 1949, Louis L. Redding was admitted to the 
+     Delaware Bar Association, an organization from which Louis L. 
+     Redding had been excluded for 20 years after having passed 
+     the Delaware bar;
+       Whereas, in 1950, Louis L. Redding and Jack Greenberg, a 
+     lawyer for the NAACP Legal Defense and Educational Fund, 
+     filed the case of Parker v. University of Delaware to protest 
+     the segregated college system in Delaware;
+       Whereas, in August 1950, Chancellor Collins Seitz ruled in 
+     Parker v. University of Delaware, 75 A.2d 225 (Del. Ch. 
+     1950), that, under Plessy v. Ferguson, 163 U.S. 537 (1896), 
+     the State of Delaware violated the Constitution of the United 
+     States by offering a separate but not equal education in the 
+     State college and university system;
+       Whereas, in 1951, Louis L. Redding and Jack Greenberg 
+     filed--
+       (1) Belton v. Gebhart, a case that concerned the 
+     desegregation of high schools; and
+       (2) Bulah v. Gebhart, a case that concerned the 
+     desegregation of elementary schools;
+       Whereas, in 1952, the Belton and Bulah cases were 
+     consolidated in the Delaware Court of Chancery, where, in 
+     Belton v. Gebhart, 87 A.2d 862 (Del. Ch. 1952), Chancellor 
+     Collins Seitz ordered the Delaware State Board of Education 
+     to open all schools in Delaware to African Americans;
+       Whereas the Delaware State Board of Education appealed the 
+     decision of Chancellor Collins Seitz to the Supreme Court of 
+     Delaware, which upheld the decision of the Chancellor in 
+     Gebhart v. Belton, 91 A.2d 137 (Del. 1952);
+       Whereas the case then came before the Supreme Court of the 
+     United States on a writ of certiorari to the Supreme Court of 
+     Delaware;
+       Whereas Louis L. Redding and Jack Greenberg argued the case 
+     alongside Thurgood Marshall, the first African-American 
+     Justice of the Supreme Court of the United States, as the 
+     last of a group of 5 school desegregation cases heard and 
+     decided by the Supreme Court of the United States in Brown v. 
+     Board of Education of Topeka, 347 U.S. 483 (1954), and 
+     Bolling v. Sharpe, 347 U.S. 497 (1954);
+       Whereas, on May 17, 1954, the Supreme Court of the United 
+     States held in Brown v. Board of Education of Topeka, 347 
+     U.S. 483 (1954), that separate educational facilities for 
+     racial minorities violated the Equal Protection Clause of the 
+     14th Amendment to the Constitution of the United States, thus 
+     holding that school segregation was unconstitutional;
+       Whereas, on February 21, 1961, Louis L. Redding argued to 
+     the Supreme Court of the United States in the case of Burton 
+     v. Wilmington Parking Authority that a private company with a 
+     relationship to a government agency was in violation of the 
+     Equal Protection Clause of the 14th Amendment to the 
+     Constitution of the United States if the private company 
+     refused to provide service to a customer on the basis of 
+     race;
+       Whereas, in April 1961, the Supreme Court of the United 
+     States established the principle of State action in Burton v. 
+     Wilmington Parking Authority, 365 U.S. 715 (1961), and ruled 
+     that a private entity may not discriminate on the basis of 
+     race if the State has approved, encouraged, or facilitated 
+     the relevant private conduct;
+       Whereas, in 1965, Louis L. Redding became a public defender 
+     for the State of Delaware and fought for the rights of poor 
+     clients for nearly 20 years thereafter;
+       Whereas, in 1984, Louis L. Redding retired after 55 years 
+     of practicing law;
+       Whereas Louis L. Redding was a member of many national 
+     organizations, including--
+       (1) the National Bar Association;
+
+[[Page S5348]]
+
+       (2) the National Association for the Advancement of Colored 
+     People;
+       (3) the National Lawyers Guild; and
+       (4) the Emergency Civil Liberties Committee;
+       Whereas Louis L. Redding was awarded the Martin Luther 
+     King, Jr. Memorial Award by the National Education 
+     Association and an honorary Doctor of Law degree from Brown 
+     University;
+       Whereas the University of Delaware established the Louis L. 
+     Redding Chair for the Study of Law and Public Policy in the 
+     School of Education;
+       Whereas Pulitzer Prize winning author Richard Kluger 
+     described Louis L. Redding as a man who fought, largely 
+     alone, for the civil rights and liberties of Black 
+     Delawareans;
+       Whereas former Secretary of Transportation William T. 
+     Coleman, Jr., stated that the giants of the civil rights 
+     movement were Houston Hastings, Louis L. Redding, and 
+     Thurgood Marshall;
+       Whereas, on September 29, 1998, Louis L. Redding died at 
+     the age of 96 in Lima, Pennsylvania;
+       Whereas Louis L. Redding broke down barriers and paved the 
+     way for countless African-American lawyers to follow in his 
+     footsteps, including--
+       (1) Theophilus Nix, Sr., the second African American to 
+     pass the Delaware bar exam;
+       (2) Leonard L. Williams, the second African-American judge 
+     in Delaware; and
+       (3) Haile L. Alford, the first African-American female 
+     judge in Delaware; and
+       Whereas Louis L. Redding is remembered as an individual who 
+     figured prominently in the struggle for desegregation and as 
+     a lawyer who never lost a desegregation case: Now, therefore, 
+     be it
+
+  The preamble, as amended, was agreed to.
+  The concurrent resolution, with its preamble, as amended, reads as 
+follows:
+
+                            S. Con. Res. 37
+
+       Whereas Louis Lorenzo Redding (referred to in this preamble 
+     as ``Louis L. Redding'') was born on October 25, 1901, in 
+     Alexandria, Virginia, the eldest of 5 children born to Lewis 
+     Alfred and Mary Ann Holmes Redding;
+       Whereas Louis L. Redding was an educator, attorney, and 
+     lifelong activist who worked on civil rights and educational 
+     issues;
+       Whereas Louis L. Redding graduated from Howard High School 
+     in 1919, which, at that time, was the only public high school 
+     for African-American students in Delaware;
+       Whereas Louis L. Redding received a bachelor's degree from 
+     Brown University in 1923;
+       Whereas, while at Brown University, Louis L. Redding and 7 
+     other men established a chapter of the Alpha Phi Alpha 
+     fraternity in Providence, Rhode Island;
+       Whereas, in 1923, Louis L. Redding was the first African 
+     American awarded the prestigious William Gaston Prize for 
+     excellence in oratory and, as a result, delivered a 
+     commencement speech at Brown University;
+       Whereas Louis L. Redding became an English instructor and 
+     the vice principal of Fessenden Academy outside of Ocala, 
+     Florida, the oldest continuously operated school originally 
+     for African-American students in Florida;
+       Whereas Louis L. Redding left Fessenden Academy to teach 
+     English in the high school division of Morehouse College, a 
+     historically Black college in Atlanta, Georgia;
+       Whereas, after 2 years of teaching, Louis L. Redding 
+     enrolled in Harvard Law School in 1925;
+       Whereas, in 1926, as a law student at Harvard Law School, 
+     Louis L. Redding was ejected from the Wilmington, Delaware, 
+     municipal court while protesting segregation of the 
+     courtroom;
+       Whereas that municipal court was the first court in 
+     Wilmington, Delaware, to desegregate its gallery;
+       Whereas Louis L. Redding graduated from Harvard Law School 
+     in 1928 as the only African American in a class of about 200 
+     students;
+       Whereas, in 1929, Louis L. Redding became the first African 
+     American to pass the Delaware bar;
+       Whereas Louis L. Redding remained the only African-American 
+     lawyer in Delaware for 26 years;
+       Whereas, in 1949, Louis L. Redding was admitted to the 
+     Delaware Bar Association, an organization from which Louis L. 
+     Redding had been excluded for 20 years after having passed 
+     the Delaware bar;
+       Whereas, in 1950, Louis L. Redding and Jack Greenberg, a 
+     lawyer for the NAACP Legal Defense and Educational Fund, 
+     filed the case of Parker v. University of Delaware to protest 
+     the segregated college system in Delaware;
+       Whereas, in August 1950, Chancellor Collins Seitz ruled in 
+     Parker v. University of Delaware, 75 A.2d 225 (Del. Ch. 
+     1950), that, under Plessy v. Ferguson, 163 U.S. 537 (1896), 
+     the State of Delaware violated the Constitution of the United 
+     States by offering a separate but not equal education in the 
+     State college and university system;
+       Whereas, in 1951, Louis L. Redding and Jack Greenberg 
+     filed--
+       (1) Belton v. Gebhart, a case that concerned the 
+     desegregation of high schools; and
+       (2) Bulah v. Gebhart, a case that concerned the 
+     desegregation of elementary schools;
+       Whereas, in 1952, the Belton and Bulah cases were 
+     consolidated in the Delaware Court of Chancery, where, in 
+     Belton v. Gebhart, 87 A.2d 862 (Del. Ch. 1952), Chancellor 
+     Collins Seitz ordered the Delaware State Board of Education 
+     to open all schools in Delaware to African Americans;
+       Whereas the Delaware State Board of Education appealed the 
+     decision of Chancellor Collins Seitz to the Supreme Court of 
+     Delaware, which upheld the decision of the Chancellor in 
+     Gebhart v. Belton, 91 A.2d 137 (Del. 1952);
+       Whereas the case then came before the Supreme Court of the 
+     United States on a writ of certiorari to the Supreme Court of 
+     Delaware;
+       Whereas Louis L. Redding and Jack Greenberg argued the case 
+     alongside Thurgood Marshall, the first African-American 
+     Justice of the Supreme Court of the United States, as the 
+     last of a group of 5 school desegregation cases heard and 
+     decided by the Supreme Court of the United States in Brown v. 
+     Board of Education of Topeka, 347 U.S. 483 (1954), and 
+     Bolling v. Sharpe, 347 U.S. 497 (1954);
+       Whereas, on May 17, 1954, the Supreme Court of the United 
+     States held in Brown v. Board of Education of Topeka, 347 
+     U.S. 483 (1954), that separate educational facilities for 
+     racial minorities violated the Equal Protection Clause of the 
+     14th Amendment to the Constitution of the United States, thus 
+     holding that school segregation was unconstitutional;
+       Whereas, on February 21, 1961, Louis L. Redding argued to 
+     the Supreme Court of the United States in the case of Burton 
+     v. Wilmington Parking Authority that a private company with a 
+     relationship to a government agency was in violation of the 
+     Equal Protection Clause of the 14th Amendment to the 
+     Constitution of the United States if the private company 
+     refused to provide service to a customer on the basis of 
+     race;
+       Whereas, in April 1961, the Supreme Court of the United 
+     States established the principle of State action in Burton v. 
+     Wilmington Parking Authority, 365 U.S. 715 (1961), and ruled 
+     that a private entity may not discriminate on the basis of 
+     race if the State has approved, encouraged, or facilitated 
+     the relevant private conduct;
+       Whereas, in 1965, Louis L. Redding became a public defender 
+     for the State of Delaware and fought for the rights of poor 
+     clients for nearly 20 years thereafter;
+       Whereas, in 1984, Louis L. Redding retired after 55 years 
+     of practicing law;
+       Whereas Louis L. Redding was a member of many national 
+     organizations, including--
+       (1) the National Bar Association;
+       (2) the National Association for the Advancement of Colored 
+     People;
+       (3) the National Lawyers Guild; and
+       (4) the Emergency Civil Liberties Committee;
+       Whereas Louis L. Redding was awarded the Martin Luther 
+     King, Jr. Memorial Award by the National Education 
+     Association and an honorary Doctor of Law degree from Brown 
+     University;
+       Whereas the University of Delaware established the Louis L. 
+     Redding Chair for the Study of Law and Public Policy in the 
+     School of Education;
+       Whereas Pulitzer Prize winning author Richard Kluger 
+     described Louis L. Redding as a man who fought, largely 
+     alone, for the civil rights and liberties of Black 
+     Delawareans;
+       Whereas former Secretary of Transportation William T. 
+     Coleman, Jr., stated that the giants of the civil rights 
+     movement were Houston Hastings, Louis L. Redding, and 
+     Thurgood Marshall;
+       Whereas, on September 29, 1998, Louis L. Redding died at 
+     the age of 96 in Lima, Pennsylvania;
+       Whereas Louis L. Redding broke down barriers and paved the 
+     way for countless African-American lawyers to follow in his 
+     footsteps, including--
+       (1) Theophilus Nix, Sr., the second African American to 
+     pass the Delaware bar exam;
+       (2) Leonard L. Williams, the second African-American judge 
+     in Delaware; and
+       (3) Haile L. Alford, the first African-American female 
+     judge in Delaware; and
+       Whereas Louis L. Redding is remembered as an individual who 
+     figured prominently in the struggle for desegregation and as 
+     a lawyer who never lost a desegregation case: Now, therefore, 
+     be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That Congress honors the life and work of Louis 
+     Lorenzo Redding, a civil servant whose lifelong dedication to 
+     justice and equality stand as an outstanding example of 
+     leadership for all people.
+
+                          ____________________
+```
