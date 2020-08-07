@@ -1,0 +1,20 @@
+---
+granule: CREC-2020-08-07-pt1-PgH4226-24
+date: 2020-08-07
+edition: CREC
+section: HOUSE
+page: H4226
+citation: 166 Cong. Rec. H4226
+---
+
+# Constitutional Authority Statement for H.R. 7969
+
+**Measures:** H.R. 7969
+
+```
+           By Mr. HUFFMAN:
+       H.R. 7969.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Clause 7 of Section 8, Article I of the U.S. Constitution
+```
