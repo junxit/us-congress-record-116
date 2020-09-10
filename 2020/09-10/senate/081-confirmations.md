@@ -1,0 +1,26 @@
+---
+granule: CREC-2020-09-10-pt1-PgS5562
+date: 2020-09-10
+edition: CREC
+section: SENATE
+page: S5562
+citation: 166 Cong. Rec. S5562
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 10, 2020:
+
+
+                             THE JUDICIARY
+
+       DIANE GUJARATI, OF NEW YORK, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE EASTERN DISTRICT OF NEW YORK.
+       THOMAS T. CULLEN, OF VIRGINIA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE WESTERN DISTRICT OF VIRGINIA.
+       HALA Y. JARBOU, OF MICHIGAN, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE WESTERN DISTRICT OF MICHIGAN.
+```
