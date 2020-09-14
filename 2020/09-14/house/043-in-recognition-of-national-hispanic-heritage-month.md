@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-09-14-pt1-PgH4371-5
+date: 2020-09-14
+edition: CREC
+section: HOUSE
+page: H4371
+citation: 166 Cong. Rec. H4371
+---
+
+# IN RECOGNITION OF NATIONAL HISPANIC HERITAGE MONTH
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+           IN RECOGNITION OF NATIONAL HISPANIC HERITAGE MONTH
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, I rise today in recognition of 
+National Hispanic Heritage Month, celebrated each year between 
+September 15 through October 15.
+  This month provides our Nation the opportunity to recount the rich 
+cultural legacy the Hispanic community has made for our country.
+
+[[Page H4372]]
+
+  Due to the pandemic, the Hispanic Heritage Council of Western New 
+York is holding a series of events virtually to chronicle the critical 
+contributions the Hispanic community has made to Buffalo and western 
+New York.
+  This year, the Hispanic Heritage Council is also celebrating 10 years 
+of work raising community awareness of the contributions our Hispanic 
+friends and neighbors have made towards strengthening our community's 
+future.
+  America is stronger because of its diversity. Our lives are enriched 
+through a greater appreciation of other experiences and cultures.
+  We are thankful for the opportunity to spotlight the contributions of 
+the Hispanic community this month and grateful to have the Hispanic 
+Heritage Council of Western New York committed to this mission this 
+year and every year.
+
+                          ____________________
+```

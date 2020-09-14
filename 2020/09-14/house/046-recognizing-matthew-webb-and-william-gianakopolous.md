@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-09-14-pt1-PgH4372-3
+date: 2020-09-14
+edition: CREC
+section: HOUSE
+page: H4372
+citation: 166 Cong. Rec. H4372
+---
+
+# RECOGNIZING MATTHEW WEBB AND WILLIAM GIANAKOPOLOUS
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+           RECOGNIZING MATTHEW WEBB AND WILLIAM GIANAKOPOLOUS
+
+  (Mr. VAN DREW asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VAN DREW. Mr. Speaker, I would like to recognize two brave police 
+officers in my district for their outstanding actions and bravery.
+  Sergeant Matthew Christopher Webb and Corporal William Gianakopolous 
+exemplify the best of our Nation.
+  Webb and Gianakopolous responded to a house fire and an armed man 
+following a woman during the very same shift.
+  At 1 a.m. on July 6, Webb and Gianakopolous helped evacuate residents 
+and a family pet from a fire where they bravely went into the burning 
+structure several times.
+  Then at 5 a.m. on the same day, they responded to a call of a man 
+following a woman where the officers found him hiding with two knives 
+in his possession.
+  Mr. Speaker, Officers Webb and Gianakopolous, exemplify courage, 
+commitment and honor that our Nation, State, and south Jersey deserve, 
+and we thank them for their heroism.
+  The virtue and integrity of the majority of our hard-working men and 
+women in blue cannot go unnoticed, especially in these trying times.
+  William and Matthew, thank you. May God bless you and God bless 
+America.
+
+                          ____________________
+```
