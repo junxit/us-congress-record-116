@@ -1,0 +1,34 @@
+---
+granule: CREC-2020-09-15-pt1-PgH4391
+date: 2020-09-15
+edition: CREC
+section: HOUSE
+page: H4391
+citation: 166 Cong. Rec. H4391
+---
+
+# HONORING LEVESTER THOMPSON
+
+**Speaking:** Rose, Max (R000613) [D-NY]
+
+```
+                       HONORING LEVESTER THOMPSON
+
+  (Mr. ROSE of New York asked and was given permission to address the 
+House for 1 minute.)
+  Mr. ROSE of New York. Mr. Speaker, I rise today in memory of my 
+constituent Levester Thompson, who was taken from us far too soon after 
+battling COVID-19.
+  Growing up in a small Virginia town of 300, LT aspired to move to the 
+big city, inspired to work as a banker in Manhattan. He commuted 2\1/2\ 
+hours every day from Staten Island to pursue that dream.
+  As he got older, he realized there is so much more to life, so he 
+returned to his true passion, his true passion for sports, working as 
+an equipment manager for NYU's athletics department and spending more 
+time helping his children, Jade and Chase, realize their own passions.
+  LT was a larger-than-life character, a coach, a mentor, someone with 
+a great sense of humor, and a smile that will be so dearly missed.
+  LT, you will forever live in our memory.
+
+                          ____________________
+```
