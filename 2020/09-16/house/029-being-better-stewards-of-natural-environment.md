@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-09-16-pt1-PgH4438
+date: 2020-09-16
+edition: CREC
+section: HOUSE
+page: H4438
+citation: 166 Cong. Rec. H4438
+---
+
+# BEING BETTER STEWARDS OF NATURAL ENVIRONMENT
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+              BEING BETTER STEWARDS OF NATURAL ENVIRONMENT
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, natural disasters ripping 
+through the Nation today are urgent reminders that we must be better 
+stewards of the natural environment, including the Great Lakes.
+  Yet, recent actions of the Trump administration's Environmental 
+Protection Agency do just the opposite.
+  In August, the EPA issued a rule allowing the release of toxic 
+metals, like arsenic and mercury, into lakes, rivers, and streams near 
+power plants that use them.
+  This is the wrong strategy and is bad for America and bad for 
+Americans. For decades, communities across western New York have been 
+working together to bring back waterways, like the Buffalo River, that 
+were once declared ecologically dead due to toxic industrial pollution.
+  Successful efforts like the Great Lakes Restoration Initiative 
+solidified the Federal role to improve water quality in the Great 
+Lakes, restore aquatic habitat, and provide new recreational 
+opportunities for all.
+  Madam Speaker, I strongly oppose the EPA's destructive policies, and 
+I urge my colleagues to recommit themselves to prioritizing long-term 
+sustainability of the natural environment.
+
+                          ____________________
+```
