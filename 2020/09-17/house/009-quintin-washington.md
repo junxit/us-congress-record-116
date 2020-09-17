@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-09-17-pt1-PgH4493-9
+date: 2020-09-17
+edition: CREC
+section: HOUSE
+page: H4493
+citation: 166 Cong. Rec. H4493
+---
+
+# QUINTIN WASHINGTON
+
+**Speaking:** Cunningham, Joe (C001122) [D-SC]
+
+```
+                           QUINTIN WASHINGTON
+
+  (Mr. CUNNINGHAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. CUNNINGHAM. Mr. Speaker, good local journalism builds the 
+foundation of a strong community. In the Lowcountry, we are blessed 
+with some fantastic journalists, and I would like to highlight one of 
+them today: Quintin Washington.
+  Through his independent web series, called Quintin's Close Ups, 
+Quintin has kept his finger on the pulse of our community by doing 
+literally thousands of interviews with the Lowcountry's most 
+influential people. From Presidential candidates to Members of Congress 
+to business officials, you would be hard pressed to find an elected 
+official in South Carolina who has not sat down with Quintin on camera.
+  Mr. Speaker, Quintin doesn't do this for money or notoriety, but a 
+genuine love for our community and a desire to make sure that everyone 
+is informed. His interviews are invaluable to the Lowcountry, and we 
+are incredibly grateful for his service.
+  I know that I speak for everyone in the Lowcountry when I wish 
+Quintin Washington many more years of first-class journalism.
+
+                          ____________________
+```

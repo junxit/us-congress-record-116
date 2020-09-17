@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-09-17-pt1-PgH4537-2
+date: 2020-09-17
+edition: CREC
+section: HOUSE
+page: H4537
+citation: 166 Cong. Rec. H4537
+---
+
+# NATIONAL SUICIDE AWARENESS MONTH
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                    NATIONAL SUICIDE AWARENESS MONTH
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize 
+September as National Suicide Prevention Month.
+  Every year, close to 800,000 people die by suicide, leaving their 
+family and friends to navigate the tragedy of loss. This is one death 
+every 40 seconds.
+  Studies by the Centers for Disease Control and Prevention show that 
+suicide rates are rising, and suicide is the 10th leading cause of 
+death in the U.S. for all ages.
+  This important month is a time to share resources and stories in an 
+effort to shed light on this stigmatized topic. It is beneficial to 
+learn and pay attention to the warning signs of suicide and 
+periodically check in with friends and family members, especially 
+during these challenging times.
+  Additionally, talking about suicide in an open and caring way can 
+help those who are having suicidal thoughts. As the isolating effects 
+of the COVID-19 pandemic continue to grip our world, it is imperative 
+we take our physical and mental health seriously.
+  I encourage everyone to educate themselves about suicide and the 
+patient-centered resources available so we can help protect those in 
+our communities, friends, and loved ones.
+
+                          ____________________
+```

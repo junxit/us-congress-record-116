@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-09-17-pt1-PgH4494-6
+date: 2020-09-17
+edition: CREC
+section: HOUSE
+page: H4494
+citation: 166 Cong. Rec. H4494
+---
+
+# WE THE PEOPLE
+
+**Speaking:** Norman, Ralph (N000190) [R-SC]
+
+```
+                             WE THE PEOPLE
+
+  (Mr. NORMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NORMAN. Mr. Speaker, today is a special day in which we pause to 
+cherish the bedrock of our union that is the Constitution.
+  The great experiment that is this Nation rests upon the spirit that 
+Madison enshrined in this document. It is the
+
+[[Page H4495]]
+
+unwavering commitment to life, liberty, and the pursuit of happiness, 
+the American ethos that sustains us to this day.
+  The essence of our democratic republic lies in the words, ``We the 
+People.'' This creed is the glue that holds our United States together, 
+and it ought to be revered. When held close, our Nation will continue 
+to prosper through generations to come. As Henry Clay once said, ``The 
+Constitution of the United States was made not merely for the 
+generation that then existed, but for posterity-unlimited, undefined, 
+endless, perpetual posterity.''
+  Unique to the world is our tireless belief in a better tomorrow. If 
+we are to sustain this hope, we must maintain an enduring commitment to 
+the ideals of the Constitution.
+  Mr. Speaker, I encourage every American, young and old alike, to 
+study the framework and celebrate the greatest Nation that this world 
+has ever known. Let this day serve as a reminder of everything that was 
+and everything that can be so long as we remain united under the 
+articles of the Constitution.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-09-17-pt1-PgH4536-4
+date: 2020-09-17
+edition: CREC
+section: HOUSE
+page: H4536
+citation: 166 Cong. Rec. H4536
+---
+
+# SUICIDE PREVENTION AWARENESS MONTH
+
+**Speaking:** Waltz, Michael (W000823) [R-FL]
+
+```
+                              {time}  1530
+                   SUICIDE PREVENTION AWARENESS MONTH
+
+  (Mr. WALTZ asked and was given permission to address the House for 1 
+minute.)
+  Mr. WALTZ. Madam Speaker, as a combat veteran, I think a lot about my 
+past experiences in battle and personally have dealt with my own 
+struggles, from PTS to survivor's guilt.
+  But this year, we are in a collective battle, and the front lines 
+look very different. We are fighting against an invisible enemy, 
+against COVID-19, and we are forced to distance ourselves and to change 
+our entire way of life. This isolation is causing anxiety, depression, 
+and sometimes takes us to even darker places, even with suicidal 
+thoughts.
+  September is Suicide Prevention Awareness Month, and I am teaming 
+with a veterans group, Mission Roll Call, to raise awareness about 
+suicide prevention, especially the 22 veterans per day we are currently 
+losing.
+  In combat, we are constantly checking on our brothers and sisters to 
+our left and our right, and we have to do the same back here at home. 
+So I say to all veterans out there: Reach out. Ask your buddy how they 
+are doing. Share a memory. Let them know that you are thinking about 
+them and you have their back.
+  Together, we are stronger. Together, we can win this fight.
+
+                          ____________________
+```
