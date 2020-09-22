@@ -1,0 +1,21 @@
+---
+granule: CREC-2020-09-22-pt1-PgH4651-4
+date: 2020-09-22
+edition: CREC
+section: HOUSE
+page: H4651
+citation: 166 Cong. Rec. H4651
+---
+
+# THE JOURNAL
+
+**Measures:** H.Res. 967
+
+```
+                              THE JOURNAL
+
+  The SPEAKER pro tempore. Pursuant to section 4(a) of House Resolution 
+967, the Journal of the last day's proceedings is approved.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-09-22-pt1-PgS5793-2
+date: 2020-09-22
+edition: CREC
+section: SENATE
+page: S5793
+citation: 166 Cong. Rec. S5793
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 22, 2020:
+
+
+                             THE JUDICIARY
+
+       EDWARD HULVEY MEYERS, OF MARYLAND, TO BE A JUDGE OF THE 
+     UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF FIFTEEN 
+     YEARS.
+
+
+                EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+       ANDREA R. LUCAS, OF VIRGINIA, TO BE A MEMBER OF THE EQUAL 
+     EMPLOYMENT OPPORTUNITY COMMISSION FOR A TERM EXPIRING JULY 1, 
+     2025.
+       KEITH E. SONDERLING, OF FLORIDA, TO BE A MEMBER OF THE 
+     EQUAL EMPLOYMENT OPPORTUNITY COMMISSION FOR A TERM EXPIRING 
+     JULY 1, 2024
+
+                          ____________________
+```
