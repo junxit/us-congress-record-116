@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-09-23-pt1-PgH4877
+date: 2020-09-23
+edition: CREC
+section: HOUSE
+page: H4877
+citation: 166 Cong. Rec. H4877
+---
+
+# HONORING JAMES BENNETT
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+                              {time}  1815
+                         HONORING JAMES BENNETT
+
+  (Mr. VAN DREW asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VAN DREW. Mr. Speaker, I would like to recognize the life of 
+James Bennett.
+  James was a loved, trusted, compassionate, and hardworking young man. 
+I had the pleasure and honor of knowing him his entire life.
+  James was as gifted athletically as he was academically, a wrestler 
+who notched 95 wins in high school and was also selected into the 
+prestigious National Honor Society and graduated from Rowan University 
+in south Jersey.
+  The positivity and the energy that he brought to this world will be 
+missed by everyone who had the pleasure of ever
+
+[[Page H4878]]
+
+knowing him. I know that I personally miss him very much.
+  We all wish we had more time on this Earth with you, James, but know 
+we know that you are looking down on your mom and your dad, your entire 
+family, and your friends, and you are in Heaven right now.
+  Rest in peace, my friend, and God bless you.
+
+                          ____________________
+```
