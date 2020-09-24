@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-09-24-pt1-PgS5843-4
+date: 2020-09-24
+edition: CREC
+section: SENATE
+page: S5843
+citation: 166 Cong. Rec. S5843
+---
+
+# NATIONAL SMALL BUSINESS WEEK
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA], McConnell, Mitch (M000355) [R-KY]
+
+```
+                      NATIONAL SMALL BUSINESS WEEK
+
+  Mr. GRASSLEY. Madam President, small businesses are a very important 
+part of the U.S. economy, so we want to recognize this week, marking 
+the 57th anniversary of what we call National Small Business Week--
+proper recognition for a big part of the economy.
+  According to the most up-to-date government statistics, Iowa had 
+270,484 small businesses and 651,635 employees. They account for 99-3/
+10th percent of businesses and 48-1/10th percent of the private 
+workforce. Small businesses create jobs and export products around the 
+world. Small businesses are the backbone of our communities, and I know 
+this pandemic has really hit small businesses very, very hard.
+  I honor these hard-working Iowa entrepreneurs and, of course, their 
+employees in celebrating the week of September 20th as National Small 
+Business Week.
+  I yield the floor.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. McCONNELL. Madam President, I ask unanimous consent that the 
+order for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
