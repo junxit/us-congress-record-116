@@ -1,0 +1,22 @@
+---
+granule: CREC-2020-09-25-pt1-PgH4962-6
+date: 2020-09-25
+edition: CREC
+section: HOUSE
+page: H4962
+citation: 166 Cong. Rec. H4962
+---
+
+# Constitutional Authority Statement for H.R. 8403
+
+**Measures:** H.R. 8403
+
+```
+            By Mr. LARSEN of Washington:
+        H.R. 8403.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 1--All legislative Powers herein granted 
+     shall be vested in a Congress of the United States, which 
+     shall consist of a Senate and House of Representatives.
+```
