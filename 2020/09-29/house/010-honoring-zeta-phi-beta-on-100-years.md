@@ -1,0 +1,35 @@
+---
+granule: CREC-2020-09-29-pt1-PgH4966
+date: 2020-09-29
+edition: CREC
+section: HOUSE
+page: H4966
+citation: 166 Cong. Rec. H4966
+---
+
+# HONORING ZETA PHI BETA ON 100 YEARS
+
+**Speaking:** Carson, Andre (C001072) [D-IN]
+
+```
+                  HONORING ZETA PHI BETA ON 100 YEARS
+
+  (Mr. CARSON of Indiana asked and was given permission to address the 
+House for 1 minute.)
+  Mr. CARSON of Indiana. Mr. Speaker, I rise today to honor Zeta Phi 
+Beta sorority on a century of nurturing leaders and improving 
+communities.
+  Founded on Howard University's campus 100 years ago, Zeta has 
+chartered hundreds of chapters worldwide and has a membership of 
+150,000. Its list of esteemed alumni is a who's who of Black 
+excellence, including trailblazers in business, law, advocacy, public 
+service, and more.
+  I am incredibly proud that my grandmother, Julia Carson, is a part of 
+this amazing legacy of women.
+  As the sorority moves on to its next 100 years, I have no doubt that 
+it will maintain and strengthen its zeal for excellence.
+  Once again, congratulations to Zeta Phi Beta on your first century of 
+success.
+
+                          ____________________
+```
