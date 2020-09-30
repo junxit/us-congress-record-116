@@ -1,0 +1,81 @@
+---
+granule: CREC-2020-09-30-pt1-PgH5102
+date: 2020-09-30
+edition: CREC
+section: HOUSE
+page: H5102
+citation: 166 Cong. Rec. H5102
+---
+
+# ADDRESSING THE THREAT TO THE DOMESTIC SUPPLY CHAIN FROM RELIANCE ON CRITICAL MINERALS FROM FOREIGN ADVERSARIES AND SUPPORTING THE DOMESTIC MINING AND PROCESSING INDUSTRIES--MESSAGE FROM THE...
+
+```
+  ADDRESSING THE THREAT TO THE DOMESTIC SUPPLY CHAIN FROM RELIANCE ON 
+CRITICAL MINERALS FROM FOREIGN ADVERSARIES AND SUPPORTING THE DOMESTIC 
+  MINING AND PROCESSING INDUSTRIES--MESSAGE FROM THE PRESIDENT OF THE 
+                  UNITED STATES (H. DOC. NO. 116-155)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, referred to the Committee on Foreign 
+Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  Pursuant to the International Emergency Economic Powers Act (50 
+U.S.C. 1701 et seq.) (IEEPA), the National Emergencies Act (50 U.S.C. 
+1601 et seq.), and section 301 of title 3, United States Code, I hereby 
+report that I have issued an Executive Order declaring a national 
+emergency to deal with the threat posed by our Nation's undue reliance 
+on critical minerals, in processed or unprocessed form, from foreign 
+adversaries.
+  A strong America cannot be dependent on imports from foreign 
+adversaries for the critical minerals that are increasingly necessary 
+to maintain our economic and military strength in the 21st century. 
+Because of the national importance of reliable access to critical 
+minerals, I signed Executive Order 13817 of December 20, 2017 (A 
+Federal Strategy To Ensure Secure and Reliable Supplies of Critical 
+Minerals), which required the Secretary of the Interior to identify 
+critical minerals and made it the policy of the Federal Government ``to 
+reduce the Nation's vulnerability to disruptions in the supply of 
+critical minerals.'' The critical minerals identified by the Secretary 
+of the Interior are necessary inputs for the products our military, 
+national infrastructure, and economy depend on the most. Our country 
+needs critical minerals to make airplanes, computers, cell phones, 
+electricity generation and transmission systems, and advanced 
+electronics.
+  Though these minerals are indispensable to our country, we presently 
+lack the capacity to produce them in processed form in the quantities 
+we need. American producers depend on foreign countries to supply and 
+process them. Whereas the United States recognizes the continued 
+importance of cooperation on supply chain issues with international 
+partners and allies, in many cases, the aggressive economic practices 
+of certain non-market foreign producers of critical minerals have 
+destroyed vital mining and manufacturing jobs in the United States. We 
+must reduce our vulnerability to adverse foreign government action, 
+natural disaster, or other supply disruptions. Our national security, 
+foreign policy, and economy require a consistent supply of each of 
+these minerals.
+  Using the authority vested in me by IEEPA, the Executive Order 
+requires the Secretary of the Interior, in consultation with the 
+Secretary of the Treasury, the Secretary of Defense, the Secretary of 
+Commerce, and the heads of other executive departments and agencies, as 
+appropriate, to investigate our Nation's undue reliance on critical 
+minerals, in processed or unprocessed form, from foreign adversaries. 
+Following this investigation, the Executive Order requires the 
+Secretary of the Interior to submit a report to the President 
+recommending additional executive action.
+  The Executive Order also declares that it is the policy of the United 
+States to protect and expand the domestic supply chain for minerals. 
+Specific executive department and agency heads, including the Secretary 
+of the Interior and the Secretary of Energy, are directed to take 
+various actions to protect and expand the domestic supply chain for 
+minerals, consistent with applicable law, such as the publication of 
+guidance, the revision of regulations, and the acceleration of the 
+issuance of permits.
+  I am enclosing a copy of the Executive Order I have issued.
+
+                                                     Donald J. Trump.  
+The White House, September 30, 2020.
+
+                          ____________________
+```

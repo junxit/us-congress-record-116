@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-09-30-pt1-PgH5061-4
+date: 2020-09-30
+edition: CREC
+section: HOUSE
+page: H5061
+citation: 166 Cong. Rec. H5061
+---
+
+# U.S. POSTAL SERVICE MUST BE FIXED
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                   U.S. POSTAL SERVICE MUST BE FIXED
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Madam Speaker, in the era of COVID-19, 
+people are reliant on the United States Postal Service more than ever, 
+a beloved American institution built on trust, reliability, and 
+durability.
+  During the Presidential elections of 1864, 156 years ago, during the 
+end of the Civil War, soldiers were mailed ballots, and they voted and 
+returned those ballots via the United States Postal Service. There was 
+no fraud.
+  Sadly and unbelievably, the United States Postal Service is being 
+sabotaged from within. The Trump Postmaster has removed and destroyed 
+671 sorting machines nationally, including 5 of 20 from Buffalo. I 
+inspected the Buffalo facility on September 9 and found priority mail 
+delayed for more than a month--or longer.
+  The dedicated postal workers at the Buffalo facility report that the 
+situation has worsened in the past few days. Mail is sitting on the 
+floor. Five of 20 mail sorters were removed or destroyed.
+  Today I am calling on the Nation's Postmaster to fix and to restore 
+all mail sorters to the Buffalo facility.
+  Our postal workers and letter carriers do great work for the American 
+people. This administration needs to get out of the way and allow them 
+to do their job, their good and honest public service.
+
+                          ____________________
+```

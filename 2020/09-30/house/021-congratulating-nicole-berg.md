@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-09-30-pt1-PgH5061-7
+date: 2020-09-30
+edition: CREC
+section: HOUSE
+page: H5061
+citation: 166 Cong. Rec. H5061
+---
+
+# CONGRATULATING NICOLE BERG
+
+**Speaking:** Newhouse, Dan (N000189) [R-WA]
+
+```
+                       CONGRATULATING NICOLE BERG
+
+  (Mr. NEWHOUSE asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. NEWHOUSE. Mr. Speaker, some may say that I am biased, but I 
+firmly believe that Washington State is home to the best farmers in the 
+world. Today I rise to congratulate one of those incredible farmers, my 
+fellow Washingtonian, Nicole Berg, for her appointment to the Federal 
+Crop Insurance Corporation board of directors.
+  Nicole's experience as a fourth-generation farmer in central 
+Washington has provided her with a strong, yet personal, understanding 
+of the needs of family-run farms in the United States.
+  For many years, I have seen Nicole's passion for putting food on 
+America's table. Her work with the National Association of Wheat 
+Growers has been of immense benefit to the region and to the world. And 
+there is no doubt in my mind that she will be a great asset to the 
+Federal Crop Insurance Corporation.
+  I wish Nicole the very best as she enters this new chapter. Her 
+appointment to the FCIC board of directors is well deserved, and I 
+congratulate her on this fantastic achievement.
+
+                          ____________________
+```
