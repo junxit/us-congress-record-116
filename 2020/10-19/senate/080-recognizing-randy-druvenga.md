@@ -1,0 +1,41 @@
+---
+granule: CREC-2020-10-19-pt2-PgS6326-3
+date: 2020-10-19
+edition: CREC
+section: SENATE
+page: S6326
+citation: 166 Cong. Rec. S6326
+---
+
+# RECOGNIZING RANDY DRUVENGA
+
+**Speaking:** Ernst, Joni (E000295) [R-IA]
+
+```
+                       RECOGNIZING RANDY DRUVENGA
+
+● Mrs. ERNST. Mr. President, I am honored to congratulate 
+Waverly's Randy Druvenga on the conclusion of his tenure as Chair of 
+the National Association of Mutual Insurance Companies--NAMIC--a member 
+organization of property and casualty insurance companies. Randy has 
+helped lead this organization through its 125th year of existence, 
+including the NAMIC Mutual Insurance Foundation's drive to raise 
+$125,000 for scholarships to help talented young Americans pursue their 
+college degrees toward careers in insurance. It is fitting that Randy 
+led NAMIC during this milestone anniversary as the association was 
+founded by Iowans in 1895.
+  While the Hawkeye State is happy to share Randy with NAMIC, we are 
+most proud of his servant leadership in his home State. Randy has 
+served as the past president of the Mutual Insurance Association of 
+Iowa and is currently president of First Maxfield Mutual Insurance 
+Association, a farm mutual insurance company serving more than 7,900 
+policyholders in northeast Iowa. He is a constant presence in his 
+community, supporting numerous causes including the Waverly-Shell Rock 
+Community Schools Foundation, and as a former referee and member of the 
+Iowa High School Athletic Association Officials Hall of Fame.
+  I want to again congratulate Randy Druvenga for his leadership. 
+Iowans are famous for their commitment to their communities, and Randy 
+embodies that spirit at home and beyond.
+
+                          ____________________
+```
