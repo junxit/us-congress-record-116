@@ -1,0 +1,26 @@
+---
+granule: CREC-2020-10-23-pt1-PgS6417-3
+date: 2020-10-23
+edition: CREC
+section: SENATE
+page: S6417
+citation: 166 Cong. Rec. S6417
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+       STEPHEN ANDREW KUBIATOWSKI, OF KENTUCKY, TO BE A JUDGE OF 
+     THE UNITED STATES COURT OF FEDERAL CLAIMS FOR A TERM OF 
+     FIFTEEN YEARS, VICE THOMAS CRAIG WHEELER, TERM EXPIRING.
+       JOSEPH DAWSON III, OF SOUTH CAROLINA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF SOUTH CAROLINA, VICE TERRY 
+     L. WOOTEN, RETIRED.
+```
