@@ -1,0 +1,27 @@
+---
+granule: CREC-2020-11-09-pt1-PgS6626-4
+date: 2020-11-09
+edition: CREC
+section: SENATE
+page: S6626
+citation: 166 Cong. Rec. S6626
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate Friday, October 30, 
+2020:
+
+
+                      FEDERAL ELECTION COMMISSION
+
+        SHANA M. BROUSSARD, OF LOUISIANA, TO BE A MEMBER OF THE 
+     FEDERAL ELECTION COMMISSION FOR A TERM EXPIRING APRIL 30, 
+     2023, VICE ANN MILLER RAVEL, TERM EXPIRED.
+        SEAN J. COOKSEY, OF MISSOURI, TO BE A MEMBER OF THE 
+     FEDERAL ELECTION COMMISSION FOR A TERM EXPIRING APRIL 30, 
+     2021, VICE LEE E. GOODMAN, TERM EXPIRED
+```
