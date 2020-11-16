@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-11-16-pt1-PgH5750
+date: 2020-11-16
+edition: CREC
+section: HOUSE
+page: H5750
+citation: 166 Cong. Rec. H5750
+---
+
+# HONORING KOREAN WAR VETERANS
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                      HONORING KOREAN WAR VETERANS
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Mr. Speaker, last week I had the honor of presenting 
+Korean Ambassador of Peace Medals to Korean war veterans and their 
+families in Towanda, Pennsylvania. The Korean Ambassador of Peace Medal 
+is an honor from the Embassy of the Republic of Korea for American 
+veterans who served in the Korean war.
+  One of the greatest parts of representing Pennsylvania's 12th 
+Congressional District is hearing our veterans' stories of service and 
+sacrifice for our Nation. As the names of these heroes are read on the 
+House floor, it is my hope that their legacies echo through these Halls 
+and across America for generations to come:
+  Glen Ellis, United States Navy;
+  Silas Mills, United States Army;
+  Charles Miller, United States Army;
+  Kent Edsell, United States Marine Corps;
+  Nicholas Williams, United States Navy;
+  Edward Moritz, United States Army;
+  Earl Mayo, United States Army;
+  Carlton Repsher, Jr., United States Army; and
+  Keith Haight, Sr., United States Marine Corps.
+  It is incumbent upon us to honor these individuals and reflect on 
+their heroism in the name of liberty and our American way of life.
+
+                          ____________________
+```
