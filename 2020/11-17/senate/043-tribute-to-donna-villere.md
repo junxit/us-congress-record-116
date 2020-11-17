@@ -1,0 +1,48 @@
+---
+granule: CREC-2020-11-17-pt1-PgS7035
+date: 2020-11-17
+edition: CREC
+section: SENATE
+page: S7035
+citation: 166 Cong. Rec. S7035
+---
+
+# TRIBUTE TO DONNA VILLERE
+
+**Speaking:** Cassidy, Bill (C001075) [R-LA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                        TRIBUTE TO DONNA VILLERE
+
+● Mr. CASSIDY. Madam President, Donna Villere will make 70 years 
+old on December 1, 2020. Donna was born at Touro Hospital in New 
+Orleans; Donna has lived her whole life in Jefferson Parish, except for 
+1 year in New Orleans when she was first married. Donna grew up in 
+Harahan; her maiden name was Gunckel. Donna attended St. Rita's Church 
+and was the first person to be baptized, make their first communion and 
+confirmation, and be married at St. Rita's. Donna attended Chapelle 
+High School and LSUNO College.
+  She is married 51 years to Roger Villere; they have 3 sons Roger, 
+III, Mark, and Jacques; four granddaughters Madison, Masey, Victoria, 
+and Shelby; and 2 great-grandsons Isaiah and Myles. Donna is co-owner 
+of Villere's Florist, which she opened when she was only 18 years old 
+on the corner of Focis Street and Metairie Road. Donna is Secretary/
+Treasurer, Villere Corporation.
+  Donna's hobby is volleyball; she is a great volleyball player, and 
+she started varsity as a freshman at Chapelle HS. Donna has been a 
+volleyball coach for over 35 years at Lakeshore playground in Metairie 
+and has coached at Metairie playground and Harahan playgrounds. Donna 
+likes to attend volleyball tournaments, one of her favorite is 
+Fudpuckers in Destin, FL, and she has attended for over 20 years. Donna 
+supports local tournaments at both Coconut Beach and White Sands Beach 
+volleyball locations in Jefferson Paris.
+  Donna loves to babysit with her two great-grandsons and her nephew 
+Jaxon.●
+
+                          ____________________
+```

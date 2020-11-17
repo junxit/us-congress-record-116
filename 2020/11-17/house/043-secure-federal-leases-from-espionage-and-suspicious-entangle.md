@@ -1,0 +1,382 @@
+---
+granule: CREC-2020-11-17-pt1-PgH5854
+date: 2020-11-17
+edition: CREC
+section: HOUSE
+page: H5854
+citation: 166 Cong. Rec. H5854
+---
+
+# SECURE FEDERAL LEASES FROM ESPIONAGE AND SUSPICIOUS ENTANGLEMENTS ACT
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC], Rouzer, David (R000603) [R-NC]
+
+**Measures:** S. 1869
+
+```
+ SECURE FEDERAL LEASES FROM ESPIONAGE AND SUSPICIOUS ENTANGLEMENTS ACT
+
+  Ms. NORTON. Mr. Speaker, I move to suspend the rules and pass the 
+bill (S. 1869) to require the disclosure of ownership of high-security 
+space leased to accommodate a Federal agency, and for other purposes, 
+as amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                                S. 1869
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; FINDINGS.
+
+       (a) Short Title.--This Act may be cited as the ``Secure 
+     Federal Leases from Espionage And Suspicious Entanglements 
+     Act'' or the ``Secure Federal LEASEs Act''.
+       (b) Findings.--Congress finds that--
+       (1) the Government Accountability Office has reported that 
+     the Federal Government often leases high-security space from 
+     private sector landlords;
+       (2) the General Services Administration collects highest- 
+     level and immediate ownership information through the System 
+     for Award Management, but it is not currently required to 
+     collect beneficial ownership information and lacks an 
+     adequate system for doing so;
+       (3) the General Services Administration and Federal 
+     agencies with leasing authority may not know if foreign 
+     owners have a stake in the buildings leased by the agencies, 
+     either through foreign-incorporated legal entities or through 
+     ownership in United States-incorporated legal entities, even 
+     when the leased space is used for classified operations or to 
+     store sensitive data; and
+       (4) according to a report of the Government Accountability 
+     Office, dated January 2017, that examined the risks of 
+     foreign ownership of Government-leased real estate, ``leasing 
+     space in foreign-owned buildings could present security risks 
+     such as espionage and unauthorized cyber and physical 
+     access''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Beneficial owner.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     the term ``beneficial owner'' means, with respect to a 
+     covered entity, each natural person who, directly or 
+     indirectly, through any contract, arrangement, understanding, 
+     relationship, or otherwise--
+       (i) exercises control over the covered entity; or
+       (ii) has a substantial interest in or receives substantial 
+     economic benefits from the assets of the covered entity.
+       (B) Exceptions.--The term ``beneficial owner'' does not 
+     include, with respect to a covered entity--
+
+[[Page H5855]]
+
+       (i) a minor child;
+       (ii) a person acting as a nominee, intermediary, custodian, 
+     or agent on behalf of another person;
+       (iii) a person acting solely as an employee of the covered 
+     entity and whose control over or economic benefits from the 
+     covered entity derives solely from the employment status of 
+     the person;
+       (iv) a person whose only interest in the covered entity is 
+     through a right of inheritance, unless the person also meets 
+     the requirements of subparagraph (A); or
+       (v) a creditor of the covered entity, unless the creditor 
+     also meets the requirements of subparagraph (A).
+       (C) Anti-abuse rule.--The exceptions under subparagraph (B) 
+     shall not apply if used for the purpose of evading, 
+     circumventing, or abusing the requirements of this Act.
+       (2) Control.--The term ``control'' means, with respect to a 
+     covered entity--
+       (A) having the authority or ability to determine how a 
+     covered entity is utilized; or
+       (B) having some decision-making power for the use of a 
+     covered entity.
+       (3) Covered entity.--The term ``covered entity'' means--
+       (A) a person, corporation, company, business association, 
+     partnership, society, trust, or any other nongovernmental 
+     entity, organization, or group; or
+       (B) any governmental entity or instrumentality of a 
+     government.
+       (4) Executive agency.--The term ``Executive agency'' has 
+     the meaning given the term in section 105 of title 5, United 
+     States Code.
+       (5) Federal agency.--The term ``Federal agency'' means any 
+     Executive agency or any establishment in the legislative or 
+     judicial branch of the Government.
+       (6) Federal lessee.--The term ``Federal lessee''--
+       (A) means the Administrator of General Services, the 
+     Architect of the Capitol, or the head of any Federal agency, 
+     other than the Department of Defense, that has independent 
+     statutory leasing authority; and
+       (B) does not include the head of an element of the 
+     intelligence community.
+       (7) Federal tenant.--The term ``Federal tenant''--
+       (A) means a Federal agency that is occupying or will occupy 
+     a high-security leased space for which a lease agreement has 
+     been secured on behalf of the Federal agency; and
+       (B) does not include an element of the intelligence 
+     community.
+       (8) Foreign entity.--The term ``foreign entity'' means a 
+     covered entity that is headquartered or incorporated in a 
+     country that is not the United States.
+       (9) Foreign person.--The term ``foreign person'' means an 
+     individual who is not a United States person.
+       (10) High-security leased space.--The term ``high-security 
+     leased space'' means a space leased by a Federal lessee 
+     that--
+       (A) will be occupied by Federal employees for nonmilitary 
+     activities; and
+       (B) has a facility security level of III, IV, or V, as 
+     determined by the Federal tenant in consultation with the 
+     Interagency Security Committee, the Department of Homeland 
+     Security, and the General Services Administration.
+       (11) Highest-level owner.--The term ``highest-level owner'' 
+     means the entity that owns or controls an immediate owner of 
+     the offeror of a lease, or that owns or controls 1 or more 
+     entities that control an immediate owner of the offeror.
+       (12) Immediate owner.--The term ``immediate owner'' means 
+     an entity, other than the offeror of a lease, that has direct 
+     control of the offeror, including ownership or interlocking 
+     management, identity of interests among family members, 
+     shared facilities and equipment, and the common use of 
+     employees.
+       (13) Intelligence community.--The term ``intelligence 
+     community'' has the meaning given the term in section 3 of 
+     the National Security Act of 1947 (50 U.S.C. 3003).
+       (14) Substantial economic benefits.--The term ``substantial 
+     economic benefits'' means, with respect to a natural person 
+     described in paragraph (1)(A)(ii), having an entitlement to 
+     the funds or assets of a covered entity that, as a practical 
+     matter, enables the person, directly or indirectly, to 
+     control, manage, or direct the covered entity.
+       (15) United states person.--The term ``United States 
+     person'' means an individual who--
+       (A) is a citizen of the United States; or
+       (B) is an alien lawfully admitted for permanent residence 
+     in the United States.
+       (16) Widely held.--The term ``widely held'' means a fund 
+     that has not less than 100 natural persons as direct or 
+     indirect investors.
+
+     SEC. 3. DISCLOSURE OF OWNERSHIP OF HIGH-SECURITY SPACE LEASED 
+                   FOR FEDERAL AGENCIES.
+
+       (a) Required Disclosures.--Before entering into a lease 
+     agreement with a covered entity or approving a novation 
+     agreement with a covered entity involving a change of 
+     ownership under a lease that will be used for high-security 
+     leased space, a Federal lessee shall require the covered 
+     entity to identify and disclose whether the immediate or 
+     highest-level owner of the leased space, including an entity 
+     involved in the financing thereof, is a foreign person or a 
+     foreign entity, including the country associated with the 
+     ownership entity.
+       (b) Notification.--If a disclosure is made under subsection 
+     (a), the Federal lessee shall notify the Federal tenant of 
+     the building or other improvement that will be used for high-
+     security space in writing, and consult with the Federal 
+     tenant, regarding security concerns and necessary mitigation 
+     measures, if any, prior to award of the lease or approval of 
+     the novation agreement.
+       (c) Timing.--
+       (1) In general.--A Federal lessee shall require a covered 
+     entity to provide the information described in subsection (a) 
+     when first submitting a proposal in response to a 
+     solicitation for offers issued by the Federal lessee.
+       (2) Updates.--A Federal lessee shall require a covered 
+     entity to submit an update of the information described in 
+     subsection (a) annually, beginning on the date that is 1 year 
+     after the date on which the Federal tenant began occupancy, 
+     with information including--
+       (A) the list of immediate or highest-level owners of the 
+     covered entity during the preceding 1-year period of Federal 
+     occupancy; or
+       (B) the information required to be provided relating to 
+     each such immediate or highest-level owner.
+
+     SEC. 4. IMMEDIATE, HIGHEST-LEVEL, AND BENEFICIAL OWNERS.
+
+       (a) Plan.--The General Services Administration, in 
+     coordination with the Office of Management and Budget, shall 
+     develop a Government-wide plan for agencies (as such term is 
+     defined in section 551 of title 5, United States Code) for 
+     identifying all immediate, highest-level, or beneficial 
+     owners of high-security leased spaces before entering into a 
+     lease agreement with a covered entity for the accommodation 
+     of a Federal tenant in a high-security leased space.
+       (b) Requirements.--
+       (1) Contents.--The plan described in subsection (a) shall 
+     include a process for collecting and utilizing the following 
+     information on each immediate, highest-level, or beneficial 
+     owner of a high-security leased space:
+       (A) Name.
+       (B) Current residential or business street address.
+       (C) An identifying number or document that verifies 
+     identity as a United States person, foreign person, or 
+     foreign entity.
+       (2) Disclosures and notifications.--The plan described in 
+     subsection (a) shall--
+       (A) require the disclosure of any immediate, highest-level, 
+     or beneficial owner that is a foreign person;
+       (B) require that, if the Federal lessee is assigning the 
+     building or other improvement that will be used for high-
+     security space to a Federal tenant, the Federal tenant shall 
+     be notified of the disclosure described in subparagraph (A); 
+     and
+       (C) exclude collecting ownership information on widely held 
+     pooled-investment vehicles, mutual funds, trusts, or other 
+     pooled-investment vehicles.
+       (c) Report and Implementation.--The General Services 
+     Administration shall--
+       (1) not later than 1 year after the date of enactment of 
+     this Act, submit the plan described in subsection (a) to the 
+     Committee on Homeland Security and Governmental Affairs of 
+     the Senate and the Committee on Transportation and 
+     Infrastructure of the House of Representatives;
+       (2) not later than 2 years after the date of enactment of 
+     this Act, implement the plan described in subsection (a); and
+       (3) not later than 1 year after the implementation of the 
+     plan described in subsection (a), and each year thereafter 
+     for years, submit a report to the Committee on Homeland 
+     Security and Governmental Affairs of the Senate and the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives on the status of the implementation of the 
+     plan, including the number of disclosures made under 
+     subsection (b)(2).
+
+     SEC. 5. OTHER SECURITY AGREEMENTS FOR LEASED SPACE.
+
+       A lease agreement between a Federal lessee and a covered 
+     entity for the accommodation of a Federal agency in a 
+     building or other improvement that will be used for high-
+     security leased space shall include language that provides 
+     that--
+       (1) the covered entity and any member of the property 
+     management company who may be responsible for oversight or 
+     maintenance of the high-security leased space shall not--
+       (A) maintain access to the high-security leased space; or
+       (B) have access to the high-security leased space without 
+     prior approval from the Federal tenant;
+       (2) access to the high-security leased space or any 
+     property or information located within that space will only 
+     be granted by the Federal tenant if the Federal tenant 
+     determines that the access is clearly consistent with the 
+     mission and responsibilities of the Federal tenant; and
+       (3) the Federal lessee shall have written procedures in 
+     place, signed by the Federal lessee and the covered entity, 
+     governing access to the high-security leased space in case of 
+     emergencies that may damage the leased property.
+
+     SEC. 6. AGENCY NOTIFICATIONS.
+
+       Not later than 60 days after the date of enactment of this 
+     Act, the Administrator of General Services, in consultation 
+     with the Office of Management and Budget, shall provide 
+     notification to relevant Executive branch agencies with 
+     independent leasing authorities of the requirements of this 
+     Act.
+
+     SEC. 7. APPLICABILITY.
+
+       Except where otherwise provided, this Act shall apply with 
+     respect to any lease or novation agreement entered into on or 
+     after the date that is 6 months after the date of enactment 
+     of this Act.
+
+
+[[Page H5856]]
+
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+the District of Columbia (Ms. Norton) and the gentleman from North 
+Carolina (Mr. Rouzer) each will control 20 minutes.
+  The Chair recognizes the gentlewoman from the District of Columbia.
+
+
+                             General Leave
+
+  Ms. NORTON. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+and include extraneous material on S. 1869, as amended.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from the District of Columbia?
+  There was no objection.
+
+                              {time}  1615
+
+  Ms. NORTON. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise in support of S. 1869, the Secure Federal Leases 
+from Espionage and Suspicious Entanglement Act, or the Secure Federal 
+LEASEs Act, introduced by Senator Peters from Michigan.
+  In 2017, the Government Accountability Office published a report that 
+found that several Federal agencies were unknowingly leasing office 
+space in foreign-owned properties, some of which were used for high-
+security purposes. While the General Services Administration 
+subsequently implemented some policies to improve this lack of 
+awareness, more needs to be done.
+  S. 1869, the Secure Federal LEASEs Act, requires agencies to verify 
+the identity of a property's immediate or highest level owners if the 
+space will be used for high-security purposes. It does this by 
+requiring a property's owner to identify and disclose whether they are 
+a foreign person or entity, or if they are financed by foreign persons 
+or entities, before the Federal agency enters into a new or amended 
+lease agreement.
+  The bill also requires GSA and other agencies to include provisions 
+in future leases for high-security spaces that will require owners to 
+agree to having limited access, except where allowed by the tenant 
+agency.
+  To tackle the issue of foreign beneficial owners, this bill also 
+directs GSA to develop a governmentwide system that will enable Federal 
+property managers to collect individual information about each 
+beneficial owner of a property--including name, address, and some 
+government-issued identification--within 2 years of passage. This would 
+allow for the identification and disclosure of foreign ownership that 
+might otherwise elude detection under GSA's current system.
+  GSA has made some positive changes in response to the 2017 GAO report 
+on this issue, but this legislation ensures that their best-practice 
+policies are followed uniformly by all agencies, particularly those 
+with independent leasing authority, and improved going forward.
+  While a lessor may be approved by the Federal Government, it may not 
+be appropriate for an agency to lease a high-security space from the 
+lessor. This legislation will require agencies to evaluate the risks of 
+doing so. By developing a new, more rigorous beneficial owner 
+identification system, the Federal Government can be more vigilant in 
+ensuring that foreign governments do not have access to our most 
+sensitive leased properties.
+  Mr. Speaker, I support this legislation and urge my colleagues to do 
+the same, and I reserve the balance of my time.
+  Mr. ROUZER. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, S. 1869, the Secure Federal LEASEs Act, would require 
+entities that lease commercial space to high-security Federal agencies 
+to identify any foreign ownership interest in the property.
+  In 2017, the General Accountability Office issued a report revealing 
+that there was insufficient information on the ownership of certain 
+high-security federally leased buildings.
+  The GAO recommended additional information be collected and reported 
+to tenant Federal agencies to determine if security precautions are 
+necessary. The General Services Administration, GSA, has already taken 
+steps to address the vulnerabilities raised by GAO, and this bill will 
+help support those efforts.
+  S. 1869 would require Federal agencies with leasing authority to 
+collect this information to improve the security of Federal facilities.
+  I thank the sponsors of this legislation for working with us on 
+amendments to this bill that will help to ensure its effectiveness.
+  Mr. Speaker, S. 1869 will help identify any foreign ownership 
+interest in proposed leases for high-security agencies and improve the 
+security of sensitive Federal facilities.
+  Mr. Speaker, I urge support for this legislation, and I yield back 
+the balance of my time.
+  Ms. NORTON. Mr. Speaker, I urge my colleagues to support this 
+legislation, and I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from the District of Columbia (Ms. Norton) that the House 
+suspend the rules and pass the bill, S. 1869, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
