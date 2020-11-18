@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-11-18-pt1-PgH5876
+date: 2020-11-18
+edition: CREC
+section: HOUSE
+page: H5876
+citation: 166 Cong. Rec. H5876
+---
+
+# FEDERAL EXECUTIONS DURING A PANDEMIC IS MORALLY BANKRUPT
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+        FEDERAL EXECUTIONS DURING A PANDEMIC IS MORALLY BANKRUPT
+
+  (Mr. JOHNSON of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. JOHNSON of Georgia. Mr. Speaker, tomorrow, the Federal Government 
+will execute a Black man named Orlando Hall in the middle of a deadly 
+pandemic that is spiking toward unprecedented levels. The death penalty 
+is cruel, unusual, barbaric, and immoral.
+  Mr. Hall will be the eighth prisoner executed under Bill Barr's 
+leadership since June--eight expedited executions since June in this 
+country--and the first by a lame duck President in a century, the 
+eighth one being done tomorrow.
+  Carrying out Federal executions during a deadly pandemic puts 
+hundreds of people at risk, from local community members, to Bureau of 
+Prison employees, to lawyers and advocates.
+  The Trump administration's choice to risk life in an expedited rush 
+to take life is morally bankrupt.
+  To quote my dear friend and late colleague Elijah Cummings, we, as 
+United States citizens, are better than this.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2020-11-18-pt1-PgH5927-3
+date: 2020-11-18
+edition: CREC
+section: HOUSE
+page: H5927
+citation: 166 Cong. Rec. H5927
+---
+
+# RISING NUMBER OF COVID-19 CASES
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+                    RISING NUMBER OF COVID-19 CASES
+
+  (Mr. SOTO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SOTO. Madam Speaker, coronavirus cases are rising again in 
+Florida. Today, Florida reported 7,925 new cases.
+  Coronavirus cases are rising nationally. Yesterday, there were over 
+155,000 Americans who contracted the coronavirus and another 1,707 
+Americans dead. That is the highest daily death toll since May 14.
+  American families need our help: testing, tracing, treatment, and a 
+vaccine; keeping our first responders on the job; small business 
+relief; jobless benefits; and food and housing assistance.
+  And what is Congress doing about it?
+  The House majority has voted twice for the Heroes Act, including a 
+compromise. President-elect Joe Biden has said right now Congress 
+should come together and pass COVID relief packages like the Heroes 
+Act.
+  Where is President Trump? Where is the Senate Republican majority? 
+Millions of Americans would like to know.
+  America is in crisis. We must come together as a Congress, and the 
+time for action is now.
+
+                          ____________________
+```

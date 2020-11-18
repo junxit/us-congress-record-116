@@ -1,0 +1,31 @@
+---
+granule: CREC-2020-11-18-pt1-PgS7089
+date: 2020-11-18
+edition: CREC
+section: SENATE
+page: S7089
+citation: 166 Cong. Rec. S7089
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Foreign Relations was discharged from further 
+consideration of the following nominations by unanimous consent and the 
+nominations were confirmed:
+
+       FOREIGN SERVICE NOMINATION OF AZIZ Y. YOUNES.
+       FOREIGN SERVICE NOMINATION OF GUNTER E. SCHWABE.
+       FOREIGN SERVICE NOMINATIONS BEGINNING WITH SCOTT L. 
+     ANDERSON AND ENDING WITH CONRAD WP. WONG, WHICH NOMINATIONS 
+     WERE RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON JUNE 29, 2020.
+       FOREIGN SERVICE NOMINATIONS BEGINNING WITH BERGEN NICHOLE 
+     BASSETT AND ENDING WITH MARK A. SULLO, WHICH NOMINATIONS WERE 
+     RECEIVED BY THE SENATE AND APPEARED IN THE CONGRESSIONAL 
+     RECORD ON AUGUST 6, 2020.
+
+                          ____________________
+```

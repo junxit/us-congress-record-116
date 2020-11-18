@@ -1,0 +1,78 @@
+---
+granule: CREC-2020-11-18-pt1-PgS7078-2
+date: 2020-11-18
+edition: CREC
+section: SENATE
+page: S7078
+citation: 166 Cong. Rec. S7078
+---
+
+# Introductory Statement on S. 4914
+
+**Speaking:** Carper, Thomas R. (C000174) [D-DE]
+
+**Measures:** S. 4914
+
+```
+      By Mr. CARPER (for himself, Mrs. Feinstein, Mr. Tester, Mr. 
+        Heinrich, and Ms. Warren):
+  S. 4914. A bill to amend title 23, United States Code, to establish a 
+grant program for transportation projects to improve Tribal health, 
+well-being, and youth safety, and for other purposes; to the Committee 
+on Indian Affairs.
+  Mr. CARPER. Mr. President, I today I am introducing legislation that 
+aims to reduce traffic-related pedestrian fatalities in Native American 
+communities while also improving public health and quality of life.
+  First, let's be clear. Everyone in this country deserves reliable 
+options to travel safely from one place to another. Everyone deserves 
+roads that connect us to each other and expand our horizons. But the 
+sad truth is that not everyone in this country has safe, reliable roads 
+that foster connections and expand horizons. That is especially true in 
+Native American communities.
+  The adverse statistics surrounding the safety and health of 
+Indigenous peoples are staggering. Vehicle-related unintentional injury 
+is the No. 1 cause of death among American Indians and Alaska Natives 
+aged 1 through 44. It is also the third overall cause of death for all 
+American Indians and Alaska Natives, of any age or gender.
+  While unsafe roadways put lives at risk, inadequate or unreliable 
+transportation options create obstacles for everyday life, making it 
+more difficult to simply access healthy groceries, schools, quality 
+health care, emergency services and economic opportunities. Immobility 
+for individuals within Indian Country reinforces barriers to education, 
+quality healthcare, and economic opportunity.
+  Meanwhile, Native American communities face disproportionately higher 
+prevalence of diabetes and other heart disease. In fact, American 
+Indian and Alaska Natives are more than twice more likely than non-
+Hispanic White Americans to die from diabetes. Cardiovascular disease 
+is the primary cause of mortalities for Native Americans under the age 
+of 65. While exercise can help to lower the risks associated with 
+chronic heart disease, throughout Indian Country, there are few safe 
+options for walking, running and bicycling.
+  The sad truth is that decades of Federal underinvestment in 
+transportation infrastructure has contributed to disproportionately 
+higher rates of road traffic fatalities and poor public health outcomes 
+in Indian Country. Unsafe, unreliable and inadequate transportation 
+infrastructure is exacerbating a public safety crisis, worsening public 
+health, and degrading quality of life.
+  Investments in infrastructure that improve safety and expand 
+opportunity for nonmotorized forms of transportation--such as 
+sidewalks, bicycle infrastructure, and pedestrian and bicycle signals--
+can help to prevent more road traffic fatalities and also combat the 
+prevalence of chronic health disparities that exist throughout Native 
+American communities. To that end, the Promoting Access to Tribal 
+Health, Wellbeing and Youth Safety Act would create a new grant program 
+at the U.S. Department of Transportation to dedicate new resources for 
+pedestrian-related infrastructure and improve pedestrian infrastructure 
+throughout Indian Country. The legislation will also authorize $25 
+million annually for these critical projects.
+  By improving pedestrian infrastructure across Tribal communities, we 
+can save lives while improving health outcomes and quality of life in 
+Tribal communities.
+  I would like to thank my colleagues, Senator Feinstein, Senator 
+Tester, Senator Heinrich, and Senator Warren, for joining me to 
+introduce this legislation. As we celebrate National Native American 
+Heritage Month, I look forward to working with my colleagues on this 
+issue. Together we can improve the safety and health of Indigenous 
+peoples across the Nation.
+                                 ______
+```

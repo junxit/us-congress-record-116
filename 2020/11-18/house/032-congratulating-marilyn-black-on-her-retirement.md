@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-11-18-pt1-PgH5877
+date: 2020-11-18
+edition: CREC
+section: HOUSE
+page: H5877
+citation: 166 Cong. Rec. H5877
+---
+
+# CONGRATULATING MARILYN BLACK ON HER RETIREMENT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+             CONGRATULATING MARILYN BLACK ON HER RETIREMENT
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+Marilyn Black of Oil City, Pennsylvania, and congratulate her on her 
+retirement.
+  I cannot possibly overstate Marilyn's impact on Oil City and the 
+surrounding area. Marilyn served as the vice president for Heritage 
+Development of the Oil Region Alliance of Business, Industry & Tourism 
+for 15 years.
+  In those 15 years, Marilyn worked tirelessly to preserve the region's 
+heritage in some of the region's most precious historical sites, 
+including: the Tarbell House, Neilltown Church, and Coal Oil Johnny 
+House, just to name a few.
+  Marilyn's hard work and dedication has not gone unnoticed. Earlier 
+this year, Bill Moon, the mayor of Oil City, Pennsylvania, declared 
+June 13 to be Marilyn Black Day.
+  I think Betsy Kellner, secretary of the Oil Region Alliance's board 
+of directors, summed it up best: ``When you look around the community 
+at the many accomplishments that have happened, you can see Marilyn's 
+touch.''
+  When Marilyn is not hard at work for the oil region, she enjoys the 
+outdoors, spending time fishing, boating, kayaking, hiking, and more.
+  I would like to send my very best wishes to Marilyn as she begins her 
+much-deserved retirement.
+
+                          ____________________
+```
