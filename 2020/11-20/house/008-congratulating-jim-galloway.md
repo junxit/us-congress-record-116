@@ -1,0 +1,36 @@
+---
+granule: CREC-2020-11-20-pt1-PgH5991-7
+date: 2020-11-20
+edition: CREC
+section: HOUSE
+page: H5991
+citation: 166 Cong. Rec. H5991
+---
+
+# CONGRATULATING JIM GALLOWAY
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                      CONGRATULATING JIM GALLOWAY
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to congratulate and 
+honor Jim Galloway on his retirement from The Atlanta Journal-
+Constitution.
+  He most recently served as AJC's political columnist and has been a 
+writer and editor there for over 41 years.
+  Jim knows Atlanta like the back of his hand, and he covered some of 
+its most prominent figures and events.
+  He was responsible for creating the AJC's Political Insider Blog, 
+which is one of the south's most influential political news sites.
+  Starting in 1992, Jim led the newspaper's Presidential coverage. He 
+also covered various topics on religion, and even led the AJC foreign 
+desk.
+  I am thankful for Jim's many years of dedication to reporting in an 
+honest and balanced manner, and I wish him the best as he begins his 
+retirement.
+
+                          ____________________
+```
