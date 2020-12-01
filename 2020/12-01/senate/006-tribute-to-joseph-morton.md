@@ -1,0 +1,34 @@
+---
+granule: CREC-2020-12-01-pt1-PgS7117-6
+date: 2020-12-01
+edition: CREC
+section: SENATE
+page: S7117
+citation: 166 Cong. Rec. S7117
+---
+
+# TRIBUTE TO JOSEPH MORTON
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                        TRIBUTE TO JOSEPH MORTON
+
+  Mr. GRASSLEY. Madam President, each 52 weeks of the year, I do four 
+telephone news conferences with different groups of journalists. Most 
+of the journalists are Iowans.
+  Each week, without failure, a familiar voice opens one of my press 
+calls with a very thoughtful question on some matter of interest to 
+folks in the heartland of America. For more than two decades at the 
+Omaha World-Herald, Joe Morton has cut through the beltway noise to 
+deliver real news to my constituents in Iowa and those in Nebraska.
+  Sadly, his tenure at the paper ended just before Thanksgiving. So I 
+want to take this opportunity to thank Joe for his decades of keeping 
+Americans informed about the work of their elected leaders. So I say: 
+Best of luck to Joe, wherever the future takes him. And if anybody in 
+this area is looking for a dedicated journalist, you ought to consider 
+Joe.
+  I yield the floor.
+
+                          ____________________
+```
