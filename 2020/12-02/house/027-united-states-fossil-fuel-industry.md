@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-02-pt1-PgH6040-4
+date: 2020-12-02
+edition: CREC
+section: HOUSE
+page: H6040
+citation: 166 Cong. Rec. H6040
+---
+
+# UNITED STATES FOSSIL FUEL INDUSTRY
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                              {time}  1930
+                   UNITED STATES FOSSIL FUEL INDUSTRY
+
+  (Mr. CASTEN of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. CASTEN of Illinois. Madam Speaker, imagine that you are a banker 
+reviewing a corporate loan application. Over the last decade, 
+competition has eroded this company's market share. They slashed prices 
+in response; they burned through their cash. 250 similar companies have 
+gone bankrupt since 2014.
+  Would you make that loan?
+  This is today's U.S. fossil fuel industry. Since 2010, coal demand is 
+down 45 percent. Natural gas prices are down 40 percent. Oil prices are 
+down 45 percent. Shale producers have chewed through $342 billion of 
+free cash flow. Exxon just wrote off $20 billion in value. Wells Fargo 
+booked $121 million in sector losses.
+  And yet, the Office of the Comptroller of the Currency has recently 
+proposed a rule to mandate that banks provide ``fair access to 
+capital'' to this sector. They would force you to use your balance 
+sheet to take on excessive risk without commensurate return. They would 
+reduce our financial stability and raise our energy costs.
+  I look forward to a full-throated and bipartisan condemnation of the 
+OCC's attempt to use, dare I say, socialist tools to prop up an 
+industry that is unable to succeed in the rough-and-tumble world of 
+free-market capitalism.
+
+                          ____________________
+```
