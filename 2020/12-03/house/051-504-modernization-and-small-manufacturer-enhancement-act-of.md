@@ -1,0 +1,711 @@
+---
+granule: CREC-2020-12-03-pt1-PgH6072-3
+date: 2020-12-03
+edition: CREC
+section: HOUSE
+page: H6072
+citation: 166 Cong. Rec. H6072
+---
+
+# 504 MODERNIZATION AND SMALL MANUFACTURER ENHANCEMENT ACT OF 2020
+
+**Speaking:** Velazquez, Nydia M. (V000081) [D-NY], Chabot, Steve (C000266) [R-OH], Craig, Angie (C001119) [D-MN]
+
+**Measures:** H.R. 8199, H.R. 8211
+
+```
+    504 MODERNIZATION AND SMALL MANUFACTURER ENHANCEMENT ACT OF 2020
+
+  Ms. VELAZQUEZ. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 8211) to amend the Small Business Investment Act of 1958 to 
+improve the loan guaranty program, enhance the ability of small 
+manufacturers to access affordable capital, and for other purposes, as 
+amended.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 8211
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``504 Modernization and Small 
+     Manufacturer Enhancement Act of 2020''.
+
+     SEC. 2. ADDITIONS TO POLICY GOALS FOR THE DEVELOPMENT COMPANY 
+                   PROGRAM.
+
+       Section 501(d)(3) of the Small Business Investment Act of 
+     1958 (15 U.S.C. 695(d)(3)) is amended--
+       (1) by redesignating subparagraphs (A) through (L) as 
+     subparagraphs (B) through (M), respectively;
+       (2) by inserting before subparagraph (B) (as so 
+     redesignated) the following:
+       ``(A) workforce development through work-based or work-
+     integrated training, which shall be satisfied by 
+     demonstrating that a small business concern that is a subject 
+     of the project has--
+       ``(i) a documented in-house training program, the duration 
+     of which is not shorter than 12 weeks; or
+       ``(ii) entered into a contract with an entity--
+
+       ``(I) to provide trained applicants for any open position 
+     of employment at the small business concern; and
+       ``(II) that ensures that any applicant provided to the 
+     small business concern under subclause (I) has undergone not 
+     fewer than 12 weeks of training that is relevant to the open 
+     position described in that subclause,'';
+
+       (3) by amending subparagraph (D) (as so redesignated) to 
+     read as follows:
+       ``(D) expansion of minority-owned, employee-owned, or 
+     women-owned business development,'';
+
+[[Page H6073]]
+
+       (4) in subparagraph (L) (as so redesignated), by striking 
+     ``producers, or'' and inserting ``producers,'';
+       (5) in subparagraph (M) (as so redesignated), by striking 
+     the period at the end and inserting a comma;
+       (6) by inserting after subparagraph (M) the following new 
+     subparagraphs:
+       ``(N) enhanced ability for small business concerns to 
+     reduce costs by using energy efficient products and 
+     generating renewable energy,
+       ``(O) aid revitalizing of any area for which a disaster has 
+     been declared or determined under subparagraph (A), (B), (C), 
+     or (E) of section 7(b)(2) of the Small Business Act, or
+       ``(P) expansion of small business concerns with 10 or fewer 
+     employees.''; and
+       (7) in the flush text following subparagraph (P), as added 
+     by paragraph (6), by striking ``subparagraphs (J) and (K)'' 
+     and inserting ``subparagraphs (K) and (L)''.
+
+     SEC. 3. INCREASE IN LOAN AMOUNTS FOR MANUFACTURING LOANS.
+
+       Section 502 of the Small Business Investment Act of 1958 
+     (15 U.S.C. 696) is amended--
+       (1) in the matter preceding paragraph (1), by striking 
+     ``The Administration'' and inserting the following:
+       ``(a) In General.--The Administration''; and
+       (2) in subsection (a), as so designated--
+       (A) in paragraph (2)(A)--
+       (i) in the matter preceding clause (i), by striking 
+     ``section'' and inserting ``subsection''; and
+       (ii) in clause (iii), by striking ``$5,500,000'' and 
+     inserting ``$6,500,000''; and
+       (B) in paragraph (3)(A), by striking ``this section'' and 
+     inserting ``this subsection''.
+
+     SEC. 4. IMPROVEMENTS TO 504 LOAN CLOSING PROCEDURE.
+
+       Title V of the Small Business Investment Act of 1958 (15 
+     U.S.C. 695 et seq.) is amended--
+       (1) in section 502, as amended by section 3, by adding at 
+     the end the following new subsections:
+       ``(b) Closing.--
+       ``(1) Authority of certain development companies.--An 
+     accredited lender certified company may take any of the 
+     following actions to facilitate the closing of a loan made 
+     under subsection (a):
+       ``(A) Reallocate the cost of the project with respect to 
+     which the loan is made in an amount that is not more than 10 
+     percent of the overall cost of the project.
+       ``(B) Correct any name that is applicable to the loan, 
+     including the name of any borrower, guarantor, eligible 
+     passive company described in subparagraph (C)(i), and 
+     operating company described in subparagraph (C)(ii).
+       ``(C) Form any of the following to receive proceeds of the 
+     loan:
+       ``(i) An eligible passive company that complies with 
+     section 120.111 of title 13, Code of Federal Regulations, or 
+     any successor regulation.
+       ``(ii) If an eligible passive company is formed under 
+     clause (i), an operating company with respect to that 
+     eligible passive company.
+       ``(D) Correct the address of any property with respect to 
+     which the loan is made.
+       ``(E) Correct the name of any interim lender or third-party 
+     lender.
+       ``(F) Change any third-party lender or interim lender if 
+     that lender is a financial institution that is regulated by 
+     the Federal Government or a State government.
+       ``(G) Make a guarantor a co-borrower or a co-borrower a 
+     guarantor.
+       ``(H) Add a guarantor that does not change ownership with 
+     respect to the loan.
+       ``(I) Reduce the amount of standby debt before the closing 
+     as a result of regularly scheduled payments.
+       ``(J) Reduce the cost of the project with respect to which 
+     the loan is made.
+       ``(2) Fees.--The Administrator shall--
+       ``(A) issue a rule regarding the amount of a closing fee 
+     that may be financed in a debenture that is issued by a 
+     certified development company to make one or more loans to 
+     small business concerns, the proceeds of which are used by 
+     that concern for the purposes described in subsection (a), 
+     except that such amount shall be not less than $3,500; and
+       ``(B) periodically update the rule issued under 
+     subparagraph (A).
+       ``(3) No adverse change and financial statement.--Before 
+     the closing with respect to a loan made under subsection (a), 
+     the borrower and any operating company shall--
+       ``(A) make the certification required under section 120.892 
+     of title 13, Code of Federal Regulations, or any successor 
+     regulation; and
+       ``(B) submit to the certified development company a 
+     financial statement that is not more than 180 days old, which 
+     the company shall certify not later than 120 days before the 
+     date on which the certified development company issues a 
+     debenture with respect to the project to which the loan 
+     relates.
+       ``(c) Express Program.--An accredited lender certified 
+     company may, with respect to a covered loan, take any of the 
+     following actions with respect to the loan:
+       ``(1) Any action described in any of subparagraphs (A) 
+     through (J) of subsection (b)(1).
+       ``(2) If the borrower is not delinquent with respect to the 
+     loan payments--
+       ``(A) permit the loan to subordinate to a new third-party 
+     lender loan for the purposes of refinancing that third-party 
+     lender loan, except that no refinanced amount with respect to 
+     the loan may be increased in order to provide cash to the 
+     borrower;
+       ``(B) permit a new party to assume responsibility for the 
+     loan if the original borrower remains on the loan as the 
+     original guarantor;
+       ``(C) obtain force placed insurance coverage for the loan 
+     if the borrower has allowed insurance coverage with respect 
+     to the loan to lapse; and
+       ``(D) endorse an insurance check with respect to the 
+     property that is financed by the loan in an amount that is 
+     less than $100,000.
+       ``(3) Certify that the loan is compliant with the appraisal 
+     requirements and environmental policies and procedures 
+     applicable to the loan under Standard Operating Procedure 50 
+     10 6 of the Administration, effective August 28, 2020, or any 
+     successor Standard Operating Procedure.
+       ``(d) Definitions.--In this section--
+       ``(1) the term `accredited lender certified company' means 
+     a certified development company that meets the requirements 
+     under section 507(b), including a certified development 
+     company that the Administration has designated as an 
+     accredited lender under such section 507(b); and
+       ``(2) the term `covered loan'--
+       ``(A) means a loan made under subsection (a) in an amount 
+     that is not more than $500,000; and
+       ``(B) does not include a loan made to a borrower that is a 
+     franchise that, or is in an industry that, has a high rate of 
+     default, as annually determined by the Administrator.''; and
+       (2) by adding at the end the following new section:
+
+     ``SEC. 511. CLOSING AND OVERSIGHT.
+
+       ``(a) SBA District Counsels.--Beginning on the date of 
+     enactment of this section, with respect to the program 
+     established under this title, district counsels of the 
+     Administration shall be subject to the same requirements, and 
+     shall have the same authority and responsibilities, as in 
+     effect with respect to that program on the day before the 
+     date of enactment of this section, except that--
+       ``(1) the Office of Credit Risk Management of the 
+     Administration shall have the responsibility for all duties 
+     relating to conducting file reviews of loans made under this 
+     title; and
+       ``(2) district counsels of the Administration shall not 
+     have any responsibility relating to the review of closing 
+     packages with respect to a loan made under this title.
+       ``(b) Designated Attorneys.--For the purposes of this 
+     title, the following provisions and requirements shall apply 
+     with respect to a designated attorney of a certified 
+     development company:
+       ``(1) A designated attorney that meets the requirements 
+     determined under paragraph (2) shall be responsible for 
+     certifying documents relating to the closing of a loan 
+     described in this title.
+       ``(2) The Administrator may determine any continuing 
+     education requirements that the designated attorney shall be 
+     required to satisfy in order to be permitted to close a loan 
+     made under this title.
+       ``(3) If, as of the date of enactment of this section, a 
+     certified development company does not have a designated 
+     attorney, during the 270-day period beginning on that date of 
+     enactment, the certified development company may identify 
+     such an attorney, subject to the approval of the 
+     Administrator.''.
+
+     SEC. 5. CERTIFIED DEVELOPMENT COMPANY LOANS FOR SMALL 
+                   MANUFACTURERS.
+
+       (a) Contribution Requirement.--Section 502(a)(3)(C) of the 
+     Small Business Investment Act of 1958, as designated by 
+     section 3, is amended--
+       (1) by redesignating clauses (i), (ii), (iii), and (iv) as 
+     subclauses (I), (II), (III), and (IV), respectively, and 
+     adjusting the margins of such subclauses accordingly;
+       (2) by inserting before subclause (I), as so redesignated, 
+     the following:
+       ``(i) for a small business concern that is not a small 
+     manufacturer (as defined in section 501(e)(7))--'';
+       (3) in subclause (III), as so redesignated, by striking 
+     ``clauses (i) and (ii)'' and inserting ``subclauses (I) and 
+     (II)'';
+       (4) in subclause (IV) as so redesignated, by striking the 
+     period and the end and inserting ``; or''; and
+       (5) by adding at the end the following:
+       ``(ii) for a small manufacturer (as defined in section 
+     501(e)(7))--
+
+       ``(I) at least 5 percent of the total cost of the project 
+     financed, if the small business concern has been in operation 
+     for a period of 2 years or less;
+       ``(II) at least 5 percent of the total cost of the project 
+     financed, if the project involves a limited or single purpose 
+     building or structure;
+       ``(III) at least 10 percent of the total cost of the 
+     project financed if the project involves both of the 
+     conditions set forth in subclauses (I) and (II); or
+       ``(IV) at least 5 percent of the total cost of the project 
+     financed, in all other circumstances, at the discretion of 
+     the development company.''.
+
+       (b) Creation or Retention of Jobs Requirement.--Section 
+     501(e) of the Small Business Investment Act of 1958 (15 
+     U.S.C. 695(e)) is amended--
+       (1) in paragraph (1), by striking ``creates or retains'' 
+     and all that follows through the period at the end and 
+     inserting ``creates or retains 1 job for every $75,000 
+     guaranteed by
+
+[[Page H6074]]
+
+     the Administration, except that the amount is $150,000 in the 
+     case of a project of a small manufacturer.'';
+       (2) in paragraph (2), by striking ``creates or retains'' 
+     and all that follows through the period at the end and 
+     inserting ``creates or retains 1 job for every $75,000 
+     guaranteed by the Administration, except that the amount is 
+     $150,000 in the case of a project of a small manufacturer.'';
+       (3) by redesignating paragraph (6) as paragraph (7); and
+       (4) by inserting after paragraph (5) the following:
+       ``(6) For a loan for a project directed toward the creation 
+     of job opportunities under subsection (d)(1), the 
+     Administrator shall publish on the website of the 
+     Administration the number of jobs created or retained under 
+     the project as of the date that is 2 years after the 
+     completion (as determined based on information provided by 
+     the development company) of the project.''.
+       (c) Collateral Requirements.--Section 502(a)(3)(E)(i) of 
+     the Small Business Investment Act of 1958, as designated by 
+     section 3, is amended by adding at the end the following: 
+     ``Additional collateral shall not be required in the case of 
+     a small manufacturer (as defined in section 501(e)(7)).''.
+       (d) Debt Refinancing.--Section 502(a)(7)(B) of the Small 
+     Business Investment Act of 1958, as designated by section 3, 
+     is amended in the matter preceding clause (i) by inserting 
+     ``(or in the case of a small manufacturer (as defined in 
+     section 501(e)(7)), that does not exceed 100 percent of the 
+     project cost of the expansion)'' after ``cost of the 
+     expansion''.
+       (e) Amount of Guaranteed Debenture.--Section 503(a) of the 
+     Small Business Investment Act of 1958 (15 U.S.C. 697(a)) is 
+     amended by adding at the end the following:
+       ``(5) Any debenture issued by a State or local development 
+     company to a small manufacturer (as defined in section 
+     501(e)(7)) with respect to which a guarantee is made under 
+     this subsection shall be in an amount equal to not more than 
+     50 percent of the cost of the project with respect to which 
+     such debenture is issued, without regard to whether good 
+     cause has been shown.''.
+
+     SEC. 6. ASSISTANCE FOR SMALL MANUFACTURERS.
+
+       Title V of the Small Business Investment Act of 1958 (15 
+     U.S.C. 695 et seq.), as amended by section 4(2), is further 
+     amended by adding at the end the following new section:
+
+     ``SEC. 512. ASSISTANCE FOR SMALL MANUFACTURERS.
+
+       ``(a) In General.--The Administrator shall ensure that each 
+     district office of the Administration partners with not less 
+     than 1 resource partner to provide training to small business 
+     concerns assigned a North American Industry Classification 
+     System code for manufacturing on obtaining assistance under 
+     the program carried out under this title, including with 
+     respect to the application process under that program and 
+     partnering with development companies under this title.
+       ``(b) Resource Partner Defined.--In this section, the term 
+     `resource partner' means--
+       ``(1) a small business development center (as defined in 
+     section 3 of the Small Business Act);
+       ``(2) a women's business center (described under section 29 
+     of such Act);
+       ``(3) a chapter of the Service Corps of Retired Executives 
+     (established under section 8(b)(1)(B) of such Act); and
+       ``(4) a Veteran Business Outreach Center (described under 
+     section 32 of such Act).''.
+
+     SEC. 7. LEASING RULES FOR NEW FACILITIES AND EXISTING 
+                   BUILDINGS.
+
+       (a) In General.--Section 502(a) of the Small Business 
+     Investment Act of 1958, as designated by section 3, is 
+     amended by striking paragraphs (4) and (5) and inserting the 
+     following new paragraphs:
+       ``(4) New facilities.--
+       ``(A) In general.--With respect to a project to construct a 
+     new facility, an assisted small business concern may 
+     permanently lease not more than 20 percent of the project if 
+     such concern--
+       ``(i) permanently occupies and uses not less than 60 
+     percent of the project;
+       ``(ii) plans to occupy and use an additional portion of the 
+     project that is not permanently leased not later than 3 years 
+     after receipt of assistance under this section; and
+       ``(iii) plans to permanently occupy and use 80 percent of 
+     the project not later than 10 years after receipt of such 
+     assistance.
+       ``(B) Small manufacturers.--With respect to an assisted 
+     small business concern that is a small manufacturer (as 
+     defined in section 501(e)(6)), subparagraph (A)(i) shall 
+     apply with `50 percent' substituted for `60 percent'.
+       ``(5) Existing buildings.--With respect to a project to 
+     acquire, renovate, or reconstruct an existing building, the 
+     following shall apply:
+       ``(A) Occupancy requirements.--The assisted small business 
+     concern may permanently lease not more than 50 percent of the 
+     project if the concern permanently occupies and uses not less 
+     than 50 percent of the project.
+       ``(B) Exception.--The assisted small business concern may 
+     permanently lease more than 50 percent of the project if--
+       ``(i) such concern--
+
+       ``(I) has occupied and used the existing building for a 
+     consecutive 12-month period before submitting an application 
+     for assistance under this section;
+       ``(II) agrees to permanently use less than 50 percent of 
+     the existing building and permanently lease more than 50 
+     percent for a consecutive 12-month period after receiving 
+     such assistance; and
+       ``(III) affirms that the existing building is appropriate 
+     for current and reasonably anticipated needs; and
+
+       ``(ii) the development company assisting such project--
+
+       ``(I) provides written notice to the Administrator on the 
+     date on which the development company closes the loan for 
+     such project; and
+       ``(II) once each year during the first 5 years of the loan, 
+     and once every 2 years for the remainder of the loan--
+
+       ``(aa) conducts an examination of the assisted small 
+     business concern to ensure the concern is not a real estate 
+     development business; and
+       ``(bb) files with the Administrator an anti-investor 
+     certification signed by the development company and the 
+     assisted small business concern.
+       ``(C) Lease term.--Any residential lease made under this 
+     paragraph shall be for a term of not more than 1 year, and 
+     any commercial lease made under this paragraph shall be for a 
+     term of not more than 5 years.''.
+       (b) Report.--Not later than 5 years after the date of the 
+     enactment of this Act, the Administrator of the Small 
+     Business Administration shall submit to Congress a report 
+     analyzing the impact of the amendments made by this section 
+     on access to capital for small business concerns (as defined 
+     under section 3 of the Small Business Act (15 U.S.C. 632)), 
+     and recommending whether similar notice, examination, and 
+     certifications requirements should be made to the program 
+     established under section 7(a) of the Small Business Act (15 
+     U.S.C. 636(a)).
+
+     SEC. 8. LOW-INTEREST REFINANCING UNDER THE LOCAL DEVELOPMENT 
+                   BUSINESS LOAN PROGRAM.
+
+       (a) Expansions.--Section 502(a)(7)(B) of the Small Business 
+     Investment Act of 1958, as designated by section 3 and 
+     amended by section 5(d), is further amended--
+       (1) in the matter preceding clause (i), by striking ``50 
+     percent'' and inserting ``100 percent''; and
+       (2) in clause (v), by adding ``and'' at the end;
+       (3) by striking clause (vi); and
+       (4) by redesignating clause (vii) as clause (vi).
+       (b) Repeal.--Section 521(a) of division E of the 
+     Consolidated Appropriations Act, 2016 (Public Law 114-113; 
+     129 Stat. 2463; 15 U.S.C. 696 note) is repealed.
+       (c) Refinancing.--Section 502(a)(7) of the Small Business 
+     Investment Act of 1958, as designated by section 3, is 
+     amended by adding at the end the following new subparagraph:
+       ``(C) Refinancing not involving expansions.--
+       ``(i) Definitions.--In this subparagraph--
+
+       ``(I) the term `borrower' means a small business concern 
+     that submits an application to a development company for 
+     financing under this subparagraph;
+       ``(II) the term `eligible fixed asset' means tangible 
+     property relating to which the Administrator may provide 
+     financing under this section; and
+       ``(III) the term `qualified debt' means indebtedness that--
+
+       ``(aa) was incurred not less than 6 months before the date 
+     of the application for assistance under this subparagraph;
+       ``(bb) is a commercial loan;
+       ``(cc) the proceeds of which were used to acquire an 
+     eligible fixed asset;
+       ``(dd) was incurred for the benefit of the small business 
+     concern; and
+       ``(ee) is collateralized by eligible fixed assets; and
+       ``(ii) Authority.--A project that does not involve the 
+     expansion of a small business concern may include the 
+     refinancing of qualified debt if--
+
+       ``(I) the amount of the financing is not more than 90 
+     percent of the value of the collateral for the financing, 
+     except that, if the appraised value of the eligible fixed 
+     assets serving as collateral for the financing is less than 
+     the amount equal to 125 percent of the amount of the 
+     financing, the borrower may provide additional cash or other 
+     collateral to eliminate any deficiency;
+       ``(II) the borrower has been in operation for all of the 2-
+     year period ending on the date the loan application is 
+     submitted; and
+       ``(III) for a financing for which the Administrator 
+     determines there will be an additional cost attributable to 
+     the refinancing of the qualified debt, the borrower agrees to 
+     pay a fee in an amount equal to the anticipated additional 
+     cost.
+
+       ``(iii) Financing for business expenses.--
+
+       ``(I) Financing for business expenses.--The Administrator 
+     may provide financing to a borrower that receives financing 
+     that includes a refinancing of qualified debt under clause 
+     (ii), in addition to the refinancing under clause (ii), to be 
+     used solely for the payment of business expenses.
+       ``(II) Application for financing.-- An application for 
+     financing under subclause (I) shall include--
+
+       ``(aa) a specific description of the expenses for which the 
+     additional financing is requested; and
+       ``(bb) an itemization of the amount of each expense.
+
+       ``(III) Condition on additional financing.--A borrower may 
+     not use any part of the
+
+[[Page H6075]]
+
+     financing under this clause for non-business purposes.
+
+       ``(iv) Loans based on jobs.--
+
+       ``(I) Job creation and retention goals.--
+
+       ``(aa) In general.--The Administrator may provide financing 
+     under this subparagraph for a borrower that meets the job 
+     creation goals under subsection (d) or (e) of section 501.
+       ``(bb) Alternate job retention goal.--The Administrator may 
+     provide financing under this subparagraph to a borrower that 
+     does not meet the goals described in item (aa) in an amount 
+     that is not more than the product obtained by multiplying the 
+     number of employees of the borrower by $75,000.
+
+       ``(II) Number of employees.--For purposes of subclause (I), 
+     the number of employees of a borrower is equal to the sum 
+     of--
+
+       ``(aa) the number of full- time employees of the borrower 
+     on the date on which the borrower applies for a loan under 
+     this subparagraph; and
+       ``(bb) the product obtained by multiplying--
+       ``(AA) the number of part-time employees of the borrower on 
+     the date on which the borrower applies for a loan under this 
+     subparagraph; by
+       ``(BB) the quotient obtained by dividing the average number 
+     of hours each part time employee of the borrower works each 
+     week by 40.
+       ``(v) Nondelegation.--Notwithstanding section 508(e), the 
+     Administrator may not permit a premier certified lender to 
+     approve or disapprove an application for assistance under 
+     this subparagraph.
+       ``(vi) Total amount of loans.--The Administrator may 
+     provide not more than a total of $7,500,000,000 of financing 
+     under this subparagraph for each fiscal year.''.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from 
+New York (Ms. Velazquez) and the gentleman from Ohio (Mr. Chabot) each 
+will control 20 minutes.
+  The Chair recognizes the gentlewoman from New York.
+
+
+                             General Leave
+
+  Ms. VELAZQUEZ. Mr. Speaker, I ask unanimous consent that all Members 
+may have 5 legislative days in which to revise and extend their remarks 
+and include extraneous material on the measure under consideration.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from New York?
+  There was no objection.
+  Ms. VELAZQUEZ. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, I rise in support of the bill before us today, H.R. 
+8211, the 504 Modernization and Small Manufacturer Enhancement Act of 
+2020, a bill that makes important improvements to the SBA's 504 Loan 
+Program.
+  Over 62 years ago, Congress created the 504 Loan Program at SBA to 
+help America's small businesses access affordable, long-term capital 
+needed to purchase land, real estate, heavy machinery, equipment, and 
+other fixed assets.
+  The program is a true public-private partnership. An SBA-backed 
+Certified Development Company provides 40 percent of the financing; a 
+bank or credit union provides 50 percent; and the small business 
+borrower provides 10 percent. This structure has proved to be extremely 
+successful for all parties involved.
+  However, earlier this Congress, our Investigations, Oversight and 
+Regulations Subcommittee heard from stakeholders who expressed concerns 
+with the loan closing process, specifically that delays have caused 
+loans to fall through and businesses to lose out on affordable 
+financing.
+  To that end, Ms. Craig and Mr. Chabot have put forth today's bill to 
+streamline the closing process and make compliance easier for CDCs, 
+borrowers, and third-party lenders alike. The bill also enhances access 
+to capital for small manufacturers by increasing the maximum 504. Loan 
+amount for small manufacturers from $5.5 million to $6.5 million. These 
+changes address the issues we have heard in our engagement with CDCs 
+and their borrowers in our districts.
+  Mr. Speaker, I thank Ms. Craig and Mr. Chabot for their hard work and 
+applaud them for their efforts to make bipartisan improvements to this 
+valuable program.
+  Mr. Speaker, I recommend a ``yes'' vote to all my colleagues in the 
+House, and I reserve the balance of my time.
+
+                              {time}  1530
+
+  Mr. CHABOT. Mr. Speaker, I yield myself such time as I may consume.
+  I rise in support of H.R. 8211, the 504 Modernization and Small 
+Manufacturer Enhancement Act of 2020.
+  Fortunately, many of the SBA's government guaranteed loan programs 
+have a strong track record of producing results. Included near the top 
+of that list is the 504 loan program.
+  The SBA's 504/CDC Loan Program provides the Nation's smallest 
+businesses with long-term and fixed-rate financing.
+  Importantly, for a project to qualify for this government guarantee 
+loan program, certain economic development goals must be met, including 
+job creation and job retention goals.
+  H.R. 8211 modernizes that program by expanding the public policy 
+goals to include businesses with 10 employees or less, as well as 
+enhancing the program for small manufacturers.
+  I would like to thank the gentlewoman from Minnesota (Ms. Craig) for 
+working with me in a bipartisan fashion to craft this piece of 
+legislation.
+  I would also like to thank the chairwoman, Ms. Velazquez, once again 
+for advancing this legislation that was favorably reported out of 
+committee unanimously; so both Republicans and Democrats supporting it.
+  I urge my colleagues to support this, which provides crucial updates 
+to the SBA's program, and I reserve the balance of my time.
+  Ms. VELAZQUEZ. Mr. Speaker, I yield such time as she may consume to 
+the gentlewoman from Minnesota (Ms. Craig), the sponsor of the bill.
+  Ms. CRAIG. Mr. Speaker, I rise today to urge my colleagues to support 
+H.R. 8211, the 504 Modernization and Small Manufacturing Enhancement 
+Act of 2020.
+  I would like to thank the ranking member for being an original 
+cosponsor of this bill; the chairwoman, for her leadership, and to her 
+staff for helping me and my constituents throughout the 116th Congress.
+  Our small businesses are suffering. Every day we see a new wave of 
+businesses closing their doors. Unemployment numbers are rising, and 
+our economy is suffering.
+  I hear from constituents daily that their businesses are on their 
+very last leg, and without action to support them, they will soon be 
+forced to close. These are not simply businesses. These are 
+livelihoods, family traditions, and priceless contributions to our 
+communities.
+  It is our job, as Members of Congress, to support these businesses, 
+ensure they survive these troubling times, and provide them with 
+multiple avenues to succeed.
+  In addition to relief, we need to pass legislation that provides 
+businesses in various industries opportunities for growth and access to 
+capital. One way we can do this is to build upon the Small Business 
+Administration's successful 504 loan program that promotes economic 
+development, job creation, and retention and expansion of small 
+businesses.
+  The 504 loan program is designed by local certified development 
+companies, or CDCs, delivered by those companies, which are private, 
+nonprofit corporations whose entire purpose is to promote economic 
+development within their communities.
+  The program backs long-term, fixed-rate loans to support investment 
+in major fixed assets through a three-part partnership with a local 
+lender.
+  One year ago, in the Subcommittee on Investigation, Oversight, and 
+Regulation hearing, CDC lenders spoke about their experiences with this 
+loan program and the many issues they navigated, we saw areas for 
+improvement.
+  One was the lengthy and complex loan closing process which caused 
+third-party lenders to walk away, along with various outdated rules and 
+guidelines hindering the financing of projects.
+  In order for small businesses to take advantage of these programs, we 
+must listen to this feedback and alter our programs accordingly. That 
+is why I introduced H.R. 8211.
+  This bill would make an array of improvements to the 504 program, 
+making it more accessible to small businesses and ultimately driving 
+economic development and growth.
+  In a time of economic crisis and unemployment, we must continue to 
+invest in our small businesses, specifically small manufacturers, in 
+order to promote economic development and the creation and retention of 
+good-paying jobs. We must do everything we can
+
+[[Page H6076]]
+
+to support small manufacturers and ensure that the SBA programs 
+available to them are operating as effectively and efficiently as 
+possible.
+  In addition, H.R. 8199, the 504 Credit Risk Management Improvement 
+Act of 2020, which is also under floor consideration later today, would 
+further clarify provisions in the 504 program, enhancing its 
+accessibility and effectiveness.
+  Mr. Speaker, small businesses are the heart of this economy, and with 
+the improvements from H.R. 8211 and H.R. 8199, more small businesses 
+will be able to grow and ultimately contribute to the economic 
+landscape of not only their communities but this country.
+  I urge all of my colleagues to support these bills before us today.
+  Mr. CHABOT. Mr. Speaker, I have no other speakers and I am prepared 
+to close, so I yield myself the balance of my time.
+  Mr. Speaker, I urge my colleagues to support this bipartisan 
+legislation. As our Nation's small businesses continue to face numerous 
+capital access challenges, the SBA's existing government guarantee loan 
+programs must be prepared to provide assistance. This bill, H.R. 8211, 
+does just that by expanding the 504/CDC Loan Program's economic 
+development goals and enhancing the program for small manufacturers.
+  This program has a proven record of the success, and the improvements 
+that this legislation delivers will continue this track record into the 
+future.
+  I ask for my colleagues' support, and I yield back the balance of my 
+time.
+
+  Ms. VELAZQUEZ. Mr. Speaker, I yield myself such time as I may 
+consume.
+  The SBA's 504 program has enjoyed a track record of success in 
+delivering affordable, long-term capital to small businesses for 
+acquiring land, real estate, or heavy machinery.
+  Furthermore, the CDCs who deliver the program are actively involved 
+in promoting local economic development, especially for underserved 
+business communities.
+  As the chair of the Small Business Committee, I have seen the values 
+CDCs have delivered in my community in New York City, across the State, 
+and across the country. I am proud of our opportunity here today to 
+continue supporting their work and helping entrepreneurs access 
+affordable capital, especially as our local economies continue 
+adjusting to the realities of conducting business in the COVID-19 era.
+  I want to applaud the work by Ms. Craig and Ranking Member Chabot for 
+their collaboration to improve the 504 loan program.
+  I encourage all my colleagues to support this bill, and I yield back 
+the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentlewoman from New York (Ms. Velazquez) that the House suspend the 
+rules and pass the bill, H.R. 8211, as amended.
+  The question was taken; and (two-thirds being in the affirmative) the 
+rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
