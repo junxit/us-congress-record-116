@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-04-pt1-PgH6819
+date: 2020-12-04
+edition: CREC
+section: HOUSE
+page: H6819
+citation: 166 Cong. Rec. H6819
+---
+
+# WE MUST PASS BIPARTISAN COVID RELIEF
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+                  WE MUST PASS BIPARTISAN COVID RELIEF
+
+  (Ms. KUSTER of New Hampshire asked and was given permission to 
+address the House for 1 minute.)
+  Ms. KUSTER of New Hampshire. Mr. Speaker, I rise to speak of the 
+urgent need to pass bipartisan COVID-19 relief legislation as Congress 
+works to conclude our work this year.
+  Families, businesses, and workers in New Hampshire are feeling the 
+continued pain and impact of this pandemic as cases reach record highs 
+in my State and hospitals and frontline health workers brace for the 
+expected surge.
+  This week, I was pleased to see Democrats and Republicans in the 
+House and the Senate come together to find common ground and release a 
+promising framework that we should consider immediately. This 
+legislation would bolster our public health and economic response to 
+COVID-19 to help us get through the long, cold, dark winter ahead.
+  Democrats and Republicans won't get everything they want, but we need 
+to come together and put politics aside.
+  This legislation includes new funding for the Paycheck Protection 
+Program for small businesses, State and local funding for our first 
+responders, extended unemployment, and critical funding to help with 
+the distribution of the promising COVID-19 vaccine, as well as $5 
+billion in funding to combat the opioid epidemic, which, tragically, 
+continues to rage.
+  It is time to come together and get the job done.
+
+                          ____________________
+```

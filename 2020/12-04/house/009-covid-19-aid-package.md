@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-12-04-pt1-PgH6818
+date: 2020-12-04
+edition: CREC
+section: HOUSE
+page: H6818
+citation: 166 Cong. Rec. H6818
+---
+
+# COVID-19 AID PACKAGE
+
+**Speaking:** Kildee, Daniel T. (K000380) [D-MI]
+
+```
+                          COVID-19 AID PACKAGE
+
+  (Mr. KILDEE asked and was given permission to address the House for 1 
+minute.)
+  Mr. KILDEE. Mr. Speaker, look, we all know this pandemic is not 
+over--it is far from over--and Congress has to do its job. Families, 
+seniors, small businesses are suffering, and they need Congress to act 
+now before we leave town.
+  When we were all home over the Thanksgiving holiday, we all saw the 
+same thing: the heartbreaking images of people, people who never have 
+had to seek help, standing in lines for food, millions of people out of 
+work.
+  Small businesses, well, they are closing. We are losing small 
+businesses every single day, and now Federal unemployment benefits are 
+set to expire.
+  Look, families are falling into poverty as a result of our inaction.
+  The people who are hurting are represented by Democrats and 
+Republicans. The people who are hurting are in every district across 
+this country.
+  We worked to get to a solution. In this House, we passed, twice, 
+legislation that would provide that relief, but, at this moment, we 
+need to come together as Democrats and Republicans.
+  The people who are hurting are represented by Democrats and 
+Republicans. The solution has to come in a bipartisan form. So let's 
+set aside our differences. Let's find common ground. Let's pass a COVID 
+relief bill now.
+
+                          ____________________
+```
