@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-08-pt1-PgH7026
+date: 2020-12-08
+edition: CREC
+section: HOUSE
+page: H7026
+citation: 166 Cong. Rec. H7026
+---
+
+# CRITICAL WATER INFRASTRUCTURE
+
+**Speaking:** Keller, Fred (K000395) [R-PA]
+
+```
+                     CRITICAL WATER INFRASTRUCTURE
+
+  (Mr. KELLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. KELLER. Mr. Speaker, today's passage of the Water Resources 
+Development Act of 2020, as amended by the Senate, marks a new chapter 
+for a critical infrastructure project that is very important to the 
+residents of Pennsylvania's 12th Congressional District.
+  The Williamsport levee, located in Lycoming County, Pennsylvania, in 
+the heart of PA-12, is in dire need of repair to protect the 
+livelihoods of local residents and businesses.
+  The flood zone behind the 20-mile levee system is responsible for 
+nearly 87 percent of Lycoming County's economic activity. This area 
+employs more than half of the region's workforce and is home to 24 of 
+the county's 50 largest employers.
+  This bill authorizes the U.S. Army Corps of Engineers to carry out a 
+feasibility study of the imminent threat the levee poses to Lycoming 
+County's residents and economy. This study is a precursor to 
+construction and funding for the levee and represents an important step 
+toward addressing this critical infrastructure need.
+  I will continue to do everything in my power to work with the Army 
+Corps of Engineers to prioritize this project. Today, we take an 
+important step forward in our community's collective effort to get this 
+infrastructure project across the finish line, and for that, I am 
+grateful.
+
+                          ____________________
+```
