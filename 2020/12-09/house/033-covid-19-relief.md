@@ -1,0 +1,45 @@
+---
+granule: CREC-2020-12-09-pt1-PgH7060
+date: 2020-12-09
+edition: CREC
+section: HOUSE
+page: H7060
+citation: 166 Cong. Rec. H7060
+---
+
+# COVID-19 RELIEF
+
+**Speaking:** Slotkin, Elissa (S001208) [D-MI]
+
+```
+                            COVID-19 RELIEF
+
+  (Ms. SLOTKIN asked and was given permission to address the House for 
+1 minute.)
+  Ms. SLOTKIN. Mr. Speaker, I rise today because the American people 
+and the people of Michigan need our help. They need Congress to pass a 
+COVID relief package, and failing to reach a deal would be a shameful 
+dereliction of duty here in the Congress.
+  Just yesterday, my State confirmed its 10,000th death. I have 
+hospitals in my district that are at 98 percent capacity, and local 
+businesses face oblivion.
+  The images of Americans in their cars lining up for hours to pick up 
+their Thanksgiving meal should be seared into our memories. Make no 
+mistake. These food lines are modern-day bread lines, and it is our job 
+to do something about it.
+  Platitudes won't feed a family, and empty words won't get folks 
+together for the holidays. Frankly, it is a slap in the face to ICU 
+nurses, our small business owners, and frontline workers doing 
+everything they can do to weather the crisis.
+  It is a slap in the face to the nurse in East Lansing who wrote to my 
+office pleading for economic relief. Her husband had to stop working in 
+the spring to take care of their kids, and every day she gets up 
+worried she might bring COVID home to them. They are getting behind on 
+their bills, on their rent, and they are taking out loans against their 
+retirement.
+  Mr. Speaker, I ask the leaders of both parties and of both Chambers 
+to witness these stories, do their jobs, and reach a deal, even if it 
+is not perfect.
+
+                          ____________________
+```

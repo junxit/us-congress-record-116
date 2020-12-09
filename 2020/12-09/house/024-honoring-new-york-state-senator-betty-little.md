@@ -1,0 +1,48 @@
+---
+granule: CREC-2020-12-09-pt1-PgH7059
+date: 2020-12-09
+edition: CREC
+section: HOUSE
+page: H7059
+citation: 166 Cong. Rec. H7059
+---
+
+# HONORING NEW YORK STATE SENATOR BETTY LITTLE
+
+**Speaking:** Stefanik, Elise M. (S001196) [R-NY]
+
+```
+              HONORING NEW YORK STATE SENATOR BETTY LITTLE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+New York (Ms. Stefanik) for 5 minutes.
+  Ms. STEFANIK. Mr. Speaker, I rise today in honor of New York State 
+Senator Betty Little, an extraordinarily dedicated and effective public 
+servant for the north country, to congratulate her on her upcoming 
+retirement.
+  Betty has dedicated decades of her life to representing the 
+hardworking families of upstate New York, both during her time in the 
+New York State Assembly and the State Senate.
+  Senator Little first began her career in public service at the local 
+level, and served in many capacities while also working as a teacher 
+before her election to the New York State Assembly in 1995. She was 
+later elected to the State Senate in 2002.
+  Betty has accomplished countless legislative results over the years, 
+expanding benefits for military families, saving hardworking taxpayer 
+dollars, protecting jobs in the Adirondacks, and always standing up for 
+the people of the north country.
+  While petite in stature, Betty is truly a giant among public 
+servants.
+  Senator Little sought election to public office as a working mother, 
+a time when this was a lot harder and less in vogue. She quietly 
+shattered innumerable glass ceilings and paved the way for generations 
+of women to come.
+  I am proud to call Betty Little a legislative partner, a role model, 
+and a dear friend.
+  I offer Betty my most sincere congratulations and gratitude, and I 
+wish her and her family all the best in this next chapter.
+  It is my privilege to highlight her accomplishments in the 
+Congressional Record.
+
+                          ____________________
+```
