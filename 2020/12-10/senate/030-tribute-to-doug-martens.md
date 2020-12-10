@@ -1,0 +1,40 @@
+---
+granule: CREC-2020-12-10-pt1-PgS7420-3
+date: 2020-12-10
+edition: CREC
+section: SENATE
+page: S7420
+citation: 166 Cong. Rec. S7420
+---
+
+# TRIBUTE TO DOUG MARTENS
+
+**Speaking:** Daines, Steve (D000618) [R-MT]
+
+```
+                        TRIBUTE TO DOUG MARTENS
+
+● Mr. DAINES. Mr. President, this week I have the honor of 
+recognizing Doug Martens of Rosebud County for his years of service to 
+his community and being elected to serve as president of the Montana 
+Association of Counties.
+  Doug raised is family in Montana and is a proud husband, father, and 
+grandfather. Before serving 10 years as a commissioner in Rosebud 
+County, Doug was a fire warden and president of the Montana Fire 
+Wardens Association. Doug is a dedicated public servant, and at the 
+same time, he runs his
+
+[[Page S7421]]
+
+family farm and ranch operation outside of Forsyth, MT.
+  Doug has also been an outspoken advocate for Montana energy and coal 
+jobs. He has been a passionate leader in this space and continues to 
+help educate Montanans on the importance of coal including the jobs it 
+creates and the energy it produces throughout our Nation.
+  It is my distinct honor to recognize Doug for his lifetime of service 
+to the people of Rosebud County. I have no doubt his dedication and 
+hard work will continue to serve his community and the Montana 
+Association of Counties exceptionally well.●
+
+                          ____________________
+```

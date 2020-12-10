@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-10-pt1-PgH7114
+date: 2020-12-10
+edition: CREC
+section: HOUSE
+page: H7114
+citation: 166 Cong. Rec. H7114
+---
+
+# HONORING THE LIFE OF CHARLES "CHUCKIE" DaBELLA, JR.
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+         HONORING THE LIFE OF CHARLES ``CHUCKIE'' DaBELLA, JR.
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to honor the 
+life of Charles DaBella, Jr., known to his family and friends as 
+Chuckie.
+  Chuckie was a resident of Hastings, Cambria County, Pennsylvania. He 
+passed away at the age of 52 this summer on June 29 after a devastating 
+motorcycle accident.
+  Chuckie's sister, Charlene, said: ``Chuck was an amazing soldier, 
+brother, father, and son.''
+  His military legacy is one that he and his family can certainly and 
+forever be proud of. Chuckie was a retired Army infantryman with 13 
+years of service. He was with the 3rd Special Forces Group, a Green 
+Beret, senior parachutist, and Army range qualified, earning the bronze 
+German Armed Forces Badge of Marksmanship.
+  Chuckie was also the recipient of four Purple Hearts and the Bronze 
+Star.
+  The pain that comes from the loss of a loved one never truly fades, 
+but I want the DaBella family to know that they are in my thoughts, and 
+my prayers are with them during this incredibly difficult time. We are 
+proud of the service and legacy that Chuckie has left.
+
+  May God watch over Chuck, who left us far too soon.
+
+                          ____________________
+```

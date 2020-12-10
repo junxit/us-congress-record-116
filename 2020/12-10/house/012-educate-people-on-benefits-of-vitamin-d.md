@@ -1,0 +1,44 @@
+---
+granule: CREC-2020-12-10-pt1-PgH7114-4
+date: 2020-12-10
+edition: CREC
+section: HOUSE
+page: H7114
+citation: 166 Cong. Rec. H7114
+---
+
+# EDUCATE PEOPLE ON BENEFITS OF VITAMIN D
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                EDUCATE PEOPLE ON BENEFITS OF VITAMIN D
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Mr. Speaker, I have spoken on vitamin D a bit in the 
+past, and I know we are on the verge of passing another coronavirus 
+bill.
+  I would ask people negotiating that bill to do something to make sure 
+that the public is aware of the benefits of vitamin D.
+  Yesterday, I talked to a Dr. David Meltzer at the University of 
+Chicago, a very brilliant man, and I hope some of the negotiators talk 
+to him before a final deal is cut.
+  While he cannot nail down a specific amount of people who will not 
+have to suffer the severe consequences of vitamin D deficiency, or even 
+die at the hands of vitamin D, it is probably somewhere between 40 and 
+70 percent. Right now, about half of Americans have a vitamin D 
+deficiency. That is going to get worse as we head into the winter 
+months and people are not outside getting vitamin D.
+  So, I strongly request the negotiators to do something to make sure 
+that we stand up to the public health establishment and educate people 
+on the importance of vitamin D and see what we can do about getting 
+products to the market which accelerate getting vitamin D into your 
+bloodstream, because even if you start taking vitamin D tomorrow, you 
+don't get the level that you should have for quite a while.
+  I am encouraging the negotiators to talk to Dr. David Meltzer, who 
+will also fill you in on studies from Ireland, Spain, MIT, Harvard, and 
+Northwestern.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-12-10-pt1-PgH7114-3
+date: 2020-12-10
+edition: CREC
+section: HOUSE
+page: H7114
+citation: 166 Cong. Rec. H7114
+---
+
+# HONORING THE LIFE OF JIMMY ORR
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                     HONORING THE LIFE OF JIMMY ORR
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to remember and 
+honor Mr. Jimmy Orr of Brunswick, Georgia, who recently passed away 
+after a long and impactful life.
+  Jimmy was a gifted athlete who excelled in basketball, baseball, and 
+football in high school and went on to attend Clemson University on a 
+basketball scholarship.
+  He later transferred to the University of Georgia to become one of 
+the Wally Boys, which was a term used for those who played under 
+football Head Coach Wally Butts.
+  During his junior year at the University of Georgia, Jimmy was 
+initially drafted by the Los Angeles Rams and was later traded to the 
+Pittsburgh Steelers after graduation.
+  His exceptional performance made him an easy choice for United Press 
+International and Associated Press Rookie of the Year in 1958.
+  After Jimmy's outstanding 13-year career with the NFL, he eventually 
+led several successful business ventures before retiring to the Georgia 
+coast, where he held a successful golfing record.
+  He was not only an amazing athlete; he was a loving father and 
+husband, a wonderful friend, and a generous philanthropist who impacted 
+the lives of countless individuals.
+  I am thankful for Jimmy's many years of representing Brunswick well, 
+and I know his legacy will continue for many years to come.
+
+                          ____________________
+```

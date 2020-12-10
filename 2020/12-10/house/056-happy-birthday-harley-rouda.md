@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-12-10-pt1-PgH7139-4
+date: 2020-12-10
+edition: CREC
+section: HOUSE
+page: H7139
+citation: 166 Cong. Rec. H7139
+---
+
+# HAPPY BIRTHDAY HARLEY ROUDA
+
+**Speaking:** Phillips, Dean (P000616) [D-MN]
+
+```
+                      HAPPY BIRTHDAY HARLEY ROUDA
+
+  (Mr. PHILLIPS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PHILLIPS. Mr. Speaker, I rise today to recognize and honor my 
+dear friend and colleague, Representative Harley Rouda, on the occasion 
+of his 59th birthday today.
+  Congressman Rouda is as passionate as he is principled, and a 
+reliable voice of reason during very unreasonable times. In celebrating 
+him today, I am reminded of the words of Teddy Roosevelt, who wrote:
+
+       It is not the critic who counts; not the man who points out 
+     how the strong man stumbles, or where the doer of deeds could 
+     have
+
+[[Page H7140]]
+
+     done them better. The credit belongs to the man who was 
+     actually in the arena, who actually strives to do the deeds, 
+     and spends himself in a worthy cause.
+
+  Mr. Speaker, just like the former President, I know that Harley's 
+place will always be in the arena and never on the sidelines.
+  Annalise joins my family and yours--Kaira, Trace, Avery, Shea, and 
+Dylan--in wishing Harley a happy and healthy birthday and a whole lot 
+of love.
+
+                          ____________________
+```

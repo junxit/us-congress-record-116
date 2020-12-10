@@ -1,0 +1,37 @@
+---
+granule: CREC-2020-12-10-pt1-PgH7139-3
+date: 2020-12-10
+edition: CREC
+section: HOUSE
+page: H7139
+citation: 166 Cong. Rec. H7139
+---
+
+# COVID RELIEF
+
+**Speaking:** Takano, Mark (T000472) [D-CA]
+
+```
+                              COVID RELIEF
+
+  (Mr. TAKANO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAKANO. Mr. Speaker, I rise today to demand that my Republican 
+colleagues put aside partisan politics and provide relief to the 
+millions of Americans whose lives have been upended by the COVID-19 
+pandemic.
+  Our country is facing the worst economic crisis since the Great 
+Depression, yet the Federal Government has failed to aid the families 
+struggling to keep food on the table, the small businesses shutting 
+their doors and laying off employees during the holiday season, and 
+State and local governments trying to keep communities afloat.
+  It has been 9 long months since we passed meaningful legislation to 
+support our fellow Americans. This is a dangerously long time, and the 
+pandemic has only gotten worse.
+  It is our responsibility to meet the scale and scope of this pandemic 
+and get people the help they have been desperately waiting for. We must 
+work together and finally pass a relief bill immediately. Families 
+cannot afford to wait another day.
+
+                          ____________________
+```
