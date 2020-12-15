@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-12-15-pt1-PgS7477
+date: 2020-12-15
+edition: CREC
+section: SENATE
+page: S7477
+citation: 166 Cong. Rec. S7477
+---
+
+# Tribute to William Barr (Executive Session)
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+                        Tribute to William Barr
+
+  Mr. CORNYN. Mr. President, yesterday evening, President Trump shared 
+the news that Attorney General Bill Barr will be leaving the 
+administration in the coming days, and I want to take a moment to 
+publicly thank the Attorney General for his service to our country.
+  Under two different Presidents and at two very different times in our 
+country's history, Bill Barr gladly answered the call to service. His 
+steadfast leadership has enabled the Department of Justice to continue 
+its mission at a pivotal moment in our Nation's history.
+  I particularly appreciate Attorney General Barr's attempt to get to 
+the bottom of some of the abuse of power by the FBI and the Department 
+of Justice during the latter part of the Obama administration and early 
+in the Trump administration.
+  During his time as Attorney General, Bill Barr has consistently 
+fought to improve the safety of our communities across the country by 
+attacking violent crime and aggressively countering transnational 
+criminal organizations. He has been a champion of Project Safe 
+Neighborhoods, which has strengthened community partnerships and helped 
+to reduce crime rates across our country.
+  He has taken aim at the threats that exist beyond our borders, from 
+drug cartels in Mexico to economic exploitation and outright theft by 
+China.
+  Through it all, he has been as dogged in preventing injustice as in 
+pursuing wrongdoing.
+  So I want to thank the Attorney General once again for not only 
+answering the call to serve a second time but also for once again 
+serving with distinction and integrity.
+```
