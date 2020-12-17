@@ -1,0 +1,39 @@
+---
+granule: CREC-2020-12-17-pt1-PgH7242-5
+date: 2020-12-17
+edition: CREC
+section: HOUSE
+page: H7242
+citation: 166 Cong. Rec. H7242
+---
+
+# EXPRESSING APPRECIATION FOR ESTHER PAGE
+
+**Speaking:** Riggleman, Denver (R000611) [R-VA]
+
+```
+                EXPRESSING APPRECIATION FOR ESTHER PAGE
+
+  (Mr. RIGGLEMAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. RIGGLEMAN. Madam Speaker, I rise today to offer my gratitude and 
+appreciation for Esther Page, my constituent services director.
+  Known as the Constituent Whisperer and Queen of Casework, Esther is 
+retiring this January after 31 years of service.
+  She truly is the model of what a nonpartisan public servant should 
+be, having shown the same care and devotion for Virginia's Fifth 
+District even as the seat swapped back and forth between parties.
+  I will read a comment from one of my constituents who benefited from 
+Ms. Page's service: ``I felt from her very first contact that she was 
+committed to advocating for me and my best interests. Without Ms. Page, 
+I truly believe that I would still be waiting, my case file deeply 
+buried on someone's desk.''
+  Her devout faith was an example to me and all constituents she 
+helped. She will be retiring to her home in Nelson County this January, 
+and I wish her a long and fulfilling retirement.
+  Esther, I think I speak for all the Fifth District in offering my 
+deepest appreciation for the service you have done.
+  This is not in the speech but know that we all love you.
+
+                          ____________________
+```

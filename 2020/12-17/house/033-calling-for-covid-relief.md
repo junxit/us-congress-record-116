@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-17-pt1-PgH7242
+date: 2020-12-17
+edition: CREC
+section: HOUSE
+page: H7242
+citation: 166 Cong. Rec. H7242
+---
+
+# CALLING FOR COVID RELIEF
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+                        CALLING FOR COVID RELIEF
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Madam Speaker, it has been 9 months since Congress 
+delivered a relief package for the American people. Since then, the 
+pandemic has grown worse.
+  Every time Democrats tried to pass a new relief package, the 
+Republicans who control the U.S. Senate have blocked it from reaching 
+the American people.
+  This has gone on long enough. It is long past time to provide the 
+relief that our folks who are living through this pandemic need.
+  We need to provide another round of stimulus payments to workers. We 
+need to extend and expand unemployment insurance. We need to establish 
+a national COVID testing program and make sure our hospitals and 
+community health centers have the resources they need to provide 
+lifesaving care.
+  We need to help small businesses that have already sacrificed so much 
+in the face of this pandemic, and we need to provide funding so that we 
+can get our population vaccinated against this disease and get our 
+lives back to normal as soon as possible.
+  Leaving town without an agreement is not an option. It is critical 
+that we get this done for the American people.
+  Madam Speaker, I urge all of my colleagues to work together to make 
+this happen.
+
+                          ____________________
+```

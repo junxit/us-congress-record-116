@@ -1,0 +1,139 @@
+---
+granule: CREC-2020-12-17-pt1-PgS7637
+date: 2020-12-17
+edition: CREC
+section: SENATE
+page: S7637
+citation: 166 Cong. Rec. S7637
+---
+
+# Text of Senate Amendment 2715
+
+**Speaking:** Braun, Mike (B001310) [R-IN]
+
+```
+  SA 2715. Mr. BRAUN (for Mr. Moran) proposed an amendment to the bill 
+S. 3248, to reauthorize the United States Anti-Doping Agency, and for 
+other purposes; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``United States Anti-Doping 
+     Agency Reauthorization Act of 2020''.
+
+     SEC. 2. FINDINGS.
+
+       Congress makes the following findings:
+       (1) The United States Anti-Doping Agency--
+       (A) is the independent national anti-doping organization of 
+     the United States; and
+       (B) manages the anti-doping program, results management 
+     processes, drug reference resources, and athlete education 
+     for all United States Olympic Committee-recognized national 
+     governing bodies and the athletes and events of such national 
+     governing bodies.
+       (2) The United States Anti-Doping Agency contributes to the 
+     advancement of clean sport through scientific research, anti-
+     doping education, and outreach programs, and the mission of 
+     the United States Anti-Doping Agency is to preserve the 
+     integrity of competition and protect the rights of athletes.
+       (3) Participation in youth sports has the potential to 
+     equip young athletes with important skills and values 
+     necessary for success in life, and it is essential that the 
+     culture of youth sports emphasizes such skills and values.
+       (4) The TrueSport program of the United States Anti-Doping 
+     Agency partners with youth sport organizations across the 
+     United States to promote sportsmanship, character building, 
+     and healthy performance through the use of targeted 
+     educational materials designed to promote a positive youth 
+     sport experience.
+       (5) In modifying the authority of the United States Anti-
+     Doping Agency to include the promotion of the positive values 
+     of youth sport, Congress sends a strong signal that the goals 
+     of youth sport should include instilling in young athletes 
+     the values of integrity, respect, teamwork, courage, and 
+     responsibility.
+       (6) Due to the unique leadership position of the United 
+     States in the global community, adequate funding of the anti-
+     doping and clean sport programs of the United States Anti-
+     Doping Agency is imperative to the preparation for the 2028 
+     Summer Olympic Games, which will be held in Los Angeles, 
+     California.
+       (7) Increased appropriations for fiscal years 2021 through 
+     2029 would enable the United States Anti-Doping Agency to 
+     directly affect the integrity and well-being of sport, both 
+     domestically and internationally.
+
+     SEC. 3. MODIFICATIONS OF AUTHORITY.
+
+       Section 701 of the Office of National Drug Control Policy 
+     Reauthorization Act of 2006 (21 U.S.C. 2001) is amended--
+       (1) in subsection (b)--
+       (A) by amending paragraph (1) to read as follows:
+       ``(1)(A) serve as the independent anti-doping organization 
+     for the amateur athletic competitions recognized by the 
+     United States Olympic and Paralympic Committee;
+       ``(B) be responsible for certifying in advance any testing 
+     conducted by international organizations under the World 
+     Anti-Doping Code for international amateur athletes and 
+     athletic competitions occurring within the jurisdiction of 
+     the United States; and
+       ``(C) be recognized worldwide as the independent national 
+     anti-doping organization for the United States;'';
+       (B) in paragraph (4), by striking the period at the end and 
+     inserting ``; and''; and
+       (C) by adding at the end the following:
+       ``(5) promote a positive youth sport experience by using a 
+     portion of the funding of the United States Anti-Doping 
+     Agency to provide educational materials on sportsmanship, 
+     character building, and healthy performance for the athletes, 
+     parents, and coaches who participate in youth sports.''; and
+       (2) by adding at the end the following:
+       ``(c) Due Process in Arbitration Proceedings.--Any action 
+     taken by the United States Anti-Doping Agency to enforce a 
+     policy, procedure, or requirement of the United States Anti-
+     Doping Agency against a person with respect to a violation of 
+     Federal law, including an investigation, a disciplinary 
+     action, a sanction, or any other administrative action, shall 
+     be carried out in a manner that provides due process 
+     protection to the person.''.
+
+     SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+       Section 703 of the Office of National Drug Control Policy 
+     Reauthorization Act of 2006 (21 U.S.C. 2003) is amended to 
+     read as follows:
+
+     ``SEC. 703. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to the United 
+     States Anti-Doping Agency--
+       ``(1) for fiscal year 2021, $15,500,000;
+       ``(2) for fiscal year 2022, $16,200,000;
+       ``(3) for fiscal year 2023, $16,900,000;
+       ``(4) for fiscal year 2024, $17,700,000;
+       ``(5) for fiscal year 2025, $18,500,000;
+       ``(6) for fiscal year 2026, $19,800,000;
+       ``(7) for fiscal year 2027, $22,100,000;
+       ``(8) for fiscal year 2028, $24,900,000; and
+       ``(9) for fiscal year 2029, $23,700,000.''.
+
+     SEC. 5. INFORMATION SHARING.
+
+       Except as otherwise prohibited by law and except in cases 
+     in which the integrity of a criminal investigation would be 
+     affected, pursuant to the obligation of the United States 
+     under Article 7 of the United Nations Educational, 
+     Scientific, and Cultural Organization International 
+     Convention Against Doping in Sport done at Paris October 19, 
+     2005, and ratified by the United States in 2008, the Attorney 
+     General, the Secretary of Homeland Security, and the 
+     Commissioner of Food and Drugs shall provide to the United 
+     States Anti-Doping Agency any relevant information relating 
+     to the prevention of the use of performance-enhancing drugs 
+     or the prohibition of performance-enhancing methods.
+                                 ______
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2020-12-17-pt1-PgH7242-3
+date: 2020-12-17
+edition: CREC
+section: HOUSE
+page: H7242
+citation: 166 Cong. Rec. H7242
+---
+
+# PROVIDE COVID RELIEF TO FAMILIES
+
+**Speaking:** Pressley, Ayanna (P000617) [D-MA]
+
+```
+                    PROVIDE COVID RELIEF TO FAMILIES
+
+  (Ms. PRESSLEY asked and was given permission to address the House for 
+1 minute.)
+  Ms. PRESSLEY. Madam Speaker, I rise today on behalf of the people who 
+are struggling and feel abandoned by their government during this 
+crisis.
+  I rise in solidarity with every parent who has struggled to buy 
+diapers and formula, every family behind on rent or crushed by the 
+grief of an empty chair at the kitchen table.
+  Our people are crying out, sick, tired, hungry, and broken. The 
+people we have taken an oath to serve and protect need direct cash to 
+survive the winter. We must send them survival checks immediately.
+  Some of my colleagues are patting themselves on the back for sending 
+corporations payouts--corporations, by the way, that have profited off 
+of people during this pandemic--and shaming families on the edge. Shame 
+on them for their theatrics and their callousness.
+  450 pennies a day for the last 9 months, that is what our government 
+has sent the American people to weather this crisis, and nothing for 
+the immigrant families who drive our essential workforce.
+  It didn't have to be this way. Our families deserve direct cash, real 
+survival checks.
+  Madam Speaker, $600 is hardly sufficient. It is an insult. We must 
+act to save lives now. The pandemic has not discriminated in its 
+hardship, but it would seem compassion and empathy have.
+
+                          ____________________
+```
