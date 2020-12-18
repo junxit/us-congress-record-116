@@ -1,0 +1,43 @@
+---
+granule: CREC-2020-12-18-pt1-PgH7275
+date: 2020-12-18
+edition: CREC
+section: HOUSE
+page: H7275
+citation: 166 Cong. Rec. H7275
+---
+
+# HONORING THE LIFE OF ANDY MATSUI
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+```
+                    HONORING THE LIFE OF ANDY MATSUI
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise to honor the life of floriculturist 
+and philanthropist, Andy Matsui, who recently passed away at the age of 
+85.
+
+[[Page H7276]]
+
+  After being born and raised in a family of farmers in Japan, Andy got 
+an educational visa to go to California and study agriculture. He liked 
+it so much that he bought some land and established a nursery in the 
+Salinas Valley, in my district.
+  Andy produced orchids and pioneered the sale of potted orchids in 
+stores. Today, the Matsui Nursery has one of the greatest selections of 
+orchids in the entire world.
+  But Andy didn't just grow flowers; he grew the future for many. Andy 
+said that education is the only way to change things in this world. 
+That is why he and his wife established the Matsui Foundation to 
+provide scholarships to countless students. Andy believed in our home 
+by encouraging those students to not just study, but to stay and give 
+back to the central coast of California.
+  Our prayers are with his family. May Andy Matsui rest in peace with 
+the satisfaction that he left us with magnificent beauty from his 
+orchids and magnanimous bounty for our community.
+
+                          ____________________
+```
