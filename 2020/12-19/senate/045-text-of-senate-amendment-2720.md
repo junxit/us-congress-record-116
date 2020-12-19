@@ -1,0 +1,160 @@
+---
+granule: CREC-2020-12-19-pt1-PgS7849-6
+date: 2020-12-19
+edition: CREC
+section: SENATE
+page: S7849
+citation: 166 Cong. Rec. S7849
+---
+
+# Text of Senate Amendment 2720
+
+**Speaking:** Gardner, Cory (G000562) [R-CO]
+
+```
+  SA 2720. Mr. GARDNER (for Mr. Lankford) proposed an amendment to the 
+resolution S. Res. 458, calling for the global repeal of blasphemy, 
+heresy, and apostasy laws; as follows:
+
+       Strike the preamble and insert the following:
+       Whereas Article 18 of the Universal Declaration of Human 
+     Rights states that ``[e]veryone has the right to freedom of 
+     thought, conscience and religion; this right includes freedom 
+     to change his religion or belief, and freedom, either alone 
+     or in community with others and in public or private, to 
+     manifest his religion or belief in teaching, practice, 
+     worship and observance'';
+       Whereas many countries continue to have criminal blasphemy 
+     laws, and many punish people who engage in expression deemed 
+     by the government to be blasphemous, heretical, apostate, 
+     defamatory of religion, or insulting to religion or to 
+     religious symbols, figures, or feelings, and such punishment 
+     can include fines, imprisonment, and capital punishment 
+     including by beheading;
+       Whereas blasphemy laws have affected Christians, Muslims, 
+     Jews, Hindus, Baha'i, secularists, and many other groups, are 
+     inconsistent with international human rights standards 
+     because they establish and promote official religious 
+     orthodoxy and dogma over individual liberty, and often result 
+     in violations of the freedoms of religion, thought, and 
+     expression that are protected under international 
+     instruments, including Articles 18 and 19 of the 
+     International Covenant on Civil and Political Rights (ICCPR);
+       Whereas the United Nations Human Rights Committee stated in 
+     General Comment 34 that ``[p]rohibitions of displays of lack 
+     of respect for a religion or other belief system, including 
+     blasphemy laws, are incompatible with the [ICCPR].'';
+       Whereas the United States Commission on International 
+     Religious Freedom (USCIRF) has found that blasphemy charges 
+     are often based on false accusations, are used for sectarian 
+     or political purposes, and foster religious intolerance, 
+     discrimination, and violence;
+       Whereas USCIRF has found that at least 84 countries had 
+     blasphemy laws as of 2020;
+
+[[Page S7850]]
+
+       Whereas USCIRF has identified 41 countries that have taken 
+     enforcement action in 674 criminal blasphemy cases between 
+     2014 and 2018;
+       Whereas these laws were enforced in 15 Middle East and 
+     North African countries, 14 Asia-Pacific countries, 7 
+     European countries, and 5 Sub-Saharan African countries 
+     between 2014 and 2018;
+       Whereas Pakistan, Iran, Russia, India, Egypt, Indonesia, 
+     Yemen, Bangladesh, Saudi Arabia, and Kuwait account for more 
+     than 81 percent of all reported cases of state criminal 
+     blasphemy enforcement;
+       Whereas USCIRF has found that the three countries without 
+     an official state religion that have the highest state 
+     enforcement of blasphemy laws are Russia, India, and 
+     Indonesia;
+       Whereas the Pew Research Center found that countries with 
+     laws against blasphemy, apostasy, or defamation of religion 
+     were more likely to have severe governmental restrictions on 
+     religion, and to experience social hostilities based on 
+     religion, than countries that did not have such laws;
+       Whereas restrictive laws beyond those penalizing blasphemy, 
+     heresy, and apostasy further limit religious freedom, such as 
+     extremism laws--
+       (1) in Russia that have been used to ban Jehovah's 
+     Witnesses as an extremist organization and fueled persecution 
+     of this religious group;
+       (2) in China, to arbitrarily detain an estimated 800,000 to 
+     2,000,000 Uighur Muslims in internment camps because they 
+     followed Islamic rituals and practices; and
+       (3) in North Korea, to detain an estimated 50,000 to 70,000 
+     Christians in labor camps because they followed the tenets of 
+     Christianity;
+       Whereas an international group of experts convened by the 
+     Office of the United Nations High Commissioner for Human 
+     Rights recommended in 2012 that ``[s]tates that have 
+     blasphemy laws should repeal the[m] as such laws have a 
+     stifling impact on the enjoyment of freedom of religion or 
+     belief and healthy dialogue and debate about religion.'';
+       Whereas blasphemy laws are inconsistent with United Nations 
+     resolutions adopted by consensus since 2011 recognizing that 
+     religious intolerance is best fought through positive 
+     measures, such as education, outreach, and counter-speech, 
+     and that criminalization of speech is warranted only for the 
+     prevention of imminent violence;
+       Whereas, according to the annual religious freedom report 
+     published by the Department of State in 2015, attackers in 
+     Bangladesh killed five allegedly anti-Islamic or secularist 
+     writers and publishers, and injured three others;
+       Whereas, in response to these killings, the Home Minister 
+     of Bangladesh, rather than condemning the murders, called on 
+     bloggers and others to refrain from writings that could hurt 
+     the religious feelings of others and added that violators of 
+     the warning would be subject to prosecution under the 
+     restrictive religious freedom laws of Bangladesh;
+       Whereas a 2016 report by USCIRF on Bangladesh found that 
+     religious and civil society groups fear that increasing 
+     religious extremism will result in more criminal attacks and 
+     threats;
+       Whereas restrictive religious freedom laws validate and 
+     promote social violence targeted at religious minorities and 
+     dissenters, whether Christian, Muslim, secularist, or other;
+       Whereas more than one-quarter of reported cases implicated 
+     alleged blasphemous speech posted on social media platforms;
+       Whereas USCIRF has found that in Pakistan, blasphemy laws 
+     have been used to prosecute and persecute Muslims, 
+     Christians, secularists, and others;
+       Whereas, according to a Pew Center report on religion and 
+     public life, Pakistan stands out for having one of the 
+     highest levels of restrictions on religion when both 
+     government restrictions and social hostilities are taken into 
+     account;
+       Whereas, as of May 2020, USCIRF was aware of approximately 
+     40 individuals on death row for blasphemy in Pakistan or 
+     serving life sentences;
+       Whereas Asia Bibi was sentenced to death for blasphemy in 
+     2010 and was held on death row for 8 years, until the Supreme 
+     Court of Pakistan overturned her conviction in 2018, upheld 
+     her acquittal, and granted her permission to leave the 
+     country to flee the threats against her in 2019;
+       Whereas Pakistan selectively enforces the blasphemy and 
+     anti-terrorism laws against minority religious groups, 
+     including by specifically targeting Ahmadiyya Muslims such as 
+     Abdul Shakoor, an 82-year old optician and bookseller who was 
+     recently released after serving over three years in prison on 
+     such charges;
+       Whereas, on July 29, 2020, Tahir Ahmad Naseem, a United 
+     States citizen, was shot and killed in a courtroom while on 
+     trial for blasphemy;
+       Whereas, in 2017, the Christian Governor of Jakarta, 
+     Indonesia, was convicted for blasphemy of Islam and sentenced 
+     to two years in jail;
+       Whereas several countries that previously maintained 
+     blasphemy laws have recently removed these provisions, 
+     including Iceland, Norway, Malta, Denmark, Ireland, Canada, 
+     New Zealand, Greece, and Scotland;
+       Whereas blasphemy laws in the United States were 
+     invalidated by the adoption of the First Amendment to the 
+     Constitution, which protects the freedoms of thought, 
+     conscience, expression, and religious exercise; and
+       Whereas the United States has become a beacon of religious 
+     freedom and tolerance around the world: Now, therefore, be it
+
+                          ____________________
+```
