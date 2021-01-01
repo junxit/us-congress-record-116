@@ -1,0 +1,251 @@
+---
+granule: CREC-2021-01-01-pt1-PgS8007
+date: 2021-01-01
+edition: CREC
+section: SENATE
+page: S8007
+citation: 166 Cong. Rec. S8007
+---
+
+# Text of Senate Amendment 2737
+
+**Speaking:** Boozman, John (B001236) [R-AR]
+
+```
+  SA 2737. Mr. BOOZMAN (for Mr. Risch) proposed an amendment to the 
+resolution S. Res. 684, calling on the Government of Cameroon and 
+separatist armed groups from the English-speaking Northwest and 
+Southwest regions to end all violence, respect the human rights of all 
+Cameroonians, and pursue a genuinely inclusive dialogue toward 
+resolving the ongoing civil conflict in Anglophone Cameroon; as 
+follows:
+
+       Strike the preamble and insert the following:
+       Whereas Cameroon is beset with multiple security 
+     challenges, including a Boko Haram insurgency in the Far 
+     North region, cross-border conflict and criminality by 
+     Central African militia groups to the east, and a civil war 
+     involving the Government of Cameroon and Anglophone 
+     separatist armed groups in the Northwest and Southwest 
+     regions;
+       Whereas the official actions and policies of the 
+     Francophone-dominated Government of Cameroon have repressed 
+     English-speaking Cameroonians politically and economically 
+     throughout the history of Cameroon, dating back to the 
+     reunification of British-administered Southern Cameroons and 
+     French Cameroun under a federal system in October 1961;
+       Whereas, in June 1972, following a national referendum, a 
+     new constitution was adopted that abolished the federal 
+     system, changed the name of the country from the Federal 
+     Republic of Cameroon to the United Republic of Cameroon, and 
+     gave additional powers to the presidency;
+       Whereas Paul Biya, the oldest head of state in Africa, has 
+     been the President of Cameroon since 1982, maintaining his 
+     grip on power by centralizing authority in the executive, 
+     undermining the Constitution of Cameroon, impeding democratic 
+     governance through corrupt practices, using security services 
+     to repress the opposition, and conducting elections marred by 
+     widespread irregularities and allegations of fraud;
+       Whereas key decentralization reforms enacted in the 
+     Constitution of Cameroon in 1996, which mandated the 
+     establishment of a decentralized unitary state, ``equality of 
+     all citizens before the law'', the equal status of French and 
+     English as official languages, and the establishment of local 
+     authorities with ``administrative and financial autonomy'', 
+     remain largely unrealized, though an enabling law was adopted 
+     in December 2019;
+       Whereas, throughout his tenure, President Biya has spent 
+     extended periods in Europe, pursued government policies 
+     exclusively benefitting the Francophone majority in Cameroon, 
+     and crippled many parastatals and private enterprises in the 
+     Northwest and Southwest regions, further marginalizing 
+     English-speaking Cameroonians;
+       Whereas, in October 2016, English-speaking lawyers, 
+     students, and teachers in the Northwest and Southwest regions 
+     of Cameroon took to the streets to peacefully protest 
+     marginalization of English-speaking Cameroonians by the 
+     Government of Cameroon in the legal and education systems, as 
+     exemplified by the appointment of French-speaking judges and 
+     teachers in the Northwest and Southwest regions and the 
+     publishing of important legislation solely in the French 
+     language;
+       Whereas those peaceful protests by English-speaking 
+     lawyers, students, and teachers were met with excessive force 
+     by the police and gendarmerie of Cameroon, which led to gross 
+     human rights violations, the arrest of lawyers, teachers, and 
+     Anglophone civic leaders, and their detention in the 
+     notorious Kondengui prison in Yaounde;
+       Whereas, amid broader protests across the Northwest and 
+     Southwest regions demanding greater autonomy from the central 
+     government of Cameroon, on October 1, 2017, the 56th 
+     anniversary of the end of British trusteeship over Southern 
+     Cameroons, the Anglophone crisis escalated as separatist 
+     armed groups declared independence from Cameroon;
+       Whereas, in 2017, Anglophone separatist armed groups 
+     responded to the repressive and violent actions of the 
+     Government of Cameroon by targeting government officials and 
+     facilities as well as civilians and traditional leaders seen 
+     as sympathetic to the Government of Cameroon and brutally 
+     enforcing ``ghost town operations'' (general strikes) and 
+     school boycotts in the Northwest and Southwest regions;
+       Whereas lengthy government-imposed shutdowns of the 
+     internet and social media in the Northwest and Southwest 
+     regions, totaling 240 days between 2017 and 2018, had a 
+     devastating impact on the economies and educational 
+     institutions in the regions, undermined freedom of 
+     expression, prevented the free flow of information related to 
+     the conflict, and restricted the ability of local communities 
+     to interact and communicate;
+       Whereas the conflict in the Northwest and Southwest regions 
+     of Cameroon has caused considerable instability and human 
+     suffering, with more than 3,000 deaths linked to the conflict 
+     as of 2018, with more recent figures difficult to ascertain 
+     due to lack of access to the Northwest and Southwest regions, 
+     and according to United Nations agencies, as of 2020, 
+     approximately 3,000,000 people in Cameroon are in need of 
+     humanitarian assistance, approximately 60,000 Cameroonian 
+     refugees have fled to Nigeria, and approximately 700,000 
+     persons are internally displaced;
+       Whereas numerous credible reports from human rights 
+     monitors, including the United Nations High Commissioner for 
+     Human Rights, have documented the excessive use of force by 
+     government security forces against Cameroonian civilians 
+     living in the Anglophone regions, including the burning of 
+     villages, the use of live ammunition against protestors, 
+     arbitrary arrest and detention, torture, sexual abuse, and 
+     killing of civilians, including women, children, and the 
+     elderly;
+       Whereas the Department of State 2019 Country Report on 
+     Human Rights Practices for Cameroon documented killings of 
+     civilians, kidnappings, abductions, and hostage taking, 
+     beatings, attacks on health workers and media, restrictions 
+     on movements of persons and goods, and use of child soldiers 
+     by armed Anglophone separatists;
+       Whereas the United Nations Children's Fund estimates that 
+     more than 855,000 children are out of school due to the 
+     conflict, and the Department of State added Cameroon to the 
+     Child Soldiers Prevention Act List in the 2020 Trafficking in 
+     Persons Report as a foreign government ``identified during 
+     the previous year as having governmental armed forces, 
+     police, or other security forces, or government-supported 
+     armed groups that recruit or use child soldiers'';
+       Whereas United States citizen Charles Wesco was shot and 
+     killed near the town of Bamenda, Cameroon, on October 30, 
+     2018,
+
+[[Page S8008]]
+
+     and, in November 2018, the Department of State stated, ``In 
+     memory of American missionary Charles Wesco and all others 
+     who have lost their lives in the Anglophone Crisis, we urge 
+     all sides to end the violence and enter into broad-based 
+     reconciliatory dialogue without preconditions.'';
+       Whereas, in June 2019, the Government of Switzerland 
+     announced that, together with the Centre for Humanitarian 
+     Dialogue, it was facilitating a dialogue between the 
+     Government of Cameroon and armed opposition groups to support 
+     a resolution of the Anglophone crisis;
+       Whereas, in September 2019, President Biya hastily 
+     announced a Major National Dialogue, chaired by Prime 
+     Minister Ngute from September 30 to October 4, 2019, in 
+     Yaounde, ``to examine the ways and means to respond to the 
+     deeply-held aspirations of the populations in the Northwest 
+     and Southwest'';
+       Whereas, though the Major National Dialogue led to some 
+     concessions by the Government of Cameroon on broader 
+     democratization issues, such as the release of some political 
+     prisoners, including the leader of the Cameroon Renaissance 
+     Movement, Maurice Kamto, and some of his associates after 
+     nine months of detention, it failed to bring separatist 
+     groups to the table;
+       Whereas, since the Major National Dialogue, the killing of 
+     civilians and other atrocities continue to be recorded across 
+     the Northwest and Southwest regions, including in towns and 
+     villages such as Babanki, Bamenda, Bangem, Buea, Mamfe, 
+     Muyuka, Pinyin, and Ngarbuh, and the Government of Cameroon 
+     recently has resumed its attack on the political opposition, 
+     placing Mr. Kamto under house arrest and detaining dozens of 
+     his supporters;
+       Whereas national and international outrage followed the 
+     massacre of at least 23 people, including 15 children and 2 
+     pregnant women, by government security forces and allied 
+     militia on February 14, 2020, in Ngarbuh, Donga Mantung 
+     division, in the Northwest region, and a commission of 
+     inquiry established by Cameroonian authorities ultimately led 
+     to the arrest and charging of 3 soldiers for murder;
+       Whereas, on June 5, 2020, amidst increasing concern over 
+     attacks on freedom of the press and detention of journalists 
+     on politically motivated charges in recent years, Cameroon 
+     authorities confirmed that an Anglophone journalist covering 
+     the conflict, Samuel Ajiekah Abuwe, known as Wazizi, who was 
+     arrested in August 2019 and transferred to a military 
+     facility, died in custody shortly after his arrest, an 
+     acknowledgment that led to widespread condemnation and calls 
+     for an independent inquiry;
+       Whereas the Rapid Intervention Battalion (BIR) of the 
+     Government of Cameroon, which has been accused of torture and 
+     extrajudicial killings and implicated in massacres like that 
+     of February 14, 2020, has received training and support from 
+     the United States, potentially in contravention of legal 
+     requirements that ``no assistance shall be furnished . . . to 
+     any unit of the security forces of a foreign country if the 
+     Secretary of State has credible information that such unit 
+     has committed a gross violation of human rights'';
+       Whereas, in February 2019, the Department of State 
+     announced that it would withhold some security assistance to 
+     Cameroon, including equipment and training, citing credible 
+     allegations of human rights violations by state security 
+     forces and a lack of investigation, accountability, and 
+     transparency by the Government of Cameroon in response;
+       Whereas, on December 26, 2019, the United States terminated 
+     the designation of Cameroon as a beneficiary under the 
+     African Growth and Opportunity Act (19 U.S.C. 3701 et seq.) 
+     because ``the Government of Cameroon currently engages in 
+     gross violations of internationally recognized human 
+     rights'';
+       Whereas a European Parliament resolution, passed on April 
+     18, 2019, urged inclusive political dialogue to resolve the 
+     Anglophone crisis, called for the conflict to be considered 
+     by the United Nations Security Council, and urged the 
+     European Union to ``use the political leverage provided by 
+     development aid and other bilateral programmes to enhance the 
+     defense of human rights in Cameroon'';
+       Whereas France maintains considerable interests in 
+     Cameroon, including significant economic and security 
+     cooperation, but has not adequately used its influence to 
+     stem atrocities committed in the Anglophone regions or 
+     support stronger international action to seek resolution to 
+     the conflict;
+       Whereas the United Nations Resident and Humanitarian 
+     Coordinator for Cameroon stated on January 24, 2019, that 
+     ``Cameroon can no longer be a forgotten crisis; it needs to 
+     be high on our agenda'', and, on June 22, 2020, a group of 
+     former world leaders and 5 Nobel Peace Laureates called on 
+     the United Nations Security Council and the United Nations 
+     Secretary-General, the African Union, the Commonwealth of 
+     Nations, and La Francophonie to ``ensure that Cameroon's 
+     Anglophone conflict is on the agenda of the forthcoming UN 
+     Security Council meeting and all UNOCA sessions before the 
+     UNSC'';
+       Whereas, on May 13, 2019, an Arria-formula meeting on the 
+     humanitarian crisis in Cameroon was held for the United 
+     Nations Security Council, but a formal meeting on the 
+     situation in Cameroon has not yet been placed on the United 
+     Nations Security Council agenda;
+       Whereas, on July 1, 2020, in Resolution 2532 (2020), the 
+     United Nations Security Council unanimously underlined its 
+     support of the appeal of the United Nations Secretary-General 
+     for a global ceasefire in all conflicts as the world battles 
+     the COVID-19 pandemic; and
+       Whereas there is a significant Cameroonian diaspora in the 
+     United States, and Cameroon is a longstanding security 
+     partner and aid recipient of the United States, participating 
+     in the Trans-Sahara Counterterrorism Partnership (TSCTP) led 
+     by the Department of State and in United States-supported 
+     efforts to counter Boko Haram and the Islamic State-West 
+     Africa, both of which have mounted terrorist operations in 
+     the Far North region of Cameroon since 2014: Now, therefore, 
+     be it
+
+                          ____________________
+```

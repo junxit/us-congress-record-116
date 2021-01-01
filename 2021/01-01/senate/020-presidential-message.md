@@ -1,0 +1,91 @@
+---
+granule: CREC-2021-01-01-pt1-PgS8004-3
+date: 2021-01-01
+edition: CREC
+section: SENATE
+page: S8004
+citation: 166 Cong. Rec. S8004
+---
+
+# PRESIDENTIAL MESSAGE
+
+**Measures:** S. 906
+
+```
+                          PRESIDENTIAL MESSAGE
+
+                                 ______
+                                 
+
+ REPORT OF THE VETO OF S. 906, THE DRIFTNET MODERNIZATION AND BYCATCH 
+                          REDUCTION ACT--PM 63
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States which was ordered to be printed 
+in the Record, spread in full upon the Journal, and held at the desk:
+
+To the Senate of the United States:
+  I am returning, without my approval, S. 906, the Driftnet 
+Modernization and Bycatch Reduction Act. America's fishermen have made 
+great sacrifices to ensure that our Nation's marine fisheries are a 
+sustainable economic engine for coastal communities. Under my 
+Administration, the number of United States fish stocks subject to 
+overfishing is at a historic low. This achievement is the result of a 
+transparent and collaborative regulatory process that is supported by 
+regional fishery management councils. At council meetings, fishermen 
+work with Federal Government and State government representatives to 
+meet their statutory obligations under the Magnuson-Stevens Fishery 
+Conservation and Management Act.
+  In passing S. 906, the Congress has ignored the fact that the 
+regional fishery management process has had strong, bipartisan support 
+since its creation. By forcing the West Coast drift gillnet fishery to 
+use alternative gear that has not been proven to be an economically 
+viable substitute for gillnets, the Congress is effectively terminating 
+the fishery. As a result, an estimated 30 fishing vessels, all of which 
+are operated by family-owned small businesses,
+
+[[Page S8005]]
+
+will no longer be able to bring their bounty to shore. At a time when 
+our Nation has a seafood trade deficit of nearly $17 billion, S. 906 
+will exacerbate this imbalance.
+  Further, S. 906 will not achieve its purported conservation benefits. 
+The West Coast drift gillnet fishery is subject to robust legal and 
+regulatory requirements for environmental protection that equal or 
+exceed the environmental protections that apply to foreign fisheries. 
+Without this fishery, Americans will import more swordfish and other 
+species from foreign sources that frequently have more bycatch than our 
+own fisheries. If the Congress wants to address bycatch, it should 
+insist on a level playing field for imported seafood instead of 
+crushing American fishing families.
+  My Administration has done more for American fishermen than any 
+President before me. On May 7, 2020, I signed an Executive Order on 
+Promoting American Seafood Competitiveness and Economic Growth to 
+bolster our domestic seafood industry while curbing illegal, 
+unreported, and unregulated fishing abroad. On June 5, 2020, I issued a 
+Proclamation on Modifying the Northeast Canyons and Seamounts Marine 
+National Monument to open it to commercial fishing that is conducted in 
+accordance with the Magnuson-Stevens Act and other applicable laws, 
+regulations, and requirements. And as fishermen struggled to stay on 
+the water during the pandemic, I issued a Memorandum on Protecting the 
+United States Lobster Industry and later made approximately $530 
+million available, through the U.S. Department of Agriculture's Seafood 
+Trade Relief Program, to support the United States seafood industry and 
+fishermen affected by retaliatory tariffs from foreign governments.
+  My Administration would support provisions of the enrolled bill, if 
+passed separately, which would authorize fee collection in a different 
+fishery--the Pacific Halibut fishery. This authority is needed to 
+implement a provision of the International Pacific Halibut Commission 
+Convention, to which the United States is a party. However, for the 
+sake of American fishermen nationwide, I will not let the Congress 
+circumvent the fisheries management process by effectively terminating 
+a fishery without appropriate consultation and input from fishery 
+management councils. If this occurred, it would increase our reliance 
+on imported seafood and take away the livelihoods of hard-working 
+Americans and their family businesses. It is my duty to return S. 906 
+to the Senate without my approval.
+                                                     Donald J. Trump.  
+The White House, January 1, 2021.
+
+                          ____________________
+```

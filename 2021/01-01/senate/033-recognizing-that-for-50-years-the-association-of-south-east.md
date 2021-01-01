@@ -1,0 +1,609 @@
+---
+granule: CREC-2021-01-01-pt1-PgS8009
+date: 2021-01-01
+edition: CREC
+section: SENATE
+page: S8009
+citation: 166 Cong. Rec. S8009
+---
+
+# RECOGNIZING THAT FOR 50 YEARS, THE ASSOCIATION OF SOUTH EAST ASIAN NATIONS (ASEAN) AND ITS TEN MEMBERS, BRUNEI, CAMBODIA, INDONESIA, LAOS, MALAYSIA, MYANMAR, THE PHILIPPINES, SINGAPORE, THAILAND...
+
+**Speaking:** Boozman, John (B001236) [R-AR]
+
+**Measures:** S.Res. 406
+
+```
+  RECOGNIZING THAT FOR 50 YEARS, THE ASSOCIATION OF SOUTH EAST ASIAN 
+NATIONS (ASEAN) AND ITS TEN MEMBERS, BRUNEI, CAMBODIA, INDONESIA, LAOS, 
+ MALAYSIA, MYANMAR, THE PHILIPPINES, SINGAPORE, THAILAND, AND VIETNAM, 
+ HAVE WORKED WITH THE UNITED STATES TOWARD STABILITY, PROSPERITY, AND 
+                        PEACE IN SOUTHEAST ASIA
+
+  Mr. BOOZMAN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 466, S. Res 406.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 406) recognizing that for 50 years, 
+     the Association of South East Asian Nations (ASEAN) and its 
+     ten members, Brunei, Cambodia, Indonesia, Laos, Malaysia, 
+     Myanmar, the Philippines, Singapore, Thailand, and Vietnam, 
+     have worked with the United States toward stability, 
+     prosperity, and peace in Southeast Asia, and expressing the 
+     sense of the Senate that the United States will continue to 
+     remain a strong, reliable, and active partner in the ASEAN 
+     region.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which was reported from the Committee on Foreign Relations, 
+with an amendment to strike all after the resolving clause and insert 
+the part printed in italic, and with an amendment to strike the 
+preamble and insert the part printed in italic, as follows
+
+                              S. Res. 406
+
+       Whereas the 10 members of the Association of South East 
+     Asian Nations (ASEAN) represent a variety of different 
+     cultures and beliefs;
+       Whereas an estimated 7,000,000 United States citizens 
+     identify with an ethnicity represented in ASEAN;
+       Whereas the United States and ASEAN have been cooperating 
+     to advance our mutual interests for 40 years, having first 
+     established dialogue relations on September 10, 1977, through 
+     the 1977 Joint Communique of the First ASEAN-United States 
+     Dialogue and the United States' accession to the Treaty of 
+     Amity and Cooperation in Southeast Asia (TAC) at the ASEAN 
+     Post Ministerial Conference Session in Thailand on July 22, 
+     2009;
+       Whereas the United States was the first non-ASEAN country 
+     to appoint an ambassador to ASEAN on April 29, 2008, and the 
+     first non-member to establish a permanent mission to ASEAN in 
+     2010;
+       Whereas cooperation between the United States Government 
+     and the governments and people of the ASEAN nations can help 
+     realize our common goals of a free, open, peaceful, and 
+     prosperous Indo-Pacific rooted in a rule-based order that 
+     promotes security, opportunity, and dignity to all peoples;
+       Whereas the member states of ASEAN are all vibrant 
+     economies that have given rise to a flourishing middle class 
+     and collectively are predicted to become the world's fourth-
+     largest economy by 2050;
+       Whereas, in 2019, ASEAN's 10 members represented the sixth 
+     largest economy in the world and constitute the United States 
+     fourth-largest export market, with total United States 
+     exports to ASEAN countries reaching $116,200,000,000;
+       Whereas ASEAN is the number one destination for United 
+     States investment in the Indo-Pacific, with $329,000,000,000 
+     in cumulative foreign direct investment;
+       Whereas ASEAN nations surround critical global sea lanes, 
+     with $5,300,000,000,000 of global trade and more than half of 
+     the world's total shipped tonnage transiting through ASEAN 
+     waters each year;
+       Whereas the ultimate goal of the ASEAN Economic Community 
+     (AEC) is to create one of the world's largest single market 
+     economies and facilitate the free movement of goods, 
+     services, and professionals;
+       Whereas the United States-ASEAN Single Window custom 
+     facilitation system expedites intra-ASEAN trade and enhances 
+     the ability of United States businesses to operate in the 
+     region;
+       Whereas the United States-ASEAN Business Alliance for 
+     Competitive Small and Medium-Sized Enterprises (SMEs) has 
+     trained more than 4,600 small-to-medium size enterprises, 
+     with nearly half of the participants being women 
+     entrepreneurs;
+       Whereas the Lower Mekong Initiative, established on July 
+     23, 2009, promotes sustainable long-term economic development 
+     throughout mainland Southeast Asia and fosters regional 
+     cooperation, integration, and capacity building;
+       Whereas the newly announced Japan-United States Mekong 
+     Power Partnership aims to ``promote a more sustainable energy 
+     sector and quality energy infrastructure development'' and 
+     demonstrates the shared commitment of the United States and 
+     other Indo-Pacific nations to strengthen ties with Mekong 
+     countries;
+       Whereas, in 2018 and 2019, the United States announced 
+     several additional initiatives to enhance cooperation with 
+     ASEAN, including the United States-ASEAN Smart Cities 
+     Partnership, the ASEAN Policy Implementation Project, and the 
+     United States-ASEAN Innovation Circle;
+       Whereas the United States is cooperating with ASEAN member 
+     states and providing emergency health assistance to enhance 
+     their resilience in the face of the COVID-19 pandemic, 
+     including through the recently announced United States-ASEAN 
+     Health Futures program that builds on the over $3,500,000,000 
+     the United States has invested in global health collaboration 
+     with ASEAN nations over the last 20 years;
+       Whereas the United States remains committed to working with 
+     ASEAN to improve the promotion and protection of human rights 
+     and fundamental dignity of the people of ASEAN countries, a 
+     key ingredient to maintaining stability, promoting economic 
+     growth, and advancing good governance;
+       Whereas the United States opposes all actions and claims 
+     that infringe upon the freedom and lawful use of the sea, and 
+     has a national interest in ensuring freedom of navigation and 
+     overflight, open access to the Indo-Pacific region's maritime 
+     commons, and respect for international law in the South China 
+     Sea;
+       Whereas the United States is deeply concerned about recent 
+     assertive and unsafe behavior by the People's Republic of 
+     China in the South China Sea, and urges all claimants with 
+     competing territorial claims to seek peaceful resolution of 
+     disputes through collaborative diplomacy and, as necessary, 
+     international arbitration mechanisms consistent with 
+     international law;
+       Whereas the United States supports the Philippines' 
+     decision to use arbitration under the United Nations 
+     Convention on the Law of the Sea (UNCLOS), done at Montego 
+     Bay December 10, 1982, to peacefully and lawfully address 
+     competing claims;
+       Whereas the United States supports development of a Code of 
+     Conduct (COC) that represents the interests of all parties 
+     and promotes peace and stability in the region, opposes 
+     efforts by any nation to use a COC as a vehicle to limit 
+     presence in or lawful use of the South China Sea, encourages 
+     claimants not to undertake new or unilateral attempts to 
+     change the status quo since the signing of the 2002 
+     Declaration of Conduct, including reclamation activities or 
+     administrative measures or controls in disputed areas in the 
+     South China Sea, and encourages ASEAN countries to adopt a 
+     unified position in negotiating the COC;
+       Whereas the ASEAN-United States Maritime Exercise (AUXM), 
+     which ran from September 2-6, 2019, and featured over 1,000 
+     sailors from all 11 countries, built greater maritime 
+     security on the strength of ASEAN, strengthened navy-to-navy 
+     bonds, and exemplified our shared belief in a free and open 
+     Indo-Pacific; and
+       Whereas natural disasters in the ASEAN region over the past 
+     four decades have resulted in major loss and damage, with a 
+     disproportionate impact on developing countries, and the 
+     United States will pursue initiatives that are consistent 
+     with sustainable long-term economic development, including 
+     the achievement of food security and poverty alleviation; 
+     improvement of conservation and sustainable management of 
+     forests, fish stocks, and oceanic resources; resilience to 
+     extreme weather events that are increasing in frequency and 
+     severity; and provision of sustainable livelihoods for local 
+     communities throughout the ASEAN region: Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) supports and affirms the full implementation of the 
+     Asia Reassurance Initiative Act (Public Law 115-409) with 
+     regard to elevating the United States relationship with 
+     ASEAN;
+       (2) stands with the nations of ASEAN as they respond to 
+     COVID-19 and supports greater cooperation in building 
+     capacity to prepare for and respond to pandemics and other 
+     public health challenges;
+       (3) expresses support for rescheduling the United States-
+     ASEAN Special Summit at an appropriate time, and supports 
+     high-level United States participation in the annual ASEAN 
+     summit held each November;
+       (4) reaffirms the importance of United States-ASEAN 
+     economic engagement, including the elimination of barriers to 
+     cross-border commerce, and supports the ASEAN Economic 
+     Community's (AEC) goals, including strong, inclusive,
+
+[[Page S8010]]
+
+     and sustainable long-term economic growth and cooperation 
+     with the United States that focuses on innovation and 
+     capacity-building efforts in technology, education, disaster 
+     management, food security, human rights, and trade 
+     facilitation, particularly for ASEAN's poorest countries;
+       (5) urges ASEAN to continue its efforts to foster greater 
+     integration and unity within the ASEAN community, as well as 
+     to foster greater integration and unity with non-ASEAN 
+     economic, political, and security partners, including Japan, 
+     the Republic of Korea, Australia, the European Union, Taiwan, 
+     and India;
+       (6) recognizes the value of strategic economic initiatives 
+     like United States-ASEAN Connect, which demonstrates a 
+     commitment to ASEAN and the AEC and builds upon economic 
+     relationships in the region;
+       (7) supports ASEAN nations in addressing maritime and 
+     territorial disputes in a constructive manner and in pursuing 
+     claims through peaceful, diplomatic, and, as necessary, 
+     legitimate regional and international arbitration mechanisms, 
+     consistent with international law, including through the 
+     adoption of a code of conduct in the South China Sea that 
+     represents the interests of all parties and promotes peace 
+     and stability in the region;
+       (8) urges all parties involved in the maritime and 
+     territorial disputes in the Indo-Pacific region, including 
+     the Government of the People's Republic of China--
+       (A) to cease any current activities, and avoid undertaking 
+     any actions in the future, that undermine stability, or 
+     complicate or escalate disputes through the use of coercion, 
+     intimidation, or military force;
+       (B) to demilitarize islands, reefs, shoals, and other 
+     features, and refrain from new efforts to militarize, 
+     including the construction of new garrisons and facilities 
+     and the relocation of additional military personnel, 
+     material, or equipment;
+       (C) to oppose actions by any country that prevent other 
+     countries from exercising their sovereign rights to the 
+     resources in their exclusive economic zones (EEZ) and 
+     continental shelves by enforcing claims to those areas in the 
+     South China Sea that lack support in international law; and
+       (D) to oppose unilateral declarations of administrative and 
+     military districts in contested areas in the South China Sea;
+       (9) urges parties to refrain from unilateral actions that 
+     cause permanent physical damage to the marine environment, 
+     and supports the efforts of the National Oceanic and 
+     Atmospheric Administration and ASEAN to implement guidelines 
+     to address the illegal, unreported, and unregulated fishing 
+     in the region;
+       (10) supports efforts by United States partners and allies 
+     in ASEAN--
+       (A) to enhance maritime capability and maritime domain 
+     awareness;
+       (B) to protect unhindered access to and use of 
+     international waterways in the Indo-Pacific region that are 
+     critical to ensuring the security and free flow of commerce;
+       (C) to counter piracy;
+       (D) to disrupt illicit maritime trafficking activities such 
+     as the trafficking of persons, goods, and drugs; and
+       (E) to enhance the maritime capabilities of countries or 
+     regional organizations to respond to emerging threats to 
+     maritime security in the Indo-Pacific region;
+       (11) urges ASEAN member states to develop a common approach 
+     to reaffirm the decision of the Permanent Court of 
+     Arbitration's 2016 ruling in favor of the Republic of the 
+     Philippines in the case against the People's Republic of 
+     China's excessive maritime claims;
+       (12) reaffirms the commitment of the United States to 
+     continue joint efforts with ASEAN to halt human smuggling and 
+     trafficking in persons, and urges ASEAN to create and 
+     strengthen regional mechanisms to provide assistance and 
+     support to refugees and migrants;
+       (13) supports the Lower Mekong Initiative, which has led to 
+     significant progress in promoting sustainable long-term 
+     economic development in mainland Southeast Asia and fostering 
+     integrated sub-regional cooperation and capacity building;
+       (14) urges ASEAN to build capacity for the promotion and 
+     protection of human rights by ASEAN member states, and the 
+     implementation of related priorities, programs, and 
+     activities;
+       (15) urges ASEAN governments to engage directly with 
+     leaders of civil society and human rights, including 
+     advocates of religious freedom, victims of human rights 
+     abuses, and environmental groups, and to ensure these 
+     stakeholders have a voice in constructing public policy;
+       (16) encourages the President of the United States to 
+     communicate to ASEAN leaders the importance of promoting the 
+     rule of law and open and transparent government, 
+     strengthening civil society, and protecting human rights, 
+     including releasing political prisoners, ceasing politically 
+     motivated prosecutions and arbitrary killings, safeguarding 
+     freedom of the press, freedom of assembly, freedom of 
+     religion, and freedom of speech and expression;
+       (17) supports efforts by organizations in ASEAN that 
+     address corruption in the public and private sectors, enhance 
+     anti-bribery compliance, enforce bribery criminalization in 
+     the private sector, and build beneficial ownership 
+     transparency through the ASEAN-USAID PROSPECT project 
+     partnered with the South East Asia Parties Against Corruption 
+     (SEA-PAC);
+       (18) supports the Young Southeast Asian Leaders Initiative 
+     as an example of a people-to-people partnership that provides 
+     skills, networks, and leadership training to a new generation 
+     who will create and fill jobs, foster cross-border 
+     cooperation and partnerships, and rise to solve the regional 
+     and global challenges of the future; and
+       (19) applauds the ASEAN governments that have fully upheld 
+     and implemented all United Nations Security Council 
+     resolutions and international agreements with respect to 
+     North Korea's nuclear and ballistic missile programs, and 
+     encourages all other ASEAN governments to do the same.
+
+  Mr. BOOZMAN. Mr. President, I ask unanimous consent that the 
+committee-reported substitute be agreed to; that the resolution, as 
+amended, be agreed to; that the committee-reported amendment to the 
+preamble be considered; that the amendment at the desk be agreed to; 
+that the committee-reported amendment to the preamble be agreed to; 
+that the preamble, as amended, be agreed to; and that the motions to 
+reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment in the nature of a substitute was 
+agreed to.
+  The resolution (S. Res. 406), as amended, was agreed to.
+  The amendment (No. 2735) was agreed to as follows
+
+       (Purpose: To make a technical correction to the preamble)
+
+       In the second whereas clause of the preamble, strike 
+     ``70,000,000'' and insert ``7,000,000''.
+
+  The committee-reported amendment to the preamble, in the nature of a 
+substitute, was agreed to.
+  The preamble, as amended, was agreed to.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S8010, January 1, 2021, second column, the following 
+appears: The resolution (S. Res. 406), as amended, was agreed to. 
+The committee-reported amendment to the preamble, in the nature of 
+a substitute, was agreed to. The amendment (No. 2735) was agreed 
+to as follows (Purpose: To make a technical correction to the 
+preamble) In the second whereas clause of the preamble, strike 
+``70,000,000'' and insert ``7,000,000''. The preamble, as amended, 
+was agreed to.
+  
+  The online version has been corrected to read: The resolution 
+(S. Res. 406), as amended, was agreed to. The amendment (No. 2735) 
+was agreed to as follows (Purpose: To make a technical correction 
+to the preamble) In the second whereas clause of the preamble, 
+strike ``70,000,000'' and insert ``7,000,000''. The committee-
+reported amendment to the preamble, in the nature of a substitute, 
+was agreed to. The preamble, as amended, was agreed to.
+
+
+ ========================= END NOTE ========================= 
+
+
+  The resolution, as amended, with its preamble, as amended, reads as 
+follows:
+
+                              S. Res. 406
+
+       Whereas the 10 members of the Association of South East 
+     Asian Nations (ASEAN) represent a variety of different 
+     cultures and beliefs;
+       Whereas an estimated 7,000,000 United States citizens 
+     identify with an ethnicity represented in ASEAN;
+       Whereas the United States and ASEAN have been cooperating 
+     to advance our mutual interests for 40 years, having first 
+     established dialogue relations on September 10, 1977, through 
+     the 1977 Joint Communique of the First ASEAN-United States 
+     Dialogue and the United States' accession to the Treaty of 
+     Amity and Cooperation in Southeast Asia (TAC) at the ASEAN 
+     Post Ministerial Conference Session in Thailand on July 22, 
+     2009;
+       Whereas the United States was the first non-ASEAN country 
+     to appoint an ambassador to ASEAN on April 29, 2008, and the 
+     first non-member to establish a permanent mission to ASEAN in 
+     2010;
+       Whereas cooperation between the United States Government 
+     and the governments and people of the ASEAN nations can help 
+     realize our common goals of a free, open, peaceful, and 
+     prosperous Indo-Pacific rooted in a rule-based order that 
+     promotes security, opportunity, and dignity to all peoples;
+       Whereas the member states of ASEAN are all vibrant 
+     economies that have given rise to a flourishing middle class 
+     and collectively are predicted to become the world's fourth-
+     largest economy by 2050;
+       Whereas, in 2019, ASEAN's 10 members represented the sixth 
+     largest economy in the world and constitute the United States 
+     fourth-largest export market, with total United States 
+     exports to ASEAN countries reaching $116,200,000,000;
+       Whereas ASEAN is the number one destination for United 
+     States investment in the Indo-Pacific, with $329,000,000,000 
+     in cumulative foreign direct investment;
+       Whereas ASEAN nations surround critical global sea lanes, 
+     with $5,300,000,000,000 of global trade and more than half of 
+     the world's total shipped tonnage transiting through ASEAN 
+     waters each year;
+       Whereas the ultimate goal of the ASEAN Economic Community 
+     (AEC) is to create one of the world's largest single market 
+     economies and facilitate the free movement of goods, 
+     services, and professionals;
+       Whereas the United States-ASEAN Single Window custom 
+     facilitation system expedites intra-ASEAN trade and enhances 
+     the ability of United States businesses to operate in the 
+     region;
+       Whereas the United States-ASEAN Business Alliance for 
+     Competitive Small and Medium-Sized Enterprises (SMEs) has 
+     trained more than 4,600 small-to-medium size enterprises, 
+     with nearly half of the participants being women 
+     entrepreneurs;
+       Whereas the Lower Mekong Initiative, established on July 
+     23, 2009, promotes sustainable long-term economic development 
+     throughout mainland Southeast Asia and fosters regional 
+     cooperation, integration, and capacity building;
+       Whereas the newly announced Japan-United States Mekong 
+     Power Partnership aims to ``promote a more sustainable energy 
+     sector and quality energy infrastructure development'' and 
+     demonstrates the shared commitment of the United States and 
+     other Indo-Pacific nations to strengthen ties with Mekong 
+     countries;
+       Whereas, in 2018 and 2019, the United States announced 
+     several additional initiatives to enhance cooperation with 
+     ASEAN, including the United States-ASEAN Smart Cities 
+     Partnership, the ASEAN Policy Implementation Project, and the 
+     United States-ASEAN Innovation Circle;
+
+[[Page S8011]]
+
+       Whereas the United States is cooperating with ASEAN member 
+     states and providing emergency health assistance to enhance 
+     their resilience in the face of the COVID-19 pandemic, 
+     including through the recently announced United States-ASEAN 
+     Health Futures program that builds on the over $3,500,000,000 
+     the United States has invested in global health collaboration 
+     with ASEAN nations over the last 20 years;
+       Whereas the United States remains committed to working with 
+     ASEAN to improve the promotion and protection of human rights 
+     and fundamental dignity of the people of ASEAN countries, a 
+     key ingredient to maintaining stability, promoting economic 
+     growth, and advancing good governance;
+       Whereas the United States opposes all actions and claims 
+     that infringe upon the freedom and lawful use of the sea, and 
+     has a national interest in ensuring freedom of navigation and 
+     overflight, open access to the Indo-Pacific region's maritime 
+     commons, and respect for international law in the South China 
+     Sea;
+       Whereas the United States is deeply concerned about recent 
+     assertive and unsafe behavior by the People's Republic of 
+     China in the South China Sea, and urges all claimants with 
+     competing territorial claims to seek peaceful resolution of 
+     disputes through collaborative diplomacy and, as necessary, 
+     international arbitration mechanisms consistent with 
+     international law;
+       Whereas the United States supports the Philippines' 
+     decision to use arbitration under the United Nations 
+     Convention on the Law of the Sea (UNCLOS), done at Montego 
+     Bay December 10, 1982, to peacefully and lawfully address 
+     competing claims;
+       Whereas the United States supports development of a Code of 
+     Conduct (COC) that represents the interests of all parties 
+     and promotes peace and stability in the region, opposes 
+     efforts by any nation to use a COC as a vehicle to limit 
+     presence in or lawful use of the South China Sea, encourages 
+     claimants not to undertake new or unilateral attempts to 
+     change the status quo since the signing of the 2002 
+     Declaration of Conduct, including reclamation activities or 
+     administrative measures or controls in disputed areas in the 
+     South China Sea, and encourages ASEAN countries to adopt a 
+     unified position in negotiating the COC;
+       Whereas the ASEAN-United States Maritime Exercise (AUXM), 
+     which ran from September 2-6, 2019, and featured over 1,000 
+     sailors from all 11 countries, built greater maritime 
+     security on the strength of ASEAN, strengthened navy-to-navy 
+     bonds, and exemplified our shared belief in a free and open 
+     Indo-Pacific; and
+       Whereas natural disasters in the ASEAN region over the past 
+     four decades have resulted in major loss and damage, with a 
+     disproportionate impact on developing countries, and the 
+     United States will pursue initiatives that are consistent 
+     with sustainable long-term economic development, including 
+     the achievement of food security and poverty alleviation; 
+     improvement of conservation and sustainable management of 
+     forests, fish stocks, and oceanic resources; resilience to 
+     extreme weather events that are increasing in frequency and 
+     severity; and provision of sustainable livelihoods for local 
+     communities throughout the ASEAN region: Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) supports and affirms the full implementation of the 
+     Asia Reassurance Initiative Act (Public Law 115-409) with 
+     regard to elevating the United States relationship with 
+     ASEAN;
+       (2) stands with the nations of ASEAN as they respond to 
+     COVID-19 and supports greater cooperation in building 
+     capacity to prepare for and respond to pandemics and other 
+     public health challenges;
+       (3) expresses support for rescheduling the United States-
+     ASEAN Special Summit at an appropriate time, and supports 
+     high-level United States participation in the annual ASEAN 
+     summit held each November;
+       (4) reaffirms the importance of United States-ASEAN 
+     economic engagement, including the elimination of barriers to 
+     cross-border commerce, and supports the ASEAN Economic 
+     Community's (AEC) goals, including strong, inclusive, and 
+     sustainable long-term economic growth and cooperation with 
+     the United States that focuses on innovation and capacity-
+     building efforts in technology, education, disaster 
+     management, food security, human rights, and trade 
+     facilitation, particularly for ASEAN's poorest countries;
+       (5) urges ASEAN to continue its efforts to foster greater 
+     integration and unity within the ASEAN community, as well as 
+     to foster greater integration and unity with non-ASEAN 
+     economic, political, and security partners, including Japan, 
+     the Republic of Korea, Australia, the European Union, Taiwan, 
+     and India;
+       (6) recognizes the value of strategic economic initiatives 
+     like United States-ASEAN Connect, which demonstrates a 
+     commitment to ASEAN and the AEC and builds upon economic 
+     relationships in the region;
+       (7) supports ASEAN nations in addressing maritime and 
+     territorial disputes in a constructive manner and in pursuing 
+     claims through peaceful, diplomatic, and, as necessary, 
+     legitimate regional and international arbitration mechanisms, 
+     consistent with international law, including through the 
+     adoption of a code of conduct in the South China Sea that 
+     represents the interests of all parties and promotes peace 
+     and stability in the region;
+       (8) urges all parties involved in the maritime and 
+     territorial disputes in the Indo-Pacific region, including 
+     the Government of the People's Republic of China--
+       (A) to cease any current activities, and avoid undertaking 
+     any actions in the future, that undermine stability, or 
+     complicate or escalate disputes through the use of coercion, 
+     intimidation, or military force;
+       (B) to demilitarize islands, reefs, shoals, and other 
+     features, and refrain from new efforts to militarize, 
+     including the construction of new garrisons and facilities 
+     and the relocation of additional military personnel, 
+     material, or equipment;
+       (C) to oppose actions by any country that prevent other 
+     countries from exercising their sovereign rights to the 
+     resources in their exclusive economic zones (EEZ) and 
+     continental shelves by enforcing claims to those areas in the 
+     South China Sea that lack support in international law; and
+       (D) to oppose unilateral declarations of administrative and 
+     military districts in contested areas in the South China Sea;
+       (9) urges parties to refrain from unilateral actions that 
+     cause permanent physical damage to the marine environment, 
+     and supports the efforts of the National Oceanic and 
+     Atmospheric Administration and ASEAN to implement guidelines 
+     to address the illegal, unreported, and unregulated fishing 
+     in the region;
+       (10) supports efforts by United States partners and allies 
+     in ASEAN--
+       (A) to enhance maritime capability and maritime domain 
+     awareness;
+       (B) to protect unhindered access to and use of 
+     international waterways in the Indo-Pacific region that are 
+     critical to ensuring the security and free flow of commerce;
+       (C) to counter piracy;
+       (D) to disrupt illicit maritime trafficking activities such 
+     as the trafficking of persons, goods, and drugs; and
+       (E) to enhance the maritime capabilities of countries or 
+     regional organizations to respond to emerging threats to 
+     maritime security in the Indo-Pacific region;
+       (11) urges ASEAN member states to develop a common approach 
+     to reaffirm the decision of the Permanent Court of 
+     Arbitration's 2016 ruling in favor of the Republic of the 
+     Philippines in the case against the People's Republic of 
+     China's excessive maritime claims;
+       (12) reaffirms the commitment of the United States to 
+     continue joint efforts with ASEAN to halt human smuggling and 
+     trafficking in persons, and urges ASEAN to create and 
+     strengthen regional mechanisms to provide assistance and 
+     support to refugees and migrants;
+       (13) supports the Lower Mekong Initiative, which has led to 
+     significant progress in promoting sustainable long-term 
+     economic development in mainland Southeast Asia and fostering 
+     integrated sub-regional cooperation and capacity building;
+       (14) urges ASEAN to build capacity for the promotion and 
+     protection of human rights by ASEAN member states, and the 
+     implementation of related priorities, programs, and 
+     activities;
+       (15) urges ASEAN governments to engage directly with 
+     leaders of civil society and human rights, including 
+     advocates of religious freedom, victims of human rights 
+     abuses, and environmental groups, and to ensure these 
+     stakeholders have a voice in constructing public policy;
+       (16) encourages the President of the United States to 
+     communicate to ASEAN leaders the importance of promoting the 
+     rule of law and open and transparent government, 
+     strengthening civil society, and protecting human rights, 
+     including releasing political prisoners, ceasing politically 
+     motivated prosecutions and arbitrary killings, safeguarding 
+     freedom of the press, freedom of assembly, freedom of 
+     religion, and freedom of speech and expression;
+       (17) supports efforts by organizations in ASEAN that 
+     address corruption in the public and private sectors, enhance 
+     anti-bribery compliance, enforce bribery criminalization in 
+     the private sector, and build beneficial ownership 
+     transparency through the ASEAN-USAID PROSPECT project 
+     partnered with the South East Asia Parties Against Corruption 
+     (SEA-PAC);
+       (18) supports the Young Southeast Asian Leaders Initiative 
+     as an example of a people-to-people partnership that provides 
+     skills, networks, and leadership training to a new generation 
+     who will create and fill jobs, foster cross-border 
+     cooperation and partnerships, and rise to solve the regional 
+     and global challenges of the future; and
+       (19) applauds the ASEAN governments that have fully upheld 
+     and implemented all United Nations Security Council 
+     resolutions and international agreements with respect to 
+     North Korea's nuclear and ballistic missile programs, and 
+     encourages all other ASEAN governments to do the same.
+
+                          ____________________
+```
